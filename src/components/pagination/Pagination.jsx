@@ -37,59 +37,93 @@ export default function Pagination({
   ];
 }
   return (
-    <div className="mt-8 flex items-center justify-center gap-4">
+  <>
+    {/* Mobile */}
+    <div className="mt-8 flex items-center justify-between md:hidden">
       <button
-  onClick={onPrevious}
-  disabled={currentPage === 1}
-  className={`rounded-lg px-4 py-2 transition-colors ${
-    currentPage === 1
-      ? "cursor-not-allowed bg-slate-800 text-slate-500"
-      : "bg-slate-800 hover:bg-slate-700"
-  }`}
->
-  ◀ Previous
-</button>
+        onClick={onPrevious}
+        disabled={currentPage === 1}
+        className={`rounded-lg px-4 py-2 transition-colors ${
+          currentPage === 1
+            ? "cursor-not-allowed bg-slate-800 text-slate-500"
+            : "bg-slate-800 hover:bg-slate-700"
+        }`}
+      >
+        ◀
+      </button>
+
+      <span className="text-sm text-slate-300">
+        Seite <span className="font-semibold">{currentPage}</span> / {totalPages}
+      </span>
+
+      <button
+        onClick={onNext}
+        disabled={currentPage === totalPages}
+        className={`rounded-lg px-4 py-2 transition-colors ${
+          currentPage === totalPages
+            ? "cursor-not-allowed bg-slate-800 text-slate-500"
+            : "bg-slate-800 hover:bg-slate-700"
+        }`}
+      >
+        ▶
+      </button>
+    </div>
+
+    {/* Desktop */}
+    <div className="mt-8 hidden items-center justify-center gap-4 md:flex">
+      <button
+        onClick={onPrevious}
+        disabled={currentPage === 1}
+        className={`rounded-lg px-4 py-2 transition-colors ${
+          currentPage === 1
+            ? "cursor-not-allowed bg-slate-800 text-slate-500"
+            : "bg-slate-800 hover:bg-slate-700"
+        }`}
+      >
+        ◀ Previous
+      </button>
 
       <div className="flex items-center gap-2">
-  {getVisiblePages().map((page, index) => {
-  if (page === "...") {
-    return (
-      <span
-        key={`ellipsis-${index}`}
-        className="flex h-10 w-10 items-center justify-center text-slate-400"
-      >
-        ...
-      </span>
-    );
-  }
+        {getVisiblePages().map((page, index) => {
+          if (page === "...") {
+            return (
+              <span
+                key={`ellipsis-${index}`}
+                className="flex h-10 w-10 items-center justify-center text-slate-400"
+              >
+                ...
+              </span>
+            );
+          }
 
-  return (
-    <button
-      key={page}
-      onClick={() => onPageChange(page)}
-      className={`h-10 w-10 rounded-lg transition-colors ${
-        currentPage === page
-          ? "bg-blue-600 text-white"
-          : "bg-slate-800 hover:bg-slate-700"
-      }`}
-    >
-      {page}
-    </button>
-  );
-})}
-</div>
+          return (
+            <button
+              key={page}
+              onClick={() => onPageChange(page)}
+              className={`h-10 w-10 rounded-lg transition-colors ${
+                currentPage === page
+                  ? "bg-blue-600 text-white"
+                  : "bg-slate-800 hover:bg-slate-700"
+              }`}
+            >
+              {page}
+            </button>
+          );
+        })}
+      </div>
 
       <button
-  onClick={onNext}
-  disabled={currentPage === totalPages}
-  className={`rounded-lg px-4 py-2 transition-colors ${
-    currentPage === totalPages
-      ? "cursor-not-allowed bg-slate-800 text-slate-500"
-      : "bg-slate-800 hover:bg-slate-700"
-  }`}
->
-  Next ▶
-</button>
+        onClick={onNext}
+        disabled={currentPage === totalPages}
+        className={`rounded-lg px-4 py-2 transition-colors ${
+          currentPage === totalPages
+            ? "cursor-not-allowed bg-slate-800 text-slate-500"
+            : "bg-slate-800 hover:bg-slate-700"
+        }`}
+      >
+        Next ▶
+      </button>
     </div>
+    </>
   );
 }

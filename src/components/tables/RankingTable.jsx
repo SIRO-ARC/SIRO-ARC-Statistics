@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import RankingMobileCard from "../cards/RankingMobileCard";
 export default function RankingTable({
   data,
   selectedWeek,
@@ -11,8 +12,23 @@ export default function RankingTable({
   
 
   return (
+    <>
+  {/* Mobile */}
+  <div className="mt-8 space-y-4 lg:hidden">
+    {data.map((item) => (
+      <RankingMobileCard
+        key={item.rank}
+        item={item}
+        view={view}
+        selectedWeek={selectedWeek}
+      />
+    ))}
+  </div>
 
-    <div className="mt-12 overflow-hidden rounded-2xl border border-slate-800">
+  {/* Desktop */}
+<div className="hidden lg:block">
+
+<div className="mt-12 overflow-hidden rounded-2xl border border-slate-800">
 
       <table className="w-full">
 
@@ -101,7 +117,9 @@ export default function RankingTable({
 
       </table>
 
-    </div>
+        </div>
+  </div>
+</>
 
   );
 

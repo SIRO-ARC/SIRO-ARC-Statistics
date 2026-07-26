@@ -65,16 +65,14 @@ useEffect(() => {
 // Spieler der ausgewählten Woche laden
 useEffect(() => {
   if (!selectedWeek) return;
+
   setCurrentPage(1);
 
-
-
   getRankings(view, selectedWeek)
-  .then((data) => {
-  setRankings(data);
-})
-  .catch(console.error);
-
+    .then((data) => {
+      setRankings(data);
+    })
+    .catch(console.error);
 
 }, [selectedWeek, view]);
 const filteredRankings = rankings.filter((item) => {
@@ -130,7 +128,7 @@ function handlePageChange(page) {
   setCurrentPage(page);
 }
   return (
-    <div className="mx-auto max-w-7xl px-8 py-16">
+    <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 lg:py-16">
 
       <h1 className="text-5xl font-bold">
         Global Rankings
@@ -142,7 +140,7 @@ function handlePageChange(page) {
 
       <div className="mt-10">
 
-  <div className="flex gap-3">
+  <div className="flex flex-col gap-3 sm:flex-row">
 
     <button
       onClick={() => setView("players")}
@@ -168,7 +166,7 @@ function handlePageChange(page) {
 
   </div>
 
-  <div className="mt-4 flex gap-4">
+  <div className="mt-4 flex flex-col gap-4 lg:flex-row">
 
   <input
     type="text"
@@ -181,7 +179,7 @@ function handlePageChange(page) {
   <select
     value={selectedWeek}
     onChange={(e) => setSelectedWeek(e.target.value)}
-    className="w-96 rounded-xl border border-slate-700 bg-slate-900 px-4 py-3 outline-none transition focus:border-blue-500"
+    className="w-full lg:w-96 rounded-xl border border-slate-700 bg-slate-900 px-4 py-3 outline-none transition focus:border-blue-500"
   >
     {weeks.map((week) => (
       <option key={week} value={week}>

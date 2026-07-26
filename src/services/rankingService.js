@@ -1,14 +1,38 @@
 import { API_URL } from "../config/api";
 
+const weeksCache = {
+  data: null,
+};
+
+const rankingsCache = {};
+
 export async function getWeeks() {
+  if (weeksCache.data) {
+    return weeksCache.data;
+  }
+
   const response = await fetch(`${API_URL}?type=weeks`);
-  return response.json();
+  const data = await response.json();
+
+  weeksCache.data = data;
+
+  return data;
 }
 
 export async function getRankings(type, week) {
+  const cacheKey = `${type}-${week}`;
+
+  if (rankingsCache[cacheKey]) {
+    return rankingsCache[cacheKey];
+  }
+
   const response = await fetch(
     `${API_URL}?type=${type}&week=${encodeURIComponent(week)}`
   );
 
-  return response.json();
+  const data = await response.json();
+
+  rankingsCache[cacheKey] = data;
+
+  return data;
 }
