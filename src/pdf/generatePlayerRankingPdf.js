@@ -149,7 +149,7 @@ watermark: {
         table: {
           headerRows: 1,
 
-          widths: [50, "*", 80, 120],
+          widths: [50, "*", 60, 60, 120],
 
           body: [
             [
@@ -175,6 +175,13 @@ watermark: {
     alignment: "center",
     margin: [0, 9, 0, 9],
   },
+  {
+  text: "Server",
+  bold: true,
+  color: "#ffffff",
+  alignment: "center",
+  margin: [0, 9, 0, 9],
+},
   {
     text: "Power",
     bold: true,
@@ -225,6 +232,14 @@ watermark: {
 },
   {
   text: player.tag,
+  alignment: "center",
+  bold: player.rank <= 3,
+  fontSize: player.rank <= 3 ? 12 : 11,
+  color: textColor,
+  fillColor: rowColor,
+},
+{
+  text: player.server,
   alignment: "center",
   bold: player.rank <= 3,
   fontSize: player.rank <= 3 ? 12 : 11,
