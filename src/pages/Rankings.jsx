@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import RankingTable from "../components/tables/RankingTable";
 import { getWeeks, getRankings } from "../services/rankingService";
 import { useSearchParams } from "react-router-dom";
+import { generatePlayerRankingPdf } from "../pdf/generatePlayerRankingPdf";
 export default function Rankings() {
   const [rankings, setRankings] = useState([]);
   const [search, setSearch] = useState("");
@@ -127,6 +128,7 @@ function handleNextPage() {
 function handlePageChange(page) {
   setCurrentPage(page);
 }
+console.log(selectedWeek);
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 lg:py-16">
 
@@ -187,6 +189,14 @@ function handlePageChange(page) {
       </option>
     ))}
   </select>
+  <button
+  onClick={() =>
+  generatePlayerRankingPdf(filteredRankings, selectedWeek, view)
+}
+  className="rounded-xl bg-blue-600 px-5 py-3 font-semibold text-white transition hover:bg-blue-500"
+>
+  📄 Download PDF
+</button>
 
 </div>
 
