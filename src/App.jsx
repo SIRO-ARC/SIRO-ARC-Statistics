@@ -1,4 +1,5 @@
 import Archive from "./pages/Archive";
+import Top10 from "./pages/Top10";
 import { Routes, Route, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 
@@ -57,6 +58,7 @@ useEffect(() => {
 >
   <Routes>
   <Route path="/" element={<Home />} />
+  <Route path="/top10" element={<Top10 />} />
   <Route path="/rankings" element={<Rankings />} />
   <Route path="/mgm" element={<MGM />} />
   <Route path="/mgm-statistics" element={<MgmStatistics />} />

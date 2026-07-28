@@ -16,6 +16,7 @@ export default function Navbar({
   const location = useLocation();
 
   const navItems = [
+  { label: "Top 10", to: "/top10" },
   { label: "Rankings", to: "/rankings" },
   { label: "MGM", to: "/mgm" },
   { label: "MGM-Statistics", to: "/mgm-statistics" },
@@ -24,6 +25,7 @@ export default function Navbar({
 ];
 
   const navIcons = {
+    "/top10": Trophy,
     "/rankings": Trophy,
     "/mgm": Swords,
     "/mgm-statistics": BarChart3,

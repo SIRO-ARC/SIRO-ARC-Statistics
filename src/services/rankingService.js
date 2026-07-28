@@ -5,13 +5,38 @@ const weeksCache = {
 };
 
 const rankingsCache = {};
+async function fetchWithRetry(url, retries = 3, delay = 500) {
+  let lastError;
+
+  for (let attempt = 0; attempt < retries; attempt++) {
+    try {
+      const response = await fetch(url, {
+        cache: "no-store",
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      return response;
+    } catch (err) {
+      lastError = err;
+
+      if (attempt < retries - 1) {
+        await new Promise((resolve) => setTimeout(resolve, delay));
+      }
+    }
+  }
+
+  throw lastError;
+}
 
 export async function getWeeks() {
   if (weeksCache.data) {
     return weeksCache.data;
   }
 
-  const response = await fetch(`${API_URL}?type=weeks`);
+  const response = await fetchWithRetry(`${API_URL}?type=weeks`);
   const data = await response.json();
 
   weeksCache.data = data;
@@ -26,9 +51,9 @@ export async function getRankings(type, week) {
     return rankingsCache[cacheKey];
   }
 
-  const response = await fetch(
-    `${API_URL}?type=${type}&week=${encodeURIComponent(week)}`
-  );
+  const response = await fetchWithRetry(
+  `${API_URL}?type=${type}&week=${encodeURIComponent(week)}`
+);
 
   const data = await response.json();
 
@@ -37,15 +62,8 @@ export async function getRankings(type, week) {
   return data;
 }
 export async function getStats() {
-
-  const response = await fetch(`${API_URL}?type=stats`);
-
-  if (!response.ok) {
-    throw new Error("Failed to load stats");
-  }
-
+  const response = await fetchWithRetry(`${API_URL}?type=stats`);
   return response.json();
-
 }
 export async function getMgm(dataset = "post") {
   const cacheKey = `mgm-${dataset}`;
@@ -54,9 +72,9 @@ export async function getMgm(dataset = "post") {
     return rankingsCache[cacheKey];
   }
 
-  const response = await fetch(
-    `${API_URL}?type=mgm&dataset=${dataset}`
-  );
+  const response = await fetchWithRetry(
+  `${API_URL}?type=mgm&dataset=${dataset}`
+);
 
   const data = await response.json();
 
