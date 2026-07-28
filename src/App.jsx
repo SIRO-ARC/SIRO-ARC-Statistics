@@ -1,6 +1,6 @@
 import Archive from "./pages/Archive";
-import { Routes, Route } from "react-router-dom";
-import { useState } from "react";
+import { Routes, Route, useNavigate } from "react-router-dom";
+import { useEffect, useState } from "react";
 
 import Navbar from "./components/layout/Navbar";
 import Hero from "./components/home/Hero";
@@ -24,6 +24,16 @@ function Home() {
 }
 
 export default function App() {
+  const navigate = useNavigate();
+
+useEffect(() => {
+  const redirect = sessionStorage.getItem("redirect");
+
+  if (redirect) {
+    sessionStorage.removeItem("redirect");
+    navigate(redirect, { replace: true });
+  }
+}, [navigate]);
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <main className="min-h-screen bg-[#0B1220] text-white">
