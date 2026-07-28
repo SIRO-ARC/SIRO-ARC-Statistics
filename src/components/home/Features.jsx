@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 import FeatureCard from "./FeatureCard";
-import { getWeeks, getRankings } from "../../services/rankingService";
+import { getStats } from "../../services/rankingService";
 
 export default function Features() {
   const [latestWeek, setLatestWeek] = useState("");
@@ -12,32 +12,28 @@ export default function Features() {
 const currentWeek =
   latestWeek.match(/CW\d+/)?.[0] || latestWeek;
   useEffect(() => {
+
   async function loadStats() {
+
     try {
-      const weekData = await getWeeks();
 
-      setLatestWeek(weekData.currentWeek);
+      const stats = await getStats();
 
-      const [players, alliances] = await Promise.all([
-  getRankings("players", weekData.currentWeek),
-  getRankings("alliances", weekData.currentWeek),
-]);
-
-      setPlayerCount(players.length);
-      setAllianceCount(alliances.length);
-
-      const uniqueServers = new Set(
-        players.map((player) => player.server)
-      );
-
-      setServerCount(uniqueServers.size);
+      setLatestWeek(stats.currentWeek);
+      setPlayerCount(stats.players);
+      setAllianceCount(stats.alliances);
+      setServerCount(stats.servers);
 
     } catch (error) {
+
       console.error(error);
+
     }
+
   }
 
   loadStats();
+
 }, []);
   return (
     <section className="mx-auto grid max-w-7xl grid-cols-2 gap-3 px-4 pt-2 pb-10 sm:px-6 md:grid-cols-2 md:gap-5 lg:grid-cols-4 lg:gap-6 lg:px-8 lg:pt-0 lg:pb-8">

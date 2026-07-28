@@ -10,6 +10,8 @@ import Rankings from "./pages/Rankings";
 import PlayerProfile from "./pages/PlayerProfile";
 import AllianceProfile from "./pages/AllianceProfile";
 import PoweredBy from "./components/home/PoweredBy";
+import MGM from "./pages/MGM";
+import MgmStatistics from "./pages/MgmStatistics";
 
 function Home() {
   return (
@@ -46,6 +48,8 @@ export default function App() {
   <Routes>
   <Route path="/" element={<Home />} />
   <Route path="/rankings" element={<Rankings />} />
+  <Route path="/mgm" element={<MGM />} />
+  <Route path="/mgm-statistics" element={<MgmStatistics />} />
   <Route path="/archive" element={<Archive />} />
   <Route path="/player/:week/:name" element={<PlayerProfile />} />
   <Route path="/alliance/:week/:name" element={<AllianceProfile />}

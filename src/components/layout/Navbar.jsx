@@ -6,6 +6,7 @@ import {
   BarChart3,
   Info,
   ChevronRight,
+  Swords,
 } from "lucide-react";
 
 export default function Navbar({
@@ -15,16 +16,18 @@ export default function Navbar({
   const location = useLocation();
 
   const navItems = [
-    { label: "Rankings", to: "/rankings" },
-    { label: "Archive", to: "/archive" },
-    { label: "Statistics", to: "/statistics" },
-    { label: "About", to: "/about" },
-  ];
+  { label: "Rankings", to: "/rankings" },
+  { label: "MGM", to: "/mgm" },
+  { label: "MGM-Statistics", to: "/mgm-statistics" },
+  { label: "Archive", to: "/archive" },
+  { label: "About", to: "/about" },
+];
 
   const navIcons = {
     "/rankings": Trophy,
+    "/mgm": Swords,
+    "/mgm-statistics": BarChart3,
     "/archive": Archive,
-    "/statistics": BarChart3,
     "/about": Info,
   };
 

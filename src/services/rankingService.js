@@ -36,3 +36,31 @@ export async function getRankings(type, week) {
 
   return data;
 }
+export async function getStats() {
+
+  const response = await fetch(`${API_URL}?type=stats`);
+
+  if (!response.ok) {
+    throw new Error("Failed to load stats");
+  }
+
+  return response.json();
+
+}
+export async function getMgm(dataset = "post") {
+  const cacheKey = `mgm-${dataset}`;
+
+  if (rankingsCache[cacheKey]) {
+    return rankingsCache[cacheKey];
+  }
+
+  const response = await fetch(
+    `${API_URL}?type=mgm&dataset=${dataset}`
+  );
+
+  const data = await response.json();
+
+  rankingsCache[cacheKey] = data;
+
+  return data;
+}
