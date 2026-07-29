@@ -1,3 +1,4 @@
+import PowerGrowthHistory from "./pages/PowerGrowthHistory";
 import Archive from "./pages/Archive";
 import Top10 from "./pages/Top10";
 import { Routes, Route, useNavigate } from "react-router-dom";
@@ -60,6 +61,10 @@ useEffect(() => {
   <Route path="/" element={<Home />} />
   <Route path="/top10" element={<Top10 />} />
   <Route path="/rankings" element={<Rankings />} />
+  <Route
+  path="/power-growth-history"
+  element={<PowerGrowthHistory />}
+/>
   <Route path="/mgm" element={<MGM />} />
   <Route path="/mgm-statistics" element={<MgmStatistics />} />
   <Route path="/archive" element={<Archive />} />

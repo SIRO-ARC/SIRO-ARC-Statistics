@@ -82,3 +82,75 @@ export async function getMgm(dataset = "post") {
 
   return data;
 }
+export async function getServers() {
+  const cacheKey = "servers";
+
+  if (rankingsCache[cacheKey]) {
+    return rankingsCache[cacheKey];
+  }
+
+  const response = await fetchWithRetry(
+    `${API_URL}?type=players`
+  );
+
+  const data = await response.json();
+
+
+  const servers = [...new Set(data.map((item) => item.server))]
+    .sort((a, b) => a - b);
+
+
+  rankingsCache[cacheKey] = servers;
+
+  return servers;
+}
+export async function getGrowthHistory({
+  historyType,
+  server,
+  search,
+  players = [],
+}) {
+
+  let url =
+  `${API_URL}?type=growthHistory` +
+  `&historyType=${encodeURIComponent(historyType)}`;
+
+if (players.length === 0 && server) {
+  url += `&server=${encodeURIComponent(server)}`;
+}
+
+  if (players.length > 0) {
+
+    url +=
+      `&players=${encodeURIComponent(
+        players.join("|")
+      )}`;
+
+  } else {
+
+    url +=
+      `&player=${encodeURIComponent(search)}`;
+
+  }
+
+  const response = await fetchWithRetry(url);
+
+  return response.json();
+}
+export async function getPlayersByServer(server) {
+  const cacheKey = `players-${server}`;
+
+  if (rankingsCache[cacheKey]) {
+    return rankingsCache[cacheKey];
+  }
+
+  const response = await fetchWithRetry(
+    `${API_URL}?type=playersByServer&server=${encodeURIComponent(server)}`
+  );
+
+  const data = await response.json();
+
+  rankingsCache[cacheKey] = data;
+
+  return data;
+}

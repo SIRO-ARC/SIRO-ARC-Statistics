@@ -7,6 +7,7 @@ export default function RankingTable({
   sortField,
   sortDirection,
   onSort,
+  mode = "ranking",
 }) {
 
   
@@ -17,11 +18,12 @@ export default function RankingTable({
   <div className="mt-8 space-y-4 lg:hidden">
     {data.map((item) => (
       <RankingMobileCard
-        key={item.rank}
-        item={item}
-        view={view}
-        selectedWeek={selectedWeek}
-      />
+  key={item.rank}
+  item={item}
+  view={view}
+  selectedWeek={selectedWeek}
+  mode={mode}
+/>
     ))}
   </div>
 
@@ -40,7 +42,10 @@ export default function RankingTable({
   className="cursor-pointer p-4 text-left select-none"
   onClick={() => onSort("rank")}
 >
-  Rank {sortField === "rank" && (sortDirection === "asc" ? "▲" : "▼")}
+  {mode === "history" ? "Week" : "Rank"}{" "}
+  {mode !== "history" &&
+    sortField === "rank" &&
+    (sortDirection === "asc" ? "▲" : "▼")}
 </th>
   <th
   className="cursor-pointer p-4 text-left select-none"
@@ -52,14 +57,22 @@ export default function RankingTable({
   className="cursor-pointer p-4 text-left select-none"
   onClick={() => onSort("name")}
 >
-  {view === "players" ? "Player" : "Alliance"}{" "}
+  {mode === "history"
+  ? "Player"
+  : view === "players"
+  ? "Player"
+  : "Alliance"}{" "}
   {sortField === "name" && (sortDirection === "asc" ? "▲" : "▼")}
 </th>
   <th
   className="cursor-pointer p-4 text-left select-none"
   onClick={() => onSort("tag")}
 >
-  {view === "players" ? "Alliance" : "Tag"}{" "}
+  {mode === "history"
+  ? "Rank"
+  : view === "players"
+  ? "Alliance"
+  : "Tag"}{" "}
   {sortField === "tag" && (sortDirection === "asc" ? "▲" : "▼")}
 </th>
   <th
@@ -83,26 +96,44 @@ export default function RankingTable({
             >
 
               <td className="p-4 font-bold">
-                #{item.rank}
-              </td>
+  {mode === "history"
+    ? item.week
+    : `#${item.rank}`}
+</td>
 
               <td className="p-4">
                 {item.server}
               </td>
 
               <td className="p-4">
-  <Link
-  to={`/${
-    view === "players" ? "player" : "alliance"
-  }/${encodeURIComponent(selectedWeek)}/${encodeURIComponent(item.name)}`}
-  className="text-sky-400 hover:text-sky-300 hover:underline transition"
->
-  {item.name}
-</Link>
+
+  {mode === "history" ? (
+
+    item.displayName
+
+  ) : (
+
+    <Link
+      to={`/${
+        view === "players"
+          ? "player"
+          : "alliance"
+      }/${encodeURIComponent(selectedWeek)}/${encodeURIComponent(item.name)}`}
+      className="text-sky-400 hover:text-sky-300 hover:underline transition"
+    >
+      {item.name}
+    </Link>
+
+  )}
+
 </td>
 
               <td className="p-4">
-  {item.tag ?? "-"}
+
+  {mode === "history"
+    ? `#${item.rank}`
+    : item.tag ?? "-"}
+
 </td>
 
               <td className="p-4 text-right">

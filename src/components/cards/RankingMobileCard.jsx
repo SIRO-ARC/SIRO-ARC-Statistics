@@ -4,6 +4,7 @@ export default function RankingMobileCard({
   item,
   view,
   selectedWeek,
+  mode = "ranking",
 }) {
   return (
     <div className="rounded-2xl border border-slate-800 bg-slate-900 p-4">
@@ -11,8 +12,10 @@ export default function RankingMobileCard({
 
         <div>
           <div className="text-lg font-bold">
-            #{item.rank}
-          </div>
+  {mode === "history"
+  ? item.week
+  : `#${item.rank}`}
+</div>
 
           <div className="mt-1 text-sm text-slate-400">
             🌍 Server {item.server}
@@ -31,22 +34,32 @@ export default function RankingMobileCard({
 
       </div>
 
-      <Link
-        to={`/${
-          view === "players"
-            ? "player"
-            : "alliance"
-        }/${encodeURIComponent(
-          selectedWeek
-        )}/${encodeURIComponent(item.name)}`}
-        className="mt-4 block text-lg font-semibold text-sky-400 hover:text-sky-300"
-      >
-        {item.name}
-      </Link>
+      {mode === "history" ? (
+
+  <div className="mt-4 text-lg font-semibold text-white">
+    {item.displayName}
+  </div>
+
+) : (
+
+  <Link
+    to={`/${
+      view === "players"
+        ? "player"
+        : "alliance"
+    }/${encodeURIComponent(selectedWeek)}/${encodeURIComponent(item.name)}`}
+    className="mt-4 block text-lg font-semibold text-sky-400 hover:text-sky-300"
+  >
+    {item.name}
+  </Link>
+
+)}
 
       <div className="mt-1 text-slate-400">
-        {item.tag ?? "-"}
-      </div>
+  {mode === "history"
+    ? `Rank #${item.rank}`
+    : item.tag ?? "-"}
+</div>
     </div>
   );
 }
