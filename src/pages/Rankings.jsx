@@ -200,6 +200,21 @@ function handlePageChange(page) {
 
 </div>
 
+{selectedWeek === "Global Player/Alliance Ranking CW31" && (
+  <div className="mt-4 rounded-xl border border-blue-500/30 bg-blue-500/10 px-4 py-3 text-sm text-blue-200">
+    📊 <strong>Data source:</strong> Rankings for <strong>CW31</strong> were provided by{" "}
+    <a
+      href="https://dengsden.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="font-semibold underline hover:text-blue-100"
+    >
+      Deng's Den
+    </a>
+    . Thank you for making this data available.
+  </div>
+)}
+
   <p className="mt-3 text-sm text-slate-400">
   {search.trim() ? (
     <>
