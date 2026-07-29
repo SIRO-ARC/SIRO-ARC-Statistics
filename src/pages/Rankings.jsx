@@ -211,7 +211,7 @@ function handlePageChange(page) {
     >
       Deng's Den
     </a>
-    . Thank you for making this data available.
+    .
   </div>
 )}
 
