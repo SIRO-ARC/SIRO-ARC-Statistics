@@ -12,18 +12,12 @@ import Rankings from "./pages/Rankings";
 import PlayerProfile from "./pages/PlayerProfile";
 import AllianceProfile from "./pages/AllianceProfile";
 import PoweredBy from "./components/home/PoweredBy";
+import AvatarRealmsCollide from "./pages/AvatarRealmsCollide";
 import MGM from "./pages/MGM";
 import MgmStatistics from "./pages/MgmStatistics";
 
-function Home() {
-  return (
-    <>
-      <Hero />
-      <Features />
-      <PoweredBy />
-    </>
-  );
-}
+import Home from "./pages/Home";
+import Info from "./pages/Info";
 
 export default function App() {
   const navigate = useNavigate();
@@ -59,6 +53,10 @@ useEffect(() => {
 >
   <Routes>
   <Route path="/" element={<Home />} />
+<Route
+  path="/avatar-realms-collide"
+  element={<AvatarRealmsCollide />}
+/>
   <Route path="/top10" element={<Top10 />} />
   <Route path="/rankings" element={<Rankings />} />
   <Route
@@ -68,6 +66,7 @@ useEffect(() => {
   <Route path="/mgm" element={<MGM />} />
   <Route path="/mgm-statistics" element={<MgmStatistics />} />
   <Route path="/archive" element={<Archive />} />
+  <Route path="/info" element={<Info />} />
   <Route path="/player/:week/:name" element={<PlayerProfile />} />
   <Route path="/alliance/:week/:name" element={<AllianceProfile />}
 />

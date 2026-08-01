@@ -5,6 +5,7 @@ import {
   Archive,
   BarChart3,
   Info,
+  Globe,
   ChevronRight,
   Swords,
   LineChart,
@@ -16,24 +17,34 @@ export default function Navbar({
 }) {
   const location = useLocation();
 
-  const navItems = [
-  { label: "Top 10", to: "/top10" },
-  { label: "Rankings", to: "/rankings" },
-  { label: "Power Growth", to: "/power-growth-history" },
-  { label: "MGM", to: "/mgm" },
-  { label: "MGM-Statistics", to: "/mgm-statistics" },
-  { label: "Archive", to: "/archive" },
-  { label: "About", to: "/about" },
-];
+const isPlatformHome = location.pathname === "/";
+
+  const navItems = isPlatformHome
+  ? [
+      {
+        label: "Avatar: Realms Collide",
+        to: "/avatar-realms-collide",
+      },
+    ]
+  : [
+      { label: "Top10", to: "/top10" },
+      { label: "Rankings", to: "/rankings" },
+      { label: "Power Growth", to: "/power-growth-history" },
+      { label: "MGM", to: "/mgm" },
+      { label: "MGM Stats", to: "/mgm-statistics" },
+      { label: "Archive", to: "/archive" },
+      { label: "Info", to: "/info" },
+    ];
 
   const navIcons = {
+    "/avatar-realms-collide": Globe,
     "/top10": Trophy,
     "/rankings": Trophy,
     "/power-growth-history": LineChart,
     "/mgm": Swords,
     "/mgm-statistics": BarChart3,
     "/archive": Archive,
-    "/about": Info,
+    "/info": Info,
   };
 
   return (
@@ -41,22 +52,32 @@ export default function Navbar({
     <div className="mx-auto flex max-w-7xl items-start px-4 pt-3 sm:px-6 lg:px-8">
 
       {/* Logo */}
-      <Link
-        to="/"
-        className="relative z-20 flex-shrink-0 transition-transform duration-200 hover:scale-105"
-      >
-        <img
-          src={logo}
-          alt="SIRO ARC"
-          className="h-20 w-20 rounded-full object-cover shadow-xl md:h-30 md:w-30"
-        />
-      </Link>
+      <div className="relative z-20 flex-shrink-0">
+  <div className="relative z-20 flex-shrink-0">
+  <Link
+    to="/"
+    className="transition-transform duration-200 hover:scale-105"
+  >
+    <img
+      src={logo}
+      alt="SIRO Statistics"
+      className="h-20 w-20 rounded-full object-cover shadow-xl md:h-30 md:w-30"
+    />
+  </Link>
 
+  {!isPlatformHome && (
+  <p className="mt-2 hidden text-center text-xs font-medium text-sky-400 md:block md:text-sm">
+    Avatar: Realms Collide
+  </p>
+)}
+</div>
+
+</div>
       {/* Right Side */}
       <div className="ml-4 md:ml-6 flex flex-1 flex-col">
 
         {/* Desktop Navigation */}
-        <div className="hidden md:flex justify-end gap-8 pt-3">
+        <div className="hidden md:flex justify-end gap-4 pt-3">
           {navItems.map((item) => {
             const active = location.pathname === item.to;
 
@@ -66,19 +87,30 @@ export default function Navbar({
                 className="relative"
               >
                 <Link
-                  to={item.to}
-                  className={`font-medium transition-all duration-200 ${
-                    active
-                      ? "text-sky-400"
-                      : "text-gray-300 hover:text-white"
-                  }`}
-                >
-                  {item.label}
-                </Link>
+  to={item.to}
+  className={`group inline-flex items-center gap-2 rounded-full border px-3.5 py-1.5 text-sm font-medium transition-all duration-300 ${
+    isPlatformHome
+      ? "border-sky-400/30 bg-sky-500/5 text-sky-400 hover:border-sky-400 hover:bg-sky-500/10 hover:shadow-[0_0_18px_rgba(56,189,248,0.25)]"
+      : active
+  ? "border-sky-400 bg-sky-500/10 text-sky-400 shadow-[0_0_18px_rgba(56,189,248,0.22)]"
+        : "border-slate-500 text-gray-300 hover:border-sky-300 hover:text-white"
+  }`}
+>
+  {isPlatformHome ? (
+    <>
+      <span>🌍</span>
+      <span>Open {item.label}</span>
 
-                {active && (
-                  <div className="absolute -bottom-2 left-0 right-0 h-0.5 rounded-full bg-sky-400" />
-                )}
+      <span className="transition-transform duration-300 group-hover:translate-x-1">
+        →
+      </span>
+    </>
+  ) : (
+    item.label
+  )}
+</Link>
+
+
               </div>
             );
           })}
