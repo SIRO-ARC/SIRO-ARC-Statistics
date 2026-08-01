@@ -5,6 +5,7 @@ import { getMgm } from "../services/rankingService";
 export default function MGM() {
   const [dataset, setDataset] = useState("post");
   const [mgmData, setMgmData] = useState([]);
+const [isLoading, setIsLoading] = useState(true);
 
   const [selectedEvent, setSelectedEvent] = useState("");
   const [selectedTime, setSelectedTime] = useState("");
@@ -13,19 +14,27 @@ export default function MGM() {
 
   useEffect(() => {
   async function loadData() {
-    const data = await getMgm(dataset);
-    
+  setIsLoading(true);
 
-    setMgmData(data);
+setMgmData([]);
+setSelectedEvent("");
+setSelectedTime("");
+setSelectedWarzone("");
 
-    const uniqueEvents = [...new Set(data.map(item => item.date))].sort();
+const data = await getMgm(dataset);
 
-    if (uniqueEvents.length > 0) {
-      setSelectedEvent(uniqueEvents[uniqueEvents.length - 1]);
-    }
+  setMgmData(data);
+
+  const uniqueEvents = [...new Set(data.map(item => item.date))].sort();
+
+  if (uniqueEvents.length > 0) {
+    setSelectedEvent(uniqueEvents[uniqueEvents.length - 1]);
   }
 
-  loadData();
+  setIsLoading(false);
+}
+
+loadData();
 }, [dataset]);
   useEffect(() => {
   setSelectedEvent("");
@@ -185,7 +194,8 @@ const visibleMatches = useMemo(() => {
             </label>
 
             <select
-              value={dataset}
+  disabled={isLoading}
+  value={dataset}
               onChange={(e) => setDataset(e.target.value)}
               className="w-full rounded-lg border border-gray-700 bg-gray-800 p-3 text-white"
             >
@@ -202,14 +212,17 @@ const visibleMatches = useMemo(() => {
             </label>
 
             <select
-              value={selectedEvent}
+  disabled={isLoading}
+  value={selectedEvent}
               onChange={(e) => {
   setSelectedEvent(e.target.value);
   setSearch("");
 }}
               className="w-full rounded-lg border border-gray-700 bg-gray-800 p-3 text-white"
             >
-              <option value="">All Events</option>
+              <option value="">
+  {isLoading ? "Loading data..." : "All Events"}
+</option>
 
               {events.map(event => (
                 <option key={event} value={event}>
@@ -228,11 +241,14 @@ const visibleMatches = useMemo(() => {
             </label>
 
             <select
-              value={selectedTime}
+  disabled={isLoading}
+  value={selectedTime}
               onChange={(e) => setSelectedTime(e.target.value)}
               className="w-full rounded-lg border border-gray-700 bg-gray-800 p-3 text-white"
             >
-              <option value="">All Time Slots</option>
+              <option value="">
+  {isLoading ? "Loading data..." : "All Time Slots"}
+</option>
 
               {timeSlots.map(time => (
                 <option key={time} value={time}>
@@ -250,11 +266,14 @@ const visibleMatches = useMemo(() => {
             </label>
 
             <select
-              value={selectedWarzone}
+  disabled={isLoading}
+  value={selectedWarzone}
               onChange={(e) => setSelectedWarzone(e.target.value)}
               className="w-full rounded-lg border border-gray-700 bg-gray-800 p-3 text-white"
             >
-              <option value="">All Warzones</option>
+              <option value="">
+  {isLoading ? "Loading data..." : "All Warzones"}
+</option>
 
               {warzones.map(zone => (
                 <option key={zone} value={zone}>

@@ -16,22 +16,40 @@ export default function WinnerCard({ winner }) {
         </div>
       </div>
 
-      <div className="grid grid-cols-3 gap-4">
+      <div
+  className={
+    winner.division
+      ? "grid grid-cols-2 gap-4"
+      : "grid grid-cols-3 gap-4"
+  }
+>
 
         <div>
-          <p className="text-xs uppercase tracking-wide text-gray-400">
-            Server
-          </p>
+  <p className="text-xs uppercase tracking-wide text-gray-400">
+    Server
+  </p>
 
-          <p className="mt-1 text-lg font-semibold text-white">
-            {winner.server}
-          </p>
-        </div>
+  <p className="mt-1 text-lg font-semibold text-white">
+    {winner.server}
+  </p>
+</div>
 
-        <div>
-          <p className="text-xs uppercase tracking-wide text-gray-400">
-            Captured
-          </p>
+{winner.division && (
+  <div>
+    <p className="text-xs uppercase tracking-wide text-gray-400">
+      Division
+    </p>
+
+    <p className="mt-1 text-lg font-semibold text-white">
+      {winner.division}
+    </p>
+  </div>
+)}
+
+<div>
+  <p className="text-xs uppercase tracking-wide text-gray-400">
+    Captured
+  </p>
 
           <p className="mt-1 text-lg font-semibold text-white">
             {winner.captured}

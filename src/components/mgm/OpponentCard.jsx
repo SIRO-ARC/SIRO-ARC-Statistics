@@ -6,29 +6,47 @@ export default function OpponentCard({ opponent }) {
         {opponent.alliance}
       </h4>
 
-      <div className="space-y-2 text-sm">
+      <div
+  className={
+    opponent.division
+      ? "grid grid-cols-2 gap-4 text-sm"
+      : "grid grid-cols-3 gap-4 text-sm"
+  }
+>
 
-        <div className="flex justify-between">
-          <span className="text-gray-400">
-            Server
-          </span>
+        <div className="flex flex-col">
+  <span className="text-gray-400">
+    Server
+  </span>
 
-          <span className="font-medium text-white">
-            {opponent.server}
-          </span>
-        </div>
+  <span className="font-medium text-white">
+    {opponent.server}
+  </span>
+</div>
 
-        <div className="flex justify-between">
-          <span className="text-gray-400">
-            Captured
-          </span>
+{opponent.division && (
+  <div className="flex flex-col">
+    <span className="text-gray-400">
+      Division
+    </span>
 
-          <span className="font-medium text-white">
-            {opponent.captured}
-          </span>
-        </div>
+    <span className="font-medium text-white">
+      {opponent.division}
+    </span>
+  </div>
+)}
 
-        <div className="flex justify-between">
+<div className="flex flex-col">
+  <span className="text-gray-400">
+    Captured
+  </span>
+
+  <span className="font-medium text-white">
+    {opponent.captured}
+  </span>
+</div>
+
+        <div className="flex flex-col">
           <span className="text-gray-400">
             Participants
           </span>

@@ -48,12 +48,12 @@ export default function Navbar({
         <img
           src={logo}
           alt="SIRO ARC"
-          className="h-30 w-30 rounded-full object-cover shadow-xl"
+          className="h-20 w-20 rounded-full object-cover shadow-xl md:h-30 md:w-30"
         />
       </Link>
 
       {/* Right Side */}
-      <div className="ml-6 flex flex-1 flex-col">
+      <div className="ml-4 md:ml-6 flex flex-1 flex-col">
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex justify-end gap-8 pt-3">
@@ -97,7 +97,7 @@ export default function Navbar({
         {menuOpen ? "✕" : "☰"}
       </button>
     </div>
-    <div className="mt-2 mx-4 ml-24 h-px rounded-full bg-gradient-to-r from-sky-500/20 via-sky-400 to-sky-500/20 shadow-[0_0_10px_rgba(56,189,248,0.45)] md:hidden sm:mx-6" />
+    <div className="-mt-2 mx-4 ml-20 h-px rounded-full bg-gradient-to-r from-sky-500/20 via-sky-400 to-sky-500/20 shadow-[0_0_10px_rgba(56,189,248,0.45)] md:hidden sm:mx-6" />
     <div className="h-3 md:hidden" />
 
     {/* Mobile Menu */}
