@@ -1,0 +1,677 @@
+[
+  {
+    "displayName": "[PHX] 4114",
+    "tag": "PHX",
+    "name": "4114"
+  },
+  {
+    "displayName": "[420] 4114",
+    "tag": "420",
+    "name": "4114"
+  },
+  {
+    "displayName": "[HRB] AACE",
+    "tag": "HRB",
+    "name": "AACE"
+  },
+  {
+    "displayName": "[PHX] AcornDwagon",
+    "tag": "PHX",
+    "name": "AcornDwagon"
+  },
+  {
+    "displayName": "[SWT] AurelParis",
+    "tag": "SWT",
+    "name": "AurelParis"
+  },
+  {
+    "displayName": "[LTS] AzureBlue4",
+    "tag": "LTS",
+    "name": "AzureBlue4"
+  },
+  {
+    "displayName": "[PHX] Barronness",
+    "tag": "PHX",
+    "name": "Barronness"
+  },
+  {
+    "displayName": "[PHX] BashIce",
+    "tag": "PHX",
+    "name": "BashIce"
+  },
+  {
+    "displayName": "[PHX] brandash",
+    "tag": "PHX",
+    "name": "brandash"
+  },
+  {
+    "displayName": "[COR] Brenduka",
+    "tag": "COR",
+    "name": "Brenduka"
+  },
+  {
+    "displayName": "[420] Brian",
+    "tag": "420",
+    "name": "Brian"
+  },
+  {
+    "displayName": "[420]Brian",
+    "tag": "420",
+    "name": "Brian"
+  },
+  {
+    "displayName": "[PHX] Bubbly",
+    "tag": "PHX",
+    "name": "Bubbly"
+  },
+  {
+    "displayName": "[LTS] budgie",
+    "tag": "LTS",
+    "name": "budgie"
+  },
+  {
+    "displayName": "[PHX] Bugra",
+    "tag": "PHX",
+    "name": "Bugra"
+  },
+  {
+    "displayName": "[420] casual jojo",
+    "tag": "420",
+    "name": "casual jojo"
+  },
+  {
+    "displayName": "[420] Climbinguy",
+    "tag": "420",
+    "name": "Climbinguy"
+  },
+  {
+    "displayName": "[HRB] Count Olaf",
+    "tag": "HRB",
+    "name": "Count Olaf"
+  },
+  {
+    "displayName": "[HRB]Count Olaf",
+    "tag": "HRB",
+    "name": "Count Olaf"
+  },
+  {
+    "displayName": "[LTS] Crystalicy",
+    "tag": "LTS",
+    "name": "Crystalicy"
+  },
+  {
+    "displayName": "[LTS] CrystalIcy",
+    "tag": "LTS",
+    "name": "CrystalIcy"
+  },
+  {
+    "displayName": "Dante",
+    "tag": null,
+    "name": "Dante"
+  },
+  {
+    "displayName": "[420] Dem 00",
+    "tag": "420",
+    "name": "Dem 00"
+  },
+  {
+    "displayName": "[420]Dem 00",
+    "tag": "420",
+    "name": "Dem 00"
+  },
+  {
+    "displayName": "[420] Dem o0",
+    "tag": "420",
+    "name": "Dem o0"
+  },
+  {
+    "displayName": "[WDN] Docmag",
+    "tag": "WDN",
+    "name": "Docmag"
+  },
+  {
+    "displayName": "[PHX] Fan Girl",
+    "tag": "PHX",
+    "name": "Fan Girl"
+  },
+  {
+    "displayName": "[PHX] FeatherMe",
+    "tag": "PHX",
+    "name": "FeatherMe"
+  },
+  {
+    "displayName": "[420] Frantech",
+    "tag": "420",
+    "name": "Frantech"
+  },
+  {
+    "displayName": "[PHX] Gomez",
+    "tag": "PHX",
+    "name": "Gomez"
+  },
+  {
+    "displayName": "[420] Gorthaur",
+    "tag": "420",
+    "name": "Gorthaur"
+  },
+  {
+    "displayName": "[LTS] gorzan",
+    "tag": "LTS",
+    "name": "gorzan"
+  },
+  {
+    "displayName": "[420] Hadrian",
+    "tag": "420",
+    "name": "Hadrian"
+  },
+  {
+    "displayName": "[JESA] Helli",
+    "tag": "JESA",
+    "name": "Helli"
+  },
+  {
+    "displayName": "[JESA]Helli",
+    "tag": "JESA",
+    "name": "Helli"
+  },
+  {
+    "displayName": "[WDN] Hübi",
+    "tag": "WDN",
+    "name": "Hübi"
+  },
+  {
+    "displayName": "[PHX] IcebashAK",
+    "tag": "PHX",
+    "name": "IcebashAK"
+  },
+  {
+    "displayName": "[PHX]IcebashAK",
+    "tag": "PHX",
+    "name": "IcebashAK"
+  },
+  {
+    "displayName": "[420] iiJoKeR",
+    "tag": "420",
+    "name": "iiJoKeR"
+  },
+  {
+    "displayName": "[420] Ilyan",
+    "tag": "420",
+    "name": "Ilyan"
+  },
+  {
+    "displayName": "[PHX] Infantskate",
+    "tag": "PHX",
+    "name": "Infantskate"
+  },
+  {
+    "displayName": "[420] Ixbalanqué",
+    "tag": "420",
+    "name": "Ixbalanqué"
+  },
+  {
+    "displayName": "[420]Ixbalanqué",
+    "tag": "420",
+    "name": "Ixbalanqué"
+  },
+  {
+    "displayName": "[Appa] Jeff85",
+    "tag": "Appa",
+    "name": "Jeff85"
+  },
+  {
+    "displayName": "[PHX] Jewy",
+    "tag": "PHX",
+    "name": "Jewy"
+  },
+  {
+    "displayName": "[420] Jinx",
+    "tag": "420",
+    "name": "Jinx"
+  },
+  {
+    "displayName": "[420] jon snow",
+    "tag": "420",
+    "name": "jon snow"
+  },
+  {
+    "displayName": "[PHX] Joseflnita",
+    "tag": "PHX",
+    "name": "Joseflnita"
+  },
+  {
+    "displayName": "[LTS] Joyboy willy",
+    "tag": "LTS",
+    "name": "Joyboy willy"
+  },
+  {
+    "displayName": "[PHX] JP4",
+    "tag": "PHX",
+    "name": "JP4"
+  },
+  {
+    "displayName": "[HRB] JP4",
+    "tag": "HRB",
+    "name": "JP4"
+  },
+  {
+    "displayName": "[HRB]JP4",
+    "tag": "HRB",
+    "name": "JP4"
+  },
+  {
+    "displayName": "[PHX] JustBrad",
+    "tag": "PHX",
+    "name": "JustBrad"
+  },
+  {
+    "displayName": "[PHX] Kad2112",
+    "tag": "PHX",
+    "name": "Kad2112"
+  },
+  {
+    "displayName": "[PHX] Kata",
+    "tag": "PHX",
+    "name": "Kata"
+  },
+  {
+    "displayName": "[PHX]Kata",
+    "tag": "PHX",
+    "name": "Kata"
+  },
+  {
+    "displayName": "[420]Kata",
+    "tag": "420",
+    "name": "Kata"
+  },
+  {
+    "displayName": "[PHX] Kilx74",
+    "tag": "PHX",
+    "name": "Kilx74"
+  },
+  {
+    "displayName": "[HRB] Kmilocol",
+    "tag": "HRB",
+    "name": "Kmilocol"
+  },
+  {
+    "displayName": "[420] KoalaOtter",
+    "tag": "420",
+    "name": "KoalaOtter"
+  },
+  {
+    "displayName": "[420]KoalaOtter",
+    "tag": "420",
+    "name": "KoalaOtter"
+  },
+  {
+    "displayName": "[HRB] Kttrak",
+    "tag": "HRB",
+    "name": "Kttrak"
+  },
+  {
+    "displayName": "[HRB]Kttrak",
+    "tag": "HRB",
+    "name": "Kttrak"
+  },
+  {
+    "displayName": "[PHX] Lagartha",
+    "tag": "PHX",
+    "name": "Lagartha"
+  },
+  {
+    "displayName": "[PHX] larvabender",
+    "tag": "PHX",
+    "name": "larvabender"
+  },
+  {
+    "displayName": "[HRB] larvabender",
+    "tag": "HRB",
+    "name": "larvabender"
+  },
+  {
+    "displayName": "[HRB]larvabender",
+    "tag": "HRB",
+    "name": "larvabender"
+  },
+  {
+    "displayName": "[WAR] leader_2826860",
+    "tag": "WAR",
+    "name": "leader_2826860"
+  },
+  {
+    "displayName": "[WAR]leader_2826860",
+    "tag": "WAR",
+    "name": "leader_2826860"
+  },
+  {
+    "displayName": "[AT22] leader_2826870",
+    "tag": "AT22",
+    "name": "leader_2826870"
+  },
+  {
+    "displayName": "[420] leader_2856925",
+    "tag": "420",
+    "name": "leader_2856925"
+  },
+  {
+    "displayName": "[HERD] leader_2862859",
+    "tag": "HERD",
+    "name": "leader_2862859"
+  },
+  {
+    "displayName": "[PHX] Lindored",
+    "tag": "PHX",
+    "name": "Lindored"
+  },
+  {
+    "displayName": "[PHX] LUPITOPELUDO",
+    "tag": "PHX",
+    "name": "LUPITOPELUDO"
+  },
+  {
+    "displayName": "[PHX] Mai",
+    "tag": "PHX",
+    "name": "Mai"
+  },
+  {
+    "displayName": "[420] Malltheus",
+    "tag": "420",
+    "name": "Malltheus"
+  },
+  {
+    "displayName": "[420]Malltheus",
+    "tag": "420",
+    "name": "Malltheus"
+  },
+  {
+    "displayName": "[420] Mardino47",
+    "tag": "420",
+    "name": "Mardino47"
+  },
+  {
+    "displayName": "[420]Mardino47",
+    "tag": "420",
+    "name": "Mardino47"
+  },
+  {
+    "displayName": "[420] Mardino47 2",
+    "tag": "420",
+    "name": "Mardino47 2"
+  },
+  {
+    "displayName": "[PHX] mari",
+    "tag": "PHX",
+    "name": "mari"
+  },
+  {
+    "displayName": "[420] MaryfoxITA",
+    "tag": "420",
+    "name": "MaryfoxITA"
+  },
+  {
+    "displayName": "[420] mlmd",
+    "tag": "420",
+    "name": "mlmd"
+  },
+  {
+    "displayName": "[PHX] Moina",
+    "tag": "PHX",
+    "name": "Moina"
+  },
+  {
+    "displayName": "[PHX] Morticia",
+    "tag": "PHX",
+    "name": "Morticia"
+  },
+  {
+    "displayName": "[PHX] Mouette",
+    "tag": "PHX",
+    "name": "Mouette"
+  },
+  {
+    "displayName": "[420] Mystique",
+    "tag": "420",
+    "name": "Mystique"
+  },
+  {
+    "displayName": "[420]Mystique",
+    "tag": "420",
+    "name": "Mystique"
+  },
+  {
+    "displayName": "[PHX] Nathan LO",
+    "tag": "PHX",
+    "name": "Nathan LO"
+  },
+  {
+    "displayName": "[PHX] Nina",
+    "tag": "PHX",
+    "name": "Nina"
+  },
+  {
+    "displayName": "[420] ObiQuan",
+    "tag": "420",
+    "name": "ObiQuan"
+  },
+  {
+    "displayName": "[COR] Ogaz",
+    "tag": "COR",
+    "name": "Ogaz"
+  },
+  {
+    "displayName": "[PHX] Omniyus",
+    "tag": "PHX",
+    "name": "Omniyus"
+  },
+  {
+    "displayName": "[HNOR] Oncle Canti",
+    "tag": "HNOR",
+    "name": "Oncle Canti"
+  },
+  {
+    "displayName": "[PHX] oozzoo",
+    "tag": "PHX",
+    "name": "oozzoo"
+  },
+  {
+    "displayName": "[420] Poneata",
+    "tag": "420",
+    "name": "Poneata"
+  },
+  {
+    "displayName": "[COR] Poppï",
+    "tag": "COR",
+    "name": "Poppï"
+  },
+  {
+    "displayName": "[420] Pyrosia",
+    "tag": "420",
+    "name": "Pyrosia"
+  },
+  {
+    "displayName": "[PHX] Queenpin405",
+    "tag": "PHX",
+    "name": "Queenpin405"
+  },
+  {
+    "displayName": "[420] Rambo",
+    "tag": "420",
+    "name": "Rambo"
+  },
+  {
+    "displayName": "[420] Rambunctious",
+    "tag": "420",
+    "name": "Rambunctious"
+  },
+  {
+    "displayName": "[420]Rambunctious",
+    "tag": "420",
+    "name": "Rambunctious"
+  },
+  {
+    "displayName": "[PHX] Rea",
+    "tag": "PHX",
+    "name": "Rea"
+  },
+  {
+    "displayName": "[PHX] Reaper",
+    "tag": "PHX",
+    "name": "Reaper"
+  },
+  {
+    "displayName": "[PHX] Red lotus",
+    "tag": "PHX",
+    "name": "Red lotus"
+  },
+  {
+    "displayName": "[PHX] RedElf",
+    "tag": "PHX",
+    "name": "RedElf"
+  },
+  {
+    "displayName": "[PHX] RiverPeople",
+    "tag": "PHX",
+    "name": "RiverPeople"
+  },
+  {
+    "displayName": "[PHX] Sapphireflre",
+    "tag": "PHX",
+    "name": "Sapphireflre"
+  },
+  {
+    "displayName": "[420] Shimmmyyy",
+    "tag": "420",
+    "name": "Shimmmyyy"
+  },
+  {
+    "displayName": "[420]Shimmmyyy",
+    "tag": "420",
+    "name": "Shimmmyyy"
+  },
+  {
+    "displayName": "[420] Sifu Vos",
+    "tag": "420",
+    "name": "Sifu Vos"
+  },
+  {
+    "displayName": "[PHX] Sigrun Yuk",
+    "tag": "PHX",
+    "name": "Sigrun Yuk"
+  },
+  {
+    "displayName": "[LTS] SirObica",
+    "tag": "LTS",
+    "name": "SirObica"
+  },
+  {
+    "displayName": "[PHX] snnbzc",
+    "tag": "PHX",
+    "name": "snnbzc"
+  },
+  {
+    "displayName": "[420] Sohbhrafa",
+    "tag": "420",
+    "name": "Sohbhrafa"
+  },
+  {
+    "displayName": "[420]Sohbhrafa",
+    "tag": "420",
+    "name": "Sohbhrafa"
+  },
+  {
+    "displayName": "[PHX] Sugar Queen",
+    "tag": "PHX",
+    "name": "Sugar Queen"
+  },
+  {
+    "displayName": "[PHX] SumoShiv",
+    "tag": "PHX",
+    "name": "SumoShiv"
+  },
+  {
+    "displayName": "SumoShiv",
+    "tag": null,
+    "name": "SumoShiv"
+  },
+  {
+    "displayName": "[420] Szeto",
+    "tag": "420",
+    "name": "Szeto"
+  },
+  {
+    "displayName": "[232] Tonsen",
+    "tag": "232",
+    "name": "Tonsen"
+  },
+  {
+    "displayName": "[PHX] VGGA",
+    "tag": "PHX",
+    "name": "VGGA"
+  },
+  {
+    "displayName": "[LTS] VisAngel",
+    "tag": "LTS",
+    "name": "VisAngel"
+  },
+  {
+    "displayName": "[PHX] viva",
+    "tag": "PHX",
+    "name": "viva"
+  },
+  {
+    "displayName": "[HRB] viva",
+    "tag": "HRB",
+    "name": "viva"
+  },
+  {
+    "displayName": "[HRB]viva",
+    "tag": "HRB",
+    "name": "viva"
+  },
+  {
+    "displayName": "[420] WitchKing",
+    "tag": "420",
+    "name": "WitchKing"
+  },
+  {
+    "displayName": "[TIDE] wolf",
+    "tag": "TIDE",
+    "name": "wolf"
+  },
+  {
+    "displayName": "[TIDE]wolf",
+    "tag": "TIDE",
+    "name": "wolf"
+  },
+  {
+    "displayName": "[PHX] Xzeusn",
+    "tag": "PHX",
+    "name": "Xzeusn"
+  },
+  {
+    "displayName": "[PHX] yum yum",
+    "tag": "PHX",
+    "name": "yum yum"
+  },
+  {
+    "displayName": "[PHX]yum yum",
+    "tag": "PHX",
+    "name": "yum yum"
+  },
+  {
+    "displayName": "yum yum",
+    "tag": null,
+    "name": "yum yum"
+  },
+  {
+    "displayName": "[PHX] Zuko",
+    "tag": "PHX",
+    "name": "Zuko"
+  },
+  {
+    "displayName": "[PHX]Zuko",
+    "tag": "PHX",
+    "name": "Zuko"
+  }
+]

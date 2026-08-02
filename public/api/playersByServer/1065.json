@@ -1,0 +1,597 @@
+[
+  {
+    "displayName": "[TGL] 2kGhost",
+    "tag": "TGL",
+    "name": "2kGhost"
+  },
+  {
+    "displayName": "[GTA] A noodle",
+    "tag": "GTA",
+    "name": "A noodle"
+  },
+  {
+    "displayName": "[GTA] Adrii",
+    "tag": "GTA",
+    "name": "Adrii"
+  },
+  {
+    "displayName": "[TGL] Altitude Fear",
+    "tag": "TGL",
+    "name": "Altitude Fear"
+  },
+  {
+    "displayName": "[TGL] Altítude Fear",
+    "tag": "TGL",
+    "name": "Altítude Fear"
+  },
+  {
+    "displayName": "[TGL] AltitudeFear",
+    "tag": "TGL",
+    "name": "AltitudeFear"
+  },
+  {
+    "displayName": "[TGL] AltítudeFear",
+    "tag": "TGL",
+    "name": "AltítudeFear"
+  },
+  {
+    "displayName": "[TGL] Alyr",
+    "tag": "TGL",
+    "name": "Alyr"
+  },
+  {
+    "displayName": "[TGL] Apophis",
+    "tag": "TGL",
+    "name": "Apophis"
+  },
+  {
+    "displayName": "[GTA] Bä Shėng Lù",
+    "tag": "GTA",
+    "name": "Bä Shėng Lù"
+  },
+  {
+    "displayName": "[TGL] BigGuy",
+    "tag": "TGL",
+    "name": "BigGuy"
+  },
+  {
+    "displayName": "[GTA] BLACK GHOST",
+    "tag": "GTA",
+    "name": "BLACK GHOST"
+  },
+  {
+    "displayName": "[GTA] BlindBandit",
+    "tag": "GTA",
+    "name": "BlindBandit"
+  },
+  {
+    "displayName": "[TGL] Blue Demon",
+    "tag": "TGL",
+    "name": "Blue Demon"
+  },
+  {
+    "displayName": "[GTA] BluFireGod",
+    "tag": "GTA",
+    "name": "BluFireGod"
+  },
+  {
+    "displayName": "[GTA] bmrangguy",
+    "tag": "GTA",
+    "name": "bmrangguy"
+  },
+  {
+    "displayName": "[GTA] Bolin",
+    "tag": "GTA",
+    "name": "Bolin"
+  },
+  {
+    "displayName": "[TGL] Chavaira",
+    "tag": "TGL",
+    "name": "Chavaira"
+  },
+  {
+    "displayName": "[GTA] CMC Q",
+    "tag": "GTA",
+    "name": "CMC Q"
+  },
+  {
+    "displayName": "[NASA] Crucio",
+    "tag": "NASA",
+    "name": "Crucio"
+  },
+  {
+    "displayName": "[TGL] Dalcom",
+    "tag": "TGL",
+    "name": "Dalcom"
+  },
+  {
+    "displayName": "[TGL] dav27",
+    "tag": "TGL",
+    "name": "dav27"
+  },
+  {
+    "displayName": "[TGL] Delador",
+    "tag": "TGL",
+    "name": "Delador"
+  },
+  {
+    "displayName": "[GTA] Di·rty Díana",
+    "tag": "GTA",
+    "name": "Di·rty Díana"
+  },
+  {
+    "displayName": "[TGL] DragonOsouth",
+    "tag": "TGL",
+    "name": "DragonOsouth"
+  },
+  {
+    "displayName": "[NASA] DragonOsouth",
+    "tag": "NASA",
+    "name": "DragonOsouth"
+  },
+  {
+    "displayName": "DragonOsouth",
+    "tag": null,
+    "name": "DragonOsouth"
+  },
+  {
+    "displayName": "[GTA] DrSpin19",
+    "tag": "GTA",
+    "name": "DrSpin19"
+  },
+  {
+    "displayName": "[NASA] Elric10",
+    "tag": "NASA",
+    "name": "Elric10"
+  },
+  {
+    "displayName": "[NASA] Eomer",
+    "tag": "NASA",
+    "name": "Eomer"
+  },
+  {
+    "displayName": "[TGL] Eqrno",
+    "tag": "TGL",
+    "name": "Eqrno"
+  },
+  {
+    "displayName": "[NASA] Evermore",
+    "tag": "NASA",
+    "name": "Evermore"
+  },
+  {
+    "displayName": "[GTA] Falco",
+    "tag": "GTA",
+    "name": "Falco"
+  },
+  {
+    "displayName": "[TGL] Fire Rangi",
+    "tag": "TGL",
+    "name": "Fire Rangi"
+  },
+  {
+    "displayName": "[GTA] FIREL0RDZUK0",
+    "tag": "GTA",
+    "name": "FIREL0RDZUK0"
+  },
+  {
+    "displayName": "[GTA] FireLordMomo",
+    "tag": "GTA",
+    "name": "FireLordMomo"
+  },
+  {
+    "displayName": "[GTA] firelordzuko",
+    "tag": "GTA",
+    "name": "firelordzuko"
+  },
+  {
+    "displayName": "[GTA] FIRELORDZUKO",
+    "tag": "GTA",
+    "name": "FIRELORDZUKO"
+  },
+  {
+    "displayName": "[NASA] FrizzleFly",
+    "tag": "NASA",
+    "name": "FrizzleFly"
+  },
+  {
+    "displayName": "[NASA] FROIE",
+    "tag": "NASA",
+    "name": "FROIE"
+  },
+  {
+    "displayName": "[TGL] FrostHaven",
+    "tag": "TGL",
+    "name": "FrostHaven"
+  },
+  {
+    "displayName": "[GTA] Gakeon",
+    "tag": "GTA",
+    "name": "Gakeon"
+  },
+  {
+    "displayName": "[TGL] GOTEN 悟",
+    "tag": "TGL",
+    "name": "GOTEN 悟"
+  },
+  {
+    "displayName": "[NASA] GOTEN 悟",
+    "tag": "NASA",
+    "name": "GOTEN 悟"
+  },
+  {
+    "displayName": "[TGL] GramGram",
+    "tag": "TGL",
+    "name": "GramGram"
+  },
+  {
+    "displayName": "[TGL] ɢᴏʜᴀɴ 悟",
+    "tag": "TGL",
+    "name": "ɢᴏʜᴀɴ 悟"
+  },
+  {
+    "displayName": "[TGL] ɢᴏᴛᴇɴ 悟",
+    "tag": "TGL",
+    "name": "ɢᴏᴛᴇɴ 悟"
+  },
+  {
+    "displayName": "[GTA] Hech",
+    "tag": "GTA",
+    "name": "Hech"
+  },
+  {
+    "displayName": "[GTA] Herb",
+    "tag": "GTA",
+    "name": "Herb"
+  },
+  {
+    "displayName": "[GTA] Holdin",
+    "tag": "GTA",
+    "name": "Holdin"
+  },
+  {
+    "displayName": "Ian",
+    "tag": null,
+    "name": "Ian"
+  },
+  {
+    "displayName": "[TGL] Ian",
+    "tag": "TGL",
+    "name": "Ian"
+  },
+  {
+    "displayName": "[TGL] Idus",
+    "tag": "TGL",
+    "name": "Idus"
+  },
+  {
+    "displayName": "[TGL] Iroque",
+    "tag": "TGL",
+    "name": "Iroque"
+  },
+  {
+    "displayName": "[GTA] JadeShogun",
+    "tag": "GTA",
+    "name": "JadeShogun"
+  },
+  {
+    "displayName": "[NASA] JFH",
+    "tag": "NASA",
+    "name": "JFH"
+  },
+  {
+    "displayName": "[GTA] Junkee",
+    "tag": "GTA",
+    "name": "Junkee"
+  },
+  {
+    "displayName": "[GTA] Kiddo",
+    "tag": "GTA",
+    "name": "Kiddo"
+  },
+  {
+    "displayName": "[GTA] Kimana",
+    "tag": "GTA",
+    "name": "Kimana"
+  },
+  {
+    "displayName": "[Kosh] Kosh",
+    "tag": "Kosh",
+    "name": "Kosh"
+  },
+  {
+    "displayName": "[GTA] LadyLei1551",
+    "tag": "GTA",
+    "name": "LadyLei1551"
+  },
+  {
+    "displayName": "[GTA] Lee",
+    "tag": "GTA",
+    "name": "Lee"
+  },
+  {
+    "displayName": "[GTA] LeoTheKing",
+    "tag": "GTA",
+    "name": "LeoTheKing"
+  },
+  {
+    "displayName": "[TGL] LightBender",
+    "tag": "TGL",
+    "name": "LightBender"
+  },
+  {
+    "displayName": "[TGL] Lorks",
+    "tag": "TGL",
+    "name": "Lorks"
+  },
+  {
+    "displayName": "[TGL] Lowlo",
+    "tag": "TGL",
+    "name": "Lowlo"
+  },
+  {
+    "displayName": "[TGL] Lubo",
+    "tag": "TGL",
+    "name": "Lubo"
+  },
+  {
+    "displayName": "[NASA] Lubo",
+    "tag": "NASA",
+    "name": "Lubo"
+  },
+  {
+    "displayName": "[GTA] Luci",
+    "tag": "GTA",
+    "name": "Luci"
+  },
+  {
+    "displayName": "[TGL] Luu",
+    "tag": "TGL",
+    "name": "Luu"
+  },
+  {
+    "displayName": "[NASA] Luu",
+    "tag": "NASA",
+    "name": "Luu"
+  },
+  {
+    "displayName": "[GTA] mai",
+    "tag": "GTA",
+    "name": "mai"
+  },
+  {
+    "displayName": "makattack",
+    "tag": null,
+    "name": "makattack"
+  },
+  {
+    "displayName": "[TGL] makattack",
+    "tag": "TGL",
+    "name": "makattack"
+  },
+  {
+    "displayName": "[GTA] Mellow",
+    "tag": "GTA",
+    "name": "Mellow"
+  },
+  {
+    "displayName": "[GTA] Meru",
+    "tag": "GTA",
+    "name": "Meru"
+  },
+  {
+    "displayName": "[GTA] Mojacko8888",
+    "tag": "GTA",
+    "name": "Mojacko8888"
+  },
+  {
+    "displayName": "[TGL] MukUup",
+    "tag": "TGL",
+    "name": "MukUup"
+  },
+  {
+    "displayName": "[TGL] mymy",
+    "tag": "TGL",
+    "name": "mymy"
+  },
+  {
+    "displayName": "[TGL] Naius",
+    "tag": "TGL",
+    "name": "Naius"
+  },
+  {
+    "displayName": "[GTA] Najjim",
+    "tag": "GTA",
+    "name": "Najjim"
+  },
+  {
+    "displayName": "[GTA] Nefarius",
+    "tag": "GTA",
+    "name": "Nefarius"
+  },
+  {
+    "displayName": "[TGL] Nic",
+    "tag": "TGL",
+    "name": "Nic"
+  },
+  {
+    "displayName": "[GTA] Nugs",
+    "tag": "GTA",
+    "name": "Nugs"
+  },
+  {
+    "displayName": "[GTA] NYC Baddie",
+    "tag": "GTA",
+    "name": "NYC Baddie"
+  },
+  {
+    "displayName": "[TGL] Pheonix",
+    "tag": "TGL",
+    "name": "Pheonix"
+  },
+  {
+    "displayName": "[GTA] Pica",
+    "tag": "GTA",
+    "name": "Pica"
+  },
+  {
+    "displayName": "[TGL] PitViper",
+    "tag": "TGL",
+    "name": "PitViper"
+  },
+  {
+    "displayName": "[HR7] Polly676",
+    "tag": "HR7",
+    "name": "Polly676"
+  },
+  {
+    "displayName": "[GTA] pothed",
+    "tag": "GTA",
+    "name": "pothed"
+  },
+  {
+    "displayName": "[GTA] Power Toph",
+    "tag": "GTA",
+    "name": "Power Toph"
+  },
+  {
+    "displayName": "[GTA] Praymus",
+    "tag": "GTA",
+    "name": "Praymus"
+  },
+  {
+    "displayName": "[GTA] PrincessYue",
+    "tag": "GTA",
+    "name": "PrincessYue"
+  },
+  {
+    "displayName": "[NASA] Radioactive",
+    "tag": "NASA",
+    "name": "Radioactive"
+  },
+  {
+    "displayName": "[GTA] Rayzer Glu",
+    "tag": "GTA",
+    "name": "Rayzer Glu"
+  },
+  {
+    "displayName": "[TGL] RB Javux",
+    "tag": "TGL",
+    "name": "RB Javux"
+  },
+  {
+    "displayName": "[TGL] Roast Beef",
+    "tag": "TGL",
+    "name": "Roast Beef"
+  },
+  {
+    "displayName": "[TGL] Ruby",
+    "tag": "TGL",
+    "name": "Ruby"
+  },
+  {
+    "displayName": "[GTA] Seismic Fist",
+    "tag": "GTA",
+    "name": "Seismic Fist"
+  },
+  {
+    "displayName": "[GTA] Steely dan",
+    "tag": "GTA",
+    "name": "Steely dan"
+  },
+  {
+    "displayName": "[NASA] SukiIsQueen",
+    "tag": "NASA",
+    "name": "SukiIsQueen"
+  },
+  {
+    "displayName": "[GTA] Swoonoverme",
+    "tag": "GTA",
+    "name": "Swoonoverme"
+  },
+  {
+    "displayName": "[GTA] Sybawave",
+    "tag": "GTA",
+    "name": "Sybawave"
+  },
+  {
+    "displayName": "[GTA] Sylvia",
+    "tag": "GTA",
+    "name": "Sylvia"
+  },
+  {
+    "displayName": "[GTA] szgym",
+    "tag": "GTA",
+    "name": "szgym"
+  },
+  {
+    "displayName": "[TGL] TheDad779",
+    "tag": "TGL",
+    "name": "TheDad779"
+  },
+  {
+    "displayName": "[GTA] TiberiusRad",
+    "tag": "GTA",
+    "name": "TiberiusRad"
+  },
+  {
+    "displayName": "[TGL] TophLittle",
+    "tag": "TGL",
+    "name": "TophLittle"
+  },
+  {
+    "displayName": "[GTA] TRTLman",
+    "tag": "GTA",
+    "name": "TRTLman"
+  },
+  {
+    "displayName": "[TGL] UI Goten",
+    "tag": "TGL",
+    "name": "UI Goten"
+  },
+  {
+    "displayName": "[GTA] Utinsel",
+    "tag": "GTA",
+    "name": "Utinsel"
+  },
+  {
+    "displayName": "VaderDaMan",
+    "tag": null,
+    "name": "VaderDaMan"
+  },
+  {
+    "displayName": "[TGL] VaderDaMan",
+    "tag": "TGL",
+    "name": "VaderDaMan"
+  },
+  {
+    "displayName": "[GTA] VID07",
+    "tag": "GTA",
+    "name": "VID07"
+  },
+  {
+    "displayName": "[TGL] Vizio",
+    "tag": "TGL",
+    "name": "Vizio"
+  },
+  {
+    "displayName": "[TGL] Vonivon",
+    "tag": "TGL",
+    "name": "Vonivon"
+  },
+  {
+    "displayName": "[GTA] WhiteArmor",
+    "tag": "GTA",
+    "name": "WhiteArmor"
+  },
+  {
+    "displayName": "[GTA] ZayrFlores",
+    "tag": "GTA",
+    "name": "ZayrFlores"
+  },
+  {
+    "displayName": "[GTA] Zotti",
+    "tag": "GTA",
+    "name": "Zotti"
+  }
+]

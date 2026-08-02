@@ -1,0 +1,572 @@
+[
+  {
+    "displayName": "[TFIN] A6D7W7",
+    "tag": "TFIN",
+    "name": "A6D7W7"
+  },
+  {
+    "displayName": "[TFIN] Adi",
+    "tag": "TFIN",
+    "name": "Adi"
+  },
+  {
+    "displayName": "[TFIN] aerandria",
+    "tag": "TFIN",
+    "name": "aerandria"
+  },
+  {
+    "displayName": "[TFIN] Aesom",
+    "tag": "TFIN",
+    "name": "Aesom"
+  },
+  {
+    "displayName": "[MEL] Aethylias",
+    "tag": "MEL",
+    "name": "Aethylias"
+  },
+  {
+    "displayName": "[TFIN] Alustrial",
+    "tag": "TFIN",
+    "name": "Alustrial"
+  },
+  {
+    "displayName": "[TFIN] AngryCabbage",
+    "tag": "TFIN",
+    "name": "AngryCabbage"
+  },
+  {
+    "displayName": "Antmanaus",
+    "tag": null,
+    "name": "Antmanaus"
+  },
+  {
+    "displayName": "[TFIN] Arizombe",
+    "tag": "TFIN",
+    "name": "Arizombe"
+  },
+  {
+    "displayName": "[MEL] ArtHenrys",
+    "tag": "MEL",
+    "name": "ArtHenrys"
+  },
+  {
+    "displayName": "[MEL] Ashi",
+    "tag": "MEL",
+    "name": "Ashi"
+  },
+  {
+    "displayName": "[Miku] Athėnē",
+    "tag": "Miku",
+    "name": "Athėnē"
+  },
+  {
+    "displayName": "[TFIN] Bauggie",
+    "tag": "TFIN",
+    "name": "Bauggie"
+  },
+  {
+    "displayName": "[MEL] Belalgak",
+    "tag": "MEL",
+    "name": "Belalgak"
+  },
+  {
+    "displayName": "[TFIN] BenderBro",
+    "tag": "TFIN",
+    "name": "BenderBro"
+  },
+  {
+    "displayName": "[MEL] Black",
+    "tag": "MEL",
+    "name": "Black"
+  },
+  {
+    "displayName": "[MEL] BlindBandiit",
+    "tag": "MEL",
+    "name": "BlindBandiit"
+  },
+  {
+    "displayName": "[MEL] BUDDHABULL",
+    "tag": "MEL",
+    "name": "BUDDHABULL"
+  },
+  {
+    "displayName": "[TFIN] Cat",
+    "tag": "TFIN",
+    "name": "Cat"
+  },
+  {
+    "displayName": "[TFIN] Cazanova",
+    "tag": "TFIN",
+    "name": "Cazanova"
+  },
+  {
+    "displayName": "[MEL] Cordant",
+    "tag": "MEL",
+    "name": "Cordant"
+  },
+  {
+    "displayName": "[MEL] CowinFR",
+    "tag": "MEL",
+    "name": "CowinFR"
+  },
+  {
+    "displayName": "[TFIN] Daddy",
+    "tag": "TFIN",
+    "name": "Daddy"
+  },
+  {
+    "displayName": "[MEL] Daedalaus",
+    "tag": "MEL",
+    "name": "Daedalaus"
+  },
+  {
+    "displayName": "[MEL] Davismoky",
+    "tag": "MEL",
+    "name": "Davismoky"
+  },
+  {
+    "displayName": "dracman",
+    "tag": null,
+    "name": "dracman"
+  },
+  {
+    "displayName": "[TFIN] dreamwaker",
+    "tag": "TFIN",
+    "name": "dreamwaker"
+  },
+  {
+    "displayName": "[TFIN] DreamWalker",
+    "tag": "TFIN",
+    "name": "DreamWalker"
+  },
+  {
+    "displayName": "[TFIN] Dutch06",
+    "tag": "TFIN",
+    "name": "Dutch06"
+  },
+  {
+    "displayName": "[MEL] Dwarf",
+    "tag": "MEL",
+    "name": "Dwarf"
+  },
+  {
+    "displayName": "[TFIN] eevvee",
+    "tag": "TFIN",
+    "name": "eevvee"
+  },
+  {
+    "displayName": "[MEL] Eivei",
+    "tag": "MEL",
+    "name": "Eivei"
+  },
+  {
+    "displayName": "[TFIN] Eljoras",
+    "tag": "TFIN",
+    "name": "Eljoras"
+  },
+  {
+    "displayName": "[TFIN] Emilacious",
+    "tag": "TFIN",
+    "name": "Emilacious"
+  },
+  {
+    "displayName": "[TFIN] Fatkat",
+    "tag": "TFIN",
+    "name": "Fatkat"
+  },
+  {
+    "displayName": "[MEL] FetteErbse",
+    "tag": "MEL",
+    "name": "FetteErbse"
+  },
+  {
+    "displayName": "[TFIN] Foxhound",
+    "tag": "TFIN",
+    "name": "Foxhound"
+  },
+  {
+    "displayName": "[MEL] Fuuren",
+    "tag": "MEL",
+    "name": "Fuuren"
+  },
+  {
+    "displayName": "[MEL] generic cy",
+    "tag": "MEL",
+    "name": "generic cy"
+  },
+  {
+    "displayName": "[TFIN] GraveBoundZ",
+    "tag": "TFIN",
+    "name": "GraveBoundZ"
+  },
+  {
+    "displayName": "[MEL] Guzmaro",
+    "tag": "MEL",
+    "name": "Guzmaro"
+  },
+  {
+    "displayName": "[TFIN] Hackton",
+    "tag": "TFIN",
+    "name": "Hackton"
+  },
+  {
+    "displayName": "[TFIN] HERET1K",
+    "tag": "TFIN",
+    "name": "HERET1K"
+  },
+  {
+    "displayName": "[SHHH] IceDemon",
+    "tag": "SHHH",
+    "name": "IceDemon"
+  },
+  {
+    "displayName": "[TFIN] Infinity",
+    "tag": "TFIN",
+    "name": "Infinity"
+  },
+  {
+    "displayName": "[MEL] Infinity",
+    "tag": "MEL",
+    "name": "Infinity"
+  },
+  {
+    "displayName": "[MEL] Jojo",
+    "tag": "MEL",
+    "name": "Jojo"
+  },
+  {
+    "displayName": "[MEL] jungkookie",
+    "tag": "MEL",
+    "name": "jungkookie"
+  },
+  {
+    "displayName": "[MEL] Jungkookie",
+    "tag": "MEL",
+    "name": "Jungkookie"
+  },
+  {
+    "displayName": "Kaiz",
+    "tag": null,
+    "name": "Kaiz"
+  },
+  {
+    "displayName": "[MEL] Kaya",
+    "tag": "MEL",
+    "name": "Kaya"
+  },
+  {
+    "displayName": "[SHHH] Kenny",
+    "tag": "SHHH",
+    "name": "Kenny"
+  },
+  {
+    "displayName": "[TFIN] Kenny",
+    "tag": "TFIN",
+    "name": "Kenny"
+  },
+  {
+    "displayName": "[MEL] Keryda",
+    "tag": "MEL",
+    "name": "Keryda"
+  },
+  {
+    "displayName": "[TSIN] KingToph",
+    "tag": "TSIN",
+    "name": "KingToph"
+  },
+  {
+    "displayName": "[MEL] Kovak",
+    "tag": "MEL",
+    "name": "Kovak"
+  },
+  {
+    "displayName": "[MEL] krimi",
+    "tag": "MEL",
+    "name": "krimi"
+  },
+  {
+    "displayName": "[MEL] Lenias",
+    "tag": "MEL",
+    "name": "Lenias"
+  },
+  {
+    "displayName": "[MEL] Lilian",
+    "tag": "MEL",
+    "name": "Lilian"
+  },
+  {
+    "displayName": "[MEL] Lin Beifong",
+    "tag": "MEL",
+    "name": "Lin Beifong"
+  },
+  {
+    "displayName": "[TFIN] LOMATOS",
+    "tag": "TFIN",
+    "name": "LOMATOS"
+  },
+  {
+    "displayName": "[TFIN] mailo2002",
+    "tag": "TFIN",
+    "name": "mailo2002"
+  },
+  {
+    "displayName": "[TFIN] Master O",
+    "tag": "TFIN",
+    "name": "Master O"
+  },
+  {
+    "displayName": "[TFIN] Meerli",
+    "tag": "TFIN",
+    "name": "Meerli"
+  },
+  {
+    "displayName": "[MEL] meymey",
+    "tag": "MEL",
+    "name": "meymey"
+  },
+  {
+    "displayName": "[MEL] mom",
+    "tag": "MEL",
+    "name": "mom"
+  },
+  {
+    "displayName": "[TFIN] MountainMoma",
+    "tag": "TFIN",
+    "name": "MountainMoma"
+  },
+  {
+    "displayName": "muscaca",
+    "tag": null,
+    "name": "muscaca"
+  },
+  {
+    "displayName": "[MEL] muscaca",
+    "tag": "MEL",
+    "name": "muscaca"
+  },
+  {
+    "displayName": "[TFIN] Mythos",
+    "tag": "TFIN",
+    "name": "Mythos"
+  },
+  {
+    "displayName": "[TFIN] Nefalicious",
+    "tag": "TFIN",
+    "name": "Nefalicious"
+  },
+  {
+    "displayName": "[TFIN] Neki",
+    "tag": "TFIN",
+    "name": "Neki"
+  },
+  {
+    "displayName": "[TFIN] Nick",
+    "tag": "TFIN",
+    "name": "Nick"
+  },
+  {
+    "displayName": "[TFIN] Noatak",
+    "tag": "TFIN",
+    "name": "Noatak"
+  },
+  {
+    "displayName": "[TFIN] NoctemSteph",
+    "tag": "TFIN",
+    "name": "NoctemSteph"
+  },
+  {
+    "displayName": "[TFIN] octo",
+    "tag": "TFIN",
+    "name": "octo"
+  },
+  {
+    "displayName": "[TFIN] Opal",
+    "tag": "TFIN",
+    "name": "Opal"
+  },
+  {
+    "displayName": "[MEL] Orestes",
+    "tag": "MEL",
+    "name": "Orestes"
+  },
+  {
+    "displayName": "[TFIN] PapaCat",
+    "tag": "TFIN",
+    "name": "PapaCat"
+  },
+  {
+    "displayName": "[Miku] Phorsic",
+    "tag": "Miku",
+    "name": "Phorsic"
+  },
+  {
+    "displayName": "[Miku] Pikitos",
+    "tag": "Miku",
+    "name": "Pikitos"
+  },
+  {
+    "displayName": "[MEL] PrimeDoom",
+    "tag": "MEL",
+    "name": "PrimeDoom"
+  },
+  {
+    "displayName": "[Miku] PrimeKrumpy",
+    "tag": "Miku",
+    "name": "PrimeKrumpy"
+  },
+  {
+    "displayName": "[MEL] PrimeKrumpy",
+    "tag": "MEL",
+    "name": "PrimeKrumpy"
+  },
+  {
+    "displayName": "[MEL] PrimeLexa",
+    "tag": "MEL",
+    "name": "PrimeLexa"
+  },
+  {
+    "displayName": "[MEL] PrimePipsel",
+    "tag": "MEL",
+    "name": "PrimePipsel"
+  },
+  {
+    "displayName": "[TFIN] Randolph",
+    "tag": "TFIN",
+    "name": "Randolph"
+  },
+  {
+    "displayName": "[MEL] ReportMeBots",
+    "tag": "MEL",
+    "name": "ReportMeBots"
+  },
+  {
+    "displayName": "RogerLi",
+    "tag": null,
+    "name": "RogerLi"
+  },
+  {
+    "displayName": "[TFIN] Rustila",
+    "tag": "TFIN",
+    "name": "Rustila"
+  },
+  {
+    "displayName": "[Miku] SakunaTriku",
+    "tag": "Miku",
+    "name": "SakunaTriku"
+  },
+  {
+    "displayName": "[TFIN] SAM",
+    "tag": "TFIN",
+    "name": "SAM"
+  },
+  {
+    "displayName": "[MEL] Scorp17",
+    "tag": "MEL",
+    "name": "Scorp17"
+  },
+  {
+    "displayName": "[TFIN] Scorpion",
+    "tag": "TFIN",
+    "name": "Scorpion"
+  },
+  {
+    "displayName": "[MEL] SIXSIXSIX",
+    "tag": "MEL",
+    "name": "SIXSIXSIX"
+  },
+  {
+    "displayName": "[MEL] Skei",
+    "tag": "MEL",
+    "name": "Skei"
+  },
+  {
+    "displayName": "[MEL] Smuuf",
+    "tag": "MEL",
+    "name": "Smuuf"
+  },
+  {
+    "displayName": "[MEL] SnappinMoth",
+    "tag": "MEL",
+    "name": "SnappinMoth"
+  },
+  {
+    "displayName": "[TFIN] Sparky12v",
+    "tag": "TFIN",
+    "name": "Sparky12v"
+  },
+  {
+    "displayName": "[TFIN] SteamyDreamy",
+    "tag": "TFIN",
+    "name": "SteamyDreamy"
+  },
+  {
+    "displayName": "[TFIN] StoicAvatar",
+    "tag": "TFIN",
+    "name": "StoicAvatar"
+  },
+  {
+    "displayName": "[MEL] Takadeinos",
+    "tag": "MEL",
+    "name": "Takadeinos"
+  },
+  {
+    "displayName": "[TFIN] Tepid",
+    "tag": "TFIN",
+    "name": "Tepid"
+  },
+  {
+    "displayName": "[TFIN] TFSU",
+    "tag": "TFIN",
+    "name": "TFSU"
+  },
+  {
+    "displayName": "[zmai] Theboulder",
+    "tag": "zmai",
+    "name": "Theboulder"
+  },
+  {
+    "displayName": "[Miku] thündé r",
+    "tag": "Miku",
+    "name": "thündé r"
+  },
+  {
+    "displayName": "[TFIN] tico",
+    "tag": "TFIN",
+    "name": "tico"
+  },
+  {
+    "displayName": "[MEL] TundraTexas",
+    "tag": "MEL",
+    "name": "TundraTexas"
+  },
+  {
+    "displayName": "[TFIN] Ultherion",
+    "tag": "TFIN",
+    "name": "Ultherion"
+  },
+  {
+    "displayName": "[MEL] White",
+    "tag": "MEL",
+    "name": "White"
+  },
+  {
+    "displayName": "WickedGodz",
+    "tag": null,
+    "name": "WickedGodz"
+  },
+  {
+    "displayName": "[Miku] ZEBZEB",
+    "tag": "Miku",
+    "name": "ZEBZEB"
+  },
+  {
+    "displayName": "[MEL] ZEBZEB",
+    "tag": "MEL",
+    "name": "ZEBZEB"
+  },
+  {
+    "displayName": "[TFIN] Zendra",
+    "tag": "TFIN",
+    "name": "Zendra"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "displayName": "[MYTH] Abaddon",
+    "tag": "MYTH",
+    "name": "Abaddon"
+  },
+  {
+    "displayName": "[MIR] AllenWalker",
+    "tag": "MIR",
+    "name": "AllenWalker"
+  },
+  {
+    "displayName": "[MIR] Alpharaptor",
+    "tag": "MIR",
+    "name": "Alpharaptor"
+  },
+  {
+    "displayName": "[MIR] Andre",
+    "tag": "MIR",
+    "name": "Andre"
+  },
+  {
+    "displayName": "AndresF1225",
+    "tag": null,
+    "name": "AndresF1225"
+  },
+  {
+    "displayName": "[MIR] Annabo",
+    "tag": "MIR",
+    "name": "Annabo"
+  },
+  {
+    "displayName": "[MYTH] Antioch",
+    "tag": "MYTH",
+    "name": "Antioch"
+  },
+  {
+    "displayName": "[Xmen] Apocalypse",
+    "tag": "Xmen",
+    "name": "Apocalypse"
+  },
+  {
+    "displayName": "[MIR] Apophis",
+    "tag": "MIR",
+    "name": "Apophis"
+  },
+  {
+    "displayName": "[MIR] Archilae",
+    "tag": "MIR",
+    "name": "Archilae"
+  },
+  {
+    "displayName": "[MYTH] ARES",
+    "tag": "MYTH",
+    "name": "ARES"
+  },
+  {
+    "displayName": "[MYTH] ARIES",
+    "tag": "MYTH",
+    "name": "ARIES"
+  },
+  {
+    "displayName": "[MIR] Artemesiana",
+    "tag": "MIR",
+    "name": "Artemesiana"
+  },
+  {
+    "displayName": "[MYTH] Asgård",
+    "tag": "MYTH",
+    "name": "Asgård"
+  },
+  {
+    "displayName": "[MIR] BabyloniusUr",
+    "tag": "MIR",
+    "name": "BabyloniusUr"
+  },
+  {
+    "displayName": "[MIR] badz",
+    "tag": "MIR",
+    "name": "badz"
+  },
+  {
+    "displayName": "[MIR] biobelge",
+    "tag": "MIR",
+    "name": "biobelge"
+  },
+  {
+    "displayName": "[TACO] BOOTYBENDER",
+    "tag": "TACO",
+    "name": "BOOTYBENDER"
+  },
+  {
+    "displayName": "[TACO]BOOTYBENDER",
+    "tag": "TACO",
+    "name": "BOOTYBENDER"
+  },
+  {
+    "displayName": "[PRHT] Bophadees",
+    "tag": "PRHT",
+    "name": "Bophadees"
+  },
+  {
+    "displayName": "[PRHT]Bophadees",
+    "tag": "PRHT",
+    "name": "Bophadees"
+  },
+  {
+    "displayName": "Bored AF",
+    "tag": null,
+    "name": "Bored AF"
+  },
+  {
+    "displayName": "[jkg]Bored AF",
+    "tag": "jkg",
+    "name": "Bored AF"
+  },
+  {
+    "displayName": "[MIR] Breeze",
+    "tag": "MIR",
+    "name": "Breeze"
+  },
+  {
+    "displayName": "[TACO] Carrat",
+    "tag": "TACO",
+    "name": "Carrat"
+  },
+  {
+    "displayName": "[TACO]Carrat",
+    "tag": "TACO",
+    "name": "Carrat"
+  },
+  {
+    "displayName": "[MYTH] Chronos",
+    "tag": "MYTH",
+    "name": "Chronos"
+  },
+  {
+    "displayName": "[TACO] Crunchy Taco",
+    "tag": "TACO",
+    "name": "Crunchy Taco"
+  },
+  {
+    "displayName": "[MIR] Diana",
+    "tag": "MIR",
+    "name": "Diana"
+  },
+  {
+    "displayName": "[MYTH] Dilan",
+    "tag": "MYTH",
+    "name": "Dilan"
+  },
+  {
+    "displayName": "[MYTH] Djavier",
+    "tag": "MYTH",
+    "name": "Djavier"
+  },
+  {
+    "displayName": "[MIR] Dorito",
+    "tag": "MIR",
+    "name": "Dorito"
+  },
+  {
+    "displayName": "[MIR] Drago",
+    "tag": "MIR",
+    "name": "Drago"
+  },
+  {
+    "displayName": "[MYTH] DrManhattan",
+    "tag": "MYTH",
+    "name": "DrManhattan"
+  },
+  {
+    "displayName": "[MYTH] DRodJavid",
+    "tag": "MYTH",
+    "name": "DRodJavid"
+  },
+  {
+    "displayName": "[MIR] Dusty",
+    "tag": "MIR",
+    "name": "Dusty"
+  },
+  {
+    "displayName": "[MIR] El Cabin",
+    "tag": "MIR",
+    "name": "El Cabin"
+  },
+  {
+    "displayName": "[TACO]El Jalapeño",
+    "tag": "TACO",
+    "name": "El Jalapeño"
+  },
+  {
+    "displayName": "[MYTH] enela",
+    "tag": "MYTH",
+    "name": "enela"
+  },
+  {
+    "displayName": "[MYTH] Feuerlord",
+    "tag": "MYTH",
+    "name": "Feuerlord"
+  },
+  {
+    "displayName": "[MIR] fofl",
+    "tag": "MIR",
+    "name": "fofl"
+  },
+  {
+    "displayName": "[MYTH] Freyja",
+    "tag": "MYTH",
+    "name": "Freyja"
+  },
+  {
+    "displayName": "[Xmen] Gambit",
+    "tag": "Xmen",
+    "name": "Gambit"
+  },
+  {
+    "displayName": "[MYTH] Gengar",
+    "tag": "MYTH",
+    "name": "Gengar"
+  },
+  {
+    "displayName": "[PMS] GhostShip",
+    "tag": "PMS",
+    "name": "GhostShip"
+  },
+  {
+    "displayName": "[PMS]GhostShip",
+    "tag": "PMS",
+    "name": "GhostShip"
+  },
+  {
+    "displayName": "[MIR] Gohan",
+    "tag": "MIR",
+    "name": "Gohan"
+  },
+  {
+    "displayName": "[MYTH] Gouldy",
+    "tag": "MYTH",
+    "name": "Gouldy"
+  },
+  {
+    "displayName": "[TACO] Gouldy",
+    "tag": "TACO",
+    "name": "Gouldy"
+  },
+  {
+    "displayName": "[Xmen] Havok",
+    "tag": "Xmen",
+    "name": "Havok"
+  },
+  {
+    "displayName": "[MYTH] Hihihi",
+    "tag": "MYTH",
+    "name": "Hihihi"
+  },
+  {
+    "displayName": "[MYTH] Horangi SEI",
+    "tag": "MYTH",
+    "name": "Horangi SEI"
+  },
+  {
+    "displayName": "[TACO] Horangi SEI",
+    "tag": "TACO",
+    "name": "Horangi SEI"
+  },
+  {
+    "displayName": "[TACO]Horangi SEI",
+    "tag": "TACO",
+    "name": "Horangi SEI"
+  },
+  {
+    "displayName": "[MIR]Hゆかり",
+    "tag": "MIR",
+    "name": "Hゆかり"
+  },
+  {
+    "displayName": "[MYTH] Icare",
+    "tag": "MYTH",
+    "name": "Icare"
+  },
+  {
+    "displayName": "[MYTH] Jahngogh",
+    "tag": "MYTH",
+    "name": "Jahngogh"
+  },
+  {
+    "displayName": "[MIR] Jazzy",
+    "tag": "MIR",
+    "name": "Jazzy"
+  },
+  {
+    "displayName": "[MIR] JordanP94",
+    "tag": "MIR",
+    "name": "JordanP94"
+  },
+  {
+    "displayName": "[MYTH] K0mbatQu33n",
+    "tag": "MYTH",
+    "name": "K0mbatQu33n"
+  },
+  {
+    "displayName": "[PRHT] K0mbatQu33n",
+    "tag": "PRHT",
+    "name": "K0mbatQu33n"
+  },
+  {
+    "displayName": "[PRHT]K0mbatQu33n",
+    "tag": "PRHT",
+    "name": "K0mbatQu33n"
+  },
+  {
+    "displayName": "[MIR] Kanchev",
+    "tag": "MIR",
+    "name": "Kanchev"
+  },
+  {
+    "displayName": "[MIR] King Momo",
+    "tag": "MIR",
+    "name": "King Momo"
+  },
+  {
+    "displayName": "[MYTH] KingDragon",
+    "tag": "MYTH",
+    "name": "KingDragon"
+  },
+  {
+    "displayName": "[MIR] KingZuko",
+    "tag": "MIR",
+    "name": "KingZuko"
+  },
+  {
+    "displayName": "[MYTH] KombatQu33n",
+    "tag": "MYTH",
+    "name": "KombatQu33n"
+  },
+  {
+    "displayName": "[MIR] Krexelele",
+    "tag": "MIR",
+    "name": "Krexelele"
+  },
+  {
+    "displayName": "[MIR] Lagerta",
+    "tag": "MIR",
+    "name": "Lagerta"
+  },
+  {
+    "displayName": "[MIR] Lefox",
+    "tag": "MIR",
+    "name": "Lefox"
+  },
+  {
+    "displayName": "[PRHT] Lex",
+    "tag": "PRHT",
+    "name": "Lex"
+  },
+  {
+    "displayName": "[PRHT]Lex",
+    "tag": "PRHT",
+    "name": "Lex"
+  },
+  {
+    "displayName": "[TACO] LilyBear",
+    "tag": "TACO",
+    "name": "LilyBear"
+  },
+  {
+    "displayName": "[TACO]LilyBear",
+    "tag": "TACO",
+    "name": "LilyBear"
+  },
+  {
+    "displayName": "[MIR] LINT",
+    "tag": "MIR",
+    "name": "LINT"
+  },
+  {
+    "displayName": "[MIR] Lord Rod",
+    "tag": "MIR",
+    "name": "Lord Rod"
+  },
+  {
+    "displayName": "[MYTH] Los10",
+    "tag": "MYTH",
+    "name": "Los10"
+  },
+  {
+    "displayName": "[MIR] Lumian",
+    "tag": "MIR",
+    "name": "Lumian"
+  },
+  {
+    "displayName": "[MYTH] Marduk",
+    "tag": "MYTH",
+    "name": "Marduk"
+  },
+  {
+    "displayName": "[MYTH] MarioWolfX",
+    "tag": "MYTH",
+    "name": "MarioWolfX"
+  },
+  {
+    "displayName": "[PMS] MasterShlóng",
+    "tag": "PMS",
+    "name": "MasterShlóng"
+  },
+  {
+    "displayName": "[PMS]MasterShlóng",
+    "tag": "PMS",
+    "name": "MasterShlóng"
+  },
+  {
+    "displayName": "[MYTH] Mega kaiju",
+    "tag": "MYTH",
+    "name": "Mega kaiju"
+  },
+  {
+    "displayName": "[MYTH] Metal Azula",
+    "tag": "MYTH",
+    "name": "Metal Azula"
+  },
+  {
+    "displayName": "[MYTH] MiguelBZ117",
+    "tag": "MYTH",
+    "name": "MiguelBZ117"
+  },
+  {
+    "displayName": "[MYTH] Minotaur",
+    "tag": "MYTH",
+    "name": "Minotaur"
+  },
+  {
+    "displayName": "[MIR] Mithrandir",
+    "tag": "MIR",
+    "name": "Mithrandir"
+  },
+  {
+    "displayName": "[MIR] MIYA",
+    "tag": "MIR",
+    "name": "MIYA"
+  },
+  {
+    "displayName": "[MIR] Myria",
+    "tag": "MIR",
+    "name": "Myria"
+  },
+  {
+    "displayName": "[MYTH] Mythicaltaco",
+    "tag": "MYTH",
+    "name": "Mythicaltaco"
+  },
+  {
+    "displayName": "[MYTH] New York",
+    "tag": "MYTH",
+    "name": "New York"
+  },
+  {
+    "displayName": "[TACO]Nitro Nash",
+    "tag": "TACO",
+    "name": "Nitro Nash"
+  },
+  {
+    "displayName": "[MYTH] Nyx",
+    "tag": "MYTH",
+    "name": "Nyx"
+  },
+  {
+    "displayName": "[MYTH] Oceanos",
+    "tag": "MYTH",
+    "name": "Oceanos"
+  },
+  {
+    "displayName": "[MIR] OmHa58",
+    "tag": "MIR",
+    "name": "OmHa58"
+  },
+  {
+    "displayName": "[MYTH] PATOLINO",
+    "tag": "MYTH",
+    "name": "PATOLINO"
+  },
+  {
+    "displayName": "[MYTH] Phandorax",
+    "tag": "MYTH",
+    "name": "Phandorax"
+  },
+  {
+    "displayName": "[MYTH] Pizaclaton",
+    "tag": "MYTH",
+    "name": "Pizaclaton"
+  },
+  {
+    "displayName": "[MYTH] POSEIDON",
+    "tag": "MYTH",
+    "name": "POSEIDON"
+  },
+  {
+    "displayName": "[MYTH] Prezzie",
+    "tag": "MYTH",
+    "name": "Prezzie"
+  },
+  {
+    "displayName": "[MYTH] Prometheus",
+    "tag": "MYTH",
+    "name": "Prometheus"
+  },
+  {
+    "displayName": "[MYTH] puddle",
+    "tag": "MYTH",
+    "name": "puddle"
+  },
+  {
+    "displayName": "[TACO] puddle",
+    "tag": "TACO",
+    "name": "puddle"
+  },
+  {
+    "displayName": "[TACO]puddle",
+    "tag": "TACO",
+    "name": "puddle"
+  },
+  {
+    "displayName": "[MYTH] RANGI",
+    "tag": "MYTH",
+    "name": "RANGI"
+  },
+  {
+    "displayName": "[TACO] RANGI",
+    "tag": "TACO",
+    "name": "RANGI"
+  },
+  {
+    "displayName": "[TACO]RANGI",
+    "tag": "TACO",
+    "name": "RANGI"
+  },
+  {
+    "displayName": "[PRHT] Ravenscraft",
+    "tag": "PRHT",
+    "name": "Ravenscraft"
+  },
+  {
+    "displayName": "[PRHT]Ravenscraft",
+    "tag": "PRHT",
+    "name": "Ravenscraft"
+  },
+  {
+    "displayName": "[MYTH] Reycocodrilo",
+    "tag": "MYTH",
+    "name": "Reycocodrilo"
+  },
+  {
+    "displayName": "[WAKE]Rigo",
+    "tag": "WAKE",
+    "name": "Rigo"
+  },
+  {
+    "displayName": "[MYTH] RizeF2P",
+    "tag": "MYTH",
+    "name": "RizeF2P"
+  },
+  {
+    "displayName": "[TACO] RizeF2P",
+    "tag": "TACO",
+    "name": "RizeF2P"
+  },
+  {
+    "displayName": "[TACO]RizeF2P",
+    "tag": "TACO",
+    "name": "RizeF2P"
+  },
+  {
+    "displayName": "[MYTH] Ryder",
+    "tag": "MYTH",
+    "name": "Ryder"
+  },
+  {
+    "displayName": "[TACO]Ryder",
+    "tag": "TACO",
+    "name": "Ryder"
+  },
+  {
+    "displayName": "[TACO] Salsa",
+    "tag": "TACO",
+    "name": "Salsa"
+  },
+  {
+    "displayName": "[MIR] Sam",
+    "tag": "MIR",
+    "name": "Sam"
+  },
+  {
+    "displayName": "[MIR] San",
+    "tag": "MIR",
+    "name": "San"
+  },
+  {
+    "displayName": "[Hope] San",
+    "tag": "Hope",
+    "name": "San"
+  },
+  {
+    "displayName": "[Hope]San",
+    "tag": "Hope",
+    "name": "San"
+  },
+  {
+    "displayName": "[MYTH] Scamo",
+    "tag": "MYTH",
+    "name": "Scamo"
+  },
+  {
+    "displayName": "[MIR] Schoggi",
+    "tag": "MIR",
+    "name": "Schoggi"
+  },
+  {
+    "displayName": "[MIR] Shinato",
+    "tag": "MIR",
+    "name": "Shinato"
+  },
+  {
+    "displayName": "[MYTH] Skaði",
+    "tag": "MYTH",
+    "name": "Skaði"
+  },
+  {
+    "displayName": "[BBD] Sm eg ma",
+    "tag": "BBD",
+    "name": "Sm eg ma"
+  },
+  {
+    "displayName": "[MIR] softtaco",
+    "tag": "MIR",
+    "name": "softtaco"
+  },
+  {
+    "displayName": "[TACO]softtaco",
+    "tag": "TACO",
+    "name": "softtaco"
+  },
+  {
+    "displayName": "[Xmen] St0rm",
+    "tag": "Xmen",
+    "name": "St0rm"
+  },
+  {
+    "displayName": "[MYTH] SukiStrong",
+    "tag": "MYTH",
+    "name": "SukiStrong"
+  },
+  {
+    "displayName": "[MIR] Susie Carm",
+    "tag": "MIR",
+    "name": "Susie Carm"
+  },
+  {
+    "displayName": "[MYTH] TacoSupreme",
+    "tag": "MYTH",
+    "name": "TacoSupreme"
+  },
+  {
+    "displayName": "[TACO] TacoSupreme",
+    "tag": "TACO",
+    "name": "TacoSupreme"
+  },
+  {
+    "displayName": "[MYTH] TacoTree",
+    "tag": "MYTH",
+    "name": "TacoTree"
+  },
+  {
+    "displayName": "TacoTree",
+    "tag": null,
+    "name": "TacoTree"
+  },
+  {
+    "displayName": "[BBD] The Platypus",
+    "tag": "BBD",
+    "name": "The Platypus"
+  },
+  {
+    "displayName": "[MYTH] Vecnardo",
+    "tag": "MYTH",
+    "name": "Vecnardo"
+  },
+  {
+    "displayName": "[MYTH] Veganydra",
+    "tag": "MYTH",
+    "name": "Veganydra"
+  },
+  {
+    "displayName": "[MIR] wendell",
+    "tag": "MIR",
+    "name": "wendell"
+  },
+  {
+    "displayName": "[MIR] Westy",
+    "tag": "MIR",
+    "name": "Westy"
+  },
+  {
+    "displayName": "[MYTH] Wulfric",
+    "tag": "MYTH",
+    "name": "Wulfric"
+  },
+  {
+    "displayName": "[MYTH] xavedawave",
+    "tag": "MYTH",
+    "name": "xavedawave"
+  },
+  {
+    "displayName": "[MYTH] Yago Taco",
+    "tag": "MYTH",
+    "name": "Yago Taco"
+  },
+  {
+    "displayName": "[MIR] Yangvik NUI",
+    "tag": "MIR",
+    "name": "Yangvik NUI"
+  },
+  {
+    "displayName": "[PRHT] Yue",
+    "tag": "PRHT",
+    "name": "Yue"
+  },
+  {
+    "displayName": "[PRHT]Yue",
+    "tag": "PRHT",
+    "name": "Yue"
+  },
+  {
+    "displayName": "[MIR] Yue1106",
+    "tag": "MIR",
+    "name": "Yue1106"
+  },
+  {
+    "displayName": "[MYTH] Yue48",
+    "tag": "MYTH",
+    "name": "Yue48"
+  },
+  {
+    "displayName": "[Xmen] YueX",
+    "tag": "Xmen",
+    "name": "YueX"
+  },
+  {
+    "displayName": "[MIR] Yukari",
+    "tag": "MIR",
+    "name": "Yukari"
+  },
+  {
+    "displayName": "[MYTH] zeus",
+    "tag": "MYTH",
+    "name": "zeus"
+  },
+  {
+    "displayName": "[MYTH] Zeus",
+    "tag": "MYTH",
+    "name": "Zeus"
+  },
+  {
+    "displayName": "[MYTH] zєυs",
+    "tag": "MYTH",
+    "name": "zєυs"
+  },
+  {
+    "displayName": "[MYTH] ΖευS",
+    "tag": "MYTH",
+    "name": "ΖευS"
+  },
+  {
+    "displayName": "[ΜΥΤΗ] Ζευς",
+    "tag": "ΜΥΤΗ",
+    "name": "Ζευς"
+  },
+  {
+    "displayName": "[MYTH] Ζευς",
+    "tag": "MYTH",
+    "name": "Ζευς"
+  }
+]

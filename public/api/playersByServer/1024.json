@@ -1,0 +1,852 @@
+[
+  {
+    "displayName": "[Wii] 5tormDragon",
+    "tag": "Wii",
+    "name": "5tormDragon"
+  },
+  {
+    "displayName": "[Wii] 8Stars",
+    "tag": "Wii",
+    "name": "8Stars"
+  },
+  {
+    "displayName": "[Wii] Allegardos",
+    "tag": "Wii",
+    "name": "Allegardos"
+  },
+  {
+    "displayName": "[LOST] Aoi Todo",
+    "tag": "LOST",
+    "name": "Aoi Todo"
+  },
+  {
+    "displayName": "[LOST]Aoi Todo",
+    "tag": "LOST",
+    "name": "Aoi Todo"
+  },
+  {
+    "displayName": "[BULL] AstaA",
+    "tag": "BULL",
+    "name": "AstaA"
+  },
+  {
+    "displayName": "[BULL]AstaA",
+    "tag": "BULL",
+    "name": "AstaA"
+  },
+  {
+    "displayName": "AvatarKyoshi",
+    "tag": null,
+    "name": "AvatarKyoshi"
+  },
+  {
+    "displayName": "[Wii] Ayumu",
+    "tag": "Wii",
+    "name": "Ayumu"
+  },
+  {
+    "displayName": "[LOST] BarryAllen",
+    "tag": "LOST",
+    "name": "BarryAllen"
+  },
+  {
+    "displayName": "Beliar",
+    "tag": null,
+    "name": "Beliar"
+  },
+  {
+    "displayName": "[LOST] Beliar",
+    "tag": "LOST",
+    "name": "Beliar"
+  },
+  {
+    "displayName": "Benimaru",
+    "tag": null,
+    "name": "Benimaru"
+  },
+  {
+    "displayName": "[Wii] Biggustfoot",
+    "tag": "Wii",
+    "name": "Biggustfoot"
+  },
+  {
+    "displayName": "[Wii] Blauer Blitz",
+    "tag": "Wii",
+    "name": "Blauer Blitz"
+  },
+  {
+    "displayName": "Blooper",
+    "tag": null,
+    "name": "Blooper"
+  },
+  {
+    "displayName": "[LOST] Blue",
+    "tag": "LOST",
+    "name": "Blue"
+  },
+  {
+    "displayName": "[Wii] Bowser",
+    "tag": "Wii",
+    "name": "Bowser"
+  },
+  {
+    "displayName": "[Wii]Bowser",
+    "tag": "Wii",
+    "name": "Bowser"
+  },
+  {
+    "displayName": "cactusjack",
+    "tag": null,
+    "name": "cactusjack"
+  },
+  {
+    "displayName": "[TAY]Caldavi",
+    "tag": "TAY",
+    "name": "Caldavi"
+  },
+  {
+    "displayName": "[Wii] Candy Kong",
+    "tag": "Wii",
+    "name": "Candy Kong"
+  },
+  {
+    "displayName": "[Wii] chris8n",
+    "tag": "Wii",
+    "name": "chris8n"
+  },
+  {
+    "displayName": "[Wii] Danielson20",
+    "tag": "Wii",
+    "name": "Danielson20"
+  },
+  {
+    "displayName": "[Wii]Danielson20",
+    "tag": "Wii",
+    "name": "Danielson20"
+  },
+  {
+    "displayName": "[TAY]Danielson20",
+    "tag": "TAY",
+    "name": "Danielson20"
+  },
+  {
+    "displayName": "Dekota",
+    "tag": null,
+    "name": "Dekota"
+  },
+  {
+    "displayName": "[Wii] Diddy Kong",
+    "tag": "Wii",
+    "name": "Diddy Kong"
+  },
+  {
+    "displayName": "[Wii]Diddy Kong",
+    "tag": "Wii",
+    "name": "Diddy Kong"
+  },
+  {
+    "displayName": "[Wii] Dinkleberg",
+    "tag": "Wii",
+    "name": "Dinkleberg"
+  },
+  {
+    "displayName": "[Wii] Donar",
+    "tag": "Wii",
+    "name": "Donar"
+  },
+  {
+    "displayName": "[Wii] Donkey Kong",
+    "tag": "Wii",
+    "name": "Donkey Kong"
+  },
+  {
+    "displayName": "[Wii]Donkey Kong",
+    "tag": "Wii",
+    "name": "Donkey Kong"
+  },
+  {
+    "displayName": "[Wii] Dulli",
+    "tag": "Wii",
+    "name": "Dulli"
+  },
+  {
+    "displayName": "[Wii] Elisangel",
+    "tag": "Wii",
+    "name": "Elisangel"
+  },
+  {
+    "displayName": "[Wii] Elmo",
+    "tag": "Wii",
+    "name": "Elmo"
+  },
+  {
+    "displayName": "[TAY]Elmo",
+    "tag": "TAY",
+    "name": "Elmo"
+  },
+  {
+    "displayName": "[LOST] EODtech",
+    "tag": "LOST",
+    "name": "EODtech"
+  },
+  {
+    "displayName": "[Wii] FaDu",
+    "tag": "Wii",
+    "name": "FaDu"
+  },
+  {
+    "displayName": "[Wii] Fire starter",
+    "tag": "Wii",
+    "name": "Fire starter"
+  },
+  {
+    "displayName": "[Wii] FireLordLiz",
+    "tag": "Wii",
+    "name": "FireLordLiz"
+  },
+  {
+    "displayName": "Flow0814",
+    "tag": null,
+    "name": "Flow0814"
+  },
+  {
+    "displayName": "[Wii] Flower972",
+    "tag": "Wii",
+    "name": "Flower972"
+  },
+  {
+    "displayName": "[Wii] Fox McCloud",
+    "tag": "Wii",
+    "name": "Fox McCloud"
+  },
+  {
+    "displayName": "[Wii]Fox McCloud",
+    "tag": "Wii",
+    "name": "Fox McCloud"
+  },
+  {
+    "displayName": "[BULL] General Gump",
+    "tag": "BULL",
+    "name": "General Gump"
+  },
+  {
+    "displayName": "[TAY]Gojo007",
+    "tag": "TAY",
+    "name": "Gojo007"
+  },
+  {
+    "displayName": "[Oogi] goodcelery",
+    "tag": "Oogi",
+    "name": "goodcelery"
+  },
+  {
+    "displayName": "[Wii] Herizon",
+    "tag": "Wii",
+    "name": "Herizon"
+  },
+  {
+    "displayName": "[GOJO] Hova246",
+    "tag": "GOJO",
+    "name": "Hova246"
+  },
+  {
+    "displayName": "[Wii] HunnyBun31",
+    "tag": "Wii",
+    "name": "HunnyBun31"
+  },
+  {
+    "displayName": "[Wii] IJs2002",
+    "tag": "Wii",
+    "name": "IJs2002"
+  },
+  {
+    "displayName": "illest",
+    "tag": null,
+    "name": "illest"
+  },
+  {
+    "displayName": "[Wii] Iroh",
+    "tag": "Wii",
+    "name": "Iroh"
+  },
+  {
+    "displayName": "[Wii]Iroh",
+    "tag": "Wii",
+    "name": "Iroh"
+  },
+  {
+    "displayName": "[TAY]Iroh",
+    "tag": "TAY",
+    "name": "Iroh"
+  },
+  {
+    "displayName": "ItyBtty",
+    "tag": null,
+    "name": "ItyBtty"
+  },
+  {
+    "displayName": "[Wii] ItyBtty",
+    "tag": "Wii",
+    "name": "ItyBtty"
+  },
+  {
+    "displayName": "[Wii]ItyBtty",
+    "tag": "Wii",
+    "name": "ItyBtty"
+  },
+  {
+    "displayName": "[TAY]ItyBtty",
+    "tag": "TAY",
+    "name": "ItyBtty"
+  },
+  {
+    "displayName": "Jakerstars",
+    "tag": null,
+    "name": "Jakerstars"
+  },
+  {
+    "displayName": "[Wii] JJAGG93",
+    "tag": "Wii",
+    "name": "JJAGG93"
+  },
+  {
+    "displayName": "[BULL] K Zaraki",
+    "tag": "BULL",
+    "name": "K Zaraki"
+  },
+  {
+    "displayName": "[Wii] Ka Kashi",
+    "tag": "Wii",
+    "name": "Ka Kashi"
+  },
+  {
+    "displayName": "[Wii] kat",
+    "tag": "Wii",
+    "name": "kat"
+  },
+  {
+    "displayName": "Katakuri",
+    "tag": null,
+    "name": "Katakuri"
+  },
+  {
+    "displayName": "[Wii] KayaKan",
+    "tag": "Wii",
+    "name": "KayaKan"
+  },
+  {
+    "displayName": "[TAY]Kelce95",
+    "tag": "TAY",
+    "name": "Kelce95"
+  },
+  {
+    "displayName": "Khalidouen",
+    "tag": null,
+    "name": "Khalidouen"
+  },
+  {
+    "displayName": "[Wii] Kirby",
+    "tag": "Wii",
+    "name": "Kirby"
+  },
+  {
+    "displayName": "[VNLD] Kokomi",
+    "tag": "VNLD",
+    "name": "Kokomi"
+  },
+  {
+    "displayName": "[TAY]KOQ",
+    "tag": "TAY",
+    "name": "KOQ"
+  },
+  {
+    "displayName": "[Wii] Kragon",
+    "tag": "Wii",
+    "name": "Kragon"
+  },
+  {
+    "displayName": "[Wii] Krikri",
+    "tag": "Wii",
+    "name": "Krikri"
+  },
+  {
+    "displayName": "[Wii] Kuz",
+    "tag": "Wii",
+    "name": "Kuz"
+  },
+  {
+    "displayName": "[TAY]Kuz",
+    "tag": "TAY",
+    "name": "Kuz"
+  },
+  {
+    "displayName": "[Wii] KUZON",
+    "tag": "Wii",
+    "name": "KUZON"
+  },
+  {
+    "displayName": "[TAY]KUZON",
+    "tag": "TAY",
+    "name": "KUZON"
+  },
+  {
+    "displayName": "[Wii] Lacika",
+    "tag": "Wii",
+    "name": "Lacika"
+  },
+  {
+    "displayName": "[KPOP]Lacika",
+    "tag": "KPOP",
+    "name": "Lacika"
+  },
+  {
+    "displayName": "[GQ JO] leader_1305506",
+    "tag": "GQ JO",
+    "name": "leader_1305506"
+  },
+  {
+    "displayName": "[Wii] Lee",
+    "tag": "Wii",
+    "name": "Lee"
+  },
+  {
+    "displayName": "[3DS] Lidis",
+    "tag": "3DS",
+    "name": "Lidis"
+  },
+  {
+    "displayName": "[Wii] Link95",
+    "tag": "Wii",
+    "name": "Link95"
+  },
+  {
+    "displayName": "[Wii]Link95",
+    "tag": "Wii",
+    "name": "Link95"
+  },
+  {
+    "displayName": "[Wii] Lord Soro",
+    "tag": "Wii",
+    "name": "Lord Soro"
+  },
+  {
+    "displayName": "[LOST] Lost94",
+    "tag": "LOST",
+    "name": "Lost94"
+  },
+  {
+    "displayName": "[LOST] Lotus",
+    "tag": "LOST",
+    "name": "Lotus"
+  },
+  {
+    "displayName": "[Lao] Lunao",
+    "tag": "Lao",
+    "name": "Lunao"
+  },
+  {
+    "displayName": "[Wii] Maggie",
+    "tag": "Wii",
+    "name": "Maggie"
+  },
+  {
+    "displayName": "[Wii]Maggie",
+    "tag": "Wii",
+    "name": "Maggie"
+  },
+  {
+    "displayName": "[TAY]Maggie",
+    "tag": "TAY",
+    "name": "Maggie"
+  },
+  {
+    "displayName": "[LOST] Mahoraga",
+    "tag": "LOST",
+    "name": "Mahoraga"
+  },
+  {
+    "displayName": "[LOST] Mandetta",
+    "tag": "LOST",
+    "name": "Mandetta"
+  },
+  {
+    "displayName": "Manta4437",
+    "tag": null,
+    "name": "Manta4437"
+  },
+  {
+    "displayName": "[LOST] MarkusGali",
+    "tag": "LOST",
+    "name": "MarkusGali"
+  },
+  {
+    "displayName": "Marky164",
+    "tag": null,
+    "name": "Marky164"
+  },
+  {
+    "displayName": "[LOST] Megumi",
+    "tag": "LOST",
+    "name": "Megumi"
+  },
+  {
+    "displayName": "Metroquadri",
+    "tag": null,
+    "name": "Metroquadri"
+  },
+  {
+    "displayName": "[Wii] Metroquadri",
+    "tag": "Wii",
+    "name": "Metroquadri"
+  },
+  {
+    "displayName": "[Wii]Metroquadri",
+    "tag": "Wii",
+    "name": "Metroquadri"
+  },
+  {
+    "displayName": "[TAY]Metroquadri",
+    "tag": "TAY",
+    "name": "Metroquadri"
+  },
+  {
+    "displayName": "[Wii] MewTwo",
+    "tag": "Wii",
+    "name": "MewTwo"
+  },
+  {
+    "displayName": "[Wii]MewTwo",
+    "tag": "Wii",
+    "name": "MewTwo"
+  },
+  {
+    "displayName": "[Wii] Midora",
+    "tag": "Wii",
+    "name": "Midora"
+  },
+  {
+    "displayName": "Mihawk",
+    "tag": null,
+    "name": "Mihawk"
+  },
+  {
+    "displayName": "[Wii] Molotov Mara",
+    "tag": "Wii",
+    "name": "Molotov Mara"
+  },
+  {
+    "displayName": "[Wii]Molotov Mara",
+    "tag": "Wii",
+    "name": "Molotov Mara"
+  },
+  {
+    "displayName": "[TAY]Molotov Mara",
+    "tag": "TAY",
+    "name": "Molotov Mara"
+  },
+  {
+    "displayName": "momo",
+    "tag": null,
+    "name": "momo"
+  },
+  {
+    "displayName": "[GOJO] momo13",
+    "tag": "GOJO",
+    "name": "momo13"
+  },
+  {
+    "displayName": "MomWasRight",
+    "tag": null,
+    "name": "MomWasRight"
+  },
+  {
+    "displayName": "[Wii] Monty Mole",
+    "tag": "Wii",
+    "name": "Monty Mole"
+  },
+  {
+    "displayName": "[Wii]Monty Mole",
+    "tag": "Wii",
+    "name": "Monty Mole"
+  },
+  {
+    "displayName": "[TAY]Mr Hoo",
+    "tag": "TAY",
+    "name": "Mr Hoo"
+  },
+  {
+    "displayName": "[Oogi] nagagurl",
+    "tag": "Oogi",
+    "name": "nagagurl"
+  },
+  {
+    "displayName": "Nagato",
+    "tag": null,
+    "name": "Nagato"
+  },
+  {
+    "displayName": "Nameless",
+    "tag": null,
+    "name": "Nameless"
+  },
+  {
+    "displayName": "[Wii] Nefertino",
+    "tag": "Wii",
+    "name": "Nefertino"
+  },
+  {
+    "displayName": "[D12] NerdyOrgan",
+    "tag": "D12",
+    "name": "NerdyOrgan"
+  },
+  {
+    "displayName": "[Wii] Nightmare",
+    "tag": "Wii",
+    "name": "Nightmare"
+  },
+  {
+    "displayName": "[Wii] NoMercy",
+    "tag": "Wii",
+    "name": "NoMercy"
+  },
+  {
+    "displayName": "[GOJO] ᴏʙɪᴛᴏ",
+    "tag": "GOJO",
+    "name": "ᴏʙɪᴛᴏ"
+  },
+  {
+    "displayName": "[wow] Panzanella",
+    "tag": "wow",
+    "name": "Panzanella"
+  },
+  {
+    "displayName": "[Wii] Peach",
+    "tag": "Wii",
+    "name": "Peach"
+  },
+  {
+    "displayName": "[SNES] Peach",
+    "tag": "SNES",
+    "name": "Peach"
+  },
+  {
+    "displayName": "[Wii]Peach",
+    "tag": "Wii",
+    "name": "Peach"
+  },
+  {
+    "displayName": "Prince ZŭKòu",
+    "tag": null,
+    "name": "Prince ZŭKòu"
+  },
+  {
+    "displayName": "Puffpillow",
+    "tag": null,
+    "name": "Puffpillow"
+  },
+  {
+    "displayName": "[Wii] PumaDRiley",
+    "tag": "Wii",
+    "name": "PumaDRiley"
+  },
+  {
+    "displayName": "[LOST] Rdam",
+    "tag": "LOST",
+    "name": "Rdam"
+  },
+  {
+    "displayName": "Red Star",
+    "tag": null,
+    "name": "Red Star"
+  },
+  {
+    "displayName": "[Wii] Redacted",
+    "tag": "Wii",
+    "name": "Redacted"
+  },
+  {
+    "displayName": "Rinus",
+    "tag": null,
+    "name": "Rinus"
+  },
+  {
+    "displayName": "Røse",
+    "tag": null,
+    "name": "Røse"
+  },
+  {
+    "displayName": "Sachent",
+    "tag": null,
+    "name": "Sachent"
+  },
+  {
+    "displayName": "[Wii] Schnubbi",
+    "tag": "Wii",
+    "name": "Schnubbi"
+  },
+  {
+    "displayName": "[KPOP]Schnubbi",
+    "tag": "KPOP",
+    "name": "Schnubbi"
+  },
+  {
+    "displayName": "[TAY]Schnubbi",
+    "tag": "TAY",
+    "name": "Schnubbi"
+  },
+  {
+    "displayName": "[ASC] seb",
+    "tag": "ASC",
+    "name": "seb"
+  },
+  {
+    "displayName": "[Wii] Shakex",
+    "tag": "Wii",
+    "name": "Shakex"
+  },
+  {
+    "displayName": "[Wii] ShyGuy",
+    "tag": "Wii",
+    "name": "ShyGuy"
+  },
+  {
+    "displayName": "[Wii]ShyGuy",
+    "tag": "Wii",
+    "name": "ShyGuy"
+  },
+  {
+    "displayName": "[Oogi] Silveriver",
+    "tag": "Oogi",
+    "name": "Silveriver"
+  },
+  {
+    "displayName": "[LOST] sippyjuice",
+    "tag": "LOST",
+    "name": "sippyjuice"
+  },
+  {
+    "displayName": "[Wii] Skard92",
+    "tag": "Wii",
+    "name": "Skard92"
+  },
+  {
+    "displayName": "[Wii] Sludge",
+    "tag": "Wii",
+    "name": "Sludge"
+  },
+  {
+    "displayName": "[Wii]Sludge",
+    "tag": "Wii",
+    "name": "Sludge"
+  },
+  {
+    "displayName": "SNAFU",
+    "tag": null,
+    "name": "SNAFU"
+  },
+  {
+    "displayName": "[Wii] SNAFU",
+    "tag": "Wii",
+    "name": "SNAFU"
+  },
+  {
+    "displayName": "[Wii] SOLO",
+    "tag": "Wii",
+    "name": "SOLO"
+  },
+  {
+    "displayName": "[TAY]SOLO",
+    "tag": "TAY",
+    "name": "SOLO"
+  },
+  {
+    "displayName": "[Wii] SOLO Peach",
+    "tag": "Wii",
+    "name": "SOLO Peach"
+  },
+  {
+    "displayName": "Sonic",
+    "tag": null,
+    "name": "Sonic"
+  },
+  {
+    "displayName": "[TAY]Stinully",
+    "tag": "TAY",
+    "name": "Stinully"
+  },
+  {
+    "displayName": "[LOST] Sumday41",
+    "tag": "LOST",
+    "name": "Sumday41"
+  },
+  {
+    "displayName": "[RIDΞ] SunCrusher",
+    "tag": "RIDΞ",
+    "name": "SunCrusher"
+  },
+  {
+    "displayName": "[GOJO] Takumi",
+    "tag": "GOJO",
+    "name": "Takumi"
+  },
+  {
+    "displayName": "[TAY]Tay Tay",
+    "tag": "TAY",
+    "name": "Tay Tay"
+  },
+  {
+    "displayName": "Thor21289",
+    "tag": null,
+    "name": "Thor21289"
+  },
+  {
+    "displayName": "[Wii] Toad",
+    "tag": "Wii",
+    "name": "Toad"
+  },
+  {
+    "displayName": "[Wii]Toad",
+    "tag": "Wii",
+    "name": "Toad"
+  },
+  {
+    "displayName": "Tyzula",
+    "tag": null,
+    "name": "Tyzula"
+  },
+  {
+    "displayName": "[Wii] UncleIHOL",
+    "tag": "Wii",
+    "name": "UncleIHOL"
+  },
+  {
+    "displayName": "Vaelyra",
+    "tag": null,
+    "name": "Vaelyra"
+  },
+  {
+    "displayName": "[Wii] Victoria",
+    "tag": "Wii",
+    "name": "Victoria"
+  },
+  {
+    "displayName": "[Wii] Wartz",
+    "tag": "Wii",
+    "name": "Wartz"
+  },
+  {
+    "displayName": "[Wii] yehara",
+    "tag": "Wii",
+    "name": "yehara"
+  },
+  {
+    "displayName": "Yerrrrr",
+    "tag": null,
+    "name": "Yerrrrr"
+  },
+  {
+    "displayName": "[Wii] Zackie",
+    "tag": "Wii",
+    "name": "Zackie"
+  }
+]

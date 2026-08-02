@@ -1,0 +1,887 @@
+[
+  {
+    "displayName": "[IRON] Admiral Zhao",
+    "tag": "IRON",
+    "name": "Admiral Zhao"
+  },
+  {
+    "displayName": "[MOON] Adria",
+    "tag": "MOON",
+    "name": "Adria"
+  },
+  {
+    "displayName": "[AFR] Adria",
+    "tag": "AFR",
+    "name": "Adria"
+  },
+  {
+    "displayName": "[MOON] Ahsoka Yoda",
+    "tag": "MOON",
+    "name": "Ahsoka Yoda"
+  },
+  {
+    "displayName": "[MOON] AhsokaYoda",
+    "tag": "MOON",
+    "name": "AhsokaYoda"
+  },
+  {
+    "displayName": "[AFR] AhsokaYoda",
+    "tag": "AFR",
+    "name": "AhsokaYoda"
+  },
+  {
+    "displayName": "[AFR]AhsokaYoda",
+    "tag": "AFR",
+    "name": "AhsokaYoda"
+  },
+  {
+    "displayName": "Alys",
+    "tag": null,
+    "name": "Alys"
+  },
+  {
+    "displayName": "[4NS] Appa",
+    "tag": "4NS",
+    "name": "Appa"
+  },
+  {
+    "displayName": "[MOON] Bartimėüs",
+    "tag": "MOON",
+    "name": "Bartimėüs"
+  },
+  {
+    "displayName": "[MOON] Battle",
+    "tag": "MOON",
+    "name": "Battle"
+  },
+  {
+    "displayName": "[AFR] Baxters",
+    "tag": "AFR",
+    "name": "Baxters"
+  },
+  {
+    "displayName": "[AFR]Baxters",
+    "tag": "AFR",
+    "name": "Baxters"
+  },
+  {
+    "displayName": "[IRON] Bea",
+    "tag": "IRON",
+    "name": "Bea"
+  },
+  {
+    "displayName": "[IRON]Bea",
+    "tag": "IRON",
+    "name": "Bea"
+  },
+  {
+    "displayName": "BJcrane95",
+    "tag": null,
+    "name": "BJcrane95"
+  },
+  {
+    "displayName": "blaster",
+    "tag": null,
+    "name": "blaster"
+  },
+  {
+    "displayName": "[MOON] blaster",
+    "tag": "MOON",
+    "name": "blaster"
+  },
+  {
+    "displayName": "[AFR] blaster",
+    "tag": "AFR",
+    "name": "blaster"
+  },
+  {
+    "displayName": "[AFR]blaster",
+    "tag": "AFR",
+    "name": "blaster"
+  },
+  {
+    "displayName": "BluePanda",
+    "tag": null,
+    "name": "BluePanda"
+  },
+  {
+    "displayName": "[IRON] Bpros5115",
+    "tag": "IRON",
+    "name": "Bpros5115"
+  },
+  {
+    "displayName": "[IRON]Bpros5115",
+    "tag": "IRON",
+    "name": "Bpros5115"
+  },
+  {
+    "displayName": "[IRON] BraddahGavin",
+    "tag": "IRON",
+    "name": "BraddahGavin"
+  },
+  {
+    "displayName": "[MOON] Calamity",
+    "tag": "MOON",
+    "name": "Calamity"
+  },
+  {
+    "displayName": "[AFR] Calamity",
+    "tag": "AFR",
+    "name": "Calamity"
+  },
+  {
+    "displayName": "[AFR]Calamity",
+    "tag": "AFR",
+    "name": "Calamity"
+  },
+  {
+    "displayName": "Carson",
+    "tag": null,
+    "name": "Carson"
+  },
+  {
+    "displayName": "[MOON] Catrin",
+    "tag": "MOON",
+    "name": "Catrin"
+  },
+  {
+    "displayName": "[MOON] ComradeCuffy",
+    "tag": "MOON",
+    "name": "ComradeCuffy"
+  },
+  {
+    "displayName": "[4NS] Crown Prince",
+    "tag": "4NS",
+    "name": "Crown Prince"
+  },
+  {
+    "displayName": "[S28D] DADDY",
+    "tag": "S28D",
+    "name": "DADDY"
+  },
+  {
+    "displayName": "[IRON] DaddyAbdar",
+    "tag": "IRON",
+    "name": "DaddyAbdar"
+  },
+  {
+    "displayName": "[4NS] DaG0BLIN",
+    "tag": "4NS",
+    "name": "DaG0BLIN"
+  },
+  {
+    "displayName": "[4NS]DaG0BLIN",
+    "tag": "4NS",
+    "name": "DaG0BLIN"
+  },
+  {
+    "displayName": "[4NS] DaGOBLIN",
+    "tag": "4NS",
+    "name": "DaGOBLIN"
+  },
+  {
+    "displayName": "[4NS]DaGOBLIN",
+    "tag": "4NS",
+    "name": "DaGOBLIN"
+  },
+  {
+    "displayName": "[IRON] DareDevil",
+    "tag": "IRON",
+    "name": "DareDevil"
+  },
+  {
+    "displayName": "[MOON] darkleooo",
+    "tag": "MOON",
+    "name": "darkleooo"
+  },
+  {
+    "displayName": "[MOON] Darrow",
+    "tag": "MOON",
+    "name": "Darrow"
+  },
+  {
+    "displayName": "[MOON] DealWithIt",
+    "tag": "MOON",
+    "name": "DealWithIt"
+  },
+  {
+    "displayName": "[IRON] Deanith",
+    "tag": "IRON",
+    "name": "Deanith"
+  },
+  {
+    "displayName": "[MOON] dekeq",
+    "tag": "MOON",
+    "name": "dekeq"
+  },
+  {
+    "displayName": "[MOON] DOMROY",
+    "tag": "MOON",
+    "name": "DOMROY"
+  },
+  {
+    "displayName": "[MOON] Draklar",
+    "tag": "MOON",
+    "name": "Draklar"
+  },
+  {
+    "displayName": "[MOON] Dydouwfrench",
+    "tag": "MOON",
+    "name": "Dydouwfrench"
+  },
+  {
+    "displayName": "[4NS] Eagle1982",
+    "tag": "4NS",
+    "name": "Eagle1982"
+  },
+  {
+    "displayName": "[MOON] EBuhdist",
+    "tag": "MOON",
+    "name": "EBuhdist"
+  },
+  {
+    "displayName": "[IRON] Eight",
+    "tag": "IRON",
+    "name": "Eight"
+  },
+  {
+    "displayName": "[IRON]Eight",
+    "tag": "IRON",
+    "name": "Eight"
+  },
+  {
+    "displayName": "[IRON] El Joseph",
+    "tag": "IRON",
+    "name": "El Joseph"
+  },
+  {
+    "displayName": "Ezreal",
+    "tag": null,
+    "name": "Ezreal"
+  },
+  {
+    "displayName": "[MOON] Finlay",
+    "tag": "MOON",
+    "name": "Finlay"
+  },
+  {
+    "displayName": "[MOON] FlameoHMan",
+    "tag": "MOON",
+    "name": "FlameoHMan"
+  },
+  {
+    "displayName": "[IRON] Flamme",
+    "tag": "IRON",
+    "name": "Flamme"
+  },
+  {
+    "displayName": "Flamme",
+    "tag": null,
+    "name": "Flamme"
+  },
+  {
+    "displayName": "[IRON] Floki",
+    "tag": "IRON",
+    "name": "Floki"
+  },
+  {
+    "displayName": "[SOAR] Gardist",
+    "tag": "SOAR",
+    "name": "Gardist"
+  },
+  {
+    "displayName": "[SOAR]Gardist",
+    "tag": "SOAR",
+    "name": "Gardist"
+  },
+  {
+    "displayName": "[4NS] Ghost Knight",
+    "tag": "4NS",
+    "name": "Ghost Knight"
+  },
+  {
+    "displayName": "[AFR] Ghøst X",
+    "tag": "AFR",
+    "name": "Ghøst X"
+  },
+  {
+    "displayName": "[AFR]GHσστ メ",
+    "tag": "AFR",
+    "name": "GHσστ メ"
+  },
+  {
+    "displayName": "[MOON] Gromlek",
+    "tag": "MOON",
+    "name": "Gromlek"
+  },
+  {
+    "displayName": "[MOON] GuamGuy",
+    "tag": "MOON",
+    "name": "GuamGuy"
+  },
+  {
+    "displayName": "[AFR] GΗσστ X",
+    "tag": "AFR",
+    "name": "GΗσστ X"
+  },
+  {
+    "displayName": "[AFR] GΗστ X",
+    "tag": "AFR",
+    "name": "GΗστ X"
+  },
+  {
+    "displayName": "[AFR] GΗστ Χ",
+    "tag": "AFR",
+    "name": "GΗστ Χ"
+  },
+  {
+    "displayName": "[AFR]GΗστ Χ",
+    "tag": "AFR",
+    "name": "GΗστ Χ"
+  },
+  {
+    "displayName": "[MOON] Hails",
+    "tag": "MOON",
+    "name": "Hails"
+  },
+  {
+    "displayName": "[IRON] Homeylaksh",
+    "tag": "IRON",
+    "name": "Homeylaksh"
+  },
+  {
+    "displayName": "[MOON] hreowan",
+    "tag": "MOON",
+    "name": "hreowan"
+  },
+  {
+    "displayName": "[IRON]Iika",
+    "tag": "IRON",
+    "name": "Iika"
+  },
+  {
+    "displayName": "[ØPR] ImperatØr",
+    "tag": "ØPR",
+    "name": "ImperatØr"
+  },
+  {
+    "displayName": "[IRON] IMPERATOR S",
+    "tag": "IRON",
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "IMPERATOR S",
+    "tag": null,
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "[MTY] IMPERATOR S",
+    "tag": "MTY",
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "[4NS] IMPERATOR S",
+    "tag": "4NS",
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "[MYTH] IMPERATOR S",
+    "tag": "MYTH",
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "[FoEl]IMPERATOR S",
+    "tag": "FoEl",
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "[AFR]IMPERATOR S",
+    "tag": "AFR",
+    "name": "IMPERATOR S"
+  },
+  {
+    "displayName": "[FOX] IMPREGNATOR",
+    "tag": "FOX",
+    "name": "IMPREGNATOR"
+  },
+  {
+    "displayName": "[IRON] IRON PALADIN",
+    "tag": "IRON",
+    "name": "IRON PALADIN"
+  },
+  {
+    "displayName": "[IRON] IRONWATCHER",
+    "tag": "IRON",
+    "name": "IRONWATCHER"
+  },
+  {
+    "displayName": "[MOON] Ismail1724",
+    "tag": "MOON",
+    "name": "Ismail1724"
+  },
+  {
+    "displayName": "[AFR] Ismail1724",
+    "tag": "AFR",
+    "name": "Ismail1724"
+  },
+  {
+    "displayName": "[AFR]Ismail1724",
+    "tag": "AFR",
+    "name": "Ismail1724"
+  },
+  {
+    "displayName": "[Bean] jadedbean",
+    "tag": "Bean",
+    "name": "jadedbean"
+  },
+  {
+    "displayName": "[Wood] Katie",
+    "tag": "Wood",
+    "name": "Katie"
+  },
+  {
+    "displayName": "[MOON] kaywhy",
+    "tag": "MOON",
+    "name": "kaywhy"
+  },
+  {
+    "displayName": "[MOON] keizerMilan",
+    "tag": "MOON",
+    "name": "keizerMilan"
+  },
+  {
+    "displayName": "[MOON] Korray",
+    "tag": "MOON",
+    "name": "Korray"
+  },
+  {
+    "displayName": "[IRON] kuzon",
+    "tag": "IRON",
+    "name": "kuzon"
+  },
+  {
+    "displayName": "[IRON] kUZON",
+    "tag": "IRON",
+    "name": "kUZON"
+  },
+  {
+    "displayName": "[IRON] KUZON",
+    "tag": "IRON",
+    "name": "KUZON"
+  },
+  {
+    "displayName": "[IRON] ᴋᴜzᴏɴ",
+    "tag": "IRON",
+    "name": "ᴋᴜzᴏɴ"
+  },
+  {
+    "displayName": "[MOON] Le Leader",
+    "tag": "MOON",
+    "name": "Le Leader"
+  },
+  {
+    "displayName": "[IRON] Leodamian",
+    "tag": "IRON",
+    "name": "Leodamian"
+  },
+  {
+    "displayName": "[IRON] leukocyte",
+    "tag": "IRON",
+    "name": "leukocyte"
+  },
+  {
+    "displayName": "[IRON] liika",
+    "tag": "IRON",
+    "name": "liika"
+  },
+  {
+    "displayName": "[IRON] lika",
+    "tag": "IRON",
+    "name": "lika"
+  },
+  {
+    "displayName": "[IRON]lika",
+    "tag": "IRON",
+    "name": "lika"
+  },
+  {
+    "displayName": "[IRON] lilMaster",
+    "tag": "IRON",
+    "name": "lilMaster"
+  },
+  {
+    "displayName": "[IRON]lilMaster",
+    "tag": "IRON",
+    "name": "lilMaster"
+  },
+  {
+    "displayName": "Loki",
+    "tag": null,
+    "name": "Loki"
+  },
+  {
+    "displayName": "[IRON]Loki",
+    "tag": "IRON",
+    "name": "Loki"
+  },
+  {
+    "displayName": "[SOAR] LOST Duck",
+    "tag": "SOAR",
+    "name": "LOST Duck"
+  },
+  {
+    "displayName": "[MOON] LOST Duck",
+    "tag": "MOON",
+    "name": "LOST Duck"
+  },
+  {
+    "displayName": "[AFR] LOST Duck",
+    "tag": "AFR",
+    "name": "LOST Duck"
+  },
+  {
+    "displayName": "[AFR]LOST Duck",
+    "tag": "AFR",
+    "name": "LOST Duck"
+  },
+  {
+    "displayName": "[SOAR] LOST Ducki",
+    "tag": "SOAR",
+    "name": "LOST Ducki"
+  },
+  {
+    "displayName": "[IRON] ʎpǝǝdS",
+    "tag": "IRON",
+    "name": "ʎpǝǝdS"
+  },
+  {
+    "displayName": "[IRON] Mad Dog",
+    "tag": "IRON",
+    "name": "Mad Dog"
+  },
+  {
+    "displayName": "[MTY] MAKIMA",
+    "tag": "MTY",
+    "name": "MAKIMA"
+  },
+  {
+    "displayName": "[MOON] mbarr",
+    "tag": "MOON",
+    "name": "mbarr"
+  },
+  {
+    "displayName": "[MOON] minicoffln",
+    "tag": "MOON",
+    "name": "minicoffln"
+  },
+  {
+    "displayName": "[IRON] MłŁFSŁAYER",
+    "tag": "IRON",
+    "name": "MłŁFSŁAYER"
+  },
+  {
+    "displayName": "Montiew",
+    "tag": null,
+    "name": "Montiew"
+  },
+  {
+    "displayName": "[IRON] N Armstrong",
+    "tag": "IRON",
+    "name": "N Armstrong"
+  },
+  {
+    "displayName": "[MOON] Nefti",
+    "tag": "MOON",
+    "name": "Nefti"
+  },
+  {
+    "displayName": "[IRON] Nezuko",
+    "tag": "IRON",
+    "name": "Nezuko"
+  },
+  {
+    "displayName": "[IRON] Ø D I N",
+    "tag": "IRON",
+    "name": "Ø D I N"
+  },
+  {
+    "displayName": "[IRON] Ø D I N 火",
+    "tag": "IRON",
+    "name": "Ø D I N 火"
+  },
+  {
+    "displayName": "[IRON] Ø D I N火",
+    "tag": "IRON",
+    "name": "Ø D I N火"
+  },
+  {
+    "displayName": "[IRON] Ø DIN",
+    "tag": "IRON",
+    "name": "Ø DIN"
+  },
+  {
+    "displayName": "[IRON] ØDIN 火",
+    "tag": "IRON",
+    "name": "ØDIN 火"
+  },
+  {
+    "displayName": "[IRON]ØDIN 火",
+    "tag": "IRON",
+    "name": "ØDIN 火"
+  },
+  {
+    "displayName": "[4NS] ondaroks",
+    "tag": "4NS",
+    "name": "ondaroks"
+  },
+  {
+    "displayName": "[4NS] Pebloto",
+    "tag": "4NS",
+    "name": "Pebloto"
+  },
+  {
+    "displayName": "[IRON] Pédaloose",
+    "tag": "IRON",
+    "name": "Pédaloose"
+  },
+  {
+    "displayName": "Pėdaloose",
+    "tag": null,
+    "name": "Pėdaloose"
+  },
+  {
+    "displayName": "[4NS] portolexus",
+    "tag": "4NS",
+    "name": "portolexus"
+  },
+  {
+    "displayName": "[4NS] Princess Pam",
+    "tag": "4NS",
+    "name": "Princess Pam"
+  },
+  {
+    "displayName": "[SOAR] Rappiti",
+    "tag": "SOAR",
+    "name": "Rappiti"
+  },
+  {
+    "displayName": "[IRON] Rbff",
+    "tag": "IRON",
+    "name": "Rbff"
+  },
+  {
+    "displayName": "[IRON] Rhubarb",
+    "tag": "IRON",
+    "name": "Rhubarb"
+  },
+  {
+    "displayName": "Rin",
+    "tag": null,
+    "name": "Rin"
+  },
+  {
+    "displayName": "[MOON] Rinaeve",
+    "tag": "MOON",
+    "name": "Rinaeve"
+  },
+  {
+    "displayName": "[AFR] Rinaeve",
+    "tag": "AFR",
+    "name": "Rinaeve"
+  },
+  {
+    "displayName": "[MOON] ruqayyahh",
+    "tag": "MOON",
+    "name": "ruqayyahh"
+  },
+  {
+    "displayName": "[IRON] S0yunmagito",
+    "tag": "IRON",
+    "name": "S0yunmagito"
+  },
+  {
+    "displayName": "[MOON] Samarcande",
+    "tag": "MOON",
+    "name": "Samarcande"
+  },
+  {
+    "displayName": "[IRON] Samurai Hana",
+    "tag": "IRON",
+    "name": "Samurai Hana"
+  },
+  {
+    "displayName": "[CH8] Samurai Hana",
+    "tag": "CH8",
+    "name": "Samurai Hana"
+  },
+  {
+    "displayName": "[4NS] Samurai Hana",
+    "tag": "4NS",
+    "name": "Samurai Hana"
+  },
+  {
+    "displayName": "[4NS]Samurai Hana",
+    "tag": "4NS",
+    "name": "Samurai Hana"
+  },
+  {
+    "displayName": "Scoop",
+    "tag": null,
+    "name": "Scoop"
+  },
+  {
+    "displayName": "[IRON]Scoop",
+    "tag": "IRON",
+    "name": "Scoop"
+  },
+  {
+    "displayName": "[IRON] SehlamCCC",
+    "tag": "IRON",
+    "name": "SehlamCCC"
+  },
+  {
+    "displayName": "Shaanic",
+    "tag": null,
+    "name": "Shaanic"
+  },
+  {
+    "displayName": "[IRON] SILENTTRIGER",
+    "tag": "IRON",
+    "name": "SILENTTRIGER"
+  },
+  {
+    "displayName": "[IRON] Solus",
+    "tag": "IRON",
+    "name": "Solus"
+  },
+  {
+    "displayName": "[IRON]Solus",
+    "tag": "IRON",
+    "name": "Solus"
+  },
+  {
+    "displayName": "[IRON] SpkySpkyBoom",
+    "tag": "IRON",
+    "name": "SpkySpkyBoom"
+  },
+  {
+    "displayName": "[IRON] starrfire",
+    "tag": "IRON",
+    "name": "starrfire"
+  },
+  {
+    "displayName": "Tawny",
+    "tag": null,
+    "name": "Tawny"
+  },
+  {
+    "displayName": "[MOON] TheBest",
+    "tag": "MOON",
+    "name": "TheBest"
+  },
+  {
+    "displayName": "[IRON] Thoros Mini",
+    "tag": "IRON",
+    "name": "Thoros Mini"
+  },
+  {
+    "displayName": "[Z0N] Tommy Egan",
+    "tag": "Z0N",
+    "name": "Tommy Egan"
+  },
+  {
+    "displayName": "[ZON] Tommy Egan",
+    "tag": "ZON",
+    "name": "Tommy Egan"
+  },
+  {
+    "displayName": "[MOON] Týr",
+    "tag": "MOON",
+    "name": "Týr"
+  },
+  {
+    "displayName": "[20AR] Týr",
+    "tag": "20AR",
+    "name": "Týr"
+  },
+  {
+    "displayName": "[MOON] ValenSynth",
+    "tag": "MOON",
+    "name": "ValenSynth"
+  },
+  {
+    "displayName": "[IRON] Vegeta",
+    "tag": "IRON",
+    "name": "Vegeta"
+  },
+  {
+    "displayName": "[MOON] Veronika",
+    "tag": "MOON",
+    "name": "Veronika"
+  },
+  {
+    "displayName": "[AFR] Veronika",
+    "tag": "AFR",
+    "name": "Veronika"
+  },
+  {
+    "displayName": "Vove",
+    "tag": null,
+    "name": "Vove"
+  },
+  {
+    "displayName": "[MOON] VSGH",
+    "tag": "MOON",
+    "name": "VSGH"
+  },
+  {
+    "displayName": "[MOON] WECUBURNTUP",
+    "tag": "MOON",
+    "name": "WECUBURNTUP"
+  },
+  {
+    "displayName": "[IRON] XH DRBZ",
+    "tag": "IRON",
+    "name": "XH DRBZ"
+  },
+  {
+    "displayName": "Yeshai",
+    "tag": null,
+    "name": "Yeshai"
+  },
+  {
+    "displayName": "[MOON] Yuu",
+    "tag": "MOON",
+    "name": "Yuu"
+  },
+  {
+    "displayName": "[AFR] Yuu",
+    "tag": "AFR",
+    "name": "Yuu"
+  },
+  {
+    "displayName": "[AFR]Yuu",
+    "tag": "AFR",
+    "name": "Yuu"
+  },
+  {
+    "displayName": "[IRON] Zeúš",
+    "tag": "IRON",
+    "name": "Zeúš"
+  },
+  {
+    "displayName": "[MOON] γυυ",
+    "tag": "MOON",
+    "name": "γυυ"
+  },
+  {
+    "displayName": "[IRON] Ζεύς",
+    "tag": "IRON",
+    "name": "Ζεύς"
+  },
+  {
+    "displayName": "[IRON]Ζεύς",
+    "tag": "IRON",
+    "name": "Ζεύς"
+  }
+]

@@ -45,11 +45,15 @@ const [loadingServers, setLoadingServers] = useState(true);
   setPlayersLoaded(false);
 
   getPlayersByServer(server)
-    .then((data) => {
-      setPlayers(data);
-      setFilteredPlayers(data);
-      setPlayersLoaded(true);
-    })
+  .then((data) => {
+
+    console.log("Players loaded:", data.length);
+    console.log(data.slice(0, 5));
+
+    setPlayers(data);
+    setFilteredPlayers(data);
+    setPlayersLoaded(true);
+  })
     .catch(console.error)
     .finally(() => {
       setLoadingPlayers(false);
@@ -82,11 +86,7 @@ const [loadingServers, setLoadingServers] = useState(true);
 
   setLoadingHistory(true);
 
-  console.log("Generate History clicked");
-
-  console.log(
-    selectedPlayers.map((player) => player.displayName)
-  );
+  
 
   try {
     const data = await getGrowthHistory({
@@ -97,13 +97,13 @@ const [loadingServers, setLoadingServers] = useState(true);
       ),
     });
 
-    console.log("API Response:", data);
+
 
     setHistory(data);
     setLoadingHistory(false);
 
   } catch (err) {
-    console.error("API ERROR:", err);
+
 
     setLoadingHistory(false);
   }

@@ -1,0 +1,502 @@
+[
+  {
+    "displayName": "[DxL] AntiPower",
+    "tag": "DxL",
+    "name": "AntiPower"
+  },
+  {
+    "displayName": "[CTRL] Aphryus",
+    "tag": "CTRL",
+    "name": "Aphryus"
+  },
+  {
+    "displayName": "[DxL] Archi",
+    "tag": "DxL",
+    "name": "Archi"
+  },
+  {
+    "displayName": "[DxL] Arios",
+    "tag": "DxL",
+    "name": "Arios"
+  },
+  {
+    "displayName": "[CTRL] Arkin",
+    "tag": "CTRL",
+    "name": "Arkin"
+  },
+  {
+    "displayName": "[CTRL] BabYöda",
+    "tag": "CTRL",
+    "name": "BabYöda"
+  },
+  {
+    "displayName": "[DxL] Bijou",
+    "tag": "DxL",
+    "name": "Bijou"
+  },
+  {
+    "displayName": "[CTRL] Blo0dy Sage",
+    "tag": "CTRL",
+    "name": "Blo0dy Sage"
+  },
+  {
+    "displayName": "[CTRL] Boloolo",
+    "tag": "CTRL",
+    "name": "Boloolo"
+  },
+  {
+    "displayName": "[DxL] coro",
+    "tag": "DxL",
+    "name": "coro"
+  },
+  {
+    "displayName": "[DxL] Curio",
+    "tag": "DxL",
+    "name": "Curio"
+  },
+  {
+    "displayName": "[CTRL] DarthBentley",
+    "tag": "CTRL",
+    "name": "DarthBentley"
+  },
+  {
+    "displayName": "[DxL] Deity不知道",
+    "tag": "DxL",
+    "name": "Deity不知道"
+  },
+  {
+    "displayName": "[HAWT] dendelyne",
+    "tag": "HAWT",
+    "name": "dendelyne"
+  },
+  {
+    "displayName": "[DxL] DktrDynamite",
+    "tag": "DxL",
+    "name": "DktrDynamite"
+  },
+  {
+    "displayName": "[HAWT] Dragon Rider",
+    "tag": "HAWT",
+    "name": "Dragon Rider"
+  },
+  {
+    "displayName": "[DxL] Dragonaard",
+    "tag": "DxL",
+    "name": "Dragonaard"
+  },
+  {
+    "displayName": "[DxL] Drhyan",
+    "tag": "DxL",
+    "name": "Drhyan"
+  },
+  {
+    "displayName": "[CDXX] ExMouse",
+    "tag": "CDXX",
+    "name": "ExMouse"
+  },
+  {
+    "displayName": "[CTRL] Failing",
+    "tag": "CTRL",
+    "name": "Failing"
+  },
+  {
+    "displayName": "[CTRL] FearNinja",
+    "tag": "CTRL",
+    "name": "FearNinja"
+  },
+  {
+    "displayName": "[CTRL] Fenix",
+    "tag": "CTRL",
+    "name": "Fenix"
+  },
+  {
+    "displayName": "[DxL] Frizyn",
+    "tag": "DxL",
+    "name": "Frizyn"
+  },
+  {
+    "displayName": "[DxL] FuriousStorm",
+    "tag": "DxL",
+    "name": "FuriousStorm"
+  },
+  {
+    "displayName": "[CTRL] General",
+    "tag": "CTRL",
+    "name": "General"
+  },
+  {
+    "displayName": "[DxL] giselle",
+    "tag": "DxL",
+    "name": "giselle"
+  },
+  {
+    "displayName": "[CTRL] GRIMJOWW",
+    "tag": "CTRL",
+    "name": "GRIMJOWW"
+  },
+  {
+    "displayName": "[CTRL] Gunter",
+    "tag": "CTRL",
+    "name": "Gunter"
+  },
+  {
+    "displayName": "[CTRL] hitsou",
+    "tag": "CTRL",
+    "name": "hitsou"
+  },
+  {
+    "displayName": "[CTRL] ᴵᴬᴹsтяєss",
+    "tag": "CTRL",
+    "name": "ᴵᴬᴹsтяєss"
+  },
+  {
+    "displayName": "[CTRL] jo123",
+    "tag": "CTRL",
+    "name": "jo123"
+  },
+  {
+    "displayName": "[DxL] John",
+    "tag": "DxL",
+    "name": "John"
+  },
+  {
+    "displayName": "Jojo",
+    "tag": null,
+    "name": "Jojo"
+  },
+  {
+    "displayName": "[DxL] Ka Leeb",
+    "tag": "DxL",
+    "name": "Ka Leeb"
+  },
+  {
+    "displayName": "[HAWT] Kaeluub",
+    "tag": "HAWT",
+    "name": "Kaeluub"
+  },
+  {
+    "displayName": "[DxL] King Mickey",
+    "tag": "DxL",
+    "name": "King Mickey"
+  },
+  {
+    "displayName": "[DxL] ksruch",
+    "tag": "DxL",
+    "name": "ksruch"
+  },
+  {
+    "displayName": "[CTRL] Lagreñuda",
+    "tag": "CTRL",
+    "name": "Lagreñuda"
+  },
+  {
+    "displayName": "[CTRL] laniakea",
+    "tag": "CTRL",
+    "name": "laniakea"
+  },
+  {
+    "displayName": "[DxL] LauT53",
+    "tag": "DxL",
+    "name": "LauT53"
+  },
+  {
+    "displayName": "[DxL] Lotus Dan",
+    "tag": "DxL",
+    "name": "Lotus Dan"
+  },
+  {
+    "displayName": "[DxL] Lucifer 00",
+    "tag": "DxL",
+    "name": "Lucifer 00"
+  },
+  {
+    "displayName": "[CTRL] Mako",
+    "tag": "CTRL",
+    "name": "Mako"
+  },
+  {
+    "displayName": "[CTRL] Manarags",
+    "tag": "CTRL",
+    "name": "Manarags"
+  },
+  {
+    "displayName": "[DxL] Maryse",
+    "tag": "DxL",
+    "name": "Maryse"
+  },
+  {
+    "displayName": "[CTRL] Mermaid man",
+    "tag": "CTRL",
+    "name": "Mermaid man"
+  },
+  {
+    "displayName": "[CTRL] Mighty Duck",
+    "tag": "CTRL",
+    "name": "Mighty Duck"
+  },
+  {
+    "displayName": "[CTRL] Mini Vandaele",
+    "tag": "CTRL",
+    "name": "Mini Vandaele"
+  },
+  {
+    "displayName": "[DxL] Mona",
+    "tag": "DxL",
+    "name": "Mona"
+  },
+  {
+    "displayName": "[CDXX] MrWaxx",
+    "tag": "CDXX",
+    "name": "MrWaxx"
+  },
+  {
+    "displayName": "[DxL] Mumble",
+    "tag": "DxL",
+    "name": "Mumble"
+  },
+  {
+    "displayName": "[DxL] Muten Röshi",
+    "tag": "DxL",
+    "name": "Muten Röshi"
+  },
+  {
+    "displayName": "[CDXX] NoFace",
+    "tag": "CDXX",
+    "name": "NoFace"
+  },
+  {
+    "displayName": "[Skyc] OGavatar",
+    "tag": "Skyc",
+    "name": "OGavatar"
+  },
+  {
+    "displayName": "OnlyKaas",
+    "tag": null,
+    "name": "OnlyKaas"
+  },
+  {
+    "displayName": "[CTRL] Oscar",
+    "tag": "CTRL",
+    "name": "Oscar"
+  },
+  {
+    "displayName": "[CDXX] pablobcs",
+    "tag": "CDXX",
+    "name": "pablobcs"
+  },
+  {
+    "displayName": "[DxL] Patsy",
+    "tag": "DxL",
+    "name": "Patsy"
+  },
+  {
+    "displayName": "[CTRL] Penguama",
+    "tag": "CTRL",
+    "name": "Penguama"
+  },
+  {
+    "displayName": "[CTRL] pied stilt",
+    "tag": "CTRL",
+    "name": "pied stilt"
+  },
+  {
+    "displayName": "[DxL] pikachu86",
+    "tag": "DxL",
+    "name": "pikachu86"
+  },
+  {
+    "displayName": "[CTRL] Pirate",
+    "tag": "CTRL",
+    "name": "Pirate"
+  },
+  {
+    "displayName": "[DxL] Pit07",
+    "tag": "DxL",
+    "name": "Pit07"
+  },
+  {
+    "displayName": "[DxL] Prince Bando",
+    "tag": "DxL",
+    "name": "Prince Bando"
+  },
+  {
+    "displayName": "[CTRL] ProfesorSage",
+    "tag": "CTRL",
+    "name": "ProfesorSage"
+  },
+  {
+    "displayName": "[DxL] QueenTyzula",
+    "tag": "DxL",
+    "name": "QueenTyzula"
+  },
+  {
+    "displayName": "[DxL] Ravenna",
+    "tag": "DxL",
+    "name": "Ravenna"
+  },
+  {
+    "displayName": "[SKYC] RealFireLord",
+    "tag": "SKYC",
+    "name": "RealFireLord"
+  },
+  {
+    "displayName": "[CDXX] RonnyRaeudig",
+    "tag": "CDXX",
+    "name": "RonnyRaeudig"
+  },
+  {
+    "displayName": "[CDXX] Rooster",
+    "tag": "CDXX",
+    "name": "Rooster"
+  },
+  {
+    "displayName": "[CTRL] Sabahoy",
+    "tag": "CTRL",
+    "name": "Sabahoy"
+  },
+  {
+    "displayName": "[CTRL] Sage Chris",
+    "tag": "CTRL",
+    "name": "Sage Chris"
+  },
+  {
+    "displayName": "[CTRL] Sage Gui",
+    "tag": "CTRL",
+    "name": "Sage Gui"
+  },
+  {
+    "displayName": "[CTRL] Sage Inigo",
+    "tag": "CTRL",
+    "name": "Sage Inigo"
+  },
+  {
+    "displayName": "[CTRL] Sage Nelse",
+    "tag": "CTRL",
+    "name": "Sage Nelse"
+  },
+  {
+    "displayName": "[DxL] Sage Oooofda",
+    "tag": "DxL",
+    "name": "Sage Oooofda"
+  },
+  {
+    "displayName": "[CTRL] Sage Selene",
+    "tag": "CTRL",
+    "name": "Sage Selene"
+  },
+  {
+    "displayName": "[CTRL] Sage Todd",
+    "tag": "CTRL",
+    "name": "Sage Todd"
+  },
+  {
+    "displayName": "[CDXX] Sage Waxx On",
+    "tag": "CDXX",
+    "name": "Sage Waxx On"
+  },
+  {
+    "displayName": "[CTRL] SagePrinSess",
+    "tag": "CTRL",
+    "name": "SagePrinSess"
+  },
+  {
+    "displayName": "[DxL] Snurfel",
+    "tag": "DxL",
+    "name": "Snurfel"
+  },
+  {
+    "displayName": "[DxL] Socha",
+    "tag": "DxL",
+    "name": "Socha"
+  },
+  {
+    "displayName": "[DxL] Sophilo",
+    "tag": "DxL",
+    "name": "Sophilo"
+  },
+  {
+    "displayName": "[CTRL] Sr Airfryer",
+    "tag": "CTRL",
+    "name": "Sr Airfryer"
+  },
+  {
+    "displayName": "Stormblessed",
+    "tag": null,
+    "name": "Stormblessed"
+  },
+  {
+    "displayName": "[CTRL] Strimpy",
+    "tag": "CTRL",
+    "name": "Strimpy"
+  },
+  {
+    "displayName": "[CTRL] Tammuz",
+    "tag": "CTRL",
+    "name": "Tammuz"
+  },
+  {
+    "displayName": "[CTRL] Tann3r9",
+    "tag": "CTRL",
+    "name": "Tann3r9"
+  },
+  {
+    "displayName": "[SKYC] The Sun God",
+    "tag": "SKYC",
+    "name": "The Sun God"
+  },
+  {
+    "displayName": "[DxL] TheFrog",
+    "tag": "DxL",
+    "name": "TheFrog"
+  },
+  {
+    "displayName": "[DxL] Tolgy",
+    "tag": "DxL",
+    "name": "Tolgy"
+  },
+  {
+    "displayName": "[CTRL] Tortuga",
+    "tag": "CTRL",
+    "name": "Tortuga"
+  },
+  {
+    "displayName": "[CTRL] Trombenta",
+    "tag": "CTRL",
+    "name": "Trombenta"
+  },
+  {
+    "displayName": "[CTRL] Truby",
+    "tag": "CTRL",
+    "name": "Truby"
+  },
+  {
+    "displayName": "[CDXX] VegaZ",
+    "tag": "CDXX",
+    "name": "VegaZ"
+  },
+  {
+    "displayName": "[CTRL] wallverine",
+    "tag": "CTRL",
+    "name": "wallverine"
+  },
+  {
+    "displayName": "[SUV] Whack",
+    "tag": "SUV",
+    "name": "Whack"
+  },
+  {
+    "displayName": "[CTRL] Wylacchian",
+    "tag": "CTRL",
+    "name": "Wylacchian"
+  },
+  {
+    "displayName": "[CTRL] xSYXx",
+    "tag": "CTRL",
+    "name": "xSYXx"
+  },
+  {
+    "displayName": "[CDXX] 嘉Balance",
+    "tag": "CDXX",
+    "name": "嘉Balance"
+  }
+]

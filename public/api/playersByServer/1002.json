@@ -1,0 +1,672 @@
+[
+  {
+    "displayName": "[APPA] 0x41Li",
+    "tag": "APPA",
+    "name": "0x41Li"
+  },
+  {
+    "displayName": "[AGNI] AldnRecharge",
+    "tag": "AGNI",
+    "name": "AldnRecharge"
+  },
+  {
+    "displayName": "[NOVA] Alfonso18",
+    "tag": "NOVA",
+    "name": "Alfonso18"
+  },
+  {
+    "displayName": "[AGNI] APO",
+    "tag": "AGNI",
+    "name": "APO"
+  },
+  {
+    "displayName": "[NOVA] Archietect",
+    "tag": "NOVA",
+    "name": "Archietect"
+  },
+  {
+    "displayName": "[AGNI] ASWANG",
+    "tag": "AGNI",
+    "name": "ASWANG"
+  },
+  {
+    "displayName": "[AGNI] Attackonsuga",
+    "tag": "AGNI",
+    "name": "Attackonsuga"
+  },
+  {
+    "displayName": "[NOVA] Attackonsuga",
+    "tag": "NOVA",
+    "name": "Attackonsuga"
+  },
+  {
+    "displayName": "[AGNI]Attackonsuga",
+    "tag": "AGNI",
+    "name": "Attackonsuga"
+  },
+  {
+    "displayName": "[AGNI] Azuløn",
+    "tag": "AGNI",
+    "name": "Azuløn"
+  },
+  {
+    "displayName": "[NOVA] Azuløn",
+    "tag": "NOVA",
+    "name": "Azuløn"
+  },
+  {
+    "displayName": "[AGNI] AzulØn",
+    "tag": "AGNI",
+    "name": "AzulØn"
+  },
+  {
+    "displayName": "[NOVA] AzulØn",
+    "tag": "NOVA",
+    "name": "AzulØn"
+  },
+  {
+    "displayName": "[NOVA]AzulØn",
+    "tag": "NOVA",
+    "name": "AzulØn"
+  },
+  {
+    "displayName": "[NOVA] Ba sing se",
+    "tag": "NOVA",
+    "name": "Ba sing se"
+  },
+  {
+    "displayName": "[APPA] Babinski",
+    "tag": "APPA",
+    "name": "Babinski"
+  },
+  {
+    "displayName": "Bane",
+    "tag": null,
+    "name": "Bane"
+  },
+  {
+    "displayName": "[AGNI] Bellona",
+    "tag": "AGNI",
+    "name": "Bellona"
+  },
+  {
+    "displayName": "[AGNI] Bini Baloi",
+    "tag": "AGNI",
+    "name": "Bini Baloi"
+  },
+  {
+    "displayName": "[AGNI] BK228",
+    "tag": "AGNI",
+    "name": "BK228"
+  },
+  {
+    "displayName": "Borre Shadow",
+    "tag": null,
+    "name": "Borre Shadow"
+  },
+  {
+    "displayName": "Borte",
+    "tag": null,
+    "name": "Borte"
+  },
+  {
+    "displayName": "[AGNI] Botinion 302",
+    "tag": "AGNI",
+    "name": "Botinion 302"
+  },
+  {
+    "displayName": "[NOVA] Brunno Black",
+    "tag": "NOVA",
+    "name": "Brunno Black"
+  },
+  {
+    "displayName": "[NOVA]Brunno Black",
+    "tag": "NOVA",
+    "name": "Brunno Black"
+  },
+  {
+    "displayName": "[AGNI] Burn",
+    "tag": "AGNI",
+    "name": "Burn"
+  },
+  {
+    "displayName": "[AGNI] chacatalá",
+    "tag": "AGNI",
+    "name": "chacatalá"
+  },
+  {
+    "displayName": "[AGNI]chacatalá",
+    "tag": "AGNI",
+    "name": "chacatalá"
+  },
+  {
+    "displayName": "chamelion",
+    "tag": null,
+    "name": "chamelion"
+  },
+  {
+    "displayName": "[NOVA] Cole",
+    "tag": "NOVA",
+    "name": "Cole"
+  },
+  {
+    "displayName": "[NOVA] Cupcake",
+    "tag": "NOVA",
+    "name": "Cupcake"
+  },
+  {
+    "displayName": "Dabi Afton",
+    "tag": null,
+    "name": "Dabi Afton"
+  },
+  {
+    "displayName": "[NOVA] Danrego",
+    "tag": "NOVA",
+    "name": "Danrego"
+  },
+  {
+    "displayName": "[NOVA] Draphix",
+    "tag": "NOVA",
+    "name": "Draphix"
+  },
+  {
+    "displayName": "[AGNI] Dudan S",
+    "tag": "AGNI",
+    "name": "Dudan S"
+  },
+  {
+    "displayName": "educam",
+    "tag": null,
+    "name": "educam"
+  },
+  {
+    "displayName": "Eiru",
+    "tag": null,
+    "name": "Eiru"
+  },
+  {
+    "displayName": "[2137] EmonNguyen",
+    "tag": "2137",
+    "name": "EmonNguyen"
+  },
+  {
+    "displayName": "[AGNI] First Winter",
+    "tag": "AGNI",
+    "name": "First Winter"
+  },
+  {
+    "displayName": "GAMBLAND",
+    "tag": null,
+    "name": "GAMBLAND"
+  },
+  {
+    "displayName": "[2137] Gelo",
+    "tag": "2137",
+    "name": "Gelo"
+  },
+  {
+    "displayName": "[SAGE] Gelo15",
+    "tag": "SAGE",
+    "name": "Gelo15"
+  },
+  {
+    "displayName": "GeneralIroh",
+    "tag": null,
+    "name": "GeneralIroh"
+  },
+  {
+    "displayName": "[APPA] Hebekore",
+    "tag": "APPA",
+    "name": "Hebekore"
+  },
+  {
+    "displayName": "[AGNI] hellram",
+    "tag": "AGNI",
+    "name": "hellram"
+  },
+  {
+    "displayName": "HÖ Rï",
+    "tag": null,
+    "name": "HÖ Rï"
+  },
+  {
+    "displayName": "[AGNI] ICE",
+    "tag": "AGNI",
+    "name": "ICE"
+  },
+  {
+    "displayName": "Izumi v2",
+    "tag": null,
+    "name": "Izumi v2"
+  },
+  {
+    "displayName": "[2137] IzumiHue",
+    "tag": "2137",
+    "name": "IzumiHue"
+  },
+  {
+    "displayName": "[NOVA] jeankel",
+    "tag": "NOVA",
+    "name": "jeankel"
+  },
+  {
+    "displayName": "[AGNI] jigokuram",
+    "tag": "AGNI",
+    "name": "jigokuram"
+  },
+  {
+    "displayName": "[AGNI]jigokuram",
+    "tag": "AGNI",
+    "name": "jigokuram"
+  },
+  {
+    "displayName": "[LAT] Jr Rdz",
+    "tag": "LAT",
+    "name": "Jr Rdz"
+  },
+  {
+    "displayName": "[2137] Julia516",
+    "tag": "2137",
+    "name": "Julia516"
+  },
+  {
+    "displayName": "[AGNI] KaelBern",
+    "tag": "AGNI",
+    "name": "KaelBern"
+  },
+  {
+    "displayName": "[AGNI] KaelumBern",
+    "tag": "AGNI",
+    "name": "KaelumBern"
+  },
+  {
+    "displayName": "[AGNI]KaelumBern",
+    "tag": "AGNI",
+    "name": "KaelumBern"
+  },
+  {
+    "displayName": "[NOVA] Karzelek1384",
+    "tag": "NOVA",
+    "name": "Karzelek1384"
+  },
+  {
+    "displayName": "Kenat",
+    "tag": null,
+    "name": "Kenat"
+  },
+  {
+    "displayName": "keropika",
+    "tag": null,
+    "name": "keropika"
+  },
+  {
+    "displayName": "[AGNI] kube",
+    "tag": "AGNI",
+    "name": "kube"
+  },
+  {
+    "displayName": "[AGNI] Kyoshie",
+    "tag": "AGNI",
+    "name": "Kyoshie"
+  },
+  {
+    "displayName": "[AGNI]Kyoshie",
+    "tag": "AGNI",
+    "name": "Kyoshie"
+  },
+  {
+    "displayName": "[AGNI] Laxus",
+    "tag": "AGNI",
+    "name": "Laxus"
+  },
+  {
+    "displayName": "leader_182486",
+    "tag": null,
+    "name": "leader_182486"
+  },
+  {
+    "displayName": "[AGNI] Liam",
+    "tag": "AGNI",
+    "name": "Liam"
+  },
+  {
+    "displayName": "[AGNI]Liam",
+    "tag": "AGNI",
+    "name": "Liam"
+  },
+  {
+    "displayName": "[AGNI] Lii",
+    "tag": "AGNI",
+    "name": "Lii"
+  },
+  {
+    "displayName": "[LAT] LizAngy",
+    "tag": "LAT",
+    "name": "LizAngy"
+  },
+  {
+    "displayName": "[LAT]LizAngy",
+    "tag": "LAT",
+    "name": "LizAngy"
+  },
+  {
+    "displayName": "[2137] Lord Momo",
+    "tag": "2137",
+    "name": "Lord Momo"
+  },
+  {
+    "displayName": "Lufury",
+    "tag": null,
+    "name": "Lufury"
+  },
+  {
+    "displayName": "lukieboi",
+    "tag": null,
+    "name": "lukieboi"
+  },
+  {
+    "displayName": "maeri",
+    "tag": null,
+    "name": "maeri"
+  },
+  {
+    "displayName": "[NOVA] Maharaja",
+    "tag": "NOVA",
+    "name": "Maharaja"
+  },
+  {
+    "displayName": "[AGNI] Max Pegasus",
+    "tag": "AGNI",
+    "name": "Max Pegasus"
+  },
+  {
+    "displayName": "[NOVA] Max Pegasus",
+    "tag": "NOVA",
+    "name": "Max Pegasus"
+  },
+  {
+    "displayName": "[NOVA]Max Pegasus",
+    "tag": "NOVA",
+    "name": "Max Pegasus"
+  },
+  {
+    "displayName": "[AGNI]Max Pegasus",
+    "tag": "AGNI",
+    "name": "Max Pegasus"
+  },
+  {
+    "displayName": "MegaDeath",
+    "tag": null,
+    "name": "MegaDeath"
+  },
+  {
+    "displayName": "[NOVA] Miguelito",
+    "tag": "NOVA",
+    "name": "Miguelito"
+  },
+  {
+    "displayName": "[AGNI] Minerva",
+    "tag": "AGNI",
+    "name": "Minerva"
+  },
+  {
+    "displayName": "Momoツ",
+    "tag": null,
+    "name": "Momoツ"
+  },
+  {
+    "displayName": "[AGNI] Morgana",
+    "tag": "AGNI",
+    "name": "Morgana"
+  },
+  {
+    "displayName": "[NOVA] Morgana",
+    "tag": "NOVA",
+    "name": "Morgana"
+  },
+  {
+    "displayName": "[NOVA]Morgana",
+    "tag": "NOVA",
+    "name": "Morgana"
+  },
+  {
+    "displayName": "[AGNI] My Repolyo",
+    "tag": "AGNI",
+    "name": "My Repolyo"
+  },
+  {
+    "displayName": "[AGNI] Nacay",
+    "tag": "AGNI",
+    "name": "Nacay"
+  },
+  {
+    "displayName": "[AGNI]Nacay",
+    "tag": "AGNI",
+    "name": "Nacay"
+  },
+  {
+    "displayName": "[AGNI] Najas",
+    "tag": "AGNI",
+    "name": "Najas"
+  },
+  {
+    "displayName": "[NOVA] Najas",
+    "tag": "NOVA",
+    "name": "Najas"
+  },
+  {
+    "displayName": "[NOVA]Najas",
+    "tag": "NOVA",
+    "name": "Najas"
+  },
+  {
+    "displayName": "[NOVA] Nana",
+    "tag": "NOVA",
+    "name": "Nana"
+  },
+  {
+    "displayName": "[AGNI] NEXUS",
+    "tag": "AGNI",
+    "name": "NEXUS"
+  },
+  {
+    "displayName": "[AGNI]NEXUS",
+    "tag": "AGNI",
+    "name": "NEXUS"
+  },
+  {
+    "displayName": "[AGNI] Penk",
+    "tag": "AGNI",
+    "name": "Penk"
+  },
+  {
+    "displayName": "[NOVA] Penk",
+    "tag": "NOVA",
+    "name": "Penk"
+  },
+  {
+    "displayName": "[NOVA]Penk",
+    "tag": "NOVA",
+    "name": "Penk"
+  },
+  {
+    "displayName": "[JKM] Perun",
+    "tag": "JKM",
+    "name": "Perun"
+  },
+  {
+    "displayName": "Phoezari",
+    "tag": null,
+    "name": "Phoezari"
+  },
+  {
+    "displayName": "[NOVA] pippinpaddle",
+    "tag": "NOVA",
+    "name": "pippinpaddle"
+  },
+  {
+    "displayName": "[NOVA] QuakerOats",
+    "tag": "NOVA",
+    "name": "QuakerOats"
+  },
+  {
+    "displayName": "[NOVA] Rangi",
+    "tag": "NOVA",
+    "name": "Rangi"
+  },
+  {
+    "displayName": "[NOVA] Rangie",
+    "tag": "NOVA",
+    "name": "Rangie"
+  },
+  {
+    "displayName": "[NOVA] RCM",
+    "tag": "NOVA",
+    "name": "RCM"
+  },
+  {
+    "displayName": "Rey",
+    "tag": null,
+    "name": "Rey"
+  },
+  {
+    "displayName": "[AGNI] saviro",
+    "tag": "AGNI",
+    "name": "saviro"
+  },
+  {
+    "displayName": "Sherry",
+    "tag": null,
+    "name": "Sherry"
+  },
+  {
+    "displayName": "[JKM]songo",
+    "tag": "JKM",
+    "name": "songo"
+  },
+  {
+    "displayName": "[AGNI] Sparrowkeet",
+    "tag": "AGNI",
+    "name": "Sparrowkeet"
+  },
+  {
+    "displayName": "[AGNI] starrynight",
+    "tag": "AGNI",
+    "name": "starrynight"
+  },
+  {
+    "displayName": "[NOVA] Taco De Pastor",
+    "tag": "NOVA",
+    "name": "Taco De Pastor"
+  },
+  {
+    "displayName": "[AGNI] TacoDePastor",
+    "tag": "AGNI",
+    "name": "TacoDePastor"
+  },
+  {
+    "displayName": "[NOVA] TacoDePastor",
+    "tag": "NOVA",
+    "name": "TacoDePastor"
+  },
+  {
+    "displayName": "[NOVA]TacoDePastor",
+    "tag": "NOVA",
+    "name": "TacoDePastor"
+  },
+  {
+    "displayName": "[AGNI]TacoDePastor",
+    "tag": "AGNI",
+    "name": "TacoDePastor"
+  },
+  {
+    "displayName": "[AGNI] Thea",
+    "tag": "AGNI",
+    "name": "Thea"
+  },
+  {
+    "displayName": "[AGNI] Unalaq",
+    "tag": "AGNI",
+    "name": "Unalaq"
+  },
+  {
+    "displayName": "[AGNI] Vira",
+    "tag": "AGNI",
+    "name": "Vira"
+  },
+  {
+    "displayName": "[AGNI]Vira",
+    "tag": "AGNI",
+    "name": "Vira"
+  },
+  {
+    "displayName": "[AGNI] winds26",
+    "tag": "AGNI",
+    "name": "winds26"
+  },
+  {
+    "displayName": "[SAGE] winds260",
+    "tag": "SAGE",
+    "name": "winds260"
+  },
+  {
+    "displayName": "[AGNI] Xibalbá",
+    "tag": "AGNI",
+    "name": "Xibalbá"
+  },
+  {
+    "displayName": "[NOVA] Yacan",
+    "tag": "NOVA",
+    "name": "Yacan"
+  },
+  {
+    "displayName": "[NOVA]Yacan",
+    "tag": "NOVA",
+    "name": "Yacan"
+  },
+  {
+    "displayName": "[AGNI] Yajyaj003",
+    "tag": "AGNI",
+    "name": "Yajyaj003"
+  },
+  {
+    "displayName": "[AGNI]Yajyaj003",
+    "tag": "AGNI",
+    "name": "Yajyaj003"
+  },
+  {
+    "displayName": "[AGNI] YajyaJ003",
+    "tag": "AGNI",
+    "name": "YajyaJ003"
+  },
+  {
+    "displayName": "[AGNI] yangchen",
+    "tag": "AGNI",
+    "name": "yangchen"
+  },
+  {
+    "displayName": "[NOVA] yangchen",
+    "tag": "NOVA",
+    "name": "yangchen"
+  },
+  {
+    "displayName": "[AGNI] Yoona",
+    "tag": "AGNI",
+    "name": "Yoona"
+  },
+  {
+    "displayName": "ZINU",
+    "tag": null,
+    "name": "ZINU"
+  },
+  {
+    "displayName": "[NOVA] Zuk0",
+    "tag": "NOVA",
+    "name": "Zuk0"
+  },
+  {
+    "displayName": "[AGNI] Zuzu here",
+    "tag": "AGNI",
+    "name": "Zuzu here"
+  }
+]

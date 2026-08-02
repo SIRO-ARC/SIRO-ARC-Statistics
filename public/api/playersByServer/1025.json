@@ -1,0 +1,782 @@
+[
+  {
+    "displayName": "1988",
+    "tag": null,
+    "name": "1988"
+  },
+  {
+    "displayName": "[SYG] 1988",
+    "tag": "SYG",
+    "name": "1988"
+  },
+  {
+    "displayName": "[SYG]1988",
+    "tag": "SYG",
+    "name": "1988"
+  },
+  {
+    "displayName": "[TBP] Ag2Silver",
+    "tag": "TBP",
+    "name": "Ag2Silver"
+  },
+  {
+    "displayName": "[TBP] Alathia",
+    "tag": "TBP",
+    "name": "Alathia"
+  },
+  {
+    "displayName": "[NUKE] Ana",
+    "tag": "NUKE",
+    "name": "Ana"
+  },
+  {
+    "displayName": "[NUKE] angarad",
+    "tag": "NUKE",
+    "name": "angarad"
+  },
+  {
+    "displayName": "[NUKE] ArturoSR84",
+    "tag": "NUKE",
+    "name": "ArturoSR84"
+  },
+  {
+    "displayName": "Aslan",
+    "tag": null,
+    "name": "Aslan"
+  },
+  {
+    "displayName": "[LION] Aslan",
+    "tag": "LION",
+    "name": "Aslan"
+  },
+  {
+    "displayName": "[LION]Aslan",
+    "tag": "LION",
+    "name": "Aslan"
+  },
+  {
+    "displayName": "[NUKE] Åtomic Dėssy",
+    "tag": "NUKE",
+    "name": "Åtomic Dėssy"
+  },
+  {
+    "displayName": "[NUKE] Avatar Buddy",
+    "tag": "NUKE",
+    "name": "Avatar Buddy"
+  },
+  {
+    "displayName": "[NUKE] Äтoмιƈ Ðέssy",
+    "tag": "NUKE",
+    "name": "Äтoмιƈ Ðέssy"
+  },
+  {
+    "displayName": "[NUKE] Battle Bunny",
+    "tag": "NUKE",
+    "name": "Battle Bunny"
+  },
+  {
+    "displayName": "[NUKE] BearCow",
+    "tag": "NUKE",
+    "name": "BearCow"
+  },
+  {
+    "displayName": "[NUKE] Belthezzar",
+    "tag": "NUKE",
+    "name": "Belthezzar"
+  },
+  {
+    "displayName": "[NUKE] Belzegi a",
+    "tag": "NUKE",
+    "name": "Belzegi a"
+  },
+  {
+    "displayName": "[NUKE] Belzegia",
+    "tag": "NUKE",
+    "name": "Belzegia"
+  },
+  {
+    "displayName": "[SYG] Belzegia",
+    "tag": "SYG",
+    "name": "Belzegia"
+  },
+  {
+    "displayName": "[SYG]Belzegia",
+    "tag": "SYG",
+    "name": "Belzegia"
+  },
+  {
+    "displayName": "Bills",
+    "tag": null,
+    "name": "Bills"
+  },
+  {
+    "displayName": "Blackice123",
+    "tag": null,
+    "name": "Blackice123"
+  },
+  {
+    "displayName": "[SYG] Blackice123",
+    "tag": "SYG",
+    "name": "Blackice123"
+  },
+  {
+    "displayName": "[SYG]Blackice123",
+    "tag": "SYG",
+    "name": "Blackice123"
+  },
+  {
+    "displayName": "[NUKE] Blue Panda",
+    "tag": "NUKE",
+    "name": "Blue Panda"
+  },
+  {
+    "displayName": "[TBP] Brancor",
+    "tag": "TBP",
+    "name": "Brancor"
+  },
+  {
+    "displayName": "[TBP] Bree",
+    "tag": "TBP",
+    "name": "Bree"
+  },
+  {
+    "displayName": "[NUKE] brent455922",
+    "tag": "NUKE",
+    "name": "brent455922"
+  },
+  {
+    "displayName": "[NUKE] CEELOE",
+    "tag": "NUKE",
+    "name": "CEELOE"
+  },
+  {
+    "displayName": "[SYG] Chamoloow",
+    "tag": "SYG",
+    "name": "Chamoloow"
+  },
+  {
+    "displayName": "[SYG] CityOfRaava",
+    "tag": "SYG",
+    "name": "CityOfRaava"
+  },
+  {
+    "displayName": "[SYG]CityOfRaava",
+    "tag": "SYG",
+    "name": "CityOfRaava"
+  },
+  {
+    "displayName": "[NUKE] Cora",
+    "tag": "NUKE",
+    "name": "Cora"
+  },
+  {
+    "displayName": "[TBP] D] Bree",
+    "tag": "TBP",
+    "name": "D] Bree"
+  },
+  {
+    "displayName": "[TBP] Daniel",
+    "tag": "TBP",
+    "name": "Daniel"
+  },
+  {
+    "displayName": "[TBP]Daniel",
+    "tag": "TBP",
+    "name": "Daniel"
+  },
+  {
+    "displayName": "[NUKE] Deputy Goofy",
+    "tag": "NUKE",
+    "name": "Deputy Goofy"
+  },
+  {
+    "displayName": "[TBP] DJ Bree",
+    "tag": "TBP",
+    "name": "DJ Bree"
+  },
+  {
+    "displayName": "[TBP] djatda",
+    "tag": "TBP",
+    "name": "djatda"
+  },
+  {
+    "displayName": "[TBP]djatda",
+    "tag": "TBP",
+    "name": "djatda"
+  },
+  {
+    "displayName": "[NUKE] Dom",
+    "tag": "NUKE",
+    "name": "Dom"
+  },
+  {
+    "displayName": "[NUKE] Dpol",
+    "tag": "NUKE",
+    "name": "Dpol"
+  },
+  {
+    "displayName": "[TBP] DylFireBeard",
+    "tag": "TBP",
+    "name": "DylFireBeard"
+  },
+  {
+    "displayName": "[TBP]DylFireBeard",
+    "tag": "TBP",
+    "name": "DylFireBeard"
+  },
+  {
+    "displayName": "[NUKE] Earth Girl",
+    "tag": "NUKE",
+    "name": "Earth Girl"
+  },
+  {
+    "displayName": "[TBP] ĘË方 迪 芋",
+    "tag": "TBP",
+    "name": "ĘË方 迪 芋"
+  },
+  {
+    "displayName": "[NUKE] El Abuelo",
+    "tag": "NUKE",
+    "name": "El Abuelo"
+  },
+  {
+    "displayName": "[NUKE] Emilius",
+    "tag": "NUKE",
+    "name": "Emilius"
+  },
+  {
+    "displayName": "[NUKE] eVega00",
+    "tag": "NUKE",
+    "name": "eVega00"
+  },
+  {
+    "displayName": "[NUKE] FatherMyles",
+    "tag": "NUKE",
+    "name": "FatherMyles"
+  },
+  {
+    "displayName": "[NUKE] FenriZ",
+    "tag": "NUKE",
+    "name": "FenriZ"
+  },
+  {
+    "displayName": "[SYG] FenriZ",
+    "tag": "SYG",
+    "name": "FenriZ"
+  },
+  {
+    "displayName": "[TBP] Flameo",
+    "tag": "TBP",
+    "name": "Flameo"
+  },
+  {
+    "displayName": "[NUKE] Fosly",
+    "tag": "NUKE",
+    "name": "Fosly"
+  },
+  {
+    "displayName": "[TBP] g11",
+    "tag": "TBP",
+    "name": "g11"
+  },
+  {
+    "displayName": "[NUKE] GarnetScythe",
+    "tag": "NUKE",
+    "name": "GarnetScythe"
+  },
+  {
+    "displayName": "[TBP] Hakoda75",
+    "tag": "TBP",
+    "name": "Hakoda75"
+  },
+  {
+    "displayName": "[NUKE] HULK",
+    "tag": "NUKE",
+    "name": "HULK"
+  },
+  {
+    "displayName": "[NUKE] Hunt2626ᵍᵒᵒⁿ",
+    "tag": "NUKE",
+    "name": "Hunt2626ᵍᵒᵒⁿ"
+  },
+  {
+    "displayName": "[NUKE] Infa",
+    "tag": "NUKE",
+    "name": "Infa"
+  },
+  {
+    "displayName": "[TBP] Jojo",
+    "tag": "TBP",
+    "name": "Jojo"
+  },
+  {
+    "displayName": "[TBP] Jon",
+    "tag": "TBP",
+    "name": "Jon"
+  },
+  {
+    "displayName": "[TBP]Jon",
+    "tag": "TBP",
+    "name": "Jon"
+  },
+  {
+    "displayName": "[NUKE] Jonas",
+    "tag": "NUKE",
+    "name": "Jonas"
+  },
+  {
+    "displayName": "[NUKE] Jonathan",
+    "tag": "NUKE",
+    "name": "Jonathan"
+  },
+  {
+    "displayName": "[SYG] Jonathan",
+    "tag": "SYG",
+    "name": "Jonathan"
+  },
+  {
+    "displayName": "[SYG]Jonathan",
+    "tag": "SYG",
+    "name": "Jonathan"
+  },
+  {
+    "displayName": "[TBP] Karmjit",
+    "tag": "TBP",
+    "name": "Karmjit"
+  },
+  {
+    "displayName": "[NUKE] Kim Jong Sun",
+    "tag": "NUKE",
+    "name": "Kim Jong Sun"
+  },
+  {
+    "displayName": "[TBP] Kimmie91293",
+    "tag": "TBP",
+    "name": "Kimmie91293"
+  },
+  {
+    "displayName": "[TBP]Kimmie91293",
+    "tag": "TBP",
+    "name": "Kimmie91293"
+  },
+  {
+    "displayName": "[NUKE] King bumi",
+    "tag": "NUKE",
+    "name": "King bumi"
+  },
+  {
+    "displayName": "[SYG] kion",
+    "tag": "SYG",
+    "name": "kion"
+  },
+  {
+    "displayName": "[SYG] Kion",
+    "tag": "SYG",
+    "name": "Kion"
+  },
+  {
+    "displayName": "[LION] Kion",
+    "tag": "LION",
+    "name": "Kion"
+  },
+  {
+    "displayName": "[TBP] Lapin",
+    "tag": "TBP",
+    "name": "Lapin"
+  },
+  {
+    "displayName": "[TBP]Lapin",
+    "tag": "TBP",
+    "name": "Lapin"
+  },
+  {
+    "displayName": "[NUKE] LeRoux",
+    "tag": "NUKE",
+    "name": "LeRoux"
+  },
+  {
+    "displayName": "[NUKE] lillady",
+    "tag": "NUKE",
+    "name": "lillady"
+  },
+  {
+    "displayName": "[SYG] lillady",
+    "tag": "SYG",
+    "name": "lillady"
+  },
+  {
+    "displayName": "[NUKE] Lord Hawking",
+    "tag": "NUKE",
+    "name": "Lord Hawking"
+  },
+  {
+    "displayName": "[NUKE] Luity",
+    "tag": "NUKE",
+    "name": "Luity"
+  },
+  {
+    "displayName": "[TBP] MahouT",
+    "tag": "TBP",
+    "name": "MahouT"
+  },
+  {
+    "displayName": "[NUKE] Maika",
+    "tag": "NUKE",
+    "name": "Maika"
+  },
+  {
+    "displayName": "[NUKE] Maino",
+    "tag": "NUKE",
+    "name": "Maino"
+  },
+  {
+    "displayName": "[NUKE] Manontje",
+    "tag": "NUKE",
+    "name": "Manontje"
+  },
+  {
+    "displayName": "[TBP] Matty",
+    "tag": "TBP",
+    "name": "Matty"
+  },
+  {
+    "displayName": "[SYG] Meno",
+    "tag": "SYG",
+    "name": "Meno"
+  },
+  {
+    "displayName": "[SYG] Meno189",
+    "tag": "SYG",
+    "name": "Meno189"
+  },
+  {
+    "displayName": "[SYG]Meno189",
+    "tag": "SYG",
+    "name": "Meno189"
+  },
+  {
+    "displayName": "[NUKE] Mercy",
+    "tag": "NUKE",
+    "name": "Mercy"
+  },
+  {
+    "displayName": "[TBP] Miles",
+    "tag": "TBP",
+    "name": "Miles"
+  },
+  {
+    "displayName": "[NUKE] Mirko Cruan",
+    "tag": "NUKE",
+    "name": "Mirko Cruan"
+  },
+  {
+    "displayName": "[SYG] Mirko Cruan",
+    "tag": "SYG",
+    "name": "Mirko Cruan"
+  },
+  {
+    "displayName": "[TBP] møjø",
+    "tag": "TBP",
+    "name": "møjø"
+  },
+  {
+    "displayName": "[NUKE] Mr Snow",
+    "tag": "NUKE",
+    "name": "Mr Snow"
+  },
+  {
+    "displayName": "[SYG] Mr Snow",
+    "tag": "SYG",
+    "name": "Mr Snow"
+  },
+  {
+    "displayName": "[NUKE] Mr Snow 2",
+    "tag": "NUKE",
+    "name": "Mr Snow 2"
+  },
+  {
+    "displayName": "[Azul] Niamor",
+    "tag": "Azul",
+    "name": "Niamor"
+  },
+  {
+    "displayName": "[TBP] Nocy",
+    "tag": "TBP",
+    "name": "Nocy"
+  },
+  {
+    "displayName": "[TBP] NoFro89",
+    "tag": "TBP",
+    "name": "NoFro89"
+  },
+  {
+    "displayName": "[TBP] Nuktuk",
+    "tag": "TBP",
+    "name": "Nuktuk"
+  },
+  {
+    "displayName": "[TBP] OARomanoff",
+    "tag": "TBP",
+    "name": "OARomanoff"
+  },
+  {
+    "displayName": "[TBP]OARomanoff",
+    "tag": "TBP",
+    "name": "OARomanoff"
+  },
+  {
+    "displayName": "[TBP] ORomanoff",
+    "tag": "TBP",
+    "name": "ORomanoff"
+  },
+  {
+    "displayName": "[TBP] Papi Ish",
+    "tag": "TBP",
+    "name": "Papi Ish"
+  },
+  {
+    "displayName": "[NUKE] Pascal2000",
+    "tag": "NUKE",
+    "name": "Pascal2000"
+  },
+  {
+    "displayName": "[NUKE] Prometheus",
+    "tag": "NUKE",
+    "name": "Prometheus"
+  },
+  {
+    "displayName": "[NUKE] Promethus",
+    "tag": "NUKE",
+    "name": "Promethus"
+  },
+  {
+    "displayName": "[SYG] Raava",
+    "tag": "SYG",
+    "name": "Raava"
+  },
+  {
+    "displayName": "[NUKE] RaiLua",
+    "tag": "NUKE",
+    "name": "RaiLua"
+  },
+  {
+    "displayName": "[NUKE] Renereeshem",
+    "tag": "NUKE",
+    "name": "Renereeshem"
+  },
+  {
+    "displayName": "[NUKE] Renereshem",
+    "tag": "NUKE",
+    "name": "Renereshem"
+  },
+  {
+    "displayName": "[LION]rip",
+    "tag": "LION",
+    "name": "rip"
+  },
+  {
+    "displayName": "[TBP] Roku",
+    "tag": "TBP",
+    "name": "Roku"
+  },
+  {
+    "displayName": "[TBP] Rusty Blades",
+    "tag": "TBP",
+    "name": "Rusty Blades"
+  },
+  {
+    "displayName": "[TBP] RustyDivaDog",
+    "tag": "TBP",
+    "name": "RustyDivaDog"
+  },
+  {
+    "displayName": "[TBP] Sadra",
+    "tag": "TBP",
+    "name": "Sadra"
+  },
+  {
+    "displayName": "[NUKE] SANDMAN",
+    "tag": "NUKE",
+    "name": "SANDMAN"
+  },
+  {
+    "displayName": "[NUKE] SCRIPTIC",
+    "tag": "NUKE",
+    "name": "SCRIPTIC"
+  },
+  {
+    "displayName": "[NUKE] sᴄʀIPᴛɪᴄ",
+    "tag": "NUKE",
+    "name": "sᴄʀIPᴛɪᴄ"
+  },
+  {
+    "displayName": "[NUKE] Skepitcal671",
+    "tag": "NUKE",
+    "name": "Skepitcal671"
+  },
+  {
+    "displayName": "[NUKE] Skeptical671",
+    "tag": "NUKE",
+    "name": "Skeptical671"
+  },
+  {
+    "displayName": "[SYG] Skeptical671",
+    "tag": "SYG",
+    "name": "Skeptical671"
+  },
+  {
+    "displayName": "[LION] Sofonda Cox",
+    "tag": "LION",
+    "name": "Sofonda Cox"
+  },
+  {
+    "displayName": "[LION]Sofonda Cox",
+    "tag": "LION",
+    "name": "Sofonda Cox"
+  },
+  {
+    "displayName": "[NUKE] Solavian",
+    "tag": "NUKE",
+    "name": "Solavian"
+  },
+  {
+    "displayName": "[SYG] Stefan13",
+    "tag": "SYG",
+    "name": "Stefan13"
+  },
+  {
+    "displayName": "[SYG]Stefan13",
+    "tag": "SYG",
+    "name": "Stefan13"
+  },
+  {
+    "displayName": "[NUKE] SyMillyAirr",
+    "tag": "NUKE",
+    "name": "SyMillyAirr"
+  },
+  {
+    "displayName": "SyMillyAirr",
+    "tag": null,
+    "name": "SyMillyAirr"
+  },
+  {
+    "displayName": "[NUKE] Tahz",
+    "tag": "NUKE",
+    "name": "Tahz"
+  },
+  {
+    "displayName": "[TBP] Taino",
+    "tag": "TBP",
+    "name": "Taino"
+  },
+  {
+    "displayName": "[NUKE] Targaryen J",
+    "tag": "NUKE",
+    "name": "Targaryen J"
+  },
+  {
+    "displayName": "[NUKE] Tbpots",
+    "tag": "NUKE",
+    "name": "Tbpots"
+  },
+  {
+    "displayName": "[NUKE] Tbpts",
+    "tag": "NUKE",
+    "name": "Tbpts"
+  },
+  {
+    "displayName": "[SYG] Tbpts",
+    "tag": "SYG",
+    "name": "Tbpts"
+  },
+  {
+    "displayName": "[SYG] Tbpys",
+    "tag": "SYG",
+    "name": "Tbpys"
+  },
+  {
+    "displayName": "[NUKE] Tbx",
+    "tag": "NUKE",
+    "name": "Tbx"
+  },
+  {
+    "displayName": "[SYG] Tbx",
+    "tag": "SYG",
+    "name": "Tbx"
+  },
+  {
+    "displayName": "[SYG]Tbx",
+    "tag": "SYG",
+    "name": "Tbx"
+  },
+  {
+    "displayName": "[TBP] Teo",
+    "tag": "TBP",
+    "name": "Teo"
+  },
+  {
+    "displayName": "[NUKE] TheLegend27",
+    "tag": "NUKE",
+    "name": "TheLegend27"
+  },
+  {
+    "displayName": "[SYG] thor tue",
+    "tag": "SYG",
+    "name": "thor tue"
+  },
+  {
+    "displayName": "[SYG]thor tue",
+    "tag": "SYG",
+    "name": "thor tue"
+  },
+  {
+    "displayName": "[NUKE] TreeKoppà",
+    "tag": "NUKE",
+    "name": "TreeKoppà"
+  },
+  {
+    "displayName": "[Azul] Valgharg",
+    "tag": "Azul",
+    "name": "Valgharg"
+  },
+  {
+    "displayName": "[TBP] Viinchester",
+    "tag": "TBP",
+    "name": "Viinchester"
+  },
+  {
+    "displayName": "[NUKE] voske23",
+    "tag": "NUKE",
+    "name": "voske23"
+  },
+  {
+    "displayName": "[NUKE] WOLVERINE",
+    "tag": "NUKE",
+    "name": "WOLVERINE"
+  },
+  {
+    "displayName": "[NUKE] WynCat",
+    "tag": "NUKE",
+    "name": "WynCat"
+  },
+  {
+    "displayName": "[TBP] Yumiko",
+    "tag": "TBP",
+    "name": "Yumiko"
+  },
+  {
+    "displayName": "Yumiko",
+    "tag": null,
+    "name": "Yumiko"
+  },
+  {
+    "displayName": "[TBP]Yumiko",
+    "tag": "TBP",
+    "name": "Yumiko"
+  },
+  {
+    "displayName": "[NUKE] Z MF B",
+    "tag": "NUKE",
+    "name": "Z MF B"
+  }
+]

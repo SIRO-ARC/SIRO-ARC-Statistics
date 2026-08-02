@@ -35,9 +35,15 @@ export async function getWeeks() {
     return weeksCache.data;
   }
 
-  const response = await fetchWithRetry(`${API_URL}?type=weeks`);
-  const data = await response.json();
+  const response = await fetch("/api/weeks.json", {
+  cache: "no-store",
+});
 
+if (!response.ok) {
+  throw new Error(`HTTP ${response.status}`);
+}
+
+const data = await response.json();
   weeksCache.data = data;
 
   return data;
@@ -50,9 +56,18 @@ export async function getRankings(type, week) {
     return rankingsCache[cacheKey];
   }
 
-  const response = await fetchWithRetry(
-  `${API_URL}?type=${type}&week=${encodeURIComponent(week)}`
+  const weekFile = week.replace("Global Player/Alliance Ranking ", "");
+
+const response = await fetch(
+  `/api/${type}/${weekFile}.json`,
+  {
+    cache: "no-store",
+  }
 );
+
+if (!response.ok) {
+  throw new Error(`HTTP ${response.status}`);
+}
 
   const data = await response.json();
 
@@ -61,95 +76,171 @@ export async function getRankings(type, week) {
   return data;
 }
 export async function getStats() {
-  const response = await fetchWithRetry(`${API_URL}?type=stats`);
+
+  const response = await fetch("/api/stats.json", {
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+
   return response.json();
+
 }
 export async function getMgm(dataset = "post") {
+
   const cacheKey = `mgm-${dataset}`;
 
   if (rankingsCache[cacheKey]) {
     return rankingsCache[cacheKey];
   }
 
-  const response = await fetchWithRetry(
-  `${API_URL}?type=mgm&dataset=${dataset}`
-);
+  const response = await fetch(
+    `/api/mgm/${dataset}.json`,
+    {
+      cache: "no-store",
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
 
   const data = await response.json();
 
   rankingsCache[cacheKey] = data;
 
   return data;
+
 }
+  
 export async function getServers() {
+
   const cacheKey = "servers";
 
   if (rankingsCache[cacheKey]) {
     return rankingsCache[cacheKey];
   }
 
-  const response = await fetchWithRetry(
-    `${API_URL}?type=players`
+  const weeks = await getWeeks();
+
+  const latestWeek =
+    weeks.currentWeek.replace(
+      "Global Player/Alliance Ranking ",
+      ""
+    );
+
+  const response = await fetch(
+    `/api/players/${latestWeek}.json`,
+    {
+      cache: "no-store",
+    }
   );
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
 
   const data = await response.json();
 
-
-  const servers = [...new Set(data.map((item) => item.server))]
+  const servers = [...new Set(data.map(item => item.server))]
     .sort((a, b) => a - b);
-
 
   rankingsCache[cacheKey] = servers;
 
   return servers;
+
 }
+
+
 export async function getGrowthHistory({
-  historyType,
-  server,
-  search,
   players = [],
 }) {
 
-  let url =
-  `${API_URL}?type=growthHistory` +
-  `&historyType=${encodeURIComponent(historyType)}`;
+  const cacheKey = "growth-history";
 
-if (players.length === 0 && server) {
-  url += `&server=${encodeURIComponent(server)}`;
-}
+  let history = rankingsCache[cacheKey];
 
-  if (players.length > 0) {
+  if (!history) {
 
-    url +=
-      `&players=${encodeURIComponent(
-        players.join("|")
-      )}`;
+    const response = await fetch(
+      "/api/growth/history.json",
+      {
+        cache: "no-store",
+      }
+    );
 
-  } else {
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
 
-    url +=
-      `&player=${encodeURIComponent(search)}`;
+    history = await response.json();
+
+    rankingsCache[cacheKey] = history;
 
   }
 
-  const response = await fetchWithRetry(url);
+  const result = [];
 
-  return response.json();
+  for (const player of players) {
+
+    if (history[player]) {
+      result.push(...history[player]);
+    }
+
+  }
+
+  result.sort((a, b) => {
+
+    const getOrder = (week) => {
+
+      const number = Number(
+        week.replace("CW", "")
+      );
+
+      if (number >= 50) {
+        return number - 50;
+      }
+
+      return number + 2;
+
+    };
+
+    return getOrder(a.week) - getOrder(b.week);
+
+  });
+
+  return result;
+
 }
 export async function getPlayersByServer(server) {
-  const cacheKey = `players-${server}`;
 
-  if (rankingsCache[cacheKey]) {
-    return rankingsCache[cacheKey];
+const cacheKey = `players-${server}`;
+
+if (rankingsCache[cacheKey]) {
+  return rankingsCache[cacheKey];
+}
+
+  const response = await fetch(
+  `/api/playersByServer/${server}.json`,
+  {
+    cache: "no-store",
   }
+);
 
-  const response = await fetchWithRetry(
-    `${API_URL}?type=playersByServer&server=${encodeURIComponent(server)}`
-  );
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
 
   const data = await response.json();
 
-  rankingsCache[cacheKey] = data;
+  const players = data.sort((a, b) =>
+  a.name.localeCompare(b.name)
+);
 
-  return data;
+  rankingsCache[cacheKey] = players;
+
+  return players;
+
 }

@@ -1,0 +1,642 @@
+[
+  {
+    "displayName": "[SBC] A6W7",
+    "tag": "SBC",
+    "name": "A6W7"
+  },
+  {
+    "displayName": "Aang Jr",
+    "tag": null,
+    "name": "Aang Jr"
+  },
+  {
+    "displayName": "[SBC] Ajay",
+    "tag": "SBC",
+    "name": "Ajay"
+  },
+  {
+    "displayName": "[SMTH] Allegra1149",
+    "tag": "SMTH",
+    "name": "Allegra1149"
+  },
+  {
+    "displayName": "[HARM] Alpha4165",
+    "tag": "HARM",
+    "name": "Alpha4165"
+  },
+  {
+    "displayName": "AlphaOmega",
+    "tag": null,
+    "name": "AlphaOmega"
+  },
+  {
+    "displayName": "[SBC] applesdanish",
+    "tag": "SBC",
+    "name": "applesdanish"
+  },
+  {
+    "displayName": "Aregada",
+    "tag": null,
+    "name": "Aregada"
+  },
+  {
+    "displayName": "Artorias",
+    "tag": null,
+    "name": "Artorias"
+  },
+  {
+    "displayName": "[GTA] Artorias",
+    "tag": "GTA",
+    "name": "Artorias"
+  },
+  {
+    "displayName": "[SBC] Ava",
+    "tag": "SBC",
+    "name": "Ava"
+  },
+  {
+    "displayName": "[FtA] Avatar Roku",
+    "tag": "FtA",
+    "name": "Avatar Roku"
+  },
+  {
+    "displayName": "Barbarian669",
+    "tag": null,
+    "name": "Barbarian669"
+  },
+  {
+    "displayName": "Bendeez",
+    "tag": null,
+    "name": "Bendeez"
+  },
+  {
+    "displayName": "[LUHP] big homie 3",
+    "tag": "LUHP",
+    "name": "big homie 3"
+  },
+  {
+    "displayName": "[SMTH] Blood Bended",
+    "tag": "SMTH",
+    "name": "Blood Bended"
+  },
+  {
+    "displayName": "[GTA] Blood Bended",
+    "tag": "GTA",
+    "name": "Blood Bended"
+  },
+  {
+    "displayName": "Blood Bended",
+    "tag": null,
+    "name": "Blood Bended"
+  },
+  {
+    "displayName": "[SMTH] Blue Spirit",
+    "tag": "SMTH",
+    "name": "Blue Spirit"
+  },
+  {
+    "displayName": "BlueFireGod",
+    "tag": null,
+    "name": "BlueFireGod"
+  },
+  {
+    "displayName": "BluFireGod",
+    "tag": null,
+    "name": "BluFireGod"
+  },
+  {
+    "displayName": "[GTA] BluFireGod",
+    "tag": "GTA",
+    "name": "BluFireGod"
+  },
+  {
+    "displayName": "Brunito",
+    "tag": null,
+    "name": "Brunito"
+  },
+  {
+    "displayName": "cabbageman",
+    "tag": null,
+    "name": "cabbageman"
+  },
+  {
+    "displayName": "[SMTH] CanadaMan",
+    "tag": "SMTH",
+    "name": "CanadaMan"
+  },
+  {
+    "displayName": "[SBC] CatchABody",
+    "tag": "SBC",
+    "name": "CatchABody"
+  },
+  {
+    "displayName": "Cleb",
+    "tag": null,
+    "name": "Cleb"
+  },
+  {
+    "displayName": "Cloud",
+    "tag": null,
+    "name": "Cloud"
+  },
+  {
+    "displayName": "[SBC] Codex",
+    "tag": "SBC",
+    "name": "Codex"
+  },
+  {
+    "displayName": "[SBC] CountCristo",
+    "tag": "SBC",
+    "name": "CountCristo"
+  },
+  {
+    "displayName": "CptTinyFeet",
+    "tag": null,
+    "name": "CptTinyFeet"
+  },
+  {
+    "displayName": "[HARM] Delachurros",
+    "tag": "HARM",
+    "name": "Delachurros"
+  },
+  {
+    "displayName": "demon lord",
+    "tag": null,
+    "name": "demon lord"
+  },
+  {
+    "displayName": "[suki] Destiny",
+    "tag": "suki",
+    "name": "Destiny"
+  },
+  {
+    "displayName": "[GTA] Dí­r­ty Dí­a­na",
+    "tag": "GTA",
+    "name": "Dí­r­ty Dí­a­na"
+  },
+  {
+    "displayName": "[GTA] Dírty Díana",
+    "tag": "GTA",
+    "name": "Dírty Díana"
+  },
+  {
+    "displayName": "[SBC] Doeds",
+    "tag": "SBC",
+    "name": "Doeds"
+  },
+  {
+    "displayName": "[Dra] Dragoneye",
+    "tag": "Dra",
+    "name": "Dragoneye"
+  },
+  {
+    "displayName": "[GTA] DrSpin19",
+    "tag": "GTA",
+    "name": "DrSpin19"
+  },
+  {
+    "displayName": "[HARM] Eragon",
+    "tag": "HARM",
+    "name": "Eragon"
+  },
+  {
+    "displayName": "[GTA] FireLordZuko",
+    "tag": "GTA",
+    "name": "FireLordZuko"
+  },
+  {
+    "displayName": "[SBC] Freakinheck",
+    "tag": "SBC",
+    "name": "Freakinheck"
+  },
+  {
+    "displayName": "Freakinheck2",
+    "tag": null,
+    "name": "Freakinheck2"
+  },
+  {
+    "displayName": "Gaby",
+    "tag": null,
+    "name": "Gaby"
+  },
+  {
+    "displayName": "[GTA] Gakeon",
+    "tag": "GTA",
+    "name": "Gakeon"
+  },
+  {
+    "displayName": "Gakeon",
+    "tag": null,
+    "name": "Gakeon"
+  },
+  {
+    "displayName": "GFunk1979",
+    "tag": null,
+    "name": "GFunk1979"
+  },
+  {
+    "displayName": "GiveMeRang1",
+    "tag": null,
+    "name": "GiveMeRang1"
+  },
+  {
+    "displayName": "[SBC] Glaucus",
+    "tag": "SBC",
+    "name": "Glaucus"
+  },
+  {
+    "displayName": "Granticus",
+    "tag": null,
+    "name": "Granticus"
+  },
+  {
+    "displayName": "[SMTH] Han Hoelo",
+    "tag": "SMTH",
+    "name": "Han Hoelo"
+  },
+  {
+    "displayName": "[GTA] Herb",
+    "tag": "GTA",
+    "name": "Herb"
+  },
+  {
+    "displayName": "[HARM] HeroVVillain",
+    "tag": "HARM",
+    "name": "HeroVVillain"
+  },
+  {
+    "displayName": "Heti330",
+    "tag": null,
+    "name": "Heti330"
+  },
+  {
+    "displayName": "[IFA] Holy1zaza",
+    "tag": "IFA",
+    "name": "Holy1zaza"
+  },
+  {
+    "displayName": "[SBC] irohshome",
+    "tag": "SBC",
+    "name": "irohshome"
+  },
+  {
+    "displayName": "[SBC] Ivy",
+    "tag": "SBC",
+    "name": "Ivy"
+  },
+  {
+    "displayName": "Jmh",
+    "tag": null,
+    "name": "Jmh"
+  },
+  {
+    "displayName": "[HARM] Joshwaahh",
+    "tag": "HARM",
+    "name": "Joshwaahh"
+  },
+  {
+    "displayName": "Kaim",
+    "tag": null,
+    "name": "Kaim"
+  },
+  {
+    "displayName": "Kboozy",
+    "tag": null,
+    "name": "Kboozy"
+  },
+  {
+    "displayName": "[GTA] Kimana",
+    "tag": "GTA",
+    "name": "Kimana"
+  },
+  {
+    "displayName": "[SMTH] King60",
+    "tag": "SMTH",
+    "name": "King60"
+  },
+  {
+    "displayName": "[HARM] kris",
+    "tag": "HARM",
+    "name": "kris"
+  },
+  {
+    "displayName": "[Aaaa] leader_3132591",
+    "tag": "Aaaa",
+    "name": "leader_3132591"
+  },
+  {
+    "displayName": "[Snow] leader_3139713",
+    "tag": "Snow",
+    "name": "leader_3139713"
+  },
+  {
+    "displayName": "[SMTH] Lil Diana",
+    "tag": "SMTH",
+    "name": "Lil Diana"
+  },
+  {
+    "displayName": "[HARM] LionzZXR",
+    "tag": "HARM",
+    "name": "LionzZXR"
+  },
+  {
+    "displayName": "[HARM] Lobo",
+    "tag": "HARM",
+    "name": "Lobo"
+  },
+  {
+    "displayName": "[SBC] Lord Yum Yum",
+    "tag": "SBC",
+    "name": "Lord Yum Yum"
+  },
+  {
+    "displayName": "[SBC] lucasfamorim",
+    "tag": "SBC",
+    "name": "lucasfamorim"
+  },
+  {
+    "displayName": "[SBC] Majunia",
+    "tag": "SBC",
+    "name": "Majunia"
+  },
+  {
+    "displayName": "[TWP] Markus",
+    "tag": "TWP",
+    "name": "Markus"
+  },
+  {
+    "displayName": "[OUT] Minime",
+    "tag": "OUT",
+    "name": "Minime"
+  },
+  {
+    "displayName": "[SMTH] Moon Bunny",
+    "tag": "SMTH",
+    "name": "Moon Bunny"
+  },
+  {
+    "displayName": "[SBC] Mrs G",
+    "tag": "SBC",
+    "name": "Mrs G"
+  },
+  {
+    "displayName": "[GTA] Najjim",
+    "tag": "GTA",
+    "name": "Najjim"
+  },
+  {
+    "displayName": "[SBC] NastyNate12",
+    "tag": "SBC",
+    "name": "NastyNate12"
+  },
+  {
+    "displayName": "[SBC] Nefarius",
+    "tag": "SBC",
+    "name": "Nefarius"
+  },
+  {
+    "displayName": "NnRrGg",
+    "tag": null,
+    "name": "NnRrGg"
+  },
+  {
+    "displayName": "[GTA] Nugs",
+    "tag": "GTA",
+    "name": "Nugs"
+  },
+  {
+    "displayName": "[SBC] Opsicopolis",
+    "tag": "SBC",
+    "name": "Opsicopolis"
+  },
+  {
+    "displayName": "[SBC] PapaCat",
+    "tag": "SBC",
+    "name": "PapaCat"
+  },
+  {
+    "displayName": "[all] pauljr89",
+    "tag": "all",
+    "name": "pauljr89"
+  },
+  {
+    "displayName": "[HARM] Piano425",
+    "tag": "HARM",
+    "name": "Piano425"
+  },
+  {
+    "displayName": "[SMTH] PIZABEACHBAL",
+    "tag": "SMTH",
+    "name": "PIZABEACHBAL"
+  },
+  {
+    "displayName": "[SBC] Potatofeet",
+    "tag": "SBC",
+    "name": "Potatofeet"
+  },
+  {
+    "displayName": "PR1NC3SS",
+    "tag": null,
+    "name": "PR1NC3SS"
+  },
+  {
+    "displayName": "Prometheus",
+    "tag": null,
+    "name": "Prometheus"
+  },
+  {
+    "displayName": "[SBC] Pyrotekk",
+    "tag": "SBC",
+    "name": "Pyrotekk"
+  },
+  {
+    "displayName": "[SMTH] Quasimodo",
+    "tag": "SMTH",
+    "name": "Quasimodo"
+  },
+  {
+    "displayName": "[GTA] Quasimodo",
+    "tag": "GTA",
+    "name": "Quasimodo"
+  },
+  {
+    "displayName": "Quasimodo",
+    "tag": null,
+    "name": "Quasimodo"
+  },
+  {
+    "displayName": "Rachell",
+    "tag": null,
+    "name": "Rachell"
+  },
+  {
+    "displayName": "[SMTH] RageGrewal",
+    "tag": "SMTH",
+    "name": "RageGrewal"
+  },
+  {
+    "displayName": "[FBA] Red 1 2026",
+    "tag": "FBA",
+    "name": "Red 1 2026"
+  },
+  {
+    "displayName": "[SMTH] RedScope",
+    "tag": "SMTH",
+    "name": "RedScope"
+  },
+  {
+    "displayName": "[GTA] RedScope",
+    "tag": "GTA",
+    "name": "RedScope"
+  },
+  {
+    "displayName": "[yay] Remus",
+    "tag": "yay",
+    "name": "Remus"
+  },
+  {
+    "displayName": "[SMTH] Rokuthewise",
+    "tag": "SMTH",
+    "name": "Rokuthewise"
+  },
+  {
+    "displayName": "[HARM] RoPo",
+    "tag": "HARM",
+    "name": "RoPo"
+  },
+  {
+    "displayName": "[SBC] Rude Cabbage",
+    "tag": "SBC",
+    "name": "Rude Cabbage"
+  },
+  {
+    "displayName": "[HARM] SaltRepublic",
+    "tag": "HARM",
+    "name": "SaltRepublic"
+  },
+  {
+    "displayName": "[GTA] Seismic Fist",
+    "tag": "GTA",
+    "name": "Seismic Fist"
+  },
+  {
+    "displayName": "[SBC] SMTHsDaddy",
+    "tag": "SBC",
+    "name": "SMTHsDaddy"
+  },
+  {
+    "displayName": "SoundSannin",
+    "tag": null,
+    "name": "SoundSannin"
+  },
+  {
+    "displayName": "[GTA] SoundSannin",
+    "tag": "GTA",
+    "name": "SoundSannin"
+  },
+  {
+    "displayName": "[suko] Stever09",
+    "tag": "suko",
+    "name": "Stever09"
+  },
+  {
+    "displayName": "[SBC] Syladon",
+    "tag": "SBC",
+    "name": "Syladon"
+  },
+  {
+    "displayName": "[GTA] Sylvia",
+    "tag": "GTA",
+    "name": "Sylvia"
+  },
+  {
+    "displayName": "[SBC] TeenAangst",
+    "tag": "SBC",
+    "name": "TeenAangst"
+  },
+  {
+    "displayName": "[SBC] Tepid",
+    "tag": "SBC",
+    "name": "Tepid"
+  },
+  {
+    "displayName": "[Ş​ᴇ戮 不尼 ] Tia",
+    "tag": "Ş​ᴇ戮 不尼 ",
+    "name": "Tia"
+  },
+  {
+    "displayName": "[SMTH] tonylandia",
+    "tag": "SMTH",
+    "name": "tonylandia"
+  },
+  {
+    "displayName": "[SMTH] Tyler2R3AL",
+    "tag": "SMTH",
+    "name": "Tyler2R3AL"
+  },
+  {
+    "displayName": "Ulquiorra",
+    "tag": null,
+    "name": "Ulquiorra"
+  },
+  {
+    "displayName": "UrMomsAHoe",
+    "tag": null,
+    "name": "UrMomsAHoe"
+  },
+  {
+    "displayName": "Vaxpax",
+    "tag": null,
+    "name": "Vaxpax"
+  },
+  {
+    "displayName": "[GTA] VID07",
+    "tag": "GTA",
+    "name": "VID07"
+  },
+  {
+    "displayName": "Vulcan",
+    "tag": null,
+    "name": "Vulcan"
+  },
+  {
+    "displayName": "[SBC] Warpeddrmmr",
+    "tag": "SBC",
+    "name": "Warpeddrmmr"
+  },
+  {
+    "displayName": "[SMTH] Williamsburg",
+    "tag": "SMTH",
+    "name": "Williamsburg"
+  },
+  {
+    "displayName": "[GTA] Williamsburg",
+    "tag": "GTA",
+    "name": "Williamsburg"
+  },
+  {
+    "displayName": "Xenia",
+    "tag": null,
+    "name": "Xenia"
+  },
+  {
+    "displayName": "[SMTH] Yamochi",
+    "tag": "SMTH",
+    "name": "Yamochi"
+  },
+  {
+    "displayName": "[SMTH] YourD",
+    "tag": "SMTH",
+    "name": "YourD"
+  },
+  {
+    "displayName": "[HARM] Zarchan",
+    "tag": "HARM",
+    "name": "Zarchan"
+  },
+  {
+    "displayName": "[GTA] Zotti",
+    "tag": "GTA",
+    "name": "Zotti"
+  }
+]

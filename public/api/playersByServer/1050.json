@@ -1,0 +1,762 @@
+[
+  {
+    "displayName": "[CHA] 2cheers",
+    "tag": "CHA",
+    "name": "2cheers"
+  },
+  {
+    "displayName": "[CHA] 3cheers",
+    "tag": "CHA",
+    "name": "3cheers"
+  },
+  {
+    "displayName": "[CHAI] 3cheers",
+    "tag": "CHAI",
+    "name": "3cheers"
+  },
+  {
+    "displayName": "[DMN] Adennors",
+    "tag": "DMN",
+    "name": "Adennors"
+  },
+  {
+    "displayName": "[DMN] Aelin",
+    "tag": "DMN",
+    "name": "Aelin"
+  },
+  {
+    "displayName": "[DMN]Aelin",
+    "tag": "DMN",
+    "name": "Aelin"
+  },
+  {
+    "displayName": "[Gang] Alejandro",
+    "tag": "Gang",
+    "name": "Alejandro"
+  },
+  {
+    "displayName": "[Gang] Alejandrov2",
+    "tag": "Gang",
+    "name": "Alejandrov2"
+  },
+  {
+    "displayName": "[CHAI] Artemis",
+    "tag": "CHAI",
+    "name": "Artemis"
+  },
+  {
+    "displayName": "[CHAI] AT lider",
+    "tag": "CHAI",
+    "name": "AT lider"
+  },
+  {
+    "displayName": "[GAIA] AT lider",
+    "tag": "GAIA",
+    "name": "AT lider"
+  },
+  {
+    "displayName": "[ATLA] Avatar13a",
+    "tag": "ATLA",
+    "name": "Avatar13a"
+  },
+  {
+    "displayName": "[CHAI] axon",
+    "tag": "CHAI",
+    "name": "axon"
+  },
+  {
+    "displayName": "[CHAI] AZGamer86",
+    "tag": "CHAI",
+    "name": "AZGamer86"
+  },
+  {
+    "displayName": "[DMN] Balerion",
+    "tag": "DMN",
+    "name": "Balerion"
+  },
+  {
+    "displayName": "[CHAI] Banana",
+    "tag": "CHAI",
+    "name": "Banana"
+  },
+  {
+    "displayName": "[DMN] Bear Cheese",
+    "tag": "DMN",
+    "name": "Bear Cheese"
+  },
+  {
+    "displayName": "[CHAI] Benitez",
+    "tag": "CHAI",
+    "name": "Benitez"
+  },
+  {
+    "displayName": "[DMN] cactusjuice",
+    "tag": "DMN",
+    "name": "cactusjuice"
+  },
+  {
+    "displayName": "[DMN]cactusjuice",
+    "tag": "DMN",
+    "name": "cactusjuice"
+  },
+  {
+    "displayName": "[DMN] Cantinflas",
+    "tag": "DMN",
+    "name": "Cantinflas"
+  },
+  {
+    "displayName": "[CHAI] Celestial13",
+    "tag": "CHAI",
+    "name": "Celestial13"
+  },
+  {
+    "displayName": "[CHAI] cheanonfire",
+    "tag": "CHAI",
+    "name": "cheanonfire"
+  },
+  {
+    "displayName": "[CHAI] cheenonfire",
+    "tag": "CHAI",
+    "name": "cheenonfire"
+  },
+  {
+    "displayName": "[CHAI] cheenonflre",
+    "tag": "CHAI",
+    "name": "cheenonflre"
+  },
+  {
+    "displayName": "[CHAI] Cimii",
+    "tag": "CHAI",
+    "name": "Cimii"
+  },
+  {
+    "displayName": "[CHAI] Cristiancl",
+    "tag": "CHAI",
+    "name": "Cristiancl"
+  },
+  {
+    "displayName": "[CHAI] Crunchwrap",
+    "tag": "CHAI",
+    "name": "Crunchwrap"
+  },
+  {
+    "displayName": "[OZAI] Crunchwrap",
+    "tag": "OZAI",
+    "name": "Crunchwrap"
+  },
+  {
+    "displayName": "[OZAI]Crunchwrap",
+    "tag": "OZAI",
+    "name": "Crunchwrap"
+  },
+  {
+    "displayName": "[CHAI] crysh",
+    "tag": "CHAI",
+    "name": "crysh"
+  },
+  {
+    "displayName": "[CHAI] Csüng",
+    "tag": "CHAI",
+    "name": "Csüng"
+  },
+  {
+    "displayName": "[DMN] Dadjokes",
+    "tag": "DMN",
+    "name": "Dadjokes"
+  },
+  {
+    "displayName": "[DMN] DadJokes",
+    "tag": "DMN",
+    "name": "DadJokes"
+  },
+  {
+    "displayName": "[DMN]DadJokes",
+    "tag": "DMN",
+    "name": "DadJokes"
+  },
+  {
+    "displayName": "[CHAI] DaGhost7",
+    "tag": "CHAI",
+    "name": "DaGhost7"
+  },
+  {
+    "displayName": "[OZAI] Daisy",
+    "tag": "OZAI",
+    "name": "Daisy"
+  },
+  {
+    "displayName": "[OzAi] Daisy",
+    "tag": "OzAi",
+    "name": "Daisy"
+  },
+  {
+    "displayName": "[OZAI]Daisy",
+    "tag": "OZAI",
+    "name": "Daisy"
+  },
+  {
+    "displayName": "[CHAI] DarkKuio",
+    "tag": "CHAI",
+    "name": "DarkKuio"
+  },
+  {
+    "displayName": "[DMN] Demondragon",
+    "tag": "DMN",
+    "name": "Demondragon"
+  },
+  {
+    "displayName": "[CHAI] Dev50",
+    "tag": "CHAI",
+    "name": "Dev50"
+  },
+  {
+    "displayName": "[GAIA] Dev50",
+    "tag": "GAIA",
+    "name": "Dev50"
+  },
+  {
+    "displayName": "[GAIA]Dev50",
+    "tag": "GAIA",
+    "name": "Dev50"
+  },
+  {
+    "displayName": "[CHAI] Deviant",
+    "tag": "CHAI",
+    "name": "Deviant"
+  },
+  {
+    "displayName": "[GAIA] Deviant",
+    "tag": "GAIA",
+    "name": "Deviant"
+  },
+  {
+    "displayName": "[GAIA]Deviant",
+    "tag": "GAIA",
+    "name": "Deviant"
+  },
+  {
+    "displayName": "[DMN] earthbender",
+    "tag": "DMN",
+    "name": "earthbender"
+  },
+  {
+    "displayName": "[CHAI] ELDRCHBORER",
+    "tag": "CHAI",
+    "name": "ELDRCHBORER"
+  },
+  {
+    "displayName": "[CHAI] Ellemental",
+    "tag": "CHAI",
+    "name": "Ellemental"
+  },
+  {
+    "displayName": "[CHAI]Ellemental",
+    "tag": "CHAI",
+    "name": "Ellemental"
+  },
+  {
+    "displayName": "[CHA] emmy",
+    "tag": "CHA",
+    "name": "emmy"
+  },
+  {
+    "displayName": "[CHAI] ferarris",
+    "tag": "CHAI",
+    "name": "ferarris"
+  },
+  {
+    "displayName": "[GAIA] ferarris",
+    "tag": "GAIA",
+    "name": "ferarris"
+  },
+  {
+    "displayName": "[GAIA]ferarris",
+    "tag": "GAIA",
+    "name": "ferarris"
+  },
+  {
+    "displayName": "[CHAI] ferraris",
+    "tag": "CHAI",
+    "name": "ferraris"
+  },
+  {
+    "displayName": "[CHAI] Fungus",
+    "tag": "CHAI",
+    "name": "Fungus"
+  },
+  {
+    "displayName": "[GAIA] Fungus",
+    "tag": "GAIA",
+    "name": "Fungus"
+  },
+  {
+    "displayName": "[CHAI] ginger",
+    "tag": "CHAI",
+    "name": "ginger"
+  },
+  {
+    "displayName": "[CHAI] GoLong",
+    "tag": "CHAI",
+    "name": "GoLong"
+  },
+  {
+    "displayName": "[CHAI]GoLong",
+    "tag": "CHAI",
+    "name": "GoLong"
+  },
+  {
+    "displayName": "[DMN] HelenaDTerra",
+    "tag": "DMN",
+    "name": "HelenaDTerra"
+  },
+  {
+    "displayName": "[DMN] Hisoka96",
+    "tag": "DMN",
+    "name": "Hisoka96"
+  },
+  {
+    "displayName": "HiTmaN",
+    "tag": null,
+    "name": "HiTmaN"
+  },
+  {
+    "displayName": "[GAIA]HiTmaN",
+    "tag": "GAIA",
+    "name": "HiTmaN"
+  },
+  {
+    "displayName": "[DMN] Hycinthia",
+    "tag": "DMN",
+    "name": "Hycinthia"
+  },
+  {
+    "displayName": "[URO]Ichi",
+    "tag": "URO",
+    "name": "Ichi"
+  },
+  {
+    "displayName": "[CHAI] Idahoflre",
+    "tag": "CHAI",
+    "name": "Idahoflre"
+  },
+  {
+    "displayName": "[CHAI] InGarG",
+    "tag": "CHAI",
+    "name": "InGarG"
+  },
+  {
+    "displayName": "[CHAI] JBRO6537",
+    "tag": "CHAI",
+    "name": "JBRO6537"
+  },
+  {
+    "displayName": "[FIRE] Jeong Jeong",
+    "tag": "FIRE",
+    "name": "Jeong Jeong"
+  },
+  {
+    "displayName": "jiggenreborn",
+    "tag": null,
+    "name": "jiggenreborn"
+  },
+  {
+    "displayName": "[DMN] jiggenreborn",
+    "tag": "DMN",
+    "name": "jiggenreborn"
+  },
+  {
+    "displayName": "[DMN]jiggenreborn",
+    "tag": "DMN",
+    "name": "jiggenreborn"
+  },
+  {
+    "displayName": "[CHAI] Joweeane",
+    "tag": "CHAI",
+    "name": "Joweeane"
+  },
+  {
+    "displayName": "[CHAI] JuicedGoose",
+    "tag": "CHAI",
+    "name": "JuicedGoose"
+  },
+  {
+    "displayName": "[GAIA] JuicedGoose",
+    "tag": "GAIA",
+    "name": "JuicedGoose"
+  },
+  {
+    "displayName": "[URO] Junkee",
+    "tag": "URO",
+    "name": "Junkee"
+  },
+  {
+    "displayName": "[CHAI] K2ski",
+    "tag": "CHAI",
+    "name": "K2ski"
+  },
+  {
+    "displayName": "[GAIA] K2ski",
+    "tag": "GAIA",
+    "name": "K2ski"
+  },
+  {
+    "displayName": "[CHAI]K2ski",
+    "tag": "CHAI",
+    "name": "K2ski"
+  },
+  {
+    "displayName": "[GAIA]K2ski",
+    "tag": "GAIA",
+    "name": "K2ski"
+  },
+  {
+    "displayName": "[CHAI] Kang",
+    "tag": "CHAI",
+    "name": "Kang"
+  },
+  {
+    "displayName": "[DMN] Kyoshi",
+    "tag": "DMN",
+    "name": "Kyoshi"
+  },
+  {
+    "displayName": "[DMN] KyoShi",
+    "tag": "DMN",
+    "name": "KyoShi"
+  },
+  {
+    "displayName": "[CHAI] LABUBU",
+    "tag": "CHAI",
+    "name": "LABUBU"
+  },
+  {
+    "displayName": "[CHAI] Lexa",
+    "tag": "CHAI",
+    "name": "Lexa"
+  },
+  {
+    "displayName": "[CHAI]Lexa",
+    "tag": "CHAI",
+    "name": "Lexa"
+  },
+  {
+    "displayName": "[DMN] Lįly",
+    "tag": "DMN",
+    "name": "Lįly"
+  },
+  {
+    "displayName": "[CHAI] LunaRoseEXE",
+    "tag": "CHAI",
+    "name": "LunaRoseEXE"
+  },
+  {
+    "displayName": "[CHAI]LunaRoseEXE",
+    "tag": "CHAI",
+    "name": "LunaRoseEXE"
+  },
+  {
+    "displayName": "[CHAI] Marisa33",
+    "tag": "CHAI",
+    "name": "Marisa33"
+  },
+  {
+    "displayName": "[DMN] Maschienl00",
+    "tag": "DMN",
+    "name": "Maschienl00"
+  },
+  {
+    "displayName": "[DMN] meat4444",
+    "tag": "DMN",
+    "name": "meat4444"
+  },
+  {
+    "displayName": "[DMN] MeGa ChEeSe",
+    "tag": "DMN",
+    "name": "MeGa ChEeSe"
+  },
+  {
+    "displayName": "[DMN] MegaCheese",
+    "tag": "DMN",
+    "name": "MegaCheese"
+  },
+  {
+    "displayName": "[CHAI] Mel",
+    "tag": "CHAI",
+    "name": "Mel"
+  },
+  {
+    "displayName": "[CHAI] Mira",
+    "tag": "CHAI",
+    "name": "Mira"
+  },
+  {
+    "displayName": "[CHAI] natty",
+    "tag": "CHAI",
+    "name": "natty"
+  },
+  {
+    "displayName": "[DMN] NE47",
+    "tag": "DMN",
+    "name": "NE47"
+  },
+  {
+    "displayName": "[CHAI]Nym",
+    "tag": "CHAI",
+    "name": "Nym"
+  },
+  {
+    "displayName": "[GAIA] Oradeus",
+    "tag": "GAIA",
+    "name": "Oradeus"
+  },
+  {
+    "displayName": "[GAIA]Oradeus",
+    "tag": "GAIA",
+    "name": "Oradeus"
+  },
+  {
+    "displayName": "[CHA] Outlander",
+    "tag": "CHA",
+    "name": "Outlander"
+  },
+  {
+    "displayName": "[DMN] Peace361",
+    "tag": "DMN",
+    "name": "Peace361"
+  },
+  {
+    "displayName": "[DMN] Pepin",
+    "tag": "DMN",
+    "name": "Pepin"
+  },
+  {
+    "displayName": "[CHAI] Phoenix97",
+    "tag": "CHAI",
+    "name": "Phoenix97"
+  },
+  {
+    "displayName": "[DMN] PoliwiaG",
+    "tag": "DMN",
+    "name": "PoliwiaG"
+  },
+  {
+    "displayName": "[CHAI] Poseidon007",
+    "tag": "CHAI",
+    "name": "Poseidon007"
+  },
+  {
+    "displayName": "[CHAI] PrttyBoyRyan",
+    "tag": "CHAI",
+    "name": "PrttyBoyRyan"
+  },
+  {
+    "displayName": "[CHA] RedStar",
+    "tag": "CHA",
+    "name": "RedStar"
+  },
+  {
+    "displayName": "[DMN] RedTheCheese",
+    "tag": "DMN",
+    "name": "RedTheCheese"
+  },
+  {
+    "displayName": "[DMN] Rei",
+    "tag": "DMN",
+    "name": "Rei"
+  },
+  {
+    "displayName": "[DMN] Remi wolf",
+    "tag": "DMN",
+    "name": "Remi wolf"
+  },
+  {
+    "displayName": "[DMN] RemiWolfBb",
+    "tag": "DMN",
+    "name": "RemiWolfBb"
+  },
+  {
+    "displayName": "[DMN] Renegade",
+    "tag": "DMN",
+    "name": "Renegade"
+  },
+  {
+    "displayName": "[CHA] Ron Ramon",
+    "tag": "CHA",
+    "name": "Ron Ramon"
+  },
+  {
+    "displayName": "Ryüku",
+    "tag": null,
+    "name": "Ryüku"
+  },
+  {
+    "displayName": "[DMN] Sakura",
+    "tag": "DMN",
+    "name": "Sakura"
+  },
+  {
+    "displayName": "SaphicAgenda",
+    "tag": null,
+    "name": "SaphicAgenda"
+  },
+  {
+    "displayName": "[CHAI] SaphicAgenda",
+    "tag": "CHAI",
+    "name": "SaphicAgenda"
+  },
+  {
+    "displayName": "[GAIA]SaphicAgenda",
+    "tag": "GAIA",
+    "name": "SaphicAgenda"
+  },
+  {
+    "displayName": "[CHAI]SaphicAgenda",
+    "tag": "CHAI",
+    "name": "SaphicAgenda"
+  },
+  {
+    "displayName": "[Loch] Schnee",
+    "tag": "Loch",
+    "name": "Schnee"
+  },
+  {
+    "displayName": "[CHAI] Seismic Toph",
+    "tag": "CHAI",
+    "name": "Seismic Toph"
+  },
+  {
+    "displayName": "[DMN] Sevro",
+    "tag": "DMN",
+    "name": "Sevro"
+  },
+  {
+    "displayName": "[CHAI] Sheerio",
+    "tag": "CHAI",
+    "name": "Sheerio"
+  },
+  {
+    "displayName": "[DMN] Shi",
+    "tag": "DMN",
+    "name": "Shi"
+  },
+  {
+    "displayName": "[DMN] Shindra",
+    "tag": "DMN",
+    "name": "Shindra"
+  },
+  {
+    "displayName": "[DMN] SJGeek",
+    "tag": "DMN",
+    "name": "SJGeek"
+  },
+  {
+    "displayName": "[CHA] SlowMoMo",
+    "tag": "CHA",
+    "name": "SlowMoMo"
+  },
+  {
+    "displayName": "[CHAI] snipomatic",
+    "tag": "CHAI",
+    "name": "snipomatic"
+  },
+  {
+    "displayName": "[DMN] Styrm",
+    "tag": "DMN",
+    "name": "Styrm"
+  },
+  {
+    "displayName": "[GAIA] Suzy",
+    "tag": "GAIA",
+    "name": "Suzy"
+  },
+  {
+    "displayName": "[GAG] Tanashee",
+    "tag": "GAG",
+    "name": "Tanashee"
+  },
+  {
+    "displayName": "[CHAI] TDibby",
+    "tag": "CHAI",
+    "name": "TDibby"
+  },
+  {
+    "displayName": "[DMN] Tere",
+    "tag": "DMN",
+    "name": "Tere"
+  },
+  {
+    "displayName": "[CHAI] TokaiTeio",
+    "tag": "CHAI",
+    "name": "TokaiTeio"
+  },
+  {
+    "displayName": "[GAIA] TokaiTeio",
+    "tag": "GAIA",
+    "name": "TokaiTeio"
+  },
+  {
+    "displayName": "[GAIA]TokaiTeio",
+    "tag": "GAIA",
+    "name": "TokaiTeio"
+  },
+  {
+    "displayName": "[DMN] Toombs4TW",
+    "tag": "DMN",
+    "name": "Toombs4TW"
+  },
+  {
+    "displayName": "[CHA] Toshiro",
+    "tag": "CHA",
+    "name": "Toshiro"
+  },
+  {
+    "displayName": "[DMN] Trager",
+    "tag": "DMN",
+    "name": "Trager"
+  },
+  {
+    "displayName": "[DMN]Valkyrie",
+    "tag": "DMN",
+    "name": "Valkyrie"
+  },
+  {
+    "displayName": "[CHAI] Wanderlander",
+    "tag": "CHAI",
+    "name": "Wanderlander"
+  },
+  {
+    "displayName": "[CHAI] Wastelander",
+    "tag": "CHAI",
+    "name": "Wastelander"
+  },
+  {
+    "displayName": "[DMN] Weronauta",
+    "tag": "DMN",
+    "name": "Weronauta"
+  },
+  {
+    "displayName": "[DMN] Xico",
+    "tag": "DMN",
+    "name": "Xico"
+  },
+  {
+    "displayName": "[DMN] XxGHOSTxX",
+    "tag": "DMN",
+    "name": "XxGHOSTxX"
+  },
+  {
+    "displayName": "[CHA] ZhuLi",
+    "tag": "CHA",
+    "name": "ZhuLi"
+  },
+  {
+    "displayName": "[DMN] 张宗昌",
+    "tag": "DMN",
+    "name": "张宗昌"
+  },
+  {
+    "displayName": "[DMN]张宗昌",
+    "tag": "DMN",
+    "name": "张宗昌"
+  }
+]

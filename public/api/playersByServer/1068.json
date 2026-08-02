@@ -1,0 +1,572 @@
+[
+  {
+    "displayName": "[MTO] 1Q1Q1Q",
+    "tag": "MTO",
+    "name": "1Q1Q1Q"
+  },
+  {
+    "displayName": "[LOST] abrasion",
+    "tag": "LOST",
+    "name": "abrasion"
+  },
+  {
+    "displayName": "[KYOS] abrasion",
+    "tag": "KYOS",
+    "name": "abrasion"
+  },
+  {
+    "displayName": "[LOST] AIR BUDDHA",
+    "tag": "LOST",
+    "name": "AIR BUDDHA"
+  },
+  {
+    "displayName": "[MRVL] Anubis",
+    "tag": "MRVL",
+    "name": "Anubis"
+  },
+  {
+    "displayName": "[LOST] artthuurs",
+    "tag": "LOST",
+    "name": "artthuurs"
+  },
+  {
+    "displayName": "Ashira",
+    "tag": null,
+    "name": "Ashira"
+  },
+  {
+    "displayName": "[MTO] Baptista",
+    "tag": "MTO",
+    "name": "Baptista"
+  },
+  {
+    "displayName": "[MTO] Batman",
+    "tag": "MTO",
+    "name": "Batman"
+  },
+  {
+    "displayName": "[MRVL] Becca010",
+    "tag": "MRVL",
+    "name": "Becca010"
+  },
+  {
+    "displayName": "[MRVL] BenDigga",
+    "tag": "MRVL",
+    "name": "BenDigga"
+  },
+  {
+    "displayName": "[MTO] Bergalicious",
+    "tag": "MTO",
+    "name": "Bergalicious"
+  },
+  {
+    "displayName": "[MRVL] BuddhaBilly",
+    "tag": "MRVL",
+    "name": "BuddhaBilly"
+  },
+  {
+    "displayName": "[LOST] Buddhadrip",
+    "tag": "LOST",
+    "name": "Buddhadrip"
+  },
+  {
+    "displayName": "[MRVL] Burrito",
+    "tag": "MRVL",
+    "name": "Burrito"
+  },
+  {
+    "displayName": "[LOST] Buzzed off",
+    "tag": "LOST",
+    "name": "Buzzed off"
+  },
+  {
+    "displayName": "[MTO] Cabbage city",
+    "tag": "MTO",
+    "name": "Cabbage city"
+  },
+  {
+    "displayName": "[MTO] Calypso",
+    "tag": "MTO",
+    "name": "Calypso"
+  },
+  {
+    "displayName": "[MRVL] CaptAmerica",
+    "tag": "MRVL",
+    "name": "CaptAmerica"
+  },
+  {
+    "displayName": "[LOST] Christian Ft",
+    "tag": "LOST",
+    "name": "Christian Ft"
+  },
+  {
+    "displayName": "[LOST] Cicatrix",
+    "tag": "LOST",
+    "name": "Cicatrix"
+  },
+  {
+    "displayName": "[MTO] CMC Q",
+    "tag": "MTO",
+    "name": "CMC Q"
+  },
+  {
+    "displayName": "[MTO] Dahlia64",
+    "tag": "MTO",
+    "name": "Dahlia64"
+  },
+  {
+    "displayName": "[MRVL] Dan Heng",
+    "tag": "MRVL",
+    "name": "Dan Heng"
+  },
+  {
+    "displayName": "[espi] dant",
+    "tag": "espi",
+    "name": "dant"
+  },
+  {
+    "displayName": "[MRVL] Dark Angel",
+    "tag": "MRVL",
+    "name": "Dark Angel"
+  },
+  {
+    "displayName": "[MRVL] Dewey",
+    "tag": "MRVL",
+    "name": "Dewey"
+  },
+  {
+    "displayName": "[MRVL] Dietz0r",
+    "tag": "MRVL",
+    "name": "Dietz0r"
+  },
+  {
+    "displayName": "[MTO] DjFatEnergy",
+    "tag": "MTO",
+    "name": "DjFatEnergy"
+  },
+  {
+    "displayName": "[MTO] Dodo2304",
+    "tag": "MTO",
+    "name": "Dodo2304"
+  },
+  {
+    "displayName": "[MRVL] Dr Strange",
+    "tag": "MRVL",
+    "name": "Dr Strange"
+  },
+  {
+    "displayName": "[LAT] dracarys",
+    "tag": "LAT",
+    "name": "dracarys"
+  },
+  {
+    "displayName": "[MTO] Emashu",
+    "tag": "MTO",
+    "name": "Emashu"
+  },
+  {
+    "displayName": "[MRVL] EmoKaty",
+    "tag": "MRVL",
+    "name": "EmoKaty"
+  },
+  {
+    "displayName": "[MTO] Ezra",
+    "tag": "MTO",
+    "name": "Ezra"
+  },
+  {
+    "displayName": "[MTO] Falco",
+    "tag": "MTO",
+    "name": "Falco"
+  },
+  {
+    "displayName": "[MRVL] Feliz",
+    "tag": "MRVL",
+    "name": "Feliz"
+  },
+  {
+    "displayName": "[LOST] FlyK",
+    "tag": "LOST",
+    "name": "FlyK"
+  },
+  {
+    "displayName": "[MTOf] Frii",
+    "tag": "MTOf",
+    "name": "Frii"
+  },
+  {
+    "displayName": "[LOST] Fryys",
+    "tag": "LOST",
+    "name": "Fryys"
+  },
+  {
+    "displayName": "[MRVL] Gwen Stacy",
+    "tag": "MRVL",
+    "name": "Gwen Stacy"
+  },
+  {
+    "displayName": "[MTO] Hades",
+    "tag": "MTO",
+    "name": "Hades"
+  },
+  {
+    "displayName": "HeroLD80",
+    "tag": null,
+    "name": "HeroLD80"
+  },
+  {
+    "displayName": "[MTO] HeroLD80",
+    "tag": "MTO",
+    "name": "HeroLD80"
+  },
+  {
+    "displayName": "Hope",
+    "tag": null,
+    "name": "Hope"
+  },
+  {
+    "displayName": "[KYOS] Hope",
+    "tag": "KYOS",
+    "name": "Hope"
+  },
+  {
+    "displayName": "[MRVL] i r o h m a n",
+    "tag": "MRVL",
+    "name": "i r o h m a n"
+  },
+  {
+    "displayName": "[MRVL] i rohman",
+    "tag": "MRVL",
+    "name": "i rohman"
+  },
+  {
+    "displayName": "[MRVL] irohman",
+    "tag": "MRVL",
+    "name": "irohman"
+  },
+  {
+    "displayName": "[MRVL] ｉｒｏｈｍａｎ",
+    "tag": "MRVL",
+    "name": "ｉｒｏｈｍａｎ"
+  },
+  {
+    "displayName": "[MRVL] JabSwamp",
+    "tag": "MRVL",
+    "name": "JabSwamp"
+  },
+  {
+    "displayName": "[LOST] Jan",
+    "tag": "LOST",
+    "name": "Jan"
+  },
+  {
+    "displayName": "[MRVL] Jasper",
+    "tag": "MRVL",
+    "name": "Jasper"
+  },
+  {
+    "displayName": "[MRVL] Jean Grey",
+    "tag": "MRVL",
+    "name": "Jean Grey"
+  },
+  {
+    "displayName": "[MRVL] Jin",
+    "tag": "MRVL",
+    "name": "Jin"
+  },
+  {
+    "displayName": "[LOST] JoKo96",
+    "tag": "LOST",
+    "name": "JoKo96"
+  },
+  {
+    "displayName": "[LOST] Jonnycm",
+    "tag": "LOST",
+    "name": "Jonnycm"
+  },
+  {
+    "displayName": "[LOST] Katey",
+    "tag": "LOST",
+    "name": "Katey"
+  },
+  {
+    "displayName": "[MRVL] Kazuha",
+    "tag": "MRVL",
+    "name": "Kazuha"
+  },
+  {
+    "displayName": "[MTO] Kiela",
+    "tag": "MTO",
+    "name": "Kiela"
+  },
+  {
+    "displayName": "[LOST] Kumo",
+    "tag": "LOST",
+    "name": "Kumo"
+  },
+  {
+    "displayName": "[AadG] leader_3337169",
+    "tag": "AadG",
+    "name": "leader_3337169"
+  },
+  {
+    "displayName": "[MTO] Mäxwell",
+    "tag": "MTO",
+    "name": "Mäxwell"
+  },
+  {
+    "displayName": "[MRVL] Mayagoliath",
+    "tag": "MRVL",
+    "name": "Mayagoliath"
+  },
+  {
+    "displayName": "[MRVL] Mephisto",
+    "tag": "MRVL",
+    "name": "Mephisto"
+  },
+  {
+    "displayName": "[MTO] Meru",
+    "tag": "MTO",
+    "name": "Meru"
+  },
+  {
+    "displayName": "[MRVL] Minastu",
+    "tag": "MRVL",
+    "name": "Minastu"
+  },
+  {
+    "displayName": "[MRVL] Miss Fury",
+    "tag": "MRVL",
+    "name": "Miss Fury"
+  },
+  {
+    "displayName": "[MTO] Mojacko8888",
+    "tag": "MTO",
+    "name": "Mojacko8888"
+  },
+  {
+    "displayName": "[MTO] momomomomomo",
+    "tag": "MTO",
+    "name": "momomomomomo"
+  },
+  {
+    "displayName": "[MRVL] MoonKnight",
+    "tag": "MRVL",
+    "name": "MoonKnight"
+  },
+  {
+    "displayName": "[MRVL] morinake",
+    "tag": "MRVL",
+    "name": "morinake"
+  },
+  {
+    "displayName": "[MRVL] Nebula",
+    "tag": "MRVL",
+    "name": "Nebula"
+  },
+  {
+    "displayName": "[MTO] NeMigga",
+    "tag": "MTO",
+    "name": "NeMigga"
+  },
+  {
+    "displayName": "[LOST] NuPhonics",
+    "tag": "LOST",
+    "name": "NuPhonics"
+  },
+  {
+    "displayName": "[MTO] One",
+    "tag": "MTO",
+    "name": "One"
+  },
+  {
+    "displayName": "[MRVL] peperey12",
+    "tag": "MRVL",
+    "name": "peperey12"
+  },
+  {
+    "displayName": "[MTO] Power Toph",
+    "tag": "MTO",
+    "name": "Power Toph"
+  },
+  {
+    "displayName": "[MRVL] Psykorra",
+    "tag": "MRVL",
+    "name": "Psykorra"
+  },
+  {
+    "displayName": "[MRVL] Psylocke",
+    "tag": "MRVL",
+    "name": "Psylocke"
+  },
+  {
+    "displayName": "Quicksilver",
+    "tag": null,
+    "name": "Quicksilver"
+  },
+  {
+    "displayName": "[MRVL] Quicksilver",
+    "tag": "MRVL",
+    "name": "Quicksilver"
+  },
+  {
+    "displayName": "[MRVL] Raph",
+    "tag": "MRVL",
+    "name": "Raph"
+  },
+  {
+    "displayName": "[MTO] Raya1234",
+    "tag": "MTO",
+    "name": "Raya1234"
+  },
+  {
+    "displayName": "Remy LeBeau",
+    "tag": null,
+    "name": "Remy LeBeau"
+  },
+  {
+    "displayName": "[MTO] Rodri",
+    "tag": "MTO",
+    "name": "Rodri"
+  },
+  {
+    "displayName": "[MRVL] Rogue",
+    "tag": "MRVL",
+    "name": "Rogue"
+  },
+  {
+    "displayName": "rubes",
+    "tag": null,
+    "name": "rubes"
+  },
+  {
+    "displayName": "[MTO] RubyRuby",
+    "tag": "MTO",
+    "name": "RubyRuby"
+  },
+  {
+    "displayName": "[GEM] Sagdiyef",
+    "tag": "GEM",
+    "name": "Sagdiyef"
+  },
+  {
+    "displayName": "[MRVL] Sage",
+    "tag": "MRVL",
+    "name": "Sage"
+  },
+  {
+    "displayName": "[MTO] Shelbyagii",
+    "tag": "MTO",
+    "name": "Shelbyagii"
+  },
+  {
+    "displayName": "[LOST] Shikamaru",
+    "tag": "LOST",
+    "name": "Shikamaru"
+  },
+  {
+    "displayName": "[MRVL] Sid",
+    "tag": "MRVL",
+    "name": "Sid"
+  },
+  {
+    "displayName": "[LOST] SifuHotman",
+    "tag": "LOST",
+    "name": "SifuHotman"
+  },
+  {
+    "displayName": "[MRVL] Super Mystic",
+    "tag": "MRVL",
+    "name": "Super Mystic"
+  },
+  {
+    "displayName": "[LOST] Tara",
+    "tag": "LOST",
+    "name": "Tara"
+  },
+  {
+    "displayName": "[WhLs] TeaMaster",
+    "tag": "WhLs",
+    "name": "TeaMaster"
+  },
+  {
+    "displayName": "[MRVL] The Magician",
+    "tag": "MRVL",
+    "name": "The Magician"
+  },
+  {
+    "displayName": "[MRVL] Thigrel",
+    "tag": "MRVL",
+    "name": "Thigrel"
+  },
+  {
+    "displayName": "[MTO] TiberiusRad",
+    "tag": "MTO",
+    "name": "TiberiusRad"
+  },
+  {
+    "displayName": "[MRVL] TinChi",
+    "tag": "MRVL",
+    "name": "TinChi"
+  },
+  {
+    "displayName": "[MRVL] Tony Stark",
+    "tag": "MRVL",
+    "name": "Tony Stark"
+  },
+  {
+    "displayName": "[MTO] Tre",
+    "tag": "MTO",
+    "name": "Tre"
+  },
+  {
+    "displayName": "[MTO] TribeHealer",
+    "tag": "MTO",
+    "name": "TribeHealer"
+  },
+  {
+    "displayName": "[MTO] TRTLman",
+    "tag": "MTO",
+    "name": "TRTLman"
+  },
+  {
+    "displayName": "[MRVL] Ʊiv Ʊision",
+    "tag": "MRVL",
+    "name": "Ʊiv Ʊision"
+  },
+  {
+    "displayName": "[MRVL] Vasha",
+    "tag": "MRVL",
+    "name": "Vasha"
+  },
+  {
+    "displayName": "[LOST] Voracity",
+    "tag": "LOST",
+    "name": "Voracity"
+  },
+  {
+    "displayName": "[MRVL] WnterSoldier",
+    "tag": "MRVL",
+    "name": "WnterSoldier"
+  },
+  {
+    "displayName": "[LOST] yvngleenk",
+    "tag": "LOST",
+    "name": "yvngleenk"
+  },
+  {
+    "displayName": "[MRVL] Zommer",
+    "tag": "MRVL",
+    "name": "Zommer"
+  },
+  {
+    "displayName": "[MRVL] Zula",
+    "tag": "MRVL",
+    "name": "Zula"
+  },
+  {
+    "displayName": "[GEM] Zwahala",
+    "tag": "GEM",
+    "name": "Zwahala"
+  }
+]

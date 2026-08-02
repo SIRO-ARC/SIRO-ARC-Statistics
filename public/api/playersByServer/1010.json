@@ -1,0 +1,927 @@
+[
+  {
+    "displayName": "[BLSP]",
+    "tag": "BLSP",
+    "name": ""
+  },
+  {
+    "displayName": "[BLSP] AAA",
+    "tag": "BLSP",
+    "name": "AAA"
+  },
+  {
+    "displayName": "[BOOM] abingy",
+    "tag": "BOOM",
+    "name": "abingy"
+  },
+  {
+    "displayName": "[TOON] Akalynn",
+    "tag": "TOON",
+    "name": "Akalynn"
+  },
+  {
+    "displayName": "[BLSP] Akalynn",
+    "tag": "BLSP",
+    "name": "Akalynn"
+  },
+  {
+    "displayName": "[BLSP]Akalynn",
+    "tag": "BLSP",
+    "name": "Akalynn"
+  },
+  {
+    "displayName": "[BLSP] Alto",
+    "tag": "BLSP",
+    "name": "Alto"
+  },
+  {
+    "displayName": "[SATO] Ambessa",
+    "tag": "SATO",
+    "name": "Ambessa"
+  },
+  {
+    "displayName": "[SATO]Ambessa",
+    "tag": "SATO",
+    "name": "Ambessa"
+  },
+  {
+    "displayName": "[BLSP] Anti",
+    "tag": "BLSP",
+    "name": "Anti"
+  },
+  {
+    "displayName": "[BLSP]Anti",
+    "tag": "BLSP",
+    "name": "Anti"
+  },
+  {
+    "displayName": "[BLSP] AntiPositive",
+    "tag": "BLSP",
+    "name": "AntiPositive"
+  },
+  {
+    "displayName": "[TOON] AppleJack",
+    "tag": "TOON",
+    "name": "AppleJack"
+  },
+  {
+    "displayName": "[TOON] AvatarScott",
+    "tag": "TOON",
+    "name": "AvatarScott"
+  },
+  {
+    "displayName": "[BOOM] Axion",
+    "tag": "BOOM",
+    "name": "Axion"
+  },
+  {
+    "displayName": "[BOOM] Ayumu",
+    "tag": "BOOM",
+    "name": "Ayumu"
+  },
+  {
+    "displayName": "[BOOM] B Sampson",
+    "tag": "BOOM",
+    "name": "B Sampson"
+  },
+  {
+    "displayName": "[CAKE] Balron",
+    "tag": "CAKE",
+    "name": "Balron"
+  },
+  {
+    "displayName": "[BLSP] Balron",
+    "tag": "BLSP",
+    "name": "Balron"
+  },
+  {
+    "displayName": "[BLSP]Balron",
+    "tag": "BLSP",
+    "name": "Balron"
+  },
+  {
+    "displayName": "[BOOM] Barnacle Boy",
+    "tag": "BOOM",
+    "name": "Barnacle Boy"
+  },
+  {
+    "displayName": "[BOOM] Benny Benson",
+    "tag": "BOOM",
+    "name": "Benny Benson"
+  },
+  {
+    "displayName": "[TOON] Big Z",
+    "tag": "TOON",
+    "name": "Big Z"
+  },
+  {
+    "displayName": "[BOOM] Bluedrago",
+    "tag": "BOOM",
+    "name": "Bluedrago"
+  },
+  {
+    "displayName": "[TOON] Bluess",
+    "tag": "TOON",
+    "name": "Bluess"
+  },
+  {
+    "displayName": "[TOON] Bugs Bunny",
+    "tag": "TOON",
+    "name": "Bugs Bunny"
+  },
+  {
+    "displayName": "[TOON] C8",
+    "tag": "TOON",
+    "name": "C8"
+  },
+  {
+    "displayName": "[BOOM] Cactus Juice",
+    "tag": "BOOM",
+    "name": "Cactus Juice"
+  },
+  {
+    "displayName": "[BOOM] CactusJuice",
+    "tag": "BOOM",
+    "name": "CactusJuice"
+  },
+  {
+    "displayName": "[HNOR] CactusJuice",
+    "tag": "HNOR",
+    "name": "CactusJuice"
+  },
+  {
+    "displayName": "[BOOM] Caladwyn",
+    "tag": "BOOM",
+    "name": "Caladwyn"
+  },
+  {
+    "displayName": "[TOON] CapIglo",
+    "tag": "TOON",
+    "name": "CapIglo"
+  },
+  {
+    "displayName": "[TOON] CapIglO",
+    "tag": "TOON",
+    "name": "CapIglO"
+  },
+  {
+    "displayName": "[BOOM] Carl Wheezer",
+    "tag": "BOOM",
+    "name": "Carl Wheezer"
+  },
+  {
+    "displayName": "[PINK] CatDog",
+    "tag": "PINK",
+    "name": "CatDog"
+  },
+  {
+    "displayName": "[TOON] Catzefy",
+    "tag": "TOON",
+    "name": "Catzefy"
+  },
+  {
+    "displayName": "[BLSP] Catzefy",
+    "tag": "BLSP",
+    "name": "Catzefy"
+  },
+  {
+    "displayName": "[HNOR] Catzefy",
+    "tag": "HNOR",
+    "name": "Catzefy"
+  },
+  {
+    "displayName": "[BLSP]Catzefy",
+    "tag": "BLSP",
+    "name": "Catzefy"
+  },
+  {
+    "displayName": "[BLSP] Catzeify",
+    "tag": "BLSP",
+    "name": "Catzeify"
+  },
+  {
+    "displayName": "[TOON] Celestia",
+    "tag": "TOON",
+    "name": "Celestia"
+  },
+  {
+    "displayName": "[TOON] Chaaaos",
+    "tag": "TOON",
+    "name": "Chaaaos"
+  },
+  {
+    "displayName": "[BOOM] Chace",
+    "tag": "BOOM",
+    "name": "Chace"
+  },
+  {
+    "displayName": "[TOON] Chicken Joe",
+    "tag": "TOON",
+    "name": "Chicken Joe"
+  },
+  {
+    "displayName": "[BOOM] Ciza",
+    "tag": "BOOM",
+    "name": "Ciza"
+  },
+  {
+    "displayName": "[TOON] Clover",
+    "tag": "TOON",
+    "name": "Clover"
+  },
+  {
+    "displayName": "[TOON] CodyMaverick",
+    "tag": "TOON",
+    "name": "CodyMaverick"
+  },
+  {
+    "displayName": "[BOOM] Cohnmeda",
+    "tag": "BOOM",
+    "name": "Cohnmeda"
+  },
+  {
+    "displayName": "[TOON] Daffy Duck",
+    "tag": "TOON",
+    "name": "Daffy Duck"
+  },
+  {
+    "displayName": "[BLSP] Dannny",
+    "tag": "BLSP",
+    "name": "Dannny"
+  },
+  {
+    "displayName": "[BLSP]Dannny",
+    "tag": "BLSP",
+    "name": "Dannny"
+  },
+  {
+    "displayName": "[BLSP] Danny",
+    "tag": "BLSP",
+    "name": "Danny"
+  },
+  {
+    "displayName": "[BOOM] Daphne",
+    "tag": "BOOM",
+    "name": "Daphne"
+  },
+  {
+    "displayName": "[TOON] DarkwingDuck",
+    "tag": "TOON",
+    "name": "DarkwingDuck"
+  },
+  {
+    "displayName": "[TOON] Dewey Duck",
+    "tag": "TOON",
+    "name": "Dewey Duck"
+  },
+  {
+    "displayName": "[TOON] dimi",
+    "tag": "TOON",
+    "name": "dimi"
+  },
+  {
+    "displayName": "[PINK] Dinkleberg",
+    "tag": "PINK",
+    "name": "Dinkleberg"
+  },
+  {
+    "displayName": "[BOOM] Drerydos",
+    "tag": "BOOM",
+    "name": "Drerydos"
+  },
+  {
+    "displayName": "[BOOM] Eevee",
+    "tag": "BOOM",
+    "name": "Eevee"
+  },
+  {
+    "displayName": "[TOON] ELMER FUDD",
+    "tag": "TOON",
+    "name": "ELMER FUDD"
+  },
+  {
+    "displayName": "[TOON] ᴇʟᴍᴇʀ ꜰᴜᴅᴅ",
+    "tag": "TOON",
+    "name": "ᴇʟᴍᴇʀ ꜰᴜᴅᴅ"
+  },
+  {
+    "displayName": "[TOON] FaDu",
+    "tag": "TOON",
+    "name": "FaDu"
+  },
+  {
+    "displayName": "[TOON] Fluttershy",
+    "tag": "TOON",
+    "name": "Fluttershy"
+  },
+  {
+    "displayName": "[BLSP] Fraxor",
+    "tag": "BLSP",
+    "name": "Fraxor"
+  },
+  {
+    "displayName": "Frazor",
+    "tag": null,
+    "name": "Frazor"
+  },
+  {
+    "displayName": "[BLSP] Frazor",
+    "tag": "BLSP",
+    "name": "Frazor"
+  },
+  {
+    "displayName": "[BLSP]Frazor",
+    "tag": "BLSP",
+    "name": "Frazor"
+  },
+  {
+    "displayName": "[TOON] Gessi",
+    "tag": "TOON",
+    "name": "Gessi"
+  },
+  {
+    "displayName": "[BLSP]Gessi",
+    "tag": "BLSP",
+    "name": "Gessi"
+  },
+  {
+    "displayName": "[BLSP] GibBackBalls",
+    "tag": "BLSP",
+    "name": "GibBackBalls"
+  },
+  {
+    "displayName": "[TOON] GR APE APE",
+    "tag": "TOON",
+    "name": "GR APE APE"
+  },
+  {
+    "displayName": "[BLSP] Great Uniter",
+    "tag": "BLSP",
+    "name": "Great Uniter"
+  },
+  {
+    "displayName": "[TOON] HomelessMan",
+    "tag": "TOON",
+    "name": "HomelessMan"
+  },
+  {
+    "displayName": "[TOON] Huey Duck",
+    "tag": "TOON",
+    "name": "Huey Duck"
+  },
+  {
+    "displayName": "[BLSP] Inukoro",
+    "tag": "BLSP",
+    "name": "Inukoro"
+  },
+  {
+    "displayName": "[BLSP]Inukoro",
+    "tag": "BLSP",
+    "name": "Inukoro"
+  },
+  {
+    "displayName": "[PINK] Jerry Mouse",
+    "tag": "PINK",
+    "name": "Jerry Mouse"
+  },
+  {
+    "displayName": "[SATO] JoeIZ",
+    "tag": "SATO",
+    "name": "JoeIZ"
+  },
+  {
+    "displayName": "[SATO] JoelZ",
+    "tag": "SATO",
+    "name": "JoelZ"
+  },
+  {
+    "displayName": "[HNOR] JoelZ",
+    "tag": "HNOR",
+    "name": "JoelZ"
+  },
+  {
+    "displayName": "[HNOR]JoelZ",
+    "tag": "HNOR",
+    "name": "JoelZ"
+  },
+  {
+    "displayName": "[BLSP] Jonesy",
+    "tag": "BLSP",
+    "name": "Jonesy"
+  },
+  {
+    "displayName": "[BLSP] Jønesy",
+    "tag": "BLSP",
+    "name": "Jønesy"
+  },
+  {
+    "displayName": "[BLSP]Jønesy",
+    "tag": "BLSP",
+    "name": "Jønesy"
+  },
+  {
+    "displayName": "[TOON] Jorgan V S",
+    "tag": "TOON",
+    "name": "Jorgan V S"
+  },
+  {
+    "displayName": "Joshi",
+    "tag": null,
+    "name": "Joshi"
+  },
+  {
+    "displayName": "[BLSP] Joshi",
+    "tag": "BLSP",
+    "name": "Joshi"
+  },
+  {
+    "displayName": "[TOON] Juandissimo",
+    "tag": "TOON",
+    "name": "Juandissimo"
+  },
+  {
+    "displayName": "[PINK] Kageshin",
+    "tag": "PINK",
+    "name": "Kageshin"
+  },
+  {
+    "displayName": "[TOON] khonshu",
+    "tag": "TOON",
+    "name": "khonshu"
+  },
+  {
+    "displayName": "[PINK] KingAnt",
+    "tag": "PINK",
+    "name": "KingAnt"
+  },
+  {
+    "displayName": "[TOON] Kronk",
+    "tag": "TOON",
+    "name": "Kronk"
+  },
+  {
+    "displayName": "[PINK] Kronk",
+    "tag": "PINK",
+    "name": "Kronk"
+  },
+  {
+    "displayName": "[BOOM] kroyeh",
+    "tag": "BOOM",
+    "name": "kroyeh"
+  },
+  {
+    "displayName": "[BOOM] kroyeyh",
+    "tag": "BOOM",
+    "name": "kroyeyh"
+  },
+  {
+    "displayName": "[TOON] Kyors",
+    "tag": "TOON",
+    "name": "Kyors"
+  },
+  {
+    "displayName": "[TOON] ᴋʜᴏɴsʜᴜ",
+    "tag": "TOON",
+    "name": "ᴋʜᴏɴsʜᴜ"
+  },
+  {
+    "displayName": "[SATO] Lavaling",
+    "tag": "SATO",
+    "name": "Lavaling"
+  },
+  {
+    "displayName": "[TOON] Lola Bunny",
+    "tag": "TOON",
+    "name": "Lola Bunny"
+  },
+  {
+    "displayName": "Loonuro",
+    "tag": null,
+    "name": "Loonuro"
+  },
+  {
+    "displayName": "[BLSP] Lordo",
+    "tag": "BLSP",
+    "name": "Lordo"
+  },
+  {
+    "displayName": "[TOON] LordO",
+    "tag": "TOON",
+    "name": "LordO"
+  },
+  {
+    "displayName": "[BLSP] LordO",
+    "tag": "BLSP",
+    "name": "LordO"
+  },
+  {
+    "displayName": "[BLSP]LordO",
+    "tag": "BLSP",
+    "name": "LordO"
+  },
+  {
+    "displayName": "[BLSP] mccloud",
+    "tag": "BLSP",
+    "name": "mccloud"
+  },
+  {
+    "displayName": "[HNOR] mccloud",
+    "tag": "HNOR",
+    "name": "mccloud"
+  },
+  {
+    "displayName": "mccloud",
+    "tag": null,
+    "name": "mccloud"
+  },
+  {
+    "displayName": "[TOON] MeanPanda",
+    "tag": "TOON",
+    "name": "MeanPanda"
+  },
+  {
+    "displayName": "[PINK] MerkinMffley",
+    "tag": "PINK",
+    "name": "MerkinMffley"
+  },
+  {
+    "displayName": "[BLSP] MerkinMffley",
+    "tag": "BLSP",
+    "name": "MerkinMffley"
+  },
+  {
+    "displayName": "[BLSP] MerkinMffly",
+    "tag": "BLSP",
+    "name": "MerkinMffly"
+  },
+  {
+    "displayName": "[BLSP] MerkinSATO",
+    "tag": "BLSP",
+    "name": "MerkinSATO"
+  },
+  {
+    "displayName": "[PINK] MewTwo",
+    "tag": "PINK",
+    "name": "MewTwo"
+  },
+  {
+    "displayName": "[BOOM] mzs",
+    "tag": "BOOM",
+    "name": "mzs"
+  },
+  {
+    "displayName": "[CAKE] Nikkalise",
+    "tag": "CAKE",
+    "name": "Nikkalise"
+  },
+  {
+    "displayName": "[BLSP] Nikkalise",
+    "tag": "BLSP",
+    "name": "Nikkalise"
+  },
+  {
+    "displayName": "[BLSP]Nikkalise",
+    "tag": "BLSP",
+    "name": "Nikkalise"
+  },
+  {
+    "displayName": "[TOON] oTpyTa",
+    "tag": "TOON",
+    "name": "oTpyTa"
+  },
+  {
+    "displayName": "[BLSP] oTpyTa",
+    "tag": "BLSP",
+    "name": "oTpyTa"
+  },
+  {
+    "displayName": "[BLSP] oTPyTa",
+    "tag": "BLSP",
+    "name": "oTPyTa"
+  },
+  {
+    "displayName": "[TOON] owl",
+    "tag": "TOON",
+    "name": "owl"
+  },
+  {
+    "displayName": "[TOON] Ozorian",
+    "tag": "TOON",
+    "name": "Ozorian"
+  },
+  {
+    "displayName": "[BLSP] Ozorian",
+    "tag": "BLSP",
+    "name": "Ozorian"
+  },
+  {
+    "displayName": "[SATO] Ozorian",
+    "tag": "SATO",
+    "name": "Ozorian"
+  },
+  {
+    "displayName": "[SATO]Ozorian",
+    "tag": "SATO",
+    "name": "Ozorian"
+  },
+  {
+    "displayName": "[BLSP] oТруТа",
+    "tag": "BLSP",
+    "name": "oТруТа"
+  },
+  {
+    "displayName": "[PINK] Palestina",
+    "tag": "PINK",
+    "name": "Palestina"
+  },
+  {
+    "displayName": "Piandao",
+    "tag": null,
+    "name": "Piandao"
+  },
+  {
+    "displayName": "[BLSP] Piandao",
+    "tag": "BLSP",
+    "name": "Piandao"
+  },
+  {
+    "displayName": "[BLSP]Piandao",
+    "tag": "BLSP",
+    "name": "Piandao"
+  },
+  {
+    "displayName": "[TOON] Pinkie Pie",
+    "tag": "TOON",
+    "name": "Pinkie Pie"
+  },
+  {
+    "displayName": "[BLSP] Pupperfisch",
+    "tag": "BLSP",
+    "name": "Pupperfisch"
+  },
+  {
+    "displayName": "[BOOM] Rąįņbøŵ Đąşh",
+    "tag": "BOOM",
+    "name": "Rąįņbøŵ Đąşh"
+  },
+  {
+    "displayName": "[PINK] Rarity",
+    "tag": "PINK",
+    "name": "Rarity"
+  },
+  {
+    "displayName": "[BLSP] Red",
+    "tag": "BLSP",
+    "name": "Red"
+  },
+  {
+    "displayName": "[BLSP]Red",
+    "tag": "BLSP",
+    "name": "Red"
+  },
+  {
+    "displayName": "[TOON] RepLaaYz",
+    "tag": "TOON",
+    "name": "RepLaaYz"
+  },
+  {
+    "displayName": "[TOON] Rockhoof",
+    "tag": "TOON",
+    "name": "Rockhoof"
+  },
+  {
+    "displayName": "[TOON] RoséPetal",
+    "tag": "TOON",
+    "name": "RoséPetal"
+  },
+  {
+    "displayName": "[TOON] RosėPetal",
+    "tag": "TOON",
+    "name": "RosėPetal"
+  },
+  {
+    "displayName": "[TOON] RRXMAN",
+    "tag": "TOON",
+    "name": "RRXMAN"
+  },
+  {
+    "displayName": "[TOON] Scooby Dooby",
+    "tag": "TOON",
+    "name": "Scooby Dooby"
+  },
+  {
+    "displayName": "[BOOM] Scooby Loo",
+    "tag": "BOOM",
+    "name": "Scooby Loo"
+  },
+  {
+    "displayName": "[BOOM] shaggy",
+    "tag": "BOOM",
+    "name": "shaggy"
+  },
+  {
+    "displayName": "[PINK] Shakex",
+    "tag": "PINK",
+    "name": "Shakex"
+  },
+  {
+    "displayName": "[BOOM] Shego Sisi",
+    "tag": "BOOM",
+    "name": "Shego Sisi"
+  },
+  {
+    "displayName": "[PINK] Shiny Umby",
+    "tag": "PINK",
+    "name": "Shiny Umby"
+  },
+  {
+    "displayName": "[TOON] Shnitzel",
+    "tag": "TOON",
+    "name": "Shnitzel"
+  },
+  {
+    "displayName": "[TOON] Snaps3ot",
+    "tag": "TOON",
+    "name": "Snaps3ot"
+  },
+  {
+    "displayName": "[BLSP] Snit",
+    "tag": "BLSP",
+    "name": "Snit"
+  },
+  {
+    "displayName": "[BLSP] Snit Snit",
+    "tag": "BLSP",
+    "name": "Snit Snit"
+  },
+  {
+    "displayName": "[BLSP]Snit Snit",
+    "tag": "BLSP",
+    "name": "Snit Snit"
+  },
+  {
+    "displayName": "[BLSP] Snittle",
+    "tag": "BLSP",
+    "name": "Snittle"
+  },
+  {
+    "displayName": "[BLSP] Snittouf",
+    "tag": "BLSP",
+    "name": "Snittouf"
+  },
+  {
+    "displayName": "[TOON] Snitvester",
+    "tag": "TOON",
+    "name": "Snitvester"
+  },
+  {
+    "displayName": "[TOON] Sokkorra",
+    "tag": "TOON",
+    "name": "Sokkorra"
+  },
+  {
+    "displayName": "[BOOM] SopHoca",
+    "tag": "BOOM",
+    "name": "SopHoca"
+  },
+  {
+    "displayName": "[BOOM] SpongeB0B",
+    "tag": "BOOM",
+    "name": "SpongeB0B"
+  },
+  {
+    "displayName": "[PINK] Sprky2BoomMn",
+    "tag": "PINK",
+    "name": "Sprky2BoomMn"
+  },
+  {
+    "displayName": "[HNOR] Sprky2BoomMn",
+    "tag": "HNOR",
+    "name": "Sprky2BoomMn"
+  },
+  {
+    "displayName": "[TRL] Sprky2BoomMn",
+    "tag": "TRL",
+    "name": "Sprky2BoomMn"
+  },
+  {
+    "displayName": "[BLSP] Sprky2BoomMn",
+    "tag": "BLSP",
+    "name": "Sprky2BoomMn"
+  },
+  {
+    "displayName": "[BLSP]Sprky2BoomMn",
+    "tag": "BLSP",
+    "name": "Sprky2BoomMn"
+  },
+  {
+    "displayName": "[TOON] StarIGlimmer",
+    "tag": "TOON",
+    "name": "StarIGlimmer"
+  },
+  {
+    "displayName": "[TOON] StarlGlimmer",
+    "tag": "TOON",
+    "name": "StarlGlimmer"
+  },
+  {
+    "displayName": "[SATO] The Ripper",
+    "tag": "SATO",
+    "name": "The Ripper"
+  },
+  {
+    "displayName": "[BOOM] Theodora",
+    "tag": "BOOM",
+    "name": "Theodora"
+  },
+  {
+    "displayName": "[BOOM] Tom ᴳʰᵒˢᵗᵗʸ",
+    "tag": "BOOM",
+    "name": "Tom ᴳʰᵒˢᵗᵗʸ"
+  },
+  {
+    "displayName": "[TOON] Toodles",
+    "tag": "TOON",
+    "name": "Toodles"
+  },
+  {
+    "displayName": "[TOON] Transcendent",
+    "tag": "TOON",
+    "name": "Transcendent"
+  },
+  {
+    "displayName": "[BLSP] Transcendent",
+    "tag": "BLSP",
+    "name": "Transcendent"
+  },
+  {
+    "displayName": "[BLSP]Transcendent",
+    "tag": "BLSP",
+    "name": "Transcendent"
+  },
+  {
+    "displayName": "[TOON] TwiliteSpark",
+    "tag": "TOON",
+    "name": "TwiliteSpark"
+  },
+  {
+    "displayName": "[BOOM] Tyrann",
+    "tag": "BOOM",
+    "name": "Tyrann"
+  },
+  {
+    "displayName": "[BOOM] vrueda",
+    "tag": "BOOM",
+    "name": "vrueda"
+  },
+  {
+    "displayName": "[TOON] W0LF",
+    "tag": "TOON",
+    "name": "W0LF"
+  },
+  {
+    "displayName": "[BOOM] Wanda",
+    "tag": "BOOM",
+    "name": "Wanda"
+  },
+  {
+    "displayName": "[BLSP] wolf",
+    "tag": "BLSP",
+    "name": "wolf"
+  },
+  {
+    "displayName": "[TOON] WOLF",
+    "tag": "TOON",
+    "name": "WOLF"
+  },
+  {
+    "displayName": "[BLSP] WOLF",
+    "tag": "BLSP",
+    "name": "WOLF"
+  },
+  {
+    "displayName": "[BLSP] Wolftrot",
+    "tag": "BLSP",
+    "name": "Wolftrot"
+  },
+  {
+    "displayName": "[TOON] Yen Sid",
+    "tag": "TOON",
+    "name": "Yen Sid"
+  },
+  {
+    "displayName": "[BLSP] Zuzu Hunter",
+    "tag": "BLSP",
+    "name": "Zuzu Hunter"
+  },
+  {
+    "displayName": "[BLSP]Zuzu Hunter",
+    "tag": "BLSP",
+    "name": "Zuzu Hunter"
+  },
+  {
+    "displayName": "[BOOM] トトロ",
+    "tag": "BOOM",
+    "name": "トトロ"
+  }
+]

@@ -1,0 +1,777 @@
+[
+  {
+    "displayName": "[NWO] ADEZero",
+    "tag": "NWO",
+    "name": "ADEZero"
+  },
+  {
+    "displayName": "[SITH] Admiral Mai",
+    "tag": "SITH",
+    "name": "Admiral Mai"
+  },
+  {
+    "displayName": "[SITH]Admiral Mai",
+    "tag": "SITH",
+    "name": "Admiral Mai"
+  },
+  {
+    "displayName": "[SITH] Alimaña",
+    "tag": "SITH",
+    "name": "Alimaña"
+  },
+  {
+    "displayName": "[NWO] AMORFIUS93",
+    "tag": "NWO",
+    "name": "AMORFIUS93"
+  },
+  {
+    "displayName": "[NWO] AnyTimeFrday",
+    "tag": "NWO",
+    "name": "AnyTimeFrday"
+  },
+  {
+    "displayName": "[NWO]AnyTimeFrday",
+    "tag": "NWO",
+    "name": "AnyTimeFrday"
+  },
+  {
+    "displayName": "[SITH] Aputiq",
+    "tag": "SITH",
+    "name": "Aputiq"
+  },
+  {
+    "displayName": "[SITH]Aputiq",
+    "tag": "SITH",
+    "name": "Aputiq"
+  },
+  {
+    "displayName": "[CBK]Aradmel",
+    "tag": "CBK",
+    "name": "Aradmel"
+  },
+  {
+    "displayName": "[NWO] Archon259",
+    "tag": "NWO",
+    "name": "Archon259"
+  },
+  {
+    "displayName": "[NWO]Archon259",
+    "tag": "NWO",
+    "name": "Archon259"
+  },
+  {
+    "displayName": "[SITH] Aria",
+    "tag": "SITH",
+    "name": "Aria"
+  },
+  {
+    "displayName": "[LHG] Ash bug",
+    "tag": "LHG",
+    "name": "Ash bug"
+  },
+  {
+    "displayName": "[NWO] ashura",
+    "tag": "NWO",
+    "name": "ashura"
+  },
+  {
+    "displayName": "[NWO] Azahok Bug",
+    "tag": "NWO",
+    "name": "Azahok Bug"
+  },
+  {
+    "displayName": "[NWO]Azahok Bug",
+    "tag": "NWO",
+    "name": "Azahok Bug"
+  },
+  {
+    "displayName": "[NWO] Bal Buggin",
+    "tag": "NWO",
+    "name": "Bal Buggin"
+  },
+  {
+    "displayName": "[NWO] BananaJoe",
+    "tag": "NWO",
+    "name": "BananaJoe"
+  },
+  {
+    "displayName": "[SITH] Bandit",
+    "tag": "SITH",
+    "name": "Bandit"
+  },
+  {
+    "displayName": "[SITH]Bandit",
+    "tag": "SITH",
+    "name": "Bandit"
+  },
+  {
+    "displayName": "[NWO] BIG MAC BUG",
+    "tag": "NWO",
+    "name": "BIG MAC BUG"
+  },
+  {
+    "displayName": "[SITH] BigBombMcGee",
+    "tag": "SITH",
+    "name": "BigBombMcGee"
+  },
+  {
+    "displayName": "[NWO] BILLYBOB BUG",
+    "tag": "NWO",
+    "name": "BILLYBOB BUG"
+  },
+  {
+    "displayName": "[NWO] BlackwoodBug",
+    "tag": "NWO",
+    "name": "BlackwoodBug"
+  },
+  {
+    "displayName": "[NWO] BOMBER BUG",
+    "tag": "NWO",
+    "name": "BOMBER BUG"
+  },
+  {
+    "displayName": "[NWO] BOOM BUG",
+    "tag": "NWO",
+    "name": "BOOM BUG"
+  },
+  {
+    "displayName": "[NWO] BRUISER BUG",
+    "tag": "NWO",
+    "name": "BRUISER BUG"
+  },
+  {
+    "displayName": "[NWO]BUG LIGHT",
+    "tag": "NWO",
+    "name": "BUG LIGHT"
+  },
+  {
+    "displayName": "[NWO] BUGGABOO",
+    "tag": "NWO",
+    "name": "BUGGABOO"
+  },
+  {
+    "displayName": "[NWO] Catasthrophy",
+    "tag": "NWO",
+    "name": "Catasthrophy"
+  },
+  {
+    "displayName": "[NWO] champion24",
+    "tag": "NWO",
+    "name": "champion24"
+  },
+  {
+    "displayName": "[NWO] Chavy",
+    "tag": "NWO",
+    "name": "Chavy"
+  },
+  {
+    "displayName": "[SITH] Chris42",
+    "tag": "SITH",
+    "name": "Chris42"
+  },
+  {
+    "displayName": "[NWO] Cookloft",
+    "tag": "NWO",
+    "name": "Cookloft"
+  },
+  {
+    "displayName": "[NWO] da NUTSHACK",
+    "tag": "NWO",
+    "name": "da NUTSHACK"
+  },
+  {
+    "displayName": "[SITH] Danhel",
+    "tag": "SITH",
+    "name": "Danhel"
+  },
+  {
+    "displayName": "[NWO] DanielleSan",
+    "tag": "NWO",
+    "name": "DanielleSan"
+  },
+  {
+    "displayName": "[TGW] DarkNinja",
+    "tag": "TGW",
+    "name": "DarkNinja"
+  },
+  {
+    "displayName": "[SITH] Darth Daddy",
+    "tag": "SITH",
+    "name": "Darth Daddy"
+  },
+  {
+    "displayName": "[SITH] Darth Error",
+    "tag": "SITH",
+    "name": "Darth Error"
+  },
+  {
+    "displayName": "[SITH] Darth Habs",
+    "tag": "SITH",
+    "name": "Darth Habs"
+  },
+  {
+    "displayName": "[SITH] Darth Kuzon",
+    "tag": "SITH",
+    "name": "Darth Kuzon"
+  },
+  {
+    "displayName": "[SITH] Darth Mora",
+    "tag": "SITH",
+    "name": "Darth Mora"
+  },
+  {
+    "displayName": "[SITH] DarthDrakkon",
+    "tag": "SITH",
+    "name": "DarthDrakkon"
+  },
+  {
+    "displayName": "[SITH] DarthHegemon",
+    "tag": "SITH",
+    "name": "DarthHegemon"
+  },
+  {
+    "displayName": "[NWO] DOOMBUGGY",
+    "tag": "NWO",
+    "name": "DOOMBUGGY"
+  },
+  {
+    "displayName": "[SITH] Douj",
+    "tag": "SITH",
+    "name": "Douj"
+  },
+  {
+    "displayName": "[NWO] dOzER",
+    "tag": "NWO",
+    "name": "dOzER"
+  },
+  {
+    "displayName": "[NWO] EDUARDFARAON",
+    "tag": "NWO",
+    "name": "EDUARDFARAON"
+  },
+  {
+    "displayName": "[SITH] ErickRm12",
+    "tag": "SITH",
+    "name": "ErickRm12"
+  },
+  {
+    "displayName": "[NWO] FaithNova",
+    "tag": "NWO",
+    "name": "FaithNova"
+  },
+  {
+    "displayName": "[FARM] Farmer Tato",
+    "tag": "FARM",
+    "name": "Farmer Tato"
+  },
+  {
+    "displayName": "[FARM]Farmer Tato",
+    "tag": "FARM",
+    "name": "Farmer Tato"
+  },
+  {
+    "displayName": "[SITH] Fire Empire",
+    "tag": "SITH",
+    "name": "Fire Empire"
+  },
+  {
+    "displayName": "[NWO] FireLordTato",
+    "tag": "NWO",
+    "name": "FireLordTato"
+  },
+  {
+    "displayName": "[FARM] FireLordTato",
+    "tag": "FARM",
+    "name": "FireLordTato"
+  },
+  {
+    "displayName": "[NWO] Gojira",
+    "tag": "NWO",
+    "name": "Gojira"
+  },
+  {
+    "displayName": "[NWO] grim bug",
+    "tag": "NWO",
+    "name": "grim bug"
+  },
+  {
+    "displayName": "[NWO] HM Bug",
+    "tag": "NWO",
+    "name": "HM Bug"
+  },
+  {
+    "displayName": "[IDK] Huh",
+    "tag": "IDK",
+    "name": "Huh"
+  },
+  {
+    "displayName": "[NWO] iMeMyself",
+    "tag": "NWO",
+    "name": "iMeMyself"
+  },
+  {
+    "displayName": "Inactive Bug",
+    "tag": null,
+    "name": "Inactive Bug"
+  },
+  {
+    "displayName": "[NWO] INQCastle",
+    "tag": "NWO",
+    "name": "INQCastle"
+  },
+  {
+    "displayName": "[SITH] Islam",
+    "tag": "SITH",
+    "name": "Islam"
+  },
+  {
+    "displayName": "[NWO] Jasmine",
+    "tag": "NWO",
+    "name": "Jasmine"
+  },
+  {
+    "displayName": "[NWO] Jaxs",
+    "tag": "NWO",
+    "name": "Jaxs"
+  },
+  {
+    "displayName": "[NWO] JonezyBug",
+    "tag": "NWO",
+    "name": "JonezyBug"
+  },
+  {
+    "displayName": "[NWO] Josh Bug",
+    "tag": "NWO",
+    "name": "Josh Bug"
+  },
+  {
+    "displayName": "[FARM] kaas",
+    "tag": "FARM",
+    "name": "kaas"
+  },
+  {
+    "displayName": "[NWO] kaas",
+    "tag": "NWO",
+    "name": "kaas"
+  },
+  {
+    "displayName": "[FARM]kaas",
+    "tag": "FARM",
+    "name": "kaas"
+  },
+  {
+    "displayName": "[SITH] Kalgorias",
+    "tag": "SITH",
+    "name": "Kalgorias"
+  },
+  {
+    "displayName": "[SITH] Kash",
+    "tag": "SITH",
+    "name": "Kash"
+  },
+  {
+    "displayName": "[SITH] Kimmander",
+    "tag": "SITH",
+    "name": "Kimmander"
+  },
+  {
+    "displayName": "[SITH]Kimmander",
+    "tag": "SITH",
+    "name": "Kimmander"
+  },
+  {
+    "displayName": "[SITH] Kodiak",
+    "tag": "SITH",
+    "name": "Kodiak"
+  },
+  {
+    "displayName": "[SITH]Kodiak",
+    "tag": "SITH",
+    "name": "Kodiak"
+  },
+  {
+    "displayName": "[NWO] Kratzer",
+    "tag": "NWO",
+    "name": "Kratzer"
+  },
+  {
+    "displayName": "[SITH] Kung Lao",
+    "tag": "SITH",
+    "name": "Kung Lao"
+  },
+  {
+    "displayName": "[NWO] LaLasha",
+    "tag": "NWO",
+    "name": "LaLasha"
+  },
+  {
+    "displayName": "[NWO] LCS",
+    "tag": "NWO",
+    "name": "LCS"
+  },
+  {
+    "displayName": "[LHG] LeBlanc",
+    "tag": "LHG",
+    "name": "LeBlanc"
+  },
+  {
+    "displayName": "[NWO] legitcronic",
+    "tag": "NWO",
+    "name": "legitcronic"
+  },
+  {
+    "displayName": "[FARM] legitcronic",
+    "tag": "FARM",
+    "name": "legitcronic"
+  },
+  {
+    "displayName": "[FARM]legitcronic",
+    "tag": "FARM",
+    "name": "legitcronic"
+  },
+  {
+    "displayName": "[NWO] Levybug",
+    "tag": "NWO",
+    "name": "Levybug"
+  },
+  {
+    "displayName": "[NWO] Liviebug",
+    "tag": "NWO",
+    "name": "Liviebug"
+  },
+  {
+    "displayName": "[NWO]Liviebug",
+    "tag": "NWO",
+    "name": "Liviebug"
+  },
+  {
+    "displayName": "[NWO] LIVIES WART",
+    "tag": "NWO",
+    "name": "LIVIES WART"
+  },
+  {
+    "displayName": "[NWO] Lunoxae",
+    "tag": "NWO",
+    "name": "Lunoxae"
+  },
+  {
+    "displayName": "M Mola",
+    "tag": null,
+    "name": "M Mola"
+  },
+  {
+    "displayName": "[SITH] m3l",
+    "tag": "SITH",
+    "name": "m3l"
+  },
+  {
+    "displayName": "[NWO] MamaMashed",
+    "tag": "NWO",
+    "name": "MamaMashed"
+  },
+  {
+    "displayName": "[SITH] Marsh",
+    "tag": "SITH",
+    "name": "Marsh"
+  },
+  {
+    "displayName": "[NWO] Megs",
+    "tag": "NWO",
+    "name": "Megs"
+  },
+  {
+    "displayName": "[NWO] Mewbug",
+    "tag": "NWO",
+    "name": "Mewbug"
+  },
+  {
+    "displayName": "[NWO] Morbug",
+    "tag": "NWO",
+    "name": "Morbug"
+  },
+  {
+    "displayName": "[NWO]Mrs Obama",
+    "tag": "NWO",
+    "name": "Mrs Obama"
+  },
+  {
+    "displayName": "[FARM] Munchy",
+    "tag": "FARM",
+    "name": "Munchy"
+  },
+  {
+    "displayName": "[FARM]Munchy",
+    "tag": "FARM",
+    "name": "Munchy"
+  },
+  {
+    "displayName": "[NWO] NotAzahokBug",
+    "tag": "NWO",
+    "name": "NotAzahokBug"
+  },
+  {
+    "displayName": "[NWO] OOF",
+    "tag": "NWO",
+    "name": "OOF"
+  },
+  {
+    "displayName": "[NWO] OOGA BUGGA",
+    "tag": "NWO",
+    "name": "OOGA BUGGA"
+  },
+  {
+    "displayName": "[NWO] PandaLily",
+    "tag": "NWO",
+    "name": "PandaLily"
+  },
+  {
+    "displayName": "[NWO] Pearls",
+    "tag": "NWO",
+    "name": "Pearls"
+  },
+  {
+    "displayName": "[NWO]PEEWEE BUG",
+    "tag": "NWO",
+    "name": "PEEWEE BUG"
+  },
+  {
+    "displayName": "[NWO] penper25",
+    "tag": "NWO",
+    "name": "penper25"
+  },
+  {
+    "displayName": "[NWO] Phoenix King",
+    "tag": "NWO",
+    "name": "Phoenix King"
+  },
+  {
+    "displayName": "[NWO] Princess Lupa",
+    "tag": "NWO",
+    "name": "Princess Lupa"
+  },
+  {
+    "displayName": "[NWO]Princess Lupa",
+    "tag": "NWO",
+    "name": "Princess Lupa"
+  },
+  {
+    "displayName": "[NWO] PrincessLupa",
+    "tag": "NWO",
+    "name": "PrincessLupa"
+  },
+  {
+    "displayName": "[NWO]PrincessLupa",
+    "tag": "NWO",
+    "name": "PrincessLupa"
+  },
+  {
+    "displayName": "[SITH] Problemchild",
+    "tag": "SITH",
+    "name": "Problemchild"
+  },
+  {
+    "displayName": "[SITH]Problemchild",
+    "tag": "SITH",
+    "name": "Problemchild"
+  },
+  {
+    "displayName": "[NWO] QMB4806",
+    "tag": "NWO",
+    "name": "QMB4806"
+  },
+  {
+    "displayName": "[NWO] r1 rismond",
+    "tag": "NWO",
+    "name": "r1 rismond"
+  },
+  {
+    "displayName": "[NWO] Rafe",
+    "tag": "NWO",
+    "name": "Rafe"
+  },
+  {
+    "displayName": "[NWO] Ragdol",
+    "tag": "NWO",
+    "name": "Ragdol"
+  },
+  {
+    "displayName": "[NWO]Ragdol",
+    "tag": "NWO",
+    "name": "Ragdol"
+  },
+  {
+    "displayName": "[NWO] Rem",
+    "tag": "NWO",
+    "name": "Rem"
+  },
+  {
+    "displayName": "[SITH] Rurza",
+    "tag": "SITH",
+    "name": "Rurza"
+  },
+  {
+    "displayName": "[NWO] Ryba92",
+    "tag": "NWO",
+    "name": "Ryba92"
+  },
+  {
+    "displayName": "[SITH] SaphfireFire",
+    "tag": "SITH",
+    "name": "SaphfireFire"
+  },
+  {
+    "displayName": "[NWO] schneewitte",
+    "tag": "NWO",
+    "name": "schneewitte"
+  },
+  {
+    "displayName": "[NWO] SirKempers",
+    "tag": "NWO",
+    "name": "SirKempers"
+  },
+  {
+    "displayName": "[NWO] SokkaPunch",
+    "tag": "NWO",
+    "name": "SokkaPunch"
+  },
+  {
+    "displayName": "[SITH] SouLbendeR",
+    "tag": "SITH",
+    "name": "SouLbendeR"
+  },
+  {
+    "displayName": "[NWO] Starry",
+    "tag": "NWO",
+    "name": "Starry"
+  },
+  {
+    "displayName": "[SITH] Steph",
+    "tag": "SITH",
+    "name": "Steph"
+  },
+  {
+    "displayName": "[NWO] Stephi",
+    "tag": "NWO",
+    "name": "Stephi"
+  },
+  {
+    "displayName": "[SITH] Swag juice",
+    "tag": "SITH",
+    "name": "Swag juice"
+  },
+  {
+    "displayName": "[SITH]Swag juice",
+    "tag": "SITH",
+    "name": "Swag juice"
+  },
+  {
+    "displayName": "[SITH] Swagjuice",
+    "tag": "SITH",
+    "name": "Swagjuice"
+  },
+  {
+    "displayName": "[SITH] Syea",
+    "tag": "SITH",
+    "name": "Syea"
+  },
+  {
+    "displayName": "[NWO] Tato",
+    "tag": "NWO",
+    "name": "Tato"
+  },
+  {
+    "displayName": "Tato",
+    "tag": null,
+    "name": "Tato"
+  },
+  {
+    "displayName": "[NWO] Tatorade",
+    "tag": "NWO",
+    "name": "Tatorade"
+  },
+  {
+    "displayName": "ThorWurm",
+    "tag": null,
+    "name": "ThorWurm"
+  },
+  {
+    "displayName": "[NWO] ThorWurm",
+    "tag": "NWO",
+    "name": "ThorWurm"
+  },
+  {
+    "displayName": "[NWO] TigerEye2928",
+    "tag": "NWO",
+    "name": "TigerEye2928"
+  },
+  {
+    "displayName": "[SITH] Uncle Javid",
+    "tag": "SITH",
+    "name": "Uncle Javid"
+  },
+  {
+    "displayName": "[FARM] Valhalla",
+    "tag": "FARM",
+    "name": "Valhalla"
+  },
+  {
+    "displayName": "[FARM]Valhalla",
+    "tag": "FARM",
+    "name": "Valhalla"
+  },
+  {
+    "displayName": "[SITH] Waterlily3",
+    "tag": "SITH",
+    "name": "Waterlily3"
+  },
+  {
+    "displayName": "[SITH] Westfall",
+    "tag": "SITH",
+    "name": "Westfall"
+  },
+  {
+    "displayName": "[NWO] Wisdom Bug",
+    "tag": "NWO",
+    "name": "Wisdom Bug"
+  },
+  {
+    "displayName": "[NWO]Wisdom Bug",
+    "tag": "NWO",
+    "name": "Wisdom Bug"
+  },
+  {
+    "displayName": "[NWO] wisdom juice",
+    "tag": "NWO",
+    "name": "wisdom juice"
+  },
+  {
+    "displayName": "[NWO]Wisdom juice",
+    "tag": "NWO",
+    "name": "Wisdom juice"
+  },
+  {
+    "displayName": "[NWO] wisdomjuice",
+    "tag": "NWO",
+    "name": "wisdomjuice"
+  },
+  {
+    "displayName": "[SITH] Wren",
+    "tag": "SITH",
+    "name": "Wren"
+  },
+  {
+    "displayName": "[NWO] Xarcas",
+    "tag": "NWO",
+    "name": "Xarcas"
+  },
+  {
+    "displayName": "[NWO] Xarças",
+    "tag": "NWO",
+    "name": "Xarças"
+  },
+  {
+    "displayName": "[NWO] 米 會​יJ",
+    "tag": "NWO",
+    "name": "米 會​יJ"
+  }
+]
