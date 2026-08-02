@@ -70,11 +70,10 @@ useEffect(() => {
   setCurrentPage(1);
 
   getRankings(view, selectedWeek)
-    .then((data) => {
-      setRankings(data);
-    })
-    .catch(console.error);
-
+  .then((data) => {
+    setRankings(data);
+  })
+  .catch(console.error);
 }, [selectedWeek, view]);
 const filteredRankings = rankings.filter((item) => {
 

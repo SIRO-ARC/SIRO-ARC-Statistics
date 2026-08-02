@@ -11,9 +11,8 @@ async function fetchWithRetry(url, retries = 3, delay = 500) {
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
       const response = await fetch(url, {
-        cache: "no-store",
-      });
-
+  cache: "no-store",
+});
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
       }
