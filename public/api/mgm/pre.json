@@ -15671,7 +15671,7 @@
     "server": 1009,
     "alliance": "Gang",
     "captured": 7,
-    "won": false,
+    "won": true,
     "participants": 21
   },
   {
@@ -15682,7 +15682,7 @@
     "server": 1029,
     "alliance": "KND",
     "captured": 12,
-    "won": false,
+    "won": true,
     "participants": 20
   },
   {
