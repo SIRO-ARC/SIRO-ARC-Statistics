@@ -18,6 +18,7 @@ import MgmStatistics from "./pages/MgmStatistics";
 
 import Home from "./pages/Home";
 import Info from "./pages/Info";
+import Leaderboards from "./pages/Leaderboards";
 
 export default function App() {
   const navigate = useNavigate();
@@ -64,11 +65,16 @@ useEffect(() => {
   element={<PowerGrowthHistory />}
 />
   <Route path="/mgm" element={<MGM />} />
+  <Route
+  path="/leaderboards"
+  element={<Leaderboards />}
+/>
   <Route path="/mgm-statistics" element={<MgmStatistics />} />
   <Route path="/archive" element={<Archive />} />
   <Route path="/info" element={<Info />} />
   <Route path="/player/:week/:name" element={<PlayerProfile />} />
   <Route path="/alliance/:week/:name" element={<AllianceProfile />}
+  
 />
 </Routes>
 </div>

@@ -31,12 +31,12 @@ export default function Home() {
 
         <div className="mb-8 inline-block">
   <h2 className="text-3xl font-bold text-sky-400">
-    🥇 Highlights
+    🥇 Avatar: Realms Collide
   </h2>
 
-<div className="mt-2 h-[1.5px] rounded-full bg-gradient-to-r from-sky-400/20 via-sky-400 to-sky-400/20 shadow-[0_0_10px_rgba(56,189,248,0.9)]" /></div>
+<div className="mt-2 h-[1px] rounded-full bg-gradient-to-r from-sky-400/20 via-sky-400 to-sky-400/20 shadow-[0_0_10px_rgba(56,189,248,0.9)]" /></div>
 
-        <div className="grid gap-6 lg:grid-cols-3">
+        <div className="grid gap-6 lg:grid-cols-4">
 
           <Link
             to="/rankings"
@@ -94,6 +94,24 @@ export default function Home() {
               View History →
             </div>
           </Link>
+          <Link
+  to="/leaderboards"
+  className="rounded-2xl border border-slate-700 bg-slate-900 p-8 transition-all hover:border-sky-500 hover:bg-slate-800"
+>
+  <div className="text-4xl">🏆</div>
+
+  <h3 className="mt-4 text-2xl font-bold text-white">
+    Leaderboards
+  </h3>
+
+  <p className="mt-2 text-slate-400">
+    Discover the strongest alliances across all MGM events.
+  </p>
+
+  <div className="mt-6 inline-flex rounded-lg bg-sky-500 px-4 py-2 font-medium text-white">
+    View Leaderboards →
+  </div>
+</Link>
 
         </div>
 
