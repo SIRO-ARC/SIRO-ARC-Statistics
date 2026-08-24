@@ -1,0 +1,2522 @@
+[
+  {
+    "rank": 1,
+    "server": 1024,
+    "raw": "[Wii] Nintendo",
+    "displayName": "[Wii] Nintendo",
+    "tag": "Wii",
+    "name": "Nintendo",
+    "power": 1104648472
+  },
+  {
+    "rank": 2,
+    "server": 1010,
+    "raw": "[BLSP] BlueSpirit",
+    "displayName": "[BLSP] BlueSpirit",
+    "tag": "BLSP",
+    "name": "BlueSpirit",
+    "power": 923710733
+  },
+  {
+    "rank": 3,
+    "server": 1032,
+    "raw": "[HoH] House of Hades",
+    "displayName": "[HoH] House of Hades",
+    "tag": "HoH",
+    "name": "House of Hades",
+    "power": 828078234
+  },
+  {
+    "rank": 4,
+    "server": 1023,
+    "raw": "[TPVF] TPvacationFunds",
+    "displayName": "[TPVF] TPvacationFunds",
+    "tag": "TPVF",
+    "name": "TPvacationFunds",
+    "power": 807882562
+  },
+  {
+    "rank": 5,
+    "server": 1009,
+    "raw": "[Gang] Gaang",
+    "displayName": "[Gang] Gaang",
+    "tag": "Gang",
+    "name": "Gaang",
+    "power": 745528545
+  },
+  {
+    "rank": 6,
+    "server": 1029,
+    "raw": "[KND] Kids Next Door",
+    "displayName": "[KND] Kids Next Door",
+    "tag": "KND",
+    "name": "Kids Next Door",
+    "power": 695357857
+  },
+  {
+    "rank": 7,
+    "server": 1018,
+    "raw": "[Oath] The 100",
+    "displayName": "[Oath] The 100",
+    "tag": "Oath",
+    "name": "The 100",
+    "power": 657729420
+  },
+  {
+    "rank": 8,
+    "server": 1030,
+    "raw": "[THC] HarmCo",
+    "displayName": "[THC] HarmCo",
+    "tag": "THC",
+    "name": "HarmCo",
+    "power": 618906416
+  },
+  {
+    "rank": 9,
+    "server": 1016,
+    "raw": "[PHNX] OrdOfThePhoenix",
+    "displayName": "[PHNX] OrdOfThePhoenix",
+    "tag": "PHNX",
+    "name": "OrdOfThePhoenix",
+    "power": 618693326
+  },
+  {
+    "rank": 10,
+    "server": 1003,
+    "raw": "[PPG] Powerpuff Girls",
+    "displayName": "[PPG] Powerpuff Girls",
+    "tag": "PPG",
+    "name": "Powerpuff Girls",
+    "power": 615077819
+  },
+  {
+    "rank": 11,
+    "server": 1026,
+    "raw": "[CxC] Chaos Cbg Co",
+    "displayName": "[CxC] Chaos Cbg Co",
+    "tag": "CxC",
+    "name": "Chaos Cbg Co",
+    "power": 601645095
+  },
+  {
+    "rank": 12,
+    "server": 1004,
+    "raw": "[LOTO] LOTO ROJO",
+    "displayName": "[LOTO] LOTO ROJO",
+    "tag": "LOTO",
+    "name": "LOTO ROJO",
+    "power": 595957676
+  },
+  {
+    "rank": 13,
+    "server": 1038,
+    "raw": "[CLVR] Clover Kingdom",
+    "displayName": "[CLVR] Clover Kingdom",
+    "tag": "CLVR",
+    "name": "Clover Kingdom",
+    "power": 590495901
+  },
+  {
+    "rank": 14,
+    "server": 1009,
+    "raw": "[AERO] Luft",
+    "displayName": "[AERO] Luft",
+    "tag": "AERO",
+    "name": "Luft",
+    "power": 573262292
+  },
+  {
+    "rank": 15,
+    "server": 1012,
+    "raw": "[DKAI] Dawn of Kai",
+    "displayName": "[DKAI] Dawn of Kai",
+    "tag": "DKAI",
+    "name": "Dawn of Kai",
+    "power": 533361213
+  },
+  {
+    "rank": 16,
+    "server": 1014,
+    "raw": "[IRON] Tieluohan",
+    "displayName": "[IRON] Tieluohan",
+    "tag": "IRON",
+    "name": "Tieluohan",
+    "power": 528121596
+  },
+  {
+    "rank": 17,
+    "server": 1022,
+    "raw": "[VEX] Verdant Exiles",
+    "displayName": "[VEX] Verdant Exiles",
+    "tag": "VEX",
+    "name": "Verdant Exiles",
+    "power": 522801392
+  },
+  {
+    "rank": 18,
+    "server": 1005,
+    "raw": "[SUN] Sun Warriors",
+    "displayName": "[SUN] Sun Warriors",
+    "tag": "SUN",
+    "name": "Sun Warriors",
+    "power": 520641966
+  },
+  {
+    "rank": 19,
+    "server": 1011,
+    "raw": "[WAR5] Savage Elements",
+    "displayName": "[WAR5] Savage Elements",
+    "tag": "WAR5",
+    "name": "Savage Elements",
+    "power": 513912716
+  },
+  {
+    "rank": 20,
+    "server": 1034,
+    "raw": "[DAD] Dancing Dragons",
+    "displayName": "[DAD] Dancing Dragons",
+    "tag": "DAD",
+    "name": "Dancing Dragons",
+    "power": 489494602
+  },
+  {
+    "rank": 21,
+    "server": 1026,
+    "raw": "[SIN] Order of Sin",
+    "displayName": "[SIN] Order of Sin",
+    "tag": "SIN",
+    "name": "Order of Sin",
+    "power": 485015154
+  },
+  {
+    "rank": 22,
+    "server": 1015,
+    "raw": "[YMI] YAΜΙΝΟΙΚARI",
+    "displayName": "[YMI] YAΜΙΝΟΙΚARI",
+    "tag": "YMI",
+    "name": "YAΜΙΝΟΙΚARI",
+    "power": 476378104
+  },
+  {
+    "rank": 23,
+    "server": 1046,
+    "raw": "[Hell] HELL",
+    "displayName": "[Hell] HELL",
+    "tag": "Hell",
+    "name": "HELL",
+    "power": 476041436
+  },
+  {
+    "rank": 24,
+    "server": 1025,
+    "raw": "[SYG] SYG",
+    "displayName": "[SYG] SYG",
+    "tag": "SYG",
+    "name": "SYG",
+    "power": 463383843
+  },
+  {
+    "rank": 25,
+    "server": 1020,
+    "raw": "[TWIN] TWIN DRAGONZ",
+    "displayName": "[TWIN] TWIN DRAGONZ",
+    "tag": "TWIN",
+    "name": "TWIN DRAGONZ",
+    "power": 445756421
+  },
+  {
+    "rank": 26,
+    "server": 1049,
+    "raw": "[JÖLY] Olympian Order",
+    "displayName": "[JÖLY] Olympian Order",
+    "tag": "JÖLY",
+    "name": "Olympian Order",
+    "power": 435961212
+  },
+  {
+    "rank": 27,
+    "server": 1006,
+    "raw": "[FOC] FlyingOperaComp",
+    "displayName": "[FOC] FlyingOperaComp",
+    "tag": "FOC",
+    "name": "FlyingOperaComp",
+    "power": 430156929
+  },
+  {
+    "rank": 28,
+    "server": 1051,
+    "raw": "[AREA] 51°",
+    "displayName": "[AREA] 51°",
+    "tag": "AREA",
+    "name": "51°",
+    "power": 412747733
+  },
+  {
+    "rank": 29,
+    "server": 1017,
+    "raw": "[RTH] Ruthless",
+    "displayName": "[RTH] Ruthless",
+    "tag": "RTH",
+    "name": "Ruthless",
+    "power": 410614170
+  },
+  {
+    "rank": 30,
+    "server": 1028,
+    "raw": "[IRON] The Iron Gate",
+    "displayName": "[IRON] The Iron Gate",
+    "tag": "IRON",
+    "name": "The Iron Gate",
+    "power": 391322169
+  },
+  {
+    "rank": 31,
+    "server": 1014,
+    "raw": "[Tea] Jasmine Dragon",
+    "displayName": "[Tea] Jasmine Dragon",
+    "tag": "Tea",
+    "name": "Jasmine Dragon",
+    "power": 378645051
+  },
+  {
+    "rank": 32,
+    "server": 1031,
+    "raw": "[BOR] Reality Benders",
+    "displayName": "[BOR] Reality Benders",
+    "tag": "BOR",
+    "name": "Reality Benders",
+    "power": 377341310
+  },
+  {
+    "rank": 33,
+    "server": 1033,
+    "raw": "[HOE] House of Evil",
+    "displayName": "[HOE] House of Evil",
+    "tag": "HOE",
+    "name": "House of Evil",
+    "power": 363453405
+  },
+  {
+    "rank": 34,
+    "server": 1035,
+    "raw": "[FIRE] Flame of Raava",
+    "displayName": "[FIRE] Flame of Raava",
+    "tag": "FIRE",
+    "name": "Flame of Raava",
+    "power": 361324843
+  },
+  {
+    "rank": 35,
+    "server": 1021,
+    "raw": "[STB] Sturmbringer",
+    "displayName": "[STB] Sturmbringer",
+    "tag": "STB",
+    "name": "Sturmbringer",
+    "power": 339862643
+  },
+  {
+    "rank": 36,
+    "server": 1013,
+    "raw": "[UNI] UNITY",
+    "displayName": "[UNI] UNITY",
+    "tag": "UNI",
+    "name": "UNITY",
+    "power": 336015892
+  },
+  {
+    "rank": 37,
+    "server": 1015,
+    "raw": "[RTBL] The Roundtable",
+    "displayName": "[RTBL] The Roundtable",
+    "tag": "RTBL",
+    "name": "The Roundtable",
+    "power": 331262482
+  },
+  {
+    "rank": 38,
+    "server": 1020,
+    "raw": "[TNL] Northern Lights",
+    "displayName": "[TNL] Northern Lights",
+    "tag": "TNL",
+    "name": "Northern Lights",
+    "power": 310063897
+  },
+  {
+    "rank": 39,
+    "server": 1019,
+    "raw": "[OLY] Olympus",
+    "displayName": "[OLY] Olympus",
+    "tag": "OLY",
+    "name": "Olympus",
+    "power": 308142406
+  },
+  {
+    "rank": 40,
+    "server": 1019,
+    "raw": "[GOON] LEGION",
+    "displayName": "[GOON] LEGION",
+    "tag": "GOON",
+    "name": "LEGION",
+    "power": 304393184
+  },
+  {
+    "rank": 41,
+    "server": 1039,
+    "raw": "[WeLo] WeißerLotus",
+    "displayName": "[WeLo] WeißerLotus",
+    "tag": "WeLo",
+    "name": "WeißerLotus",
+    "power": 297940423
+  },
+  {
+    "rank": 42,
+    "server": 1008,
+    "raw": "[TFE] Fifth Element",
+    "displayName": "[TFE] Fifth Element",
+    "tag": "TFE",
+    "name": "Fifth Element",
+    "power": 292088916
+  },
+  {
+    "rank": 43,
+    "server": 1044,
+    "raw": "[ØRB] OrderOfBalance",
+    "displayName": "[ØRB] OrderOfBalance",
+    "tag": "ØRB",
+    "name": "OrderOfBalance",
+    "power": 285472045
+  },
+  {
+    "rank": 44,
+    "server": 1027,
+    "raw": "[TNT] TNT Inc",
+    "displayName": "[TNT] TNT Inc",
+    "tag": "TNT",
+    "name": "TNT Inc",
+    "power": 283475225
+  },
+  {
+    "rank": 45,
+    "server": 1009,
+    "raw": "[URN] Republic City",
+    "displayName": "[URN] Republic City",
+    "tag": "URN",
+    "name": "Republic City",
+    "power": 282732175
+  },
+  {
+    "rank": 46,
+    "server": 1011,
+    "raw": "[WARS] Shadow Monarch",
+    "displayName": "[WARS] Shadow Monarch",
+    "tag": "WARS",
+    "name": "Shadow Monarch",
+    "power": 275867159
+  },
+  {
+    "rank": 47,
+    "server": 1042,
+    "raw": "[TOES] Twiinkle Toes",
+    "displayName": "[TOES] Twiinkle Toes",
+    "tag": "TOES",
+    "name": "Twiinkle Toes",
+    "power": 272047342
+  },
+  {
+    "rank": 48,
+    "server": 1037,
+    "raw": "[CRTZ] RaAvatarTeaShop",
+    "displayName": "[CRTZ] RaAvatarTeaShop",
+    "tag": "CRTZ",
+    "name": "RaAvatarTeaShop",
+    "power": 271865263
+  },
+  {
+    "rank": 49,
+    "server": 1036,
+    "raw": "[DARK] The Dark Lotus",
+    "displayName": "[DARK] The Dark Lotus",
+    "tag": "DARK",
+    "name": "The Dark Lotus",
+    "power": 269995829
+  },
+  {
+    "rank": 50,
+    "server": 1007,
+    "raw": "[Shs] Shadow Hunters",
+    "displayName": "[Shs] Shadow Hunters",
+    "tag": "Shs",
+    "name": "Shadow Hunters",
+    "power": 269276396
+  },
+  {
+    "rank": 51,
+    "server": 1046,
+    "raw": "[BSS] Ba Sing Se",
+    "displayName": "[BSS] Ba Sing Se",
+    "tag": "BSS",
+    "name": "Ba Sing Se",
+    "power": 267890113
+  },
+  {
+    "rank": 52,
+    "server": 1040,
+    "raw": "[POKE] PokeMyMans",
+    "displayName": "[POKE] PokeMyMans",
+    "tag": "POKE",
+    "name": "PokeMyMans",
+    "power": 267689346
+  },
+  {
+    "rank": 53,
+    "server": 1048,
+    "raw": "[MYTH] Eternal Ember",
+    "displayName": "[MYTH] Eternal Ember",
+    "tag": "MYTH",
+    "name": "Eternal Ember",
+    "power": 266799010
+  },
+  {
+    "rank": 54,
+    "server": 1052,
+    "raw": "[LMNT] The Elementals",
+    "displayName": "[LMNT] The Elementals",
+    "tag": "LMNT",
+    "name": "The Elementals",
+    "power": 263232055
+  },
+  {
+    "rank": 55,
+    "server": 1037,
+    "raw": "[WHLT] White Lotus",
+    "displayName": "[WHLT] White Lotus",
+    "tag": "WHLT",
+    "name": "White Lotus",
+    "power": 262045816
+  },
+  {
+    "rank": 56,
+    "server": 1021,
+    "raw": "[420x] 420xVDRM",
+    "displayName": "[420x] 420xVDRM",
+    "tag": "420x",
+    "name": "420xVDRM",
+    "power": 260044891
+  },
+  {
+    "rank": 57,
+    "server": 1018,
+    "raw": "[TEA] Lotus Tea",
+    "displayName": "[TEA] Lotus Tea",
+    "tag": "TEA",
+    "name": "Lotus Tea",
+    "power": 259870847
+  },
+  {
+    "rank": 58,
+    "server": 1049,
+    "raw": "[R4GE] Rage of Raava",
+    "displayName": "[R4GE] Rage of Raava",
+    "tag": "R4GE",
+    "name": "Rage of Raava",
+    "power": 252110870
+  },
+  {
+    "rank": 59,
+    "server": 1047,
+    "raw": "[EMBR] Emberlight",
+    "displayName": "[EMBR] Emberlight",
+    "tag": "EMBR",
+    "name": "Emberlight",
+    "power": 246172432
+  },
+  {
+    "rank": 60,
+    "server": 1025,
+    "raw": "[TBP] TheBluePhoenix",
+    "displayName": "[TBP] TheBluePhoenix",
+    "tag": "TBP",
+    "name": "TheBluePhoenix",
+    "power": 244938057
+  },
+  {
+    "rank": 61,
+    "server": 1002,
+    "raw": "[AGNI] Ignis Dominion",
+    "displayName": "[AGNI] Ignis Dominion",
+    "tag": "AGNI",
+    "name": "Ignis Dominion",
+    "power": 242883208
+  },
+  {
+    "rank": 62,
+    "server": 1041,
+    "raw": "[CRPT] Corrupt",
+    "displayName": "[CRPT] Corrupt",
+    "tag": "CRPT",
+    "name": "Corrupt",
+    "power": 239552241
+  },
+  {
+    "rank": 63,
+    "server": 1027,
+    "raw": "[Kai] Apa Kai",
+    "displayName": "[Kai] Apa Kai",
+    "tag": "Kai",
+    "name": "Apa Kai",
+    "power": 237584732
+  },
+  {
+    "rank": 64,
+    "server": 1027,
+    "raw": "[Val] Valhalla",
+    "displayName": "[Val] Valhalla",
+    "tag": "Val",
+    "name": "Valhalla",
+    "power": 231224238
+  },
+  {
+    "rank": 65,
+    "server": 1028,
+    "raw": "[MOON] Lunar Angels",
+    "displayName": "[MOON] Lunar Angels",
+    "tag": "MOON",
+    "name": "Lunar Angels",
+    "power": 229709892
+  },
+  {
+    "rank": 66,
+    "server": 1034,
+    "raw": "[ARC] Arctic Eclipse",
+    "displayName": "[ARC] Arctic Eclipse",
+    "tag": "ARC",
+    "name": "Arctic Eclipse",
+    "power": 228098761
+  },
+  {
+    "rank": 67,
+    "server": 1056,
+    "raw": "[FENX] Ashes Rising",
+    "displayName": "[FENX] Ashes Rising",
+    "tag": "FENX",
+    "name": "Ashes Rising",
+    "power": 225927226
+  },
+  {
+    "rank": 68,
+    "server": 1030,
+    "raw": "[GWAG] The White Lotus",
+    "displayName": "[GWAG] The White Lotus",
+    "tag": "GWAG",
+    "name": "The White Lotus",
+    "power": 225353253
+  },
+  {
+    "rank": 69,
+    "server": 1043,
+    "raw": "[UMI] Umibozu",
+    "displayName": "[UMI] Umibozu",
+    "tag": "UMI",
+    "name": "Umibozu",
+    "power": 218483049
+  },
+  {
+    "rank": 70,
+    "server": 1019,
+    "raw": "[SQU] Squish",
+    "displayName": "[SQU] Squish",
+    "tag": "SQU",
+    "name": "Squish",
+    "power": 211436442
+  },
+  {
+    "rank": 71,
+    "server": 1047,
+    "raw": "[TMLP] Melon Lord Pact",
+    "displayName": "[TMLP] Melon Lord Pact",
+    "tag": "TMLP",
+    "name": "Melon Lord Pact",
+    "power": 209227236
+  },
+  {
+    "rank": 72,
+    "server": 1005,
+    "raw": "[Loti] Jasmine Lotus",
+    "displayName": "[Loti] Jasmine Lotus",
+    "tag": "Loti",
+    "name": "Jasmine Lotus",
+    "power": 206816023
+  },
+  {
+    "rank": 73,
+    "server": 1054,
+    "raw": "[NWO] New World Order",
+    "displayName": "[NWO] New World Order",
+    "tag": "NWO",
+    "name": "New World Order",
+    "power": 201860201
+  },
+  {
+    "rank": 74,
+    "server": 1006,
+    "raw": "[BWH] Bunnings",
+    "displayName": "[BWH] Bunnings",
+    "tag": "BWH",
+    "name": "Bunnings",
+    "power": 201620772
+  },
+  {
+    "rank": 75,
+    "server": 1045,
+    "raw": "[NLO] New Lotus Order",
+    "displayName": "[NLO] New Lotus Order",
+    "tag": "NLO",
+    "name": "New Lotus Order",
+    "power": 199050569
+  },
+  {
+    "rank": 76,
+    "server": 1060,
+    "raw": "[RAVA] RavenOfValhalla",
+    "displayName": "[RAVA] RavenOfValhalla",
+    "tag": "RAVA",
+    "name": "RavenOfValhalla",
+    "power": 194314859
+  },
+  {
+    "rank": 77,
+    "server": 1036,
+    "raw": "[BUMI] Ba Sing Se",
+    "displayName": "[BUMI] Ba Sing Se",
+    "tag": "BUMI",
+    "name": "Ba Sing Se",
+    "power": 193250749
+  },
+  {
+    "rank": 78,
+    "server": 1045,
+    "raw": "[PAIN] Akatsuki",
+    "displayName": "[PAIN] Akatsuki",
+    "tag": "PAIN",
+    "name": "Akatsuki",
+    "power": 192670757
+  },
+  {
+    "rank": 79,
+    "server": 1040,
+    "raw": "[WARS] Shadow Reborn",
+    "displayName": "[WARS] Shadow Reborn",
+    "tag": "WARS",
+    "name": "Shadow Reborn",
+    "power": 190661054
+  },
+  {
+    "rank": 80,
+    "server": 1050,
+    "raw": "[CHAI] Blossom",
+    "displayName": "[CHAI] Blossom",
+    "tag": "CHAI",
+    "name": "Blossom",
+    "power": 190168206
+  },
+  {
+    "rank": 81,
+    "server": 1011,
+    "raw": "[TUF] United Forces",
+    "displayName": "[TUF] United Forces",
+    "tag": "TUF",
+    "name": "United Forces",
+    "power": 188638123
+  },
+  {
+    "rank": 82,
+    "server": 1001,
+    "raw": "[RRQ] Rex Regum Qeon",
+    "displayName": "[RRQ] Rex Regum Qeon",
+    "tag": "RRQ",
+    "name": "Rex Regum Qeon",
+    "power": 186348234
+  },
+  {
+    "rank": 83,
+    "server": 1040,
+    "raw": "[T4N] Four N4tions",
+    "displayName": "[T4N] Four N4tions",
+    "tag": "T4N",
+    "name": "Four N4tions",
+    "power": 183035495
+  },
+  {
+    "rank": 84,
+    "server": 1031,
+    "raw": "[Ele] Element Masters",
+    "displayName": "[Ele] Element Masters",
+    "tag": "Ele",
+    "name": "Element Masters",
+    "power": 180993808
+  },
+  {
+    "rank": 85,
+    "server": 1004,
+    "raw": "[SPQR] Camp Jupiter",
+    "displayName": "[SPQR] Camp Jupiter",
+    "tag": "SPQR",
+    "name": "Camp Jupiter",
+    "power": 179566825
+  },
+  {
+    "rank": 86,
+    "server": 1007,
+    "raw": "[INN] INNOVA",
+    "displayName": "[INN] INNOVA",
+    "tag": "INN",
+    "name": "INNOVA",
+    "power": 177329974
+  },
+  {
+    "rank": 87,
+    "server": 1058,
+    "raw": "[MLN] MelonLordMafia",
+    "displayName": "[MLN] MelonLordMafia",
+    "tag": "MLN",
+    "name": "MelonLordMafia",
+    "power": 177275516
+  },
+  {
+    "rank": 88,
+    "server": 1040,
+    "raw": "[WAR5] Shadow Sakura",
+    "displayName": "[WAR5] Shadow Sakura",
+    "tag": "WAR5",
+    "name": "Shadow Sakura",
+    "power": 177250798
+  },
+  {
+    "rank": 89,
+    "server": 1003,
+    "raw": "[ELFI] ELYSIUM",
+    "displayName": "[ELFI] ELYSIUM",
+    "tag": "ELFI",
+    "name": "ELYSIUM",
+    "power": 175546499
+  },
+  {
+    "rank": 90,
+    "server": 1010,
+    "raw": "[HNOR] BlueHonor",
+    "displayName": "[HNOR] BlueHonor",
+    "tag": "HNOR",
+    "name": "BlueHonor",
+    "power": 174438492
+  },
+  {
+    "rank": 91,
+    "server": 1035,
+    "raw": "[TLT] The Leafy Tuts",
+    "displayName": "[TLT] The Leafy Tuts",
+    "tag": "TLT",
+    "name": "The Leafy Tuts",
+    "power": 168210329
+  },
+  {
+    "rank": 92,
+    "server": 1059,
+    "raw": "[ECTS] Ecliptis",
+    "displayName": "[ECTS] Ecliptis",
+    "tag": "ECTS",
+    "name": "Ecliptis",
+    "power": 165401548
+  },
+  {
+    "rank": 93,
+    "server": 1055,
+    "raw": "[LEAF] The Hidden Leaf",
+    "displayName": "[LEAF] The Hidden Leaf",
+    "tag": "LEAF",
+    "name": "The Hidden Leaf",
+    "power": 155818872
+  },
+  {
+    "rank": 94,
+    "server": 1054,
+    "raw": "[SITH] Galactic Empire",
+    "displayName": "[SITH] Galactic Empire",
+    "tag": "SITH",
+    "name": "Galactic Empire",
+    "power": 155177973
+  },
+  {
+    "rank": 95,
+    "server": 1044,
+    "raw": "[VOID] The Black Sun",
+    "displayName": "[VOID] The Black Sun",
+    "tag": "VOID",
+    "name": "The Black Sun",
+    "power": 155120113
+  },
+  {
+    "rank": 96,
+    "server": 1010,
+    "raw": "[SATO] F Industries",
+    "displayName": "[SATO] F Industries",
+    "tag": "SATO",
+    "name": "F Industries",
+    "power": 149407024
+  },
+  {
+    "rank": 97,
+    "server": 1058,
+    "raw": "[SORA] Sons of Raven",
+    "displayName": "[SORA] Sons of Raven",
+    "tag": "SORA",
+    "name": "Sons of Raven",
+    "power": 147611976
+  },
+  {
+    "rank": 98,
+    "server": 1060,
+    "raw": "[TEMU] The Temunators",
+    "displayName": "[TEMU] The Temunators",
+    "tag": "TEMU",
+    "name": "The Temunators",
+    "power": 145467036
+  },
+  {
+    "rank": 99,
+    "server": 1050,
+    "raw": "[DMN] Demons",
+    "displayName": "[DMN] Demons",
+    "tag": "DMN",
+    "name": "Demons",
+    "power": 142056609
+  },
+  {
+    "rank": 100,
+    "server": 1063,
+    "raw": "[RISE] Rising Tides",
+    "displayName": "[RISE] Rising Tides",
+    "tag": "RISE",
+    "name": "Rising Tides",
+    "power": 140635208
+  },
+  {
+    "rank": 101,
+    "server": 1024,
+    "raw": "[LOST] Lost Nomads",
+    "displayName": "[LOST] Lost Nomads",
+    "tag": "LOST",
+    "name": "Lost Nomads",
+    "power": 132379851
+  },
+  {
+    "rank": 102,
+    "server": 1062,
+    "raw": "[GTA] GrandTheftAppa",
+    "displayName": "[GTA] GrandTheftAppa",
+    "tag": "GTA",
+    "name": "GrandTheftAppa",
+    "power": 132332194
+  },
+  {
+    "rank": 103,
+    "server": 1069,
+    "raw": "[BERK] Isle of Berk",
+    "displayName": "[BERK] Isle of Berk",
+    "tag": "BERK",
+    "name": "Isle of Berk",
+    "power": 131960369
+  },
+  {
+    "rank": 104,
+    "server": 1033,
+    "raw": "[THE] The Gold Coast",
+    "displayName": "[THE] The Gold Coast",
+    "tag": "THE",
+    "name": "The Gold Coast",
+    "power": 131344558
+  },
+  {
+    "rank": 105,
+    "server": 1026,
+    "raw": "[NkM] Nakamashu",
+    "displayName": "[NkM] Nakamashu",
+    "tag": "NkM",
+    "name": "Nakamashu",
+    "power": 129617434
+  },
+  {
+    "rank": 106,
+    "server": 1068,
+    "raw": "[MTO] Mount Olympus",
+    "displayName": "[MTO] Mount Olympus",
+    "tag": "MTO",
+    "name": "Mount Olympus",
+    "power": 129289854
+  },
+  {
+    "rank": 107,
+    "server": 1041,
+    "raw": "[TEA] Dragon Teahouse",
+    "displayName": "[TEA] Dragon Teahouse",
+    "tag": "TEA",
+    "name": "Dragon Teahouse",
+    "power": 129107440
+  },
+  {
+    "rank": 108,
+    "server": 1009,
+    "raw": "[WARS] ShadowKorrasami",
+    "displayName": "[WARS] ShadowKorrasami",
+    "tag": "WARS",
+    "name": "ShadowKorrasami",
+    "power": 128717739
+  },
+  {
+    "rank": 109,
+    "server": 1057,
+    "raw": "[BTA] The Belt",
+    "displayName": "[BTA] The Belt",
+    "tag": "BTA",
+    "name": "The Belt",
+    "power": 127830442
+  },
+  {
+    "rank": 110,
+    "server": 1017,
+    "raw": "[τεα] jasmine dragσης",
+    "displayName": "[τεα] jasmine dragσης",
+    "tag": "τεα",
+    "name": "jasmine dragσης",
+    "power": 125122563
+  },
+  {
+    "rank": 111,
+    "server": 1018,
+    "raw": "[HOPE] The Search",
+    "displayName": "[HOPE] The Search",
+    "tag": "HOPE",
+    "name": "The Search",
+    "power": 123734049
+  },
+  {
+    "rank": 112,
+    "server": 1070,
+    "raw": "[OLYM] The Olympians",
+    "displayName": "[OLYM] The Olympians",
+    "tag": "OLYM",
+    "name": "The Olympians",
+    "power": 119165216
+  },
+  {
+    "rank": 113,
+    "server": 1053,
+    "raw": "[PHX] Phoenix Rising",
+    "displayName": "[PHX] Phoenix Rising",
+    "tag": "PHX",
+    "name": "Phoenix Rising",
+    "power": 115325216
+  },
+  {
+    "rank": 114,
+    "server": 1048,
+    "raw": "[MIR] MIRAGE",
+    "displayName": "[MIR] MIRAGE",
+    "tag": "MIR",
+    "name": "MIRAGE",
+    "power": 114005786
+  },
+  {
+    "rank": 115,
+    "server": 1043,
+    "raw": "[ASH] Hoenn",
+    "displayName": "[ASH] Hoenn",
+    "tag": "ASH",
+    "name": "Hoenn",
+    "power": 113804606
+  },
+  {
+    "rank": 116,
+    "server": 1029,
+    "raw": "[BSS] Ba Sing Se",
+    "displayName": "[BSS] Ba Sing Se",
+    "tag": "BSS",
+    "name": "Ba Sing Se",
+    "power": 112572770
+  },
+  {
+    "rank": 117,
+    "server": 1046,
+    "raw": "[CLAM] TheClams",
+    "displayName": "[CLAM] TheClams",
+    "tag": "CLAM",
+    "name": "TheClams",
+    "power": 108071687
+  },
+  {
+    "rank": 118,
+    "server": 1017,
+    "raw": "[THC] Talon Citadel",
+    "displayName": "[THC] Talon Citadel",
+    "tag": "THC",
+    "name": "Talon Citadel",
+    "power": 105513856
+  },
+  {
+    "rank": 119,
+    "server": 1069,
+    "raw": "[TW]] The White Jade",
+    "displayName": "[TW]] The White Jade",
+    "tag": "TW",
+    "name": "] The White Jade",
+    "power": 104437485
+  },
+  {
+    "rank": 120,
+    "server": 1041,
+    "raw": "[TLB] TheLastBenders",
+    "displayName": "[TLB] TheLastBenders",
+    "tag": "TLB",
+    "name": "TheLastBenders",
+    "power": 102967174
+  },
+  {
+    "rank": 121,
+    "server": 1065,
+    "raw": "[TGL] The Great Lotus",
+    "displayName": "[TGL] The Great Lotus",
+    "tag": "TGL",
+    "name": "The Great Lotus",
+    "power": 100606376
+  },
+  {
+    "rank": 122,
+    "server": 1064,
+    "raw": "[CD64] Crimson Dragons",
+    "displayName": "[CD64] Crimson Dragons",
+    "tag": "CD64",
+    "name": "Crimson Dragons",
+    "power": 99995964
+  },
+  {
+    "rank": 123,
+    "server": 1043,
+    "raw": "[KWS] Kyoshi Warriors",
+    "displayName": "[KWS] Kyoshi Warriors",
+    "tag": "KWS",
+    "name": "Kyoshi Warriors",
+    "power": 99610069
+  },
+  {
+    "rank": 124,
+    "server": 1052,
+    "raw": "[Kou] Kou Empire",
+    "displayName": "[Kou] Kou Empire",
+    "tag": "Kou",
+    "name": "Kou Empire",
+    "power": 96620040
+  },
+  {
+    "rank": 125,
+    "server": 1015,
+    "raw": "[BINI] Blooms Vanguard",
+    "displayName": "[BINI] Blooms Vanguard",
+    "tag": "BINI",
+    "name": "Blooms Vanguard",
+    "power": 95070290
+  },
+  {
+    "rank": 126,
+    "server": 1012,
+    "raw": "[FOUR] White Lotus",
+    "displayName": "[FOUR] White Lotus",
+    "tag": "FOUR",
+    "name": "White Lotus",
+    "power": 94073836
+  },
+  {
+    "rank": 127,
+    "server": 1005,
+    "raw": "[Sun] Sun Sisters",
+    "displayName": "[Sun] Sun Sisters",
+    "tag": "Sun",
+    "name": "Sun Sisters",
+    "power": 93450238
+  },
+  {
+    "rank": 128,
+    "server": 1067,
+    "raw": "[TTT] ToTheTop",
+    "displayName": "[TTT] ToTheTop",
+    "tag": "TTT",
+    "name": "ToTheTop",
+    "power": 92956600
+  },
+  {
+    "rank": 129,
+    "server": 1005,
+    "raw": "[TFE] Fifth Element",
+    "displayName": "[TFE] Fifth Element",
+    "tag": "TFE",
+    "name": "Fifth Element",
+    "power": 90867458
+  },
+  {
+    "rank": 130,
+    "server": 1056,
+    "raw": "[CAT] CATS",
+    "displayName": "[CAT] CATS",
+    "tag": "CAT",
+    "name": "CATS",
+    "power": 89578380
+  },
+  {
+    "rank": 131,
+    "server": 1021,
+    "raw": "[404x] LOSTxANDxFOUND",
+    "displayName": "[404x] LOSTxANDxFOUND",
+    "tag": "404x",
+    "name": "LOSTxANDxFOUND",
+    "power": 87171478
+  },
+  {
+    "rank": 132,
+    "server": 1067,
+    "raw": "[MSS] Moon Spirits",
+    "displayName": "[MSS] Moon Spirits",
+    "tag": "MSS",
+    "name": "Moon Spirits",
+    "power": 87116805
+  },
+  {
+    "rank": 133,
+    "server": 1011,
+    "raw": "[FMB] Fallen Embers",
+    "displayName": "[FMB] Fallen Embers",
+    "tag": "FMB",
+    "name": "Fallen Embers",
+    "power": 84794587
+  },
+  {
+    "rank": 134,
+    "server": 1033,
+    "raw": "[PLZ] Send Noods",
+    "displayName": "[PLZ] Send Noods",
+    "tag": "PLZ",
+    "name": "Send Noods",
+    "power": 84428794
+  },
+  {
+    "rank": 135,
+    "server": 1010,
+    "raw": "[TFR] The Fat Rats",
+    "displayName": "[TFR] The Fat Rats",
+    "tag": "TFR",
+    "name": "The Fat Rats",
+    "power": 79902566
+  },
+  {
+    "rank": 136,
+    "server": 1022,
+    "raw": "[TRTL] LionTurtle",
+    "displayName": "[TRTL] LionTurtle",
+    "tag": "TRTL",
+    "name": "LionTurtle",
+    "power": 78113379
+  },
+  {
+    "rank": 137,
+    "server": 1024,
+    "raw": "[BULL] Black Bulls",
+    "displayName": "[BULL] Black Bulls",
+    "tag": "BULL",
+    "name": "Black Bulls",
+    "power": 71541867
+  },
+  {
+    "rank": 138,
+    "server": 1061,
+    "raw": "[ANG] Cheesy Angels",
+    "displayName": "[ANG] Cheesy Angels",
+    "tag": "ANG",
+    "name": "Cheesy Angels",
+    "power": 69551228
+  },
+  {
+    "rank": 139,
+    "server": 1025,
+    "raw": "[LION] Lions Denn",
+    "displayName": "[LION] Lions Denn",
+    "tag": "LION",
+    "name": "Lions Denn",
+    "power": 69358403
+  },
+  {
+    "rank": 140,
+    "server": 1053,
+    "raw": "[420] Shred Zepplin",
+    "displayName": "[420] Shred Zepplin",
+    "tag": "420",
+    "name": "Shred Zepplin",
+    "power": 68853558
+  },
+  {
+    "rank": 141,
+    "server": 1049,
+    "raw": "[SET] SecretTunnel",
+    "displayName": "[SET] SecretTunnel",
+    "tag": "SET",
+    "name": "SecretTunnel",
+    "power": 67858163
+  },
+  {
+    "rank": 142,
+    "server": 1029,
+    "raw": "[TWR] TEMPLE REWARDS",
+    "displayName": "[TWR] TEMPLE REWARDS",
+    "tag": "TWR",
+    "name": "TEMPLE REWARDS",
+    "power": 67753855
+  },
+  {
+    "rank": 143,
+    "server": 1066,
+    "raw": "[KWAR] Kyoshi Warriors",
+    "displayName": "[KWAR] Kyoshi Warriors",
+    "tag": "KWAR",
+    "name": "Kyoshi Warriors",
+    "power": 66075288
+  },
+  {
+    "rank": 144,
+    "server": 1066,
+    "raw": "[PTU] Path To Unity",
+    "displayName": "[PTU] Path To Unity",
+    "tag": "PTU",
+    "name": "Path To Unity",
+    "power": 65423436
+  },
+  {
+    "rank": 145,
+    "server": 1068,
+    "raw": "[MRVL] Marvel",
+    "displayName": "[MRVL] Marvel",
+    "tag": "MRVL",
+    "name": "Marvel",
+    "power": 65321984
+  },
+  {
+    "rank": 146,
+    "server": 1042,
+    "raw": "[Embr] EmbrIslandAbyss",
+    "displayName": "[Embr] EmbrIslandAbyss",
+    "tag": "Embr",
+    "name": "EmbrIslandAbyss",
+    "power": 64899039
+  },
+  {
+    "rank": 147,
+    "server": 1013,
+    "raw": "[RBWH] RageBroWildHunt",
+    "displayName": "[RBWH] RageBroWildHunt",
+    "tag": "RBWH",
+    "name": "RageBroWildHunt",
+    "power": 64611532
+  },
+  {
+    "rank": 148,
+    "server": 1028,
+    "raw": "[4NS] Four Nations",
+    "displayName": "[4NS] Four Nations",
+    "tag": "4NS",
+    "name": "Four Nations",
+    "power": 62902305
+  },
+  {
+    "rank": 149,
+    "server": 1032,
+    "raw": "[EOH] EmbersOfHarmony",
+    "displayName": "[EOH] EmbersOfHarmony",
+    "tag": "EOH",
+    "name": "EmbersOfHarmony",
+    "power": 62375049
+  },
+  {
+    "rank": 150,
+    "server": 1055,
+    "raw": "[ZONE] WARZONE",
+    "displayName": "[ZONE] WARZONE",
+    "tag": "ZONE",
+    "name": "WARZONE",
+    "power": 61642110
+  },
+  {
+    "rank": 151,
+    "server": 1061,
+    "raw": "[DMN] Immortal Demons",
+    "displayName": "[DMN] Immortal Demons",
+    "tag": "DMN",
+    "name": "Immortal Demons",
+    "power": 59331398
+  },
+  {
+    "rank": 152,
+    "server": 1047,
+    "raw": "[EQL] Equalists",
+    "displayName": "[EQL] Equalists",
+    "tag": "EQL",
+    "name": "Equalists",
+    "power": 59300511
+  },
+  {
+    "rank": 153,
+    "server": 1015,
+    "raw": "[BLCK] BLCK Clown Cats",
+    "displayName": "[BLCK] BLCK Clown Cats",
+    "tag": "BLCK",
+    "name": "BLCK Clown Cats",
+    "power": 57286655
+  },
+  {
+    "rank": 154,
+    "server": 1039,
+    "raw": "[WţF] Three Titans",
+    "displayName": "[WţF] Three Titans",
+    "tag": "WţF",
+    "name": "Three Titans",
+    "power": 56196623
+  },
+  {
+    "rank": 155,
+    "server": 1064,
+    "raw": "[SWMP] Swamp Benders",
+    "displayName": "[SWMP] Swamp Benders",
+    "tag": "SWMP",
+    "name": "Swamp Benders",
+    "power": 55704533
+  },
+  {
+    "rank": 156,
+    "server": 1058,
+    "raw": "[GAY] GAYMERS",
+    "displayName": "[GAY] GAYMERS",
+    "tag": "GAY",
+    "name": "GAYMERS",
+    "power": 55612998
+  },
+  {
+    "rank": 157,
+    "server": 1067,
+    "raw": "[SPA] Just Relax",
+    "displayName": "[SPA] Just Relax",
+    "tag": "SPA",
+    "name": "Just Relax",
+    "power": 55473901
+  },
+  {
+    "rank": 158,
+    "server": 1013,
+    "raw": "[TWL] The White Lotus",
+    "displayName": "[TWL] The White Lotus",
+    "tag": "TWL",
+    "name": "The White Lotus",
+    "power": 53498359
+  },
+  {
+    "rank": 159,
+    "server": 1070,
+    "raw": "[TWL] Lotus Armada",
+    "displayName": "[TWL] Lotus Armada",
+    "tag": "TWL",
+    "name": "Lotus Armada",
+    "power": 52747691
+  },
+  {
+    "rank": 160,
+    "server": 1068,
+    "raw": "[LOST] BLACK ORDER",
+    "displayName": "[LOST] BLACK ORDER",
+    "tag": "LOST",
+    "name": "BLACK ORDER",
+    "power": 52649308
+  },
+  {
+    "rank": 161,
+    "server": 1034,
+    "raw": "[LUNÂ] Lunar Eclipse",
+    "displayName": "[LUNÂ] Lunar Eclipse",
+    "tag": "LUNÂ",
+    "name": "Lunar Eclipse",
+    "power": 52554459
+  },
+  {
+    "rank": 162,
+    "server": 1051,
+    "raw": "[UFO] Xtraterrestrial",
+    "displayName": "[UFO] Xtraterrestrial",
+    "tag": "UFO",
+    "name": "Xtraterrestrial",
+    "power": 52139862
+  },
+  {
+    "rank": 163,
+    "server": 1065,
+    "raw": "[NASA] NebulaRising",
+    "displayName": "[NASA] NebulaRising",
+    "tag": "NASA",
+    "name": "NebulaRising",
+    "power": 51983561
+  },
+  {
+    "rank": 164,
+    "server": 1070,
+    "raw": "[ONE] Together As One",
+    "displayName": "[ONE] Together As One",
+    "tag": "ONE",
+    "name": "Together As One",
+    "power": 51931895
+  },
+  {
+    "rank": 165,
+    "server": 1022,
+    "raw": "[CITY] REPUBLIC CITY",
+    "displayName": "[CITY] REPUBLIC CITY",
+    "tag": "CITY",
+    "name": "REPUBLIC CITY",
+    "power": 51118716
+  },
+  {
+    "rank": 166,
+    "server": 1057,
+    "raw": "[Avtr] Black Lotus",
+    "displayName": "[Avtr] Black Lotus",
+    "tag": "Avtr",
+    "name": "Black Lotus",
+    "power": 49094849
+  },
+  {
+    "rank": 167,
+    "server": 1030,
+    "raw": "[CAPO] Cabbage Cartel",
+    "displayName": "[CAPO] Cabbage Cartel",
+    "tag": "CAPO",
+    "name": "Cabbage Cartel",
+    "power": 47869215
+  },
+  {
+    "rank": 168,
+    "server": 1008,
+    "raw": "[MGW] Mugiwaras",
+    "displayName": "[MGW] Mugiwaras",
+    "tag": "MGW",
+    "name": "Mugiwaras",
+    "power": 47591764
+  },
+  {
+    "rank": 169,
+    "server": 1046,
+    "raw": "[Fred] Feuerfrettchen",
+    "displayName": "[Fred] Feuerfrettchen",
+    "tag": "Fred",
+    "name": "Feuerfrettchen",
+    "power": 46912226
+  },
+  {
+    "rank": 170,
+    "server": 1069,
+    "raw": "[TDL] The Dark Legion",
+    "displayName": "[TDL] The Dark Legion",
+    "tag": "TDL",
+    "name": "The Dark Legion",
+    "power": 45944316
+  },
+  {
+    "rank": 171,
+    "server": 1039,
+    "raw": "[YAP] Yapping Gang",
+    "displayName": "[YAP] Yapping Gang",
+    "tag": "YAP",
+    "name": "Yapping Gang",
+    "power": 45867095
+  },
+  {
+    "rank": 172,
+    "server": 1023,
+    "raw": "[FLME] True Flame",
+    "displayName": "[FLME] True Flame",
+    "tag": "FLME",
+    "name": "True Flame",
+    "power": 45580795
+  },
+  {
+    "rank": 173,
+    "server": 1014,
+    "raw": "[Ref] Reforged Legion",
+    "displayName": "[Ref] Reforged Legion",
+    "tag": "Ref",
+    "name": "Reforged Legion",
+    "power": 44220051
+  },
+  {
+    "rank": 174,
+    "server": 1062,
+    "raw": "[SBC] Sky Bison Corps",
+    "displayName": "[SBC] Sky Bison Corps",
+    "tag": "SBC",
+    "name": "Sky Bison Corps",
+    "power": 44149958
+  },
+  {
+    "rank": 175,
+    "server": 1016,
+    "raw": "[cove] coven of hades",
+    "displayName": "[cove] coven of hades",
+    "tag": "cove",
+    "name": "coven of hades",
+    "power": 44067572
+  },
+  {
+    "rank": 176,
+    "server": 1018,
+    "raw": "[RIOT] Outcasts",
+    "displayName": "[RIOT] Outcasts",
+    "tag": "RIOT",
+    "name": "Outcasts",
+    "power": 43889660
+  },
+  {
+    "rank": 177,
+    "server": 1032,
+    "raw": "[Gods] Olympus",
+    "displayName": "[Gods] Olympus",
+    "tag": "Gods",
+    "name": "Olympus",
+    "power": 43614471
+  },
+  {
+    "rank": 178,
+    "server": 1041,
+    "raw": "[300] ESPARTANOS 300",
+    "displayName": "[300] ESPARTANOS 300",
+    "tag": "300",
+    "name": "ESPARTANOS 300",
+    "power": 43416007
+  },
+  {
+    "rank": 179,
+    "server": 1006,
+    "raw": "[TBB] ThaBackBenders",
+    "displayName": "[TBB] ThaBackBenders",
+    "tag": "TBB",
+    "name": "ThaBackBenders",
+    "power": 42629805
+  },
+  {
+    "rank": 180,
+    "server": 1055,
+    "raw": "[WLB] Lotus of Berk",
+    "displayName": "[WLB] Lotus of Berk",
+    "tag": "WLB",
+    "name": "Lotus of Berk",
+    "power": 41662535
+  },
+  {
+    "rank": 181,
+    "server": 1043,
+    "raw": "[BLUE] BLUE DRAGON",
+    "displayName": "[BLUE] BLUE DRAGON",
+    "tag": "BLUE",
+    "name": "BLUE DRAGON",
+    "power": 40380202
+  },
+  {
+    "rank": 182,
+    "server": 1045,
+    "raw": "[WoE] Wrath of Earth",
+    "displayName": "[WoE] Wrath of Earth",
+    "tag": "WoE",
+    "name": "Wrath of Earth",
+    "power": 40240681
+  },
+  {
+    "rank": 183,
+    "server": 1014,
+    "raw": "[Boba] Boba Tea",
+    "displayName": "[Boba] Boba Tea",
+    "tag": "Boba",
+    "name": "Boba Tea",
+    "power": 39685407
+  },
+  {
+    "rank": 184,
+    "server": 1021,
+    "raw": "[VDRM] ValdrakofMørdør",
+    "displayName": "[VDRM] ValdrakofMørdør",
+    "tag": "VDRM",
+    "name": "ValdrakofMørdør",
+    "power": 39300061
+  },
+  {
+    "rank": 185,
+    "server": 1028,
+    "raw": "[ZON] Renaissance",
+    "displayName": "[ZON] Renaissance",
+    "tag": "ZON",
+    "name": "Renaissance",
+    "power": 38833349
+  },
+  {
+    "rank": 186,
+    "server": 1047,
+    "raw": "[jpn]天真爛漫",
+    "displayName": "[jpn]天真爛漫",
+    "tag": "jpn",
+    "name": "天真爛漫",
+    "power": 37698305
+  },
+  {
+    "rank": 187,
+    "server": 1022,
+    "raw": "[MELN] MELONLORDSxPWR",
+    "displayName": "[MELN] MELONLORDSxPWR",
+    "tag": "MELN",
+    "name": "MELONLORDSxPWR",
+    "power": 37289868
+  },
+  {
+    "rank": 188,
+    "server": 1006,
+    "raw": "[Sky] Cloud Riders",
+    "displayName": "[Sky] Cloud Riders",
+    "tag": "Sky",
+    "name": "Cloud Riders",
+    "power": 36471950
+  },
+  {
+    "rank": 189,
+    "server": 1057,
+    "raw": "[STA] Secret Tunnel",
+    "displayName": "[STA] Secret Tunnel",
+    "tag": "STA",
+    "name": "Secret Tunnel",
+    "power": 36417693
+  },
+  {
+    "rank": 190,
+    "server": 1016,
+    "raw": "[SOUL] Soul Collectors",
+    "displayName": "[SOUL] Soul Collectors",
+    "tag": "SOUL",
+    "name": "Soul Collectors",
+    "power": 36355907
+  },
+  {
+    "rank": 191,
+    "server": 1037,
+    "raw": "[KYSH] Kyoshis Spirit",
+    "displayName": "[KYSH] Kyoshis Spirit",
+    "tag": "KYSH",
+    "name": "Kyoshis Spirit",
+    "power": 34959746
+  },
+  {
+    "rank": 192,
+    "server": 1032,
+    "raw": "[STYX] The River Styx",
+    "displayName": "[STYX] The River Styx",
+    "tag": "STYX",
+    "name": "The River Styx",
+    "power": 33127034
+  },
+  {
+    "rank": 193,
+    "server": 1030,
+    "raw": "[SMA] ShadowMelonArmy",
+    "displayName": "[SMA] ShadowMelonArmy",
+    "tag": "SMA",
+    "name": "ShadowMelonArmy",
+    "power": 32187286
+  },
+  {
+    "rank": 194,
+    "server": 1027,
+    "raw": "[PPP] The PPP",
+    "displayName": "[PPP] The PPP",
+    "tag": "PPP",
+    "name": "The PPP",
+    "power": 31359367
+  },
+  {
+    "rank": 195,
+    "server": 1025,
+    "raw": "[ALM] Elements",
+    "displayName": "[ALM] Elements",
+    "tag": "ALM",
+    "name": "Elements",
+    "power": 30820957
+  },
+  {
+    "rank": 196,
+    "server": 1004,
+    "raw": "[POL] Polski Sojusz",
+    "displayName": "[POL] Polski Sojusz",
+    "tag": "POL",
+    "name": "Polski Sojusz",
+    "power": 30257975
+  },
+  {
+    "rank": 197,
+    "server": 1024,
+    "raw": "[3DS] nintendo",
+    "displayName": "[3DS] nintendo",
+    "tag": "3DS",
+    "name": "nintendo",
+    "power": 30030273
+  },
+  {
+    "rank": 198,
+    "server": 1012,
+    "raw": "[SKAI] SamRasa Kai",
+    "displayName": "[SKAI] SamRasa Kai",
+    "tag": "SKAI",
+    "name": "SamRasa Kai",
+    "power": 29725312
+  },
+  {
+    "rank": 199,
+    "server": 1067,
+    "raw": "[AVTR] Avatar State",
+    "displayName": "[AVTR] Avatar State",
+    "tag": "AVTR",
+    "name": "Avatar State",
+    "power": 29425024
+  },
+  {
+    "rank": 200,
+    "server": 1033,
+    "raw": "[120C] Omashu Crushers",
+    "displayName": "[120C] Omashu Crushers",
+    "tag": "120C",
+    "name": "Omashu Crushers",
+    "power": 29202736
+  },
+  {
+    "rank": 201,
+    "server": 1012,
+    "raw": "[LOH2] LOHY2",
+    "displayName": "[LOH2] LOHY2",
+    "tag": "LOH2",
+    "name": "LOHY2",
+    "power": 27617287
+  },
+  {
+    "rank": 202,
+    "server": 1031,
+    "raw": "[Air] Emerald Temple",
+    "displayName": "[Air] Emerald Temple",
+    "tag": "Air",
+    "name": "Emerald Temple",
+    "power": 26897483
+  },
+  {
+    "rank": 203,
+    "server": 1003,
+    "raw": "[RPP] PL Avatar",
+    "displayName": "[RPP] PL Avatar",
+    "tag": "RPP",
+    "name": "PL Avatar",
+    "power": 26197828
+  },
+  {
+    "rank": 204,
+    "server": 1051,
+    "raw": "[SWAT] SUN WARRIORS",
+    "displayName": "[SWAT] SUN WARRIORS",
+    "tag": "SWAT",
+    "name": "SUN WARRIORS",
+    "power": 24677052
+  },
+  {
+    "rank": 205,
+    "server": 1007,
+    "raw": "[B10U] Eternal Beating",
+    "displayName": "[B10U] Eternal Beating",
+    "tag": "B10U",
+    "name": "Eternal Beating",
+    "power": 23413680
+  },
+  {
+    "rank": 206,
+    "server": 1020,
+    "raw": "[BLUD] BludofHashira",
+    "displayName": "[BLUD] BludofHashira",
+    "tag": "BLUD",
+    "name": "BludofHashira",
+    "power": 22902323
+  },
+  {
+    "rank": 207,
+    "server": 1061,
+    "raw": "[IMM] Immortals",
+    "displayName": "[IMM] Immortals",
+    "tag": "IMM",
+    "name": "Immortals",
+    "power": 22002220
+  },
+  {
+    "rank": 208,
+    "server": 1059,
+    "raw": "[JADE] NaciónDeJade",
+    "displayName": "[JADE] NaciónDeJade",
+    "tag": "JADE",
+    "name": "NaciónDeJade",
+    "power": 21788954
+  },
+  {
+    "rank": 209,
+    "server": 1003,
+    "raw": "[TCK] The Cool Kids",
+    "displayName": "[TCK] The Cool Kids",
+    "tag": "TCK",
+    "name": "The Cool Kids",
+    "power": 21595285
+  },
+  {
+    "rank": 210,
+    "server": 1050,
+    "raw": "[OZAI] Ozai Angels",
+    "displayName": "[OZAI] Ozai Angels",
+    "tag": "OZAI",
+    "name": "Ozai Angels",
+    "power": 21372232
+  },
+  {
+    "rank": 211,
+    "server": 1042,
+    "raw": "[EoA] Embers of Abyss",
+    "displayName": "[EoA] Embers of Abyss",
+    "tag": "EoA",
+    "name": "Embers of Abyss",
+    "power": 20987611
+  },
+  {
+    "rank": 212,
+    "server": 1019,
+    "raw": "[TOO] TheOriginalOnes",
+    "displayName": "[TOO] TheOriginalOnes",
+    "tag": "TOO",
+    "name": "TheOriginalOnes",
+    "power": 20875594
+  },
+  {
+    "rank": 213,
+    "server": 1013,
+    "raw": "[UNI1] Wonkru",
+    "displayName": "[UNI1] Wonkru",
+    "tag": "UNI1",
+    "name": "Wonkru",
+    "power": 20578049
+  },
+  {
+    "rank": 214,
+    "server": 1064,
+    "raw": "[PHNX] Spirit Phoenix",
+    "displayName": "[PHNX] Spirit Phoenix",
+    "tag": "PHNX",
+    "name": "Spirit Phoenix",
+    "power": 19604408
+  },
+  {
+    "rank": 215,
+    "server": 1026,
+    "raw": "[FTR] Reapers",
+    "displayName": "[FTR] Reapers",
+    "tag": "FTR",
+    "name": "Reapers",
+    "power": 19365828
+  },
+  {
+    "rank": 216,
+    "server": 1059,
+    "raw": "[MOMO] SECRET TUNNEL",
+    "displayName": "[MOMO] SECRET TUNNEL",
+    "tag": "MOMO",
+    "name": "SECRET TUNNEL",
+    "power": 19068982
+  },
+  {
+    "rank": 217,
+    "server": 1037,
+    "raw": "[CORZ] Circle RaAvatar",
+    "displayName": "[CORZ] Circle RaAvatar",
+    "tag": "CORZ",
+    "name": "Circle RaAvatar",
+    "power": 18672741
+  },
+  {
+    "rank": 218,
+    "server": 1048,
+    "raw": "[PX48] F1048",
+    "displayName": "[PX48] F1048",
+    "tag": "PX48",
+    "name": "F1048",
+    "power": 18650878
+  },
+  {
+    "rank": 219,
+    "server": 1048,
+    "raw": "[PMS] Memorial",
+    "displayName": "[PMS] Memorial",
+    "tag": "PMS",
+    "name": "Memorial",
+    "power": 18588172
+  },
+  {
+    "rank": 220,
+    "server": 1029,
+    "raw": "[TIE] The Empire",
+    "displayName": "[TIE] The Empire",
+    "tag": "TIE",
+    "name": "The Empire",
+    "power": 18566171
+  },
+  {
+    "rank": 221,
+    "server": 1053,
+    "raw": "[WAR] Band of Hawks",
+    "displayName": "[WAR] Band of Hawks",
+    "tag": "WAR",
+    "name": "Band of Hawks",
+    "power": 18511268
+  },
+  {
+    "rank": 222,
+    "server": 1002,
+    "raw": "[NOVA] Supernova",
+    "displayName": "[NOVA] Supernova",
+    "tag": "NOVA",
+    "name": "Supernova",
+    "power": 18146131
+  },
+  {
+    "rank": 223,
+    "server": 1053,
+    "raw": "[LTS] Lotus Pact",
+    "displayName": "[LTS] Lotus Pact",
+    "tag": "LTS",
+    "name": "Lotus Pact",
+    "power": 17545062
+  },
+  {
+    "rank": 224,
+    "server": 1063,
+    "raw": "[BRAT] Bratz",
+    "displayName": "[BRAT] Bratz",
+    "tag": "BRAT",
+    "name": "Bratz",
+    "power": 17464158
+  },
+  {
+    "rank": 225,
+    "server": 1008,
+    "raw": "[UEE] Earth Empire",
+    "displayName": "[UEE] Earth Empire",
+    "tag": "UEE",
+    "name": "Earth Empire",
+    "power": 16298510
+  },
+  {
+    "rank": 226,
+    "server": 1017,
+    "raw": "[BPL] BlackPhoenixLGN",
+    "displayName": "[BPL] BlackPhoenixLGN",
+    "tag": "BPL",
+    "name": "BlackPhoenixLGN",
+    "power": 16052508
+  },
+  {
+    "rank": 227,
+    "server": 1038,
+    "raw": "[EMVR] Embers of CLVR",
+    "displayName": "[EMVR] Embers of CLVR",
+    "tag": "EMVR",
+    "name": "Embers of CLVR",
+    "power": 15836866
+  },
+  {
+    "rank": 228,
+    "server": 1045,
+    "raw": "[BEEP] Ghost Legion",
+    "displayName": "[BEEP] Ghost Legion",
+    "tag": "BEEP",
+    "name": "Ghost Legion",
+    "power": 15610188
+  },
+  {
+    "rank": 229,
+    "server": 1002,
+    "raw": "[WHTL] The White Lotus",
+    "displayName": "[WHTL] The White Lotus",
+    "tag": "WHTL",
+    "name": "The White Lotus",
+    "power": 15440986
+  },
+  {
+    "rank": 230,
+    "server": 1020,
+    "raw": "[TNK] NorthernKnights",
+    "displayName": "[TNK] NorthernKnights",
+    "tag": "TNK",
+    "name": "NorthernKnights",
+    "power": 14826047
+  },
+  {
+    "rank": 231,
+    "server": 1050,
+    "raw": "[CHA] Herbata",
+    "displayName": "[CHA] Herbata",
+    "tag": "CHA",
+    "name": "Herbata",
+    "power": 14719913
+  },
+  {
+    "rank": 232,
+    "server": 1038,
+    "raw": "[FFG] FreedomFighters",
+    "displayName": "[FFG] FreedomFighters",
+    "tag": "FFG",
+    "name": "FreedomFighters",
+    "power": 13770682
+  },
+  {
+    "rank": 233,
+    "server": 1054,
+    "raw": "[FARM] Potater Farm",
+    "displayName": "[FARM] Potater Farm",
+    "tag": "FARM",
+    "name": "Potater Farm",
+    "power": 13350666
+  },
+  {
+    "rank": 234,
+    "server": 1054,
+    "raw": "[CBK] CbbgPtchKds",
+    "displayName": "[CBK] CbbgPtchKds",
+    "tag": "CBK",
+    "name": "CbbgPtchKds",
+    "power": 13333248
+  },
+  {
+    "rank": 235,
+    "server": 1023,
+    "raw": "[GER] DieBändiger",
+    "displayName": "[GER] DieBändiger",
+    "tag": "GER",
+    "name": "DieBändiger",
+    "power": 12380442
+  },
+  {
+    "rank": 236,
+    "server": 1058,
+    "raw": "[AVA1] AVATAR1",
+    "displayName": "[AVA1] AVATAR1",
+    "tag": "AVA1",
+    "name": "AVATAR1",
+    "power": 12292843
+  },
+  {
+    "rank": 237,
+    "server": 1039,
+    "raw": "[STW] STRAWHATS",
+    "displayName": "[STW] STRAWHATS",
+    "tag": "STW",
+    "name": "STRAWHATS",
+    "power": 12142590
+  },
+  {
+    "rank": 238,
+    "server": 1056,
+    "raw": "[MEEP] My Cabbages",
+    "displayName": "[MEEP] My Cabbages",
+    "tag": "MEEP",
+    "name": "My Cabbages",
+    "power": 11976178
+  },
+  {
+    "rank": 239,
+    "server": 1023,
+    "raw": "[Yue] Yue Bay",
+    "displayName": "[Yue] Yue Bay",
+    "tag": "Yue",
+    "name": "Yue Bay",
+    "power": 11814413
+  },
+  {
+    "rank": 240,
+    "server": 1042,
+    "raw": "[ARMY] fArmy United",
+    "displayName": "[ARMY] fArmy United",
+    "tag": "ARMY",
+    "name": "fArmy United",
+    "power": 11513081
+  },
+  {
+    "rank": 241,
+    "server": 1066,
+    "raw": "[EFOX] Enlightened Fox",
+    "displayName": "[EFOX] Enlightened Fox",
+    "tag": "EFOX",
+    "name": "Enlightened Fox",
+    "power": 11453261
+  },
+  {
+    "rank": 242,
+    "server": 1059,
+    "raw": "[SB59] Antarctica",
+    "displayName": "[SB59] Antarctica",
+    "tag": "SB59",
+    "name": "Antarctica",
+    "power": 11130082
+  },
+  {
+    "rank": 243,
+    "server": 1065,
+    "raw": "[TGLG] Lotus Guardians",
+    "displayName": "[TGLG] Lotus Guardians",
+    "tag": "TGLG",
+    "name": "Lotus Guardians",
+    "power": 10919259
+  },
+  {
+    "rank": 244,
+    "server": 1049,
+    "raw": "[AKA] Akatsuki",
+    "displayName": "[AKA] Akatsuki",
+    "tag": "AKA",
+    "name": "Akatsuki",
+    "power": 10664669
+  },
+  {
+    "rank": 245,
+    "server": 1036,
+    "raw": "[ZAUN] Nation Of Zaun",
+    "displayName": "[ZAUN] Nation Of Zaun",
+    "tag": "ZAUN",
+    "name": "Nation Of Zaun",
+    "power": 10658353
+  },
+  {
+    "rank": 246,
+    "server": 1060,
+    "raw": "[HoN] HarmonyOfNight",
+    "displayName": "[HoN] HarmonyOfNight",
+    "tag": "HoN",
+    "name": "HarmonyOfNight",
+    "power": 10072455
+  },
+  {
+    "rank": 247,
+    "server": 1070,
+    "raw": "[Nhom] TuLinh",
+    "displayName": "[Nhom] TuLinh",
+    "tag": "Nhom",
+    "name": "TuLinh",
+    "power": 9709308
+  },
+  {
+    "rank": 248,
+    "server": 1031,
+    "raw": "[TEO] Air Gliders",
+    "displayName": "[TEO] Air Gliders",
+    "tag": "TEO",
+    "name": "Air Gliders",
+    "power": 9504608
+  },
+  {
+    "rank": 249,
+    "server": 1007,
+    "raw": "[AoD] ANGELS OF DEATH",
+    "displayName": "[AoD] ANGELS OF DEATH",
+    "tag": "AoD",
+    "name": "ANGELS OF DEATH",
+    "power": 9411382
+  },
+  {
+    "rank": 250,
+    "server": 1002,
+    "raw": "[SAGE] SAGES Alliance",
+    "displayName": "[SAGE] SAGES Alliance",
+    "tag": "SAGE",
+    "name": "SAGES Alliance",
+    "power": 9236378
+  },
+  {
+    "rank": 251,
+    "server": 1036,
+    "raw": "[OGG] Osaka Garden",
+    "displayName": "[OGG] Osaka Garden",
+    "tag": "OGG",
+    "name": "Osaka Garden",
+    "power": 8976285
+  },
+  {
+    "rank": 252,
+    "server": 1008,
+    "raw": "[Jade] White Lotus",
+    "displayName": "[Jade] White Lotus",
+    "tag": "Jade",
+    "name": "White Lotus",
+    "power": 8788551
+  },
+  {
+    "rank": 253,
+    "server": 1069,
+    "raw": "[TACO] Taco de",
+    "displayName": "[TACO] Taco de",
+    "tag": "TACO",
+    "name": "Taco de",
+    "power": 8701890
+  },
+  {
+    "rank": 254,
+    "server": 1016,
+    "raw": "[FKOA] Mega Spencers",
+    "displayName": "[FKOA] Mega Spencers",
+    "tag": "FKOA",
+    "name": "Mega Spencers",
+    "power": 8622864
+  },
+  {
+    "rank": 255,
+    "server": 1004,
+    "raw": "[TWNL] A little star",
+    "displayName": "[TWNL] A little star",
+    "tag": "TWNL",
+    "name": "A little star",
+    "power": 8485877
+  },
+  {
+    "rank": 256,
+    "server": 1060,
+    "raw": "[VOID] FRIED CHICKEN",
+    "displayName": "[VOID] FRIED CHICKEN",
+    "tag": "VOID",
+    "name": "FRIED CHICKEN",
+    "power": 8258280
+  },
+  {
+    "rank": 257,
+    "server": 1068,
+    "raw": "[LAT] LATINOS",
+    "displayName": "[LAT] LATINOS",
+    "tag": "LAT",
+    "name": "LATINOS",
+    "power": 8201859
+  },
+  {
+    "rank": 258,
+    "server": 1066,
+    "raw": "[GrU] The Minions",
+    "displayName": "[GrU] The Minions",
+    "tag": "GrU",
+    "name": "The Minions",
+    "power": 8188933
+  },
+  {
+    "rank": 259,
+    "server": 1063,
+    "raw": "[DRWN] Drowned Scales",
+    "displayName": "[DRWN] Drowned Scales",
+    "tag": "DRWN",
+    "name": "Drowned Scales",
+    "power": 8001905
+  },
+  {
+    "rank": 260,
+    "server": 1034,
+    "raw": "[DAD2] Lords øf Legend",
+    "displayName": "[DAD2] Lords øf Legend",
+    "tag": "DAD2",
+    "name": "Lords øf Legend",
+    "power": 7598383
+  },
+  {
+    "rank": 261,
+    "server": 1035,
+    "raw": "[TUT] Wrath Of Tut",
+    "displayName": "[TUT] Wrath Of Tut",
+    "tag": "TUT",
+    "name": "Wrath Of Tut",
+    "power": 7435813
+  },
+  {
+    "rank": 262,
+    "server": 1035,
+    "raw": "[MERX] MERX",
+    "displayName": "[MERX] MERX",
+    "tag": "MERX",
+    "name": "MERX",
+    "power": 7339675
+  },
+  {
+    "rank": 263,
+    "server": 1052,
+    "raw": "[Fire] FIRE NATION",
+    "displayName": "[Fire] FIRE NATION",
+    "tag": "Fire",
+    "name": "FIRE NATION",
+    "power": 7030852
+  },
+  {
+    "rank": 264,
+    "server": 1001,
+    "raw": "[LOTR] Rohan",
+    "displayName": "[LOTR] Rohan",
+    "tag": "LOTR",
+    "name": "Rohan",
+    "power": 6667550
+  },
+  {
+    "rank": 265,
+    "server": 1055,
+    "raw": "[MLNY] Meloncholy",
+    "displayName": "[MLNY] Meloncholy",
+    "tag": "MLNY",
+    "name": "Meloncholy",
+    "power": 6647054
+  },
+  {
+    "rank": 266,
+    "server": 1062,
+    "raw": "[IFA] IFA 99BATALION",
+    "displayName": "[IFA] IFA 99BATALION",
+    "tag": "IFA",
+    "name": "IFA 99BATALION",
+    "power": 6490432
+  },
+  {
+    "rank": 267,
+    "server": 1001,
+    "raw": "[JEDI] Jedi Alliance",
+    "displayName": "[JEDI] Jedi Alliance",
+    "tag": "JEDI",
+    "name": "Jedi Alliance",
+    "power": 5955952
+  },
+  {
+    "rank": 268,
+    "server": 1062,
+    "raw": "[HARM] Harmonic Order",
+    "displayName": "[HARM] Harmonic Order",
+    "tag": "HARM",
+    "name": "Harmonic Order",
+    "power": 5729752
+  },
+  {
+    "rank": 269,
+    "server": 1063,
+    "raw": "[WNTR] Winter Soldiers",
+    "displayName": "[WNTR] Winter Soldiers",
+    "tag": "WNTR",
+    "name": "Winter Soldiers",
+    "power": 5491756
+  },
+  {
+    "rank": 270,
+    "server": 1056,
+    "raw": "[AQUA] Water Tribe",
+    "displayName": "[AQUA] Water Tribe",
+    "tag": "AQUA",
+    "name": "Water Tribe",
+    "power": 5263559
+  },
+  {
+    "rank": 271,
+    "server": 1044,
+    "raw": "[SOHP] Syn High Peace",
+    "displayName": "[SOHP] Syn High Peace",
+    "tag": "SOHP",
+    "name": "Syn High Peace",
+    "power": 4996889
+  },
+  {
+    "rank": 272,
+    "server": 1001,
+    "raw": "[CofN] Narnia",
+    "displayName": "[CofN] Narnia",
+    "tag": "CofN",
+    "name": "Narnia",
+    "power": 4791060
+  },
+  {
+    "rank": 273,
+    "server": 1061,
+    "raw": "[CHZ2] Cheese Haus",
+    "displayName": "[CHZ2] Cheese Haus",
+    "tag": "CHZ2",
+    "name": "Cheese Haus",
+    "power": 4598578
+  },
+  {
+    "rank": 274,
+    "server": 1057,
+    "raw": "[aang] Solaris Tempest",
+    "displayName": "[aang] Solaris Tempest",
+    "tag": "aang",
+    "name": "Solaris Tempest",
+    "power": 4307794
+  },
+  {
+    "rank": 275,
+    "server": 1051,
+    "raw": "[TCC] TheCabbageCrew",
+    "displayName": "[TCC] TheCabbageCrew",
+    "tag": "TCC",
+    "name": "TheCabbageCrew",
+    "power": 3882512
+  },
+  {
+    "rank": 276,
+    "server": 1052,
+    "raw": "[REST] Retired Heroes",
+    "displayName": "[REST] Retired Heroes",
+    "tag": "REST",
+    "name": "Retired Heroes",
+    "power": 3262607
+  },
+  {
+    "rank": 277,
+    "server": 1038,
+    "raw": "[SLF] Slime Life",
+    "displayName": "[SLF] Slime Life",
+    "tag": "SLF",
+    "name": "Slime Life",
+    "power": 3106822
+  },
+  {
+    "rank": 278,
+    "server": 1044,
+    "raw": "[YIP] YIP",
+    "displayName": "[YIP] YIP",
+    "tag": "YIP",
+    "name": "YIP",
+    "power": 2839055
+  },
+  {
+    "rank": 279,
+    "server": 1064,
+    "raw": "[RATM] PhobosFC",
+    "displayName": "[RATM] PhobosFC",
+    "tag": "RATM",
+    "name": "PhobosFC",
+    "power": 1622380
+  },
+  {
+    "rank": 280,
+    "server": 1065,
+    "raw": "[T]T] Taijitu",
+    "displayName": "[T]T] Taijitu",
+    "tag": "T",
+    "name": "T] Taijitu",
+    "power": 1168245
+  }
+]

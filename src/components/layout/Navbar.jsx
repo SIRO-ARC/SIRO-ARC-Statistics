@@ -27,27 +27,24 @@ const isPlatformHome = location.pathname === "/";
       },
     ]
   : [
-      { label: "Top10", to: "/top10" },
+      { label: "Home", to: "/" },
       { label: "Rankings", to: "/rankings" },
-      { label: "Power Growth", to: "/power-growth-history" },
-{ label: "MGM", to: "/mgm" },
-{ label: "Leaderboards", to: "/leaderboards" },
-{ label: "MGM Stats", to: "/mgm-statistics" },
-      { label: "Archive", to: "/archive" },
+      { label: "Statistics", to: "/statistics" },
+      { label: "Tools", to: "/tools" },
+      { label: "Guides", to: "/guides" },
       { label: "Info", to: "/info" },
     ];
 
   const navIcons = {
-    "/avatar-realms-collide": Globe,
-    "/top10": Trophy,
-    "/rankings": Trophy,
-    "/power-growth-history": LineChart,
-    "/mgm": Swords,
-    "/leaderboards": Trophy,
-    "/mgm-statistics": BarChart3,
-    "/archive": Archive,
-    "/info": Info,
-  };
+  "/avatar-realms-collide": Globe,
+
+  "/": Globe,
+  "/rankings": Trophy,
+  "/statistics": BarChart3,
+  "/tools": Swords,
+  "/guides": Archive,
+  "/info": Info,
+};
 
   return (
   <header className="sticky top-0 z-50 bg-[#0B1220]/80 backdrop-blur">

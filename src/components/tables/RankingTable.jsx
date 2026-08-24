@@ -79,7 +79,10 @@ export default function RankingTable({
   className="cursor-pointer p-4 text-right select-none"
   onClick={() => onSort("power")}
 >
-  Power {sortField === "power" && (sortDirection === "asc" ? "▲" : "▼")}
+  {selectedWeek.startsWith("Global PVP")
+  ? "Points"
+  : "Power"}{" "}
+{sortField === "power" && (sortDirection === "asc" ? "▲" : "▼")}
 </th>
 
 </tr>

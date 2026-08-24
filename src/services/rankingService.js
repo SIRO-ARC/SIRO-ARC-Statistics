@@ -1,8 +1,6 @@
 import { API_URL } from "../config/api";
 
-const weeksCache = {
-  data: null,
-};
+const weeksCache = {};
 
 const rankingsCache = {};
 async function fetchWithRetry(url, retries = 3, delay = 500) {
@@ -30,23 +28,33 @@ async function fetchWithRetry(url, retries = 3, delay = 500) {
   throw lastError;
 }
 
-export async function getWeeks() {
-  if (weeksCache.data) {
-    return weeksCache.data;
+export async function getWeeks(category = "power") {
+
+  const cacheKey = `weeks-${category}`;
+
+  if (weeksCache[cacheKey]) {
+    return weeksCache[cacheKey];
   }
 
-  const response = await fetch("/api/weeks.json", {
-  cache: "no-store",
-});
+  const file =
+    category === "pvp"
+      ? "/api/pvp_weeks.json"
+      : "/api/weeks.json";
 
-if (!response.ok) {
-  throw new Error(`HTTP ${response.status}`);
-}
+  const response = await fetch(file, {
+    cache: "no-store",
+  });
 
-const data = await response.json();
-  weeksCache.data = data;
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+
+  const data = await response.json();
+
+  weeksCache[cacheKey] = data;
 
   return data;
+
 }
 
 export async function getRankings(type, week) {
@@ -56,7 +64,18 @@ export async function getRankings(type, week) {
     return rankingsCache[cacheKey];
   }
 
-  const weekFile = week.replace("Global Player/Alliance Ranking ", "");
+  let weekFile = week;
+
+if (type === "players" || type === "alliances") {
+  weekFile = week.replace("Global Player/Alliance Ranking ", "");
+}
+
+if (type === "pvp_players" || type === "pvp_alliances") {
+  weekFile = week.replace(
+    "Global PVP Player/Alliance Ranking ",
+    ""
+  );
+}
 
 const response = await fetch(
   `/api/${type}/${weekFile}.json`,

@@ -69,6 +69,20 @@ fs.writeFileSync(
 
 console.log("✓ weeks.json erstellt");
 console.log("");
+console.log("Exportiere pvp_weeks.json...");
+
+const pvpWeeks = await fetchJsonWithRetry(
+  `${API_URL}?type=weeks&category=pvp`
+);
+
+fs.writeFileSync(
+  path.join(API_DIR, "pvp_weeks.json"),
+  JSON.stringify(pvpWeeks, null, 2),
+  "utf8"
+);
+
+console.log("✓ pvp_weeks.json erstellt");
+console.log("");
 console.log("Exportiere stats.json...");
 
 const stats = await fetchJsonWithRetry(
@@ -83,11 +97,21 @@ fs.writeFileSync(
 
 console.log("✓ stats.json erstellt");
 const PLAYERS_DIR = path.join(API_DIR, "players");
+const PVP_PLAYERS_DIR = path.join(API_DIR, "pvp_players");
+
+if (!fs.existsSync(PVP_PLAYERS_DIR)) {
+  fs.mkdirSync(PVP_PLAYERS_DIR, { recursive: true });
+}
 
 if (!fs.existsSync(PLAYERS_DIR)) {
   fs.mkdirSync(PLAYERS_DIR, { recursive: true });
 }
 const ALLIANCES_DIR = path.join(API_DIR, "alliances");
+const PVP_ALLIANCES_DIR = path.join(API_DIR, "pvp_alliances");
+
+if (!fs.existsSync(PVP_ALLIANCES_DIR)) {
+  fs.mkdirSync(PVP_ALLIANCES_DIR, { recursive: true });
+}
 
 if (!fs.existsSync(ALLIANCES_DIR)) {
   fs.mkdirSync(ALLIANCES_DIR, { recursive: true });
@@ -162,6 +186,41 @@ console.log(`    ✓ ${fileName}`);
 }
 
 await new Promise(resolve => setTimeout(resolve, 500));
+
+}
+console.log("");
+console.log("Exportiere PvP Player-Rankings...");
+
+
+for (const week of pvpWeeks.weeks) {
+
+  console.log(`  → ${week}`);
+
+  try {
+
+    const players = await fetchJsonWithRetry(
+      `${API_URL}?type=players&category=pvp&week=${encodeURIComponent(week)}`
+    );
+
+    const fileName =
+      week.replace("Global PVP Player/Alliance Ranking ", "") + ".json";
+
+    fs.writeFileSync(
+      path.join(PVP_PLAYERS_DIR, fileName),
+      JSON.stringify(players, null, 2),
+      "utf8"
+    );
+
+    console.log(`    ✓ ${fileName}`);
+
+  } catch (err) {
+
+    console.error(`    ✗ ${week}: ${err.message}`);
+
+  }
+
+  await new Promise(resolve => setTimeout(resolve, 500));
+
 }
 console.log("");
 console.log("Exportiere Alliance-Rankings...");
@@ -181,6 +240,39 @@ for (const week of weeks.weeks) {
 
     fs.writeFileSync(
       path.join(ALLIANCES_DIR, fileName),
+      JSON.stringify(alliances, null, 2),
+      "utf8"
+    );
+
+    console.log(`    ✓ ${fileName}`);
+
+  } catch (err) {
+
+    console.error(`    ✗ ${week}: ${err.message}`);
+
+  }
+
+  await new Promise(resolve => setTimeout(resolve, 500));
+
+}
+console.log("");
+console.log("Exportiere PvP Alliance-Rankings...");
+
+for (const week of pvpWeeks.weeks) {
+
+  console.log(`  → ${week}`);
+
+  try {
+
+    const alliances = await fetchJsonWithRetry(
+      `${API_URL}?type=alliances&category=pvp&week=${encodeURIComponent(week)}`
+    );
+
+    const fileName =
+      week.replace("Global PVP Player/Alliance Ranking ", "") + ".json";
+
+    fs.writeFileSync(
+      path.join(PVP_ALLIANCES_DIR, fileName),
       JSON.stringify(alliances, null, 2),
       "utf8"
     );

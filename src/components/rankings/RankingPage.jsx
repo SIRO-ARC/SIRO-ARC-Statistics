@@ -1,10 +1,16 @@
-import Pagination from "../components/pagination/Pagination";
 import { useEffect, useState } from "react";
-import RankingTable from "../components/tables/RankingTable";
-import { getWeeks, getRankings } from "../services/rankingService";
 import { useSearchParams } from "react-router-dom";
-import { generatePlayerRankingPdf } from "../pdf/generatePlayerRankingPdf";
-export default function Rankings() {
+
+import Pagination from "../pagination/Pagination";
+import RankingTable from "../tables/RankingTable";
+
+import { getWeeks, getRankings } from "../../services/rankingService";
+import { generatePlayerRankingPdf } from "../../pdf/generatePlayerRankingPdf";
+export default function RankingPage({
+  title,
+  views,
+  dataType = "power",
+}) {
   const [rankings, setRankings] = useState([]);
   const [search, setSearch] = useState("");
   const [view, setView] = useState("players");
@@ -47,7 +53,7 @@ useEffect(() => {
   
   // Wochen laden (nur einmal beim Start)
 useEffect(() => {
-  getWeeks()
+  getWeeks(dataType)
     .then((data) => {
 
   setWeeks(data.weeks);
@@ -69,7 +75,12 @@ useEffect(() => {
 
   setCurrentPage(1);
 
-  getRankings(view, selectedWeek)
+  const rankingType =
+  dataType === "power"
+    ? view
+    : `${dataType}_${view}`;
+
+getRankings(rankingType, selectedWeek)
   .then((data) => {
     setRankings(data);
   })
@@ -132,40 +143,34 @@ function handlePageChange(page) {
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 lg:py-16">
 
       <h1 className="text-5xl font-bold">
-        Global Rankings
-      </h1>
+  {title}
+</h1>
 
       <p className="mt-3 text-slate-400">
-        Browse every player, alliance and event ranking.
-      </p>
+  Browse rankings for this category.
+</p>
 
       <div className="mt-10">
 
   <div className="flex flex-col gap-3 sm:flex-row">
 
+  {views.map((item) => (
+
     <button
-      onClick={() => setView("players")}
+      key={item.value}
+      onClick={() => setView(item.value)}
       className={`rounded-xl px-5 py-2 font-semibold transition ${
-        view === "players"
+        view === item.value
           ? "bg-blue-600 text-white"
           : "bg-slate-800 text-slate-300 hover:bg-slate-700"
       }`}
     >
-      👤 Players
+      {item.icon} {item.label}
     </button>
 
-    <button
-      onClick={() => setView("alliances")}
-      className={`rounded-xl px-5 py-2 font-semibold transition ${
-        view === "alliances"
-          ? "bg-blue-600 text-white"
-          : "bg-slate-800 text-slate-300 hover:bg-slate-700"
-      }`}
-    >
-      🏰 Alliances
-    </button>
+  ))}
 
-  </div>
+</div>
 
   <div className="mt-4 flex flex-col gap-4 lg:flex-row">
 
