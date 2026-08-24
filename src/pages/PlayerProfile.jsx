@@ -6,7 +6,7 @@ import StatCard from "../components/ui/StatCard";
 import SnapshotHeader from "../components/layout/SnapshotHeader";
 
 export default function PlayerProfile() {
-  const { week, name } = useParams();
+  const { category, week, name } = useParams();
 
   const decodedName = decodeURIComponent(name);
 
@@ -17,8 +17,15 @@ export default function PlayerProfile() {
     async function loadPlayer() {
       try {
         setLoading(true);
-        const rankings = await getRankings(
-  "players",
+        const rankingType =
+  category === "pvp"
+    ? "pvp_players"
+    : category === "gathering"
+      ? "gathering_players"
+      : "players";
+
+const rankings = await getRankings(
+  rankingType,
   decodeURIComponent(week)
 );
 
@@ -74,10 +81,14 @@ if (!player) {
   />
 
   <StatCard
-    icon="⚡"
-    label="Power"
-    value={player.power.toLocaleString()}
-  />
+  icon="⚡"
+  label={
+    category === "pvp" || category === "gathering"
+      ? "Points"
+      : "Power"
+  }
+  value={player.power.toLocaleString()}
+/>
 
   <StatCard
     icon="🌍"
@@ -86,7 +97,7 @@ if (!player) {
   />
 
   <StatCard
-    icon="🛡"
+    icon="🏰"
     label="Alliance"
     value={player.tag}
   />

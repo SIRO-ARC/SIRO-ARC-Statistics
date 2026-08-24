@@ -6,7 +6,7 @@ import StatCard from "../components/ui/StatCard";
 import SnapshotHeader from "../components/layout/SnapshotHeader";
 
 export default function AllianceProfile() {
-  const { week, name } = useParams();
+  const { category, week, name } = useParams();
 
   const decodedName = decodeURIComponent(name);
 
@@ -17,8 +17,13 @@ export default function AllianceProfile() {
     async function loadAlliance() {
       try {
         setLoading(true);
-        const rankings = await getRankings(
-  "alliances",
+        const rankingType =
+  category === "pvp"
+    ? "pvp_alliances"
+    : "alliances";
+
+const rankings = await getRankings(
+  rankingType,
   decodeURIComponent(week)
 );
 
@@ -74,10 +79,10 @@ if (!alliance) {
   />
 
   <StatCard
-    icon="⚡"
-    label="Power"
-    value={alliance.power.toLocaleString()}
-  />
+  icon="⚡"
+  label={category === "pvp" ? "Points" : "Power"}
+  value={alliance.power.toLocaleString()}
+/>
 
   <StatCard
     icon="🌍"

@@ -47,7 +47,7 @@ const isPlatformHome = location.pathname === "/";
 };
 
   return (
-  <header className="sticky top-0 z-50 bg-[#0B1220]/80 backdrop-blur">
+  <header className="sticky top-0 z-50 border-b border-sky-400/10 bg-[#0B1220]/35 backdrop-blur-md">
     <div className="mx-auto flex max-w-7xl items-start px-4 pt-3 sm:px-6 lg:px-8">
 
       {/* Logo */}

@@ -28,6 +28,7 @@ import GatheringRankings from "./pages/GatheringRankings";
 import MgmRankings from "./pages/MgmRankings";
 import ServerRankings from "./pages/ServerRankings";
 import PveRankings from "./pages/PveRankings";
+import Admin from "./pages/Admin";
 
 export default function App() {
   const navigate = useNavigate();
@@ -42,7 +43,24 @@ useEffect(() => {
 }, [navigate]);
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <main className="min-h-screen bg-[#0B1220] text-white">
+    <main className="relative min-h-screen bg-[#0B1220] text-white">
+<div className="pointer-events-none fixed inset-0 z-0 overflow-hidden">
+
+  {/* Global SIRO STATS background */}
+  <div
+    className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+    style={{
+      backgroundImage: "url('/images/siro-stats-background.jpg')",
+    }}
+  />
+
+  {/* Dark overlay */}
+  <div className="absolute inset-0 bg-[#0B1220]/45" />
+
+  {/* Additional readability gradient */}
+  <div className="absolute inset-0 bg-gradient-to-b from-[#0B1220]/20 via-[#0B1220]/45 to-[#0B1220]/80" />
+
+</div>
       <Navbar
   menuOpen={menuOpen}
   setMenuOpen={setMenuOpen}
@@ -57,7 +75,7 @@ useEffect(() => {
 />
 
 <div
-  className={`transition-all duration-300 ${
+  className={`relative z-10 transition-all duration-300 ${
     menuOpen ? "pointer-events-none select-none" : ""
   }`}
 >
@@ -116,14 +134,25 @@ useEffect(() => {
   <Route path="/guides" element={<Guides />} />
 
   <Route
-    path="/player/:week/:name"
-    element={<PlayerProfile />}
-  />
+  path="/player/:category/:week/:name"
+  element={<PlayerProfile />}
+/>
 
-  <Route
-    path="/alliance/:week/:name"
-    element={<AllianceProfile />}
-  />
+<Route
+  path="/alliance/:category/:week/:name"
+  element={<AllianceProfile />}
+/>
+
+<Route
+  path="/player/:week/:name"
+  element={<PlayerProfile />}
+/>
+
+<Route
+  path="/alliance/:week/:name"
+  element={<AllianceProfile />}
+/>
+<Route path="/admin" element={<Admin />} />
 </Routes>
 </div>
     </main>

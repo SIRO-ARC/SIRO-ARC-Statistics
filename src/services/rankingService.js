@@ -37,8 +37,10 @@ export async function getWeeks(category = "power") {
   }
 
   const file =
-    category === "pvp"
-      ? "/api/pvp_weeks.json"
+  category === "pvp"
+    ? "/api/pvp_weeks.json"
+    : category === "gathering"
+      ? "/api/gathering_weeks.json"
       : "/api/weeks.json";
 
   const response = await fetch(file, {
@@ -67,12 +69,22 @@ export async function getRankings(type, week) {
   let weekFile = week;
 
 if (type === "players" || type === "alliances") {
-  weekFile = week.replace("Global Player/Alliance Ranking ", "");
+  weekFile = week.replace(
+    "Global Player/Alliance Ranking ",
+    ""
+  );
 }
 
 if (type === "pvp_players" || type === "pvp_alliances") {
   weekFile = week.replace(
     "Global PVP Player/Alliance Ranking ",
+    ""
+  );
+}
+
+if (type === "gathering_players") {
+  weekFile = week.replace(
+    "Global Gathering Ranking ",
     ""
   );
 }

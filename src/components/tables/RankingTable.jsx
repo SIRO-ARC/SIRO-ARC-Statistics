@@ -81,7 +81,9 @@ export default function RankingTable({
 >
   {selectedWeek.startsWith("Global PVP")
   ? "Points"
-  : "Power"}{" "}
+  : selectedWeek.startsWith("Global Gathering")
+    ? "Resources"
+    : "Power"}{" "}
 {sortField === "power" && (sortDirection === "asc" ? "▲" : "▼")}
 </th>
 
@@ -118,10 +120,21 @@ export default function RankingTable({
 
     <Link
       to={`/${
-        view === "players"
-          ? "player"
-          : "alliance"
-      }/${encodeURIComponent(selectedWeek)}/${encodeURIComponent(item.name)}`}
+  view === "players"
+    ? "player"
+    : "alliance"
+}/${
+  selectedWeek.startsWith("Global PVP")
+    ? "pvp"
+    : selectedWeek.startsWith("Global Gathering")
+      ? "gathering"
+      : ""
+}${
+  selectedWeek.startsWith("Global PVP") ||
+  selectedWeek.startsWith("Global Gathering")
+    ? "/"
+    : ""
+}${encodeURIComponent(selectedWeek)}/${encodeURIComponent(item.name)}`}
       className="text-sky-400 hover:text-sky-300 hover:underline transition"
     >
       {item.name}
