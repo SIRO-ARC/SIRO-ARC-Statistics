@@ -274,7 +274,7 @@ const tableData = leaderboard.map((item, index) => ({
     </div>
 
     <div className="mt-2 text-3xl font-bold text-white">
-      {dataset === "pre" ? 15 : 2}
+      {new Set(mgm.map(entry => `${entry.date}-${entry.time}`)).size}
     </div>
   </div>
 
