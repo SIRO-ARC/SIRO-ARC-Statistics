@@ -28,7 +28,7 @@ useEffect(() => {
     const mgm = await getMgmLeaderboard(dataset);
     const maxWarzones = {};
     const eventCount = new Set(
-  mgm.map(entry => `${entry.date}-${entry.time}`)
+  mgm.map(entry => entry.date)
 ).size;
 
 setMgmEventCount(eventCount);
