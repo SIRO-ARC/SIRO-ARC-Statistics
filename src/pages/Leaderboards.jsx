@@ -16,8 +16,9 @@ TIME_19UTC: 1.25,
 
 export default function Leaderboards() {
   const [dataset, setDataset] = useState("pre");
-  const [leaderboard, setLeaderboard] = useState([]);
+const [leaderboard, setLeaderboard] = useState([]);
 const [loading, setLoading] = useState(true);
+const [mgmEventCount, setMgmEventCount] = useState(0);
 useEffect(() => {
 
   async function loadData() {
@@ -26,6 +27,11 @@ useEffect(() => {
 
     const mgm = await getMgmLeaderboard(dataset);
     const maxWarzones = {};
+    const eventCount = new Set(
+  mgm.map(entry => `${entry.date}-${entry.time}`)
+).size;
+
+setMgmEventCount(eventCount);
 
 for (const entry of mgm) {
 
@@ -274,7 +280,7 @@ const tableData = leaderboard.map((item, index) => ({
     </div>
 
     <div className="mt-2 text-3xl font-bold text-white">
-      {new Set(mgm.map(entry => `${entry.date}-${entry.time}`)).size}
+      {mgmEventCount}
     </div>
   </div>
 
