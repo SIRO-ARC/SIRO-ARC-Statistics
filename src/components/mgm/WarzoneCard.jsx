@@ -1,5 +1,6 @@
 import WinnerCard from "./WinnerCard";
 import OpponentCard from "./OpponentCard";
+import { formatDate } from "../../utils/formatDate";
 
 export default function WarzoneCard({ match }) {
   return (
@@ -15,7 +16,7 @@ export default function WarzoneCard({ match }) {
           </h2>
 
           <p className="mt-1 text-sm text-gray-400">
-  📅 {new Date(match.date).toLocaleDateString("en-US")} • 🕒 {match.time}
+  📅 {formatDate(match.date)} • 🕒 {match.time}
 </p>
         </div>
 

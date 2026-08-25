@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useSearchParams } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 
 import Pagination from "../pagination/Pagination";
 import RankingTable from "../tables/RankingTable";
@@ -142,9 +142,16 @@ function handlePageChange(page) {
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 lg:py-16">
 
-      <h1 className="text-5xl font-bold">
-  {title}
-</h1>
+  <Link
+    to="/rankings"
+    className="inline-flex items-center text-sm font-semibold text-sky-400 transition hover:text-sky-300"
+  >
+    ← Back to Rankings
+  </Link>
+
+  <h1 className="mt-4 text-5xl font-bold">
+    {title}
+  </h1>
 
       <p className="mt-3 text-slate-400">
   Browse rankings for this category.

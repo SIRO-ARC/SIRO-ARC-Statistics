@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { supabase } from "../../lib/supabase";
+import { formatDateTime } from "../../utils/formatDate";
 
 const MAX_NAME_LENGTH = 30;
 const MAX_MESSAGE_LENGTH = 500;
@@ -217,7 +218,7 @@ export default function WebsiteChat() {
 </span>
 
       <span className="text-[11px] text-slate-600">
-        {new Date(item.created_at).toLocaleString()}
+        {formatDateTime(item.created_at)}
       </span>
     </div>
 

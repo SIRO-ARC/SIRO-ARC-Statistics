@@ -29,6 +29,12 @@ import MgmRankings from "./pages/MgmRankings";
 import ServerRankings from "./pages/ServerRankings";
 import PveRankings from "./pages/PveRankings";
 import Admin from "./pages/Admin";
+import MgmParticipantsRanking from "./pages/MgmParticipantsRanking";
+import MgmTerritoryRanking from "./pages/MgmTerritoryRanking";
+import MgmAllianceActivityRanking from "./pages/MgmAllianceActivityRanking";
+import MgmServerActivityRanking from "./pages/MgmServerActivityRanking";
+import MgmAverageParticipantsRanking from "./pages/MgmAverageParticipantsRanking";
+import ServerPlayerPowerRanking from "./pages/ServerPlayerPowerRanking";
 
 export default function App() {
   const navigate = useNavigate();
@@ -103,8 +109,65 @@ useEffect(() => {
 />
 
 <Route
+  path="/rankings/mgm/territory"
+  element={<MgmTerritoryRanking />}
+/>
+
+<Route
+  path="/rankings/mgm/participants"
+  element={<MgmParticipantsRanking />}
+/>
+
+<Route
+  path="/rankings/mgm/alliance-activity"
+  element={<MgmAllianceActivityRanking />}
+/>
+
+<Route
+  path="/rankings/mgm/server-activity"
+  element={<MgmServerActivityRanking />}
+/>
+
+<Route
+  path="/rankings/mgm/average-participants"
+  element={<MgmAverageParticipantsRanking />}
+/>
+
+<Route
   path="/rankings/server"
   element={<ServerRankings />}
+/>
+
+<Route
+  path="/rankings/server/player-power"
+  element={<ServerPlayerPowerRanking />}
+/>
+
+<Route
+  path="/rankings/server/alliance-power"
+  element={
+    <ServerPlayerPowerRanking
+      type="alliance-power"
+    />
+  }
+/>
+
+<Route
+  path="/rankings/server/player-pvp"
+  element={
+    <ServerPlayerPowerRanking
+      type="player-pvp"
+    />
+  }
+/>
+
+<Route
+  path="/rankings/server/alliance-pvp"
+  element={
+    <ServerPlayerPowerRanking
+      type="alliance-pvp"
+    />
+  }
 />
 
 <Route

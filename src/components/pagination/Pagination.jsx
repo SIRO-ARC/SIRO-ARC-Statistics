@@ -53,8 +53,8 @@ export default function Pagination({
       </button>
 
       <span className="text-sm text-slate-300">
-        Seite <span className="font-semibold">{currentPage}</span> / {totalPages}
-      </span>
+  Page <span className="font-semibold">{currentPage}</span> / {totalPages}
+</span>
 
       <button
         onClick={onNext}

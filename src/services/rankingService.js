@@ -106,6 +106,106 @@ if (!response.ok) {
 
   return data;
 }
+export async function getServerPlayerPowerRanking(week) {
+  const data = await getRankings("players", week);
+
+  const servers = {};
+
+  for (const player of data) {
+    if (!servers[player.server]) {
+      servers[player.server] = {
+        server: player.server,
+        power: 0,
+        players: 0,
+      };
+    }
+
+    servers[player.server].power += player.power;
+    servers[player.server].players += 1;
+  }
+
+  return Object.values(servers)
+  .sort((a, b) => b.power - a.power)
+  .map((server, index) => ({
+    ...server,
+    rank: index + 1,
+  }));
+}
+export async function getServerAlliancePowerRanking(week) {
+  const data = await getRankings("alliances", week);
+
+  const servers = {};
+
+  for (const alliance of data) {
+    if (!servers[alliance.server]) {
+  servers[alliance.server] = {
+    server: alliance.server,
+    power: 0,
+    alliances: 0,
+  };
+}
+
+servers[alliance.server].power += alliance.power;
+servers[alliance.server].alliances += 1;
+  }
+
+  return Object.values(servers)
+    .sort((a, b) => b.power - a.power)
+    .map((server, index) => ({
+      ...server,
+      rank: index + 1,
+    }));
+}
+export async function getServerPlayerPvpRanking(week) {
+  const data = await getRankings("pvp_players", week);
+
+  const servers = {};
+
+  for (const player of data) {
+    if (!servers[player.server]) {
+      servers[player.server] = {
+        server: player.server,
+        points: 0,
+        players: 0,
+      };
+    }
+
+    servers[player.server].points += player.power;
+    servers[player.server].players += 1;
+  }
+
+  return Object.values(servers)
+    .sort((a, b) => b.points - a.points)
+    .map((server, index) => ({
+      ...server,
+      rank: index + 1,
+    }));
+}
+export async function getServerAlliancePvpRanking(week) {
+  const data = await getRankings("pvp_alliances", week);
+
+  const servers = {};
+
+  for (const alliance of data) {
+    if (!servers[alliance.server]) {
+      servers[alliance.server] = {
+        server: alliance.server,
+        points: 0,
+        alliances: 0,
+      };
+    }
+
+    servers[alliance.server].points += alliance.power;
+    servers[alliance.server].alliances += 1;
+  }
+
+  return Object.values(servers)
+    .sort((a, b) => b.points - a.points)
+    .map((server, index) => ({
+      ...server,
+      rank: index + 1,
+    }));
+}
 export async function getStats() {
 
   const response = await fetch("/api/stats.json", {

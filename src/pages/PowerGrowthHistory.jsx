@@ -117,90 +117,39 @@ const [loadingServers, setLoadingServers] = useState(true);
       <div className="mb-8 rounded-2xl border border-sky-500/40 bg-sky-500/10 p-6">
 
   <h2 className="mb-3 flex items-center gap-2 text-lg font-bold text-sky-300">
-    🔬 Beta Feature
+    📖 How to use
   </h2>
 
-  <p className="mb-5 text-slate-300">
-    <span className="font-semibold text-white">
-      Power Growth History
-    </span>{" "}
-    is currently in Beta. Performance improvements and additional features are
-    already in development.
-  </p>
+  <ol className="list-decimal space-y-2 pl-5 text-sm text-slate-300">
 
-  <div className="grid gap-6 lg:grid-cols-2">
+    <li>
+      Select a server.
+    </li>
 
-    <div>
-      <h3 className="mb-2 font-semibold text-white">
-        📖 How to use
-      </h3>
+    <li>
+      Wait until the player search becomes available.
+    </li>
 
-      <ol className="list-decimal space-y-2 pl-5 text-sm text-slate-300">
+    <li>
+      Search and select your player.
+    </li>
 
-        <li>
-          Wait until <span className="font-semibold text-white">Select Server</span> appears.
-        </li>
+    <li>
+      If multiple name variations exist on the same server, add every version.
+    </li>
 
-        <li>
-          Select a server and wait until{" "}
-          <span className="font-semibold text-white">
-            Search Player...
-          </span>{" "}
-          is available.
-        </li>
+    <li>
+      If the account migrated, repeat the process for each server.
+    </li>
 
-        <li>
-          Search and select your player.
-        </li>
+    <li>
+      Click{" "}
+      <span className="font-semibold text-white">
+        Generate History
+      </span>.
+    </li>
 
-        <li>
-          If multiple name variations exist on the same server, add every version.
-        </li>
-
-        <li>
-          If the account migrated, repeat the process for each server.
-        </li>
-
-        <li>
-          Click{" "}
-          <span className="font-semibold text-white">
-            Generate History
-          </span>.
-        </li>
-
-        <li>
-          ⏳ Generation currently takes about{" "}
-          <span className="font-semibold text-white">
-            10–15 seconds
-          </span>.
-        </li>
-
-      </ol>
-    </div>
-
-    <div>
-
-      <h3 className="mb-2 font-semibold text-white">
-        🚧 Coming Soon
-      </h3>
-
-      <ul className="space-y-2 text-sm text-slate-300">
-
-        <li>⚡ Faster loading times</li>
-
-        <li>🛡️ Alliance Growth History</li>
-
-        <li>📈 Power & Rank change tracking</li>
-
-        <li>🎯 Advanced filtering</li>
-
-        <li>📊 Charts & visual statistics</li>
-
-      </ul>
-
-    </div>
-
-  </div>
+  </ol>
 
 </div>
 

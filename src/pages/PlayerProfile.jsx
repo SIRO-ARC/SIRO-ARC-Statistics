@@ -42,7 +42,7 @@ const rankings = await getRankings(
     }
 
     loadPlayer();
-  }, [decodedName, week]);
+  }, [category, decodedName, week]);
 
   if (loading) {
   return (

@@ -17,81 +17,45 @@ export default function AvatarRealmsCollide() {
         <section className="mx-auto mt-8 lg:mt-[21px] max-w-6xl rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
 
   <div className="mb-6 text-center">
-    
 
     <h2 className="mt-2 text-3xl font-bold text-white">
-      Latest rankings
+      Rankings
     </h2>
 
     <p className="mx-auto mt-2 max-w-2xl text-slate-400">
-      Discover the strongest players and top performers across the
-      Avatar: Realms Collide rankings.
+      Explore all player, alliance and competitive rankings across
+      Avatar: Realms Collide.
     </p>
-  </div>
-
-  <div className="mx-auto grid max-w-5xl gap-6 md:grid-cols-3">
-
-    <Link
-      to="/rankings/power"
-      className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
-    >
-      <div className="text-4xl">⚡</div>
-
-      <h3 className="mt-4 text-2xl font-bold text-white">
-        Power Rankings
-      </h3>
-
-      <p className="mt-2 text-sm leading-6 text-slate-400">
-        Explore the strongest players and alliances across the Avatar:
-        Realms Collide community.
-      </p>
-
-      <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-        View Power Rankings →
-      </div>
-    </Link>
-
-    <Link
-      to="/rankings/pvp"
-      className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
-    >
-      <div className="text-4xl">⚔️</div>
-
-      <h3 className="mt-4 text-2xl font-bold text-white">
-        PvP Rankings
-      </h3>
-
-      <p className="mt-2 text-sm leading-6 text-slate-400">
-        Compare the top PvP players and alliances across the latest
-        competitive rankings.
-      </p>
-
-      <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-        View PvP Rankings →
-      </div>
-    </Link>
-
-    <Link
-      to="/rankings/gathering"
-      className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
-    >
-      <div className="text-4xl">🌾</div>
-
-      <h3 className="mt-4 text-2xl font-bold text-white">
-        Gathering Rankings
-      </h3>
-
-      <p className="mt-2 text-sm leading-6 text-slate-400">
-        See which players have gathered the most resources across the
-        latest rankings.
-      </p>
-
-      <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-        View Gathering Rankings →
-      </div>
-    </Link>
 
   </div>
+
+  <Link
+    to="/rankings"
+    className="group mx-auto block max-w-3xl rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+  >
+
+    <div className="text-center">
+
+  <div className="text-4xl">
+    🏆
+  </div>
+
+  <h3 className="mt-4 text-2xl font-bold text-white">
+    Rankings
+  </h3>
+
+  <p className="mt-2 max-w-3xl text-sm leading-6 text-slate-400">
+    Explore Power, PvP, Gathering, MGM, Server and PvE rankings
+    from across the Avatar: Realms Collide community.
+  </p>
+
+  <div className="mt-5 font-semibold text-sky-400 transition-transform duration-300 group-hover:translate-x-2">
+    View Rankings →
+  </div>
+
+</div>
+
+  </Link>
 
 </section>
 
@@ -106,34 +70,11 @@ export default function AvatarRealmsCollide() {
     </h2>
 
     <p className="mx-auto mt-2 max-w-2xl text-slate-400">
-      Explore MGM rankings, event performance and historical statistics.
+      Explore MGM event performance and historical statistics.
     </p>
   </div>
 
-  <div className="mx-auto grid max-w-6xl gap-6 md:grid-cols-2 lg:grid-cols-4">
-
-    {/* MGM Rankings */}
-
-    <Link
-      to="/rankings/mgm"
-      className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
-    >
-      <div className="text-4xl">
-        🏆
-      </div>
-
-      <h3 className="mt-4 text-2xl font-bold text-white">
-        Rankings
-      </h3>
-
-      <p className="mt-2 text-sm leading-6 text-slate-400">
-        Explore player and alliance rankings from Murong's Grand Melee.
-      </p>
-
-      <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-        View MGM Rankings →
-      </div>
-    </Link>
+  <div className="mx-auto grid max-w-6xl gap-6 md:grid-cols-2 lg:grid-cols-3">
 
 
     {/* MGM Overview */}

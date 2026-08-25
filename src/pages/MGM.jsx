@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import WarzoneCard from "../components/mgm/WarzoneCard";
 import { getMgm } from "../services/rankingService";
+import { formatDate } from "../utils/formatDate";
 
 export default function MGM() {
   const [dataset, setDataset] = useState("post");
@@ -226,7 +227,7 @@ const visibleMatches = useMemo(() => {
 
               {events.map(event => (
                 <option key={event} value={event}>
-                  {new Date(event).toLocaleDateString()}
+                  {formatDate(event)}
                 </option>
               ))}
             </select>

@@ -13,7 +13,7 @@ export default function Home() {
   <img
     src="/images/siro-stats-logo.png"
     alt="SIRO STATS"
-    className="mx-auto mt-[-24px] w-[320px] max-w-full sm:w-[400px] md:-mt-16 md:w-[520px]"
+    className="mx-auto mt-[-24px] w-[350px] max-w-full sm:w-[440px] md:-mt-16 md:w-[560px]"
   />
 
   <div className="-mt-14 md:-mt-20">
