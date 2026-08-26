@@ -79,11 +79,13 @@ serverType === "alliance-pvp"
 
       <div className="text-sm text-slate-400">
   {serverType === "alliance-power"
-    ? "Server Alliance Power"
-    : serverType === "player-pvp"
-      ? "Server Player PvP Points"
-      : serverType === "alliance-pvp"
-        ? "Server Alliance PvP Points"
+  ? "Server Alliance Power"
+  : serverType === "player-pvp"
+    ? "Server Player PvP Points"
+    : serverType === "alliance-pvp"
+      ? "Server Alliance PvP Points"
+      : serverType === "player-gathering"
+        ? "Server Gathering Points"
         : "Server Player Power"}
 </div>
 

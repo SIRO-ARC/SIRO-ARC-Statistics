@@ -18,20 +18,20 @@ export default function MgmRankings() {
 
       <section className="mx-auto mt-12 max-w-6xl px-4">
 
-        <div className="grid gap-6 md:grid-cols-2">
+        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
 
           {/* Participants Ranking */}
 
           <Link
             to="/rankings/mgm/participants"
-            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
           >
             <div className="text-5xl">
               👥
             </div>
 
             <h2 className="mt-5 text-2xl font-bold text-white">
-              Participants Ranking
+              Participants
             </h2>
 
             <p className="mt-3 text-sm leading-6 text-slate-400">
@@ -49,14 +49,14 @@ export default function MgmRankings() {
 
           <Link
             to="/rankings/mgm/territory"
-            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
           >
             <div className="text-5xl">
               🏰
             </div>
 
             <h2 className="mt-5 text-2xl font-bold text-white">
-              Territory Ranking
+              Territory
             </h2>
 
             <p className="mt-3 text-sm leading-6 text-slate-400">
@@ -74,7 +74,7 @@ export default function MgmRankings() {
 
           <Link
             to="/rankings/mgm/alliance-activity"
-            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
           >
             <div className="text-5xl">
               🛡️
@@ -99,14 +99,14 @@ export default function MgmRankings() {
 
           <Link
             to="/rankings/mgm/server-activity"
-            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+            className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
           >
             <div className="text-5xl">
               🌍
             </div>
 
             <h2 className="mt-5 text-2xl font-bold text-white">
-              Server Activity Ranking
+              Server Overall Activity
             </h2>
 
             <p className="mt-3 text-sm leading-6 text-slate-400">
@@ -118,37 +118,57 @@ export default function MgmRankings() {
               View Ranking →
             </div>
           </Link>
+          {/* Average Participants */}
+
+<Link
+  to="/rankings/mgm/average-participants"
+  className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+>
+  <div className="text-5xl">
+    📊
+  </div>
+
+  <h2 className="mt-5 text-2xl font-bold text-white">
+    Average Participants
+  </h2>
+
+  <p className="mt-3 text-sm leading-6 text-slate-400">
+    Compare average MGM participation per alliance across
+    historical events.
+  </p>
+
+  <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+    View Ranking →
+  </div>
+</Link>
+{/* Leaderboards */}
+
+<Link
+  to="/rankings/mgm/leaderboards"
+  className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+>
+  <div className="text-5xl">
+    🏆
+  </div>
+
+  <h2 className="mt-5 text-2xl font-bold text-white">
+    Leaderboards
+  </h2>
+
+  <p className="mt-3 text-sm leading-6 text-slate-400">
+    Compare the strongest MGM performances across alliances
+    and servers.
+  </p>
+
+  <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+    View Leaderboards →
+  </div>
+</Link>
 
         </div>
 
 
-        {/* Average Participants */}
-
-        <div className="mt-6 flex justify-center">
-
-          <Link
-            to="/rankings/mgm/average-participants"
-            className="group w-full md:max-w-[calc(50%-0.75rem)] rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
-          >
-            <div className="text-5xl">
-              📊
-            </div>
-
-            <h2 className="mt-5 text-2xl font-bold text-white">
-              Average Participants Ranking
-            </h2>
-
-            <p className="mt-3 text-sm leading-6 text-slate-400">
-              Compare average MGM participation per alliance across
-              historical events.
-            </p>
-
-            <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-              View Ranking →
-            </div>
-          </Link>
-
-        </div>
+        
 
       </section>
 

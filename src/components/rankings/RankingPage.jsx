@@ -202,7 +202,12 @@ function handlePageChange(page) {
   </select>
   <button
   onClick={() =>
-  generatePlayerRankingPdf(filteredRankings, selectedWeek, view)
+  generatePlayerRankingPdf(
+    filteredRankings,
+    selectedWeek,
+    view,
+    dataType
+  )
 }
   className="rounded-xl bg-blue-600 px-5 py-3 font-semibold text-white transition hover:bg-blue-500"
 >

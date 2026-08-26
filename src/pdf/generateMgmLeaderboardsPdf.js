@@ -98,37 +98,20 @@ function formatUtcTime(date = new Date()) {
   });
 }
 
-function formatCellValue(value, key) {
+function formatNumber(value) {
   if (value === null || value === undefined) {
     return "-";
   }
 
-  if (key === "server") {
-    return String(value);
+  return Number(value).toLocaleString("en-US");
+}
+
+function formatWinRate(value) {
+  if (value === null || value === undefined) {
+    return "-";
   }
 
-  if (key === "date") {
-    const date = new Date(value);
-
-    if (Number.isNaN(date.getTime())) {
-      return "-";
-    }
-
-    date.setUTCDate(date.getUTCDate() + 1);
-
-    return date.toLocaleDateString("en-US", {
-      month: "2-digit",
-      day: "2-digit",
-      year: "numeric",
-      timeZone: "UTC",
-    });
-  }
-
-  if (typeof value === "number") {
-    return value.toLocaleString("en-US");
-  }
-
-  return String(value);
+  return `${Number(value).toFixed(1)}%`;
 }
 
 function getRankStyle(rank) {
@@ -160,17 +143,60 @@ function getRankStyle(rank) {
 }
 
 function createTable({
-  columns,
   rankings,
-  highlightTopThree = false,
+  highlightTopThree,
 }) {
-  const header = columns.map((column) => ({
-    text: column.header,
-    bold: true,
-    color: "#F8FAFC",
-    fontSize: 10,
-    alignment: column.align || "left",
-  }));
+  const header = [
+    {
+      text: "Rank",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "center",
+    },
+    {
+      text: "Alliance",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "left",
+    },
+    {
+      text: "Server",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "center",
+    },
+    {
+      text: "MGMs",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "right",
+    },
+    {
+      text: "Wins",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "right",
+    },
+    {
+      text: "Win Rate",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "right",
+    },
+    {
+      text: "Points",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "right",
+    },
+  ];
 
   const rows = rankings.map((entry) => {
     const rankStyle = highlightTopThree
@@ -180,45 +206,95 @@ function createTable({
           fillColor: null,
         };
 
-    return columns.map((column) => {
-      const isRank = column.key === "rank";
-      const isAccent = column.accent === true;
+    const rowFontSize =
+      highlightTopThree && entry.rank <= 3
+        ? 10.5
+        : 9.2;
 
-      return {
-        text: formatCellValue(
-          entry[column.key],
-          column.key
-        ),
-
-        alignment: column.align || "left",
-
-        fontSize:
-          highlightTopThree && entry.rank <= 3
-            ? 11
-            : 9.5,
-
-        bold:
-          isRank ||
-          (highlightTopThree && entry.rank <= 3),
-
-        color: isRank
-          ? rankStyle.color
-          : isAccent
-            ? "#38D5FF"
-            : "#E2E8F0",
-
+    return [
+      {
+        text: `#${entry.rank}`,
+        alignment: "center",
+        fontSize: rowFontSize,
+        bold: true,
+        color: rankStyle.color,
         fillColor: rankStyle.fillColor,
-      };
-    });
+      },
+
+      {
+        text: String(entry.alliance ?? "-"),
+        alignment: "left",
+        fontSize: rowFontSize,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#38D5FF",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: String(entry.server ?? "-"),
+        alignment: "center",
+        fontSize: rowFontSize,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: formatNumber(entry.mgms),
+        alignment: "right",
+        fontSize: rowFontSize,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: formatNumber(entry.wins),
+        alignment: "right",
+        fontSize: rowFontSize,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: formatWinRate(entry.winRate),
+        alignment: "right",
+        fontSize: rowFontSize,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: formatNumber(entry.points),
+        alignment: "right",
+        fontSize: rowFontSize,
+        bold: true,
+        color: "#38D5FF",
+        fillColor: rankStyle.fillColor,
+      },
+    ];
   });
 
   return {
     table: {
       headerRows: 1,
 
-      widths: columns.map(
-        (column) => column.width || "*"
-      ),
+      widths: [
+        42,
+        "*",
+        58,
+        55,
+        55,
+        68,
+        70,
+      ],
 
       body: [
         header,
@@ -302,18 +378,17 @@ function createTable({
         return 8;
       },
 
-      paddingLeft: () => 9,
-      paddingRight: () => 9,
+      paddingLeft: () => 8,
+      paddingRight: () => 8,
     },
   };
 }
 
-export async function generateMgmTerritoryRankingPdf(
+export async function generateMgmLeaderboardsPdf(
   rankings,
-  dataset
+  dataset = "pre"
 ) {
   const logoBase64 = await getLogoBase64();
-
   const backgroundBase64 =
     await getBackgroundBase64();
 
@@ -413,7 +488,7 @@ export async function generateMgmTerritoryRankingPdf(
               },
 
               {
-                text: "MGM Territory Ranking",
+                text: "MGM Leaderboards",
                 fontSize: 26,
                 bold: true,
                 color: "#F8FAFC",
@@ -484,44 +559,6 @@ export async function generateMgmTerritoryRankingPdf(
 
     content.push(
       createTable({
-        columns: [
-          {
-            key: "rank",
-            header: "Rank",
-            width: 50,
-            align: "center",
-          },
-
-          {
-            key: "alliance",
-            header: "Alliance",
-            width: "*",
-            align: "left",
-            accent: true,
-          },
-
-          {
-            key: "server",
-            header: "Server",
-            width: 70,
-            align: "center",
-          },
-
-          {
-            key: "date",
-            header: "MGM",
-            width: 90,
-            align: "center",
-          },
-
-          {
-            key: "captured",
-            header: "Captured",
-            width: 110,
-            align: "right",
-          },
-        ],
-
         rankings: chunk,
         highlightTopThree: isFirstPage,
       })
@@ -542,15 +579,12 @@ export async function generateMgmTerritoryRankingPdf(
 
     info: {
       title:
-        `MGM Territory Ranking - ${migrationLabel}`,
+        `MGM Leaderboards - ${migrationLabel}`,
 
       author: "SIRO ARC Statistics",
 
       subject:
-        "MGM Territory Ranking",
-
-      keywords:
-        "Avatar Realms Collide, SIRO, MGM, Territory Ranking",
+        "MGM Leaderboards",
     },
 
     background(currentPage, pageSize) {
@@ -601,7 +635,7 @@ export async function generateMgmTerritoryRankingPdf(
   pdfMake
     .createPdf(docDefinition)
     .download(
-      `SIRO_MGM_Territory_Ranking_${migrationLabel.replace(
+      `SIRO_MGM_Leaderboards_${migrationLabel.replace(
         /-/g,
         ""
       )}.pdf`

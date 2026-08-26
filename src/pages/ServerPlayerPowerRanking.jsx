@@ -10,8 +10,10 @@ import {
   getServerAlliancePowerRanking,
   getServerPlayerPvpRanking,
   getServerAlliancePvpRanking,
+  getServerPlayerGatheringRanking,
 } from "../services/rankingService";
 import RankingTable from "../components/tables/RankingTable";
+import { generateServerRankingPdf } from "../pdf/generateServerRankingPdf";
 
 export default function ServerPlayerPowerRanking({
   type = "player-power",
@@ -57,7 +59,9 @@ export default function ServerPlayerPowerRanking({
     getWeeks(
   type === "player-pvp" || type === "alliance-pvp"
     ? "pvp"
-    : "power"
+    : type === "player-gathering"
+      ? "gathering"
+      : "power"
 )
       .then((data) => {
         setWeeks(data.weeks);
@@ -81,7 +85,9 @@ export default function ServerPlayerPowerRanking({
       ? getServerPlayerPvpRanking
       : type === "alliance-pvp"
         ? getServerAlliancePvpRanking
-        : getServerPlayerPowerRanking;
+        : type === "player-gathering"
+          ? getServerPlayerGatheringRanking
+          : getServerPlayerPowerRanking;
 
 loadRanking(selectedWeek)
   .then((data) => {
@@ -174,7 +180,9 @@ const sortedRankings = [...filteredRankings].sort((a, b) => {
     ? "Server Player PvP"
     : type === "alliance-pvp"
       ? "Server Alliance PvP"
-      : "Server Player Power"}
+      : type === "player-gathering"
+        ? "Server Gathering Points"
+        : "Server Player Power"}
 </h1>
 
 <p className="mt-3 text-slate-400">
@@ -184,7 +192,9 @@ const sortedRankings = [...filteredRankings].sort((a, b) => {
     ? "Rank servers by their combined player PvP points."
     : type === "alliance-pvp"
       ? "Rank servers by their combined alliance PvP points."
-      : "Rank servers by their combined player power."}
+      : type === "player-gathering"
+        ? "Rank servers by their combined gathering points."
+        : "Rank servers by their combined player power."}
 </p>
 
 
@@ -211,6 +221,18 @@ const sortedRankings = [...filteredRankings].sort((a, b) => {
                 </option>
               ))}
             </select>
+            <button
+  onClick={() =>
+    generateServerRankingPdf(
+      filteredRankings,
+      selectedWeek,
+      type
+    )
+  }
+  className="rounded-xl bg-blue-600 px-5 py-3 font-semibold text-white transition hover:bg-blue-500"
+>
+  📄 Download PDF
+</button>
 
           </div>
 

@@ -171,6 +171,15 @@ useEffect(() => {
 />
 
 <Route
+  path="/rankings/server/player-gathering"
+  element={
+    <ServerPlayerPowerRanking
+      type="player-gathering"
+    />
+  }
+/>
+
+<Route
   path="/rankings/pve"
   element={<PveRankings />}
 />
@@ -183,9 +192,14 @@ useEffect(() => {
   <Route path="/mgm" element={<MGM />} />
 
   <Route
-    path="/leaderboards"
-    element={<Leaderboards />}
-  />
+  path="/rankings/mgm/leaderboards"
+  element={<Leaderboards />}
+/>
+
+<Route
+  path="/leaderboards"
+  element={<Leaderboards />}
+/>
 
   <Route path="/mgm-statistics" element={<MgmStatistics />} />
   <Route path="/archive" element={<Archive />} />

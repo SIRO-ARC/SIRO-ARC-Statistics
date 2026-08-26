@@ -98,30 +98,9 @@ function formatUtcTime(date = new Date()) {
   });
 }
 
-function formatCellValue(value, key) {
+function formatNumber(value) {
   if (value === null || value === undefined) {
     return "-";
-  }
-
-  if (key === "server") {
-    return String(value);
-  }
-
-  if (key === "date") {
-    const date = new Date(value);
-
-    if (Number.isNaN(date.getTime())) {
-      return "-";
-    }
-
-    date.setUTCDate(date.getUTCDate() + 1);
-
-    return date.toLocaleDateString("en-US", {
-      month: "2-digit",
-      day: "2-digit",
-      year: "numeric",
-      timeZone: "UTC",
-    });
   }
 
   if (typeof value === "number") {
@@ -159,18 +138,101 @@ function getRankStyle(rank) {
   };
 }
 
+function getRankingConfig(type) {
+  switch (type) {
+    case "alliance-power":
+      return {
+        title: "Server Alliance Power Ranking",
+        nameHeader: "Alliances",
+        valueHeader: "Combined Alliance Power",
+        countKey: "alliances",
+        valueKey: "power",
+        valueColor: false,
+        fileName: "Server_Alliance_Power",
+      };
+
+    case "player-pvp":
+      return {
+        title: "Server Player PvP Ranking",
+        nameHeader: "Players",
+        valueHeader: "Combined Player PvP Points",
+        countKey: "players",
+        valueKey: "points",
+        valueColor: false,
+        fileName: "Server_Player_PvP",
+      };
+
+    case "alliance-pvp":
+      return {
+        title: "Server Alliance PvP Ranking",
+        nameHeader: "Alliances",
+        valueHeader: "Combined Alliance PvP Points",
+        countKey: "alliances",
+        valueKey: "points",
+        valueColor: false,
+        fileName: "Server_Alliance_PvP",
+      };
+
+    case "player-gathering":
+      return {
+        title: "Server Gathering Points Ranking",
+        nameHeader: "Players",
+        valueHeader: "Combined Resources",
+        countKey: "players",
+        valueKey: "power",
+        valueColor: false,
+        fileName: "Server_Gathering_Points",
+      };
+
+    case "player-power":
+    default:
+      return {
+        title: "Server Player Power Ranking",
+        nameHeader: "Players",
+        valueHeader: "Combined Player Power",
+        countKey: "players",
+        valueKey: "power",
+        valueColor: false,
+        fileName: "Server_Player_Power",
+      };
+  }
+}
+
 function createTable({
-  columns,
   rankings,
-  highlightTopThree = false,
+  config,
+  highlightTopThree,
 }) {
-  const header = columns.map((column) => ({
-    text: column.header,
-    bold: true,
-    color: "#F8FAFC",
-    fontSize: 10,
-    alignment: column.align || "left",
-  }));
+  const header = [
+    {
+      text: "Rank",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "center",
+    },
+    {
+      text: "Server",
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "center",
+    },
+    {
+      text: config.nameHeader,
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "right",
+    },
+    {
+      text: config.valueHeader,
+      bold: true,
+      color: "#F8FAFC",
+      fontSize: 10,
+      alignment: "right",
+    },
+  ];
 
   const rows = rankings.map((entry) => {
     const rankStyle = highlightTopThree
@@ -180,45 +242,72 @@ function createTable({
           fillColor: null,
         };
 
-    return columns.map((column) => {
-      const isRank = column.key === "rank";
-      const isAccent = column.accent === true;
+    const value = entry[config.valueKey];
 
-      return {
-        text: formatCellValue(
-          entry[column.key],
-          column.key
-        ),
-
-        alignment: column.align || "left",
-
+    return [
+      {
+        text: formatNumber(entry.rank),
+        alignment: "center",
         fontSize:
           highlightTopThree && entry.rank <= 3
             ? 11
             : 9.5,
-
-        bold:
-          isRank ||
-          (highlightTopThree && entry.rank <= 3),
-
-        color: isRank
-          ? rankStyle.color
-          : isAccent
-            ? "#38D5FF"
-            : "#E2E8F0",
-
+        bold: true,
+        color: rankStyle.color,
         fillColor: rankStyle.fillColor,
-      };
-    });
+      },
+
+      {
+        text: String(entry.server),
+        alignment: "center",
+        fontSize:
+          highlightTopThree && entry.rank <= 3
+            ? 11
+            : 9.5,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: formatNumber(entry[config.countKey]),
+        alignment: "right",
+        fontSize:
+          highlightTopThree && entry.rank <= 3
+            ? 11
+            : 9.5,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+
+      {
+        text: formatNumber(value),
+        alignment: "right",
+        fontSize:
+          highlightTopThree && entry.rank <= 3
+            ? 11
+            : 9.5,
+        bold:
+          highlightTopThree && entry.rank <= 3,
+        color: "#E2E8F0",
+        fillColor: rankStyle.fillColor,
+      },
+    ];
   });
 
   return {
     table: {
       headerRows: 1,
 
-      widths: columns.map(
-        (column) => column.width || "*"
-      ),
+      widths: [
+        50,
+        75,
+        95,
+        "*",
+      ],
 
       body: [
         header,
@@ -308,12 +397,14 @@ function createTable({
   };
 }
 
-export async function generateMgmTerritoryRankingPdf(
+export async function generateServerRankingPdf(
   rankings,
-  dataset
+  selectedWeek,
+  type = "player-power"
 ) {
-  const logoBase64 = await getLogoBase64();
+  const config = getRankingConfig(type);
 
+  const logoBase64 = await getLogoBase64();
   const backgroundBase64 =
     await getBackgroundBase64();
 
@@ -322,10 +413,11 @@ export async function generateMgmTerritoryRankingPdf(
   const generatedDate = formatUtcDate(now);
   const generatedTime = formatUtcTime(now);
 
-  const migrationLabel =
-    dataset === "post"
-      ? "Post-Migration"
-      : "Pre-Migration";
+  /*
+   * Keep the week exactly as it is displayed
+   * on the Server Rankings page.
+   */
+  const weekLabel = selectedWeek || "";
 
   const FIRST_PAGE_ROWS = 20;
   const OTHER_PAGE_ROWS = 25;
@@ -413,7 +505,7 @@ export async function generateMgmTerritoryRankingPdf(
               },
 
               {
-                text: "MGM Territory Ranking",
+                text: config.title,
                 fontSize: 26,
                 bold: true,
                 color: "#F8FAFC",
@@ -421,7 +513,7 @@ export async function generateMgmTerritoryRankingPdf(
               },
 
               {
-                text: migrationLabel,
+                text: weekLabel,
                 fontSize: 11,
                 bold: true,
                 color: "#94A3B8",
@@ -478,51 +570,14 @@ export async function generateMgmTerritoryRankingPdf(
       text: "",
 
       margin: isFirstPage
-        ? [0, 40, 0, 0]
+        ? [0, 10, 0, 0]
         : [0, 0, 0, 0],
     });
 
     content.push(
       createTable({
-        columns: [
-          {
-            key: "rank",
-            header: "Rank",
-            width: 50,
-            align: "center",
-          },
-
-          {
-            key: "alliance",
-            header: "Alliance",
-            width: "*",
-            align: "left",
-            accent: true,
-          },
-
-          {
-            key: "server",
-            header: "Server",
-            width: 70,
-            align: "center",
-          },
-
-          {
-            key: "date",
-            header: "MGM",
-            width: 90,
-            align: "center",
-          },
-
-          {
-            key: "captured",
-            header: "Captured",
-            width: 110,
-            align: "right",
-          },
-        ],
-
         rankings: chunk,
+        config,
         highlightTopThree: isFirstPage,
       })
     );
@@ -541,16 +596,9 @@ export async function generateMgmTerritoryRankingPdf(
     pageMargins: [32, 34, 32, 42],
 
     info: {
-      title:
-        `MGM Territory Ranking - ${migrationLabel}`,
-
+      title: config.title,
       author: "SIRO ARC Statistics",
-
-      subject:
-        "MGM Territory Ranking",
-
-      keywords:
-        "Avatar Realms Collide, SIRO, MGM, Territory Ranking",
+      subject: config.title,
     },
 
     background(currentPage, pageSize) {
@@ -601,9 +649,8 @@ export async function generateMgmTerritoryRankingPdf(
   pdfMake
     .createPdf(docDefinition)
     .download(
-      `SIRO_MGM_Territory_Ranking_${migrationLabel.replace(
-        /-/g,
-        ""
-      )}.pdf`
+      `SIRO_${config.fileName}_${weekLabel
+        .replace(/[^a-zA-Z0-9]+/g, "_")
+        .replace(/^_|_$/g, "")}.pdf`
     );
 }

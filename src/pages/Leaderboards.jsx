@@ -13,6 +13,7 @@ const SCORING = {
 TIME_19UTC: 1.25,
 
 };
+import { generateMgmLeaderboardsPdf } from "../pdf/generateMgmLeaderboardsPdf";
 
 export default function Leaderboards() {
   const [dataset, setDataset] = useState("pre");
@@ -261,6 +262,17 @@ const tableData = leaderboard.map((item, index) => ({
           🌍 Post-Migration
         </button>
 
+        <button
+  onClick={() =>
+    generateMgmLeaderboardsPdf(
+      tableData,
+      dataset
+    )
+  }
+  className="rounded-xl bg-blue-600 px-5 py-3 font-semibold text-white transition hover:bg-blue-500"
+>
+  📄 Download PDF
+</button>
       </div>
 <div className="mb-8 grid gap-4 md:grid-cols-3">
 

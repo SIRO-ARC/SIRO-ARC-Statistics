@@ -130,7 +130,9 @@ export default function RankingTable({
     ? "Combined Player PvP Points"
     : serverType === "alliance-pvp"
       ? "Combined Alliance PvP Points"
-      : "Combined Player Power"}
+      : serverType === "player-gathering"
+        ? "Combined Resources"
+        : "Combined Player Power"}
   </th>
 
 ) : (
