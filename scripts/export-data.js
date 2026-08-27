@@ -145,6 +145,7 @@ if (!fs.existsSync(MGM_DIR)) {
 }
 const playersByServer = {};
 const growthHistory = {};
+const allianceGrowthHistory = {};
 console.log("");
 console.log("Exportiere Player-Rankings...");
 
@@ -256,6 +257,30 @@ for (const week of weeks.weeks) {
     const alliances = await fetchJsonWithRetry(
       `${API_URL}?type=alliances&week=${encodeURIComponent(week)}`
     );
+
+    for (const alliance of alliances) {
+
+      const allianceName =
+        alliance.displayName || alliance.name;
+
+      if (!allianceName) continue;
+
+      if (!allianceGrowthHistory[allianceName]) {
+        allianceGrowthHistory[allianceName] = [];
+      }
+
+      allianceGrowthHistory[allianceName].push({
+        week: week.replace(
+          "Global Player/Alliance Ranking ",
+          ""
+        ),
+        server: alliance.server,
+        displayName: allianceName,
+        rank: alliance.rank,
+        power: alliance.power,
+      });
+
+    }    
 
     const fileName =
       week.replace("Global Player/Alliance Ranking ", "") + ".json";
@@ -436,6 +461,15 @@ fs.writeFileSync(
 );
 
 console.log("✓ history.json erstellt");
+
+fs.writeFileSync(
+  path.join(GROWTH_DIR, "alliance-history.json"),
+  JSON.stringify(allianceGrowthHistory, null, 2),
+  "utf8"
+);
+
+console.log("✓ alliance-history.json erstellt");
+
 const duration = ((Date.now() - startTime) / 1000).toFixed(1);
 
 console.log("");

@@ -6,6 +6,7 @@ export default function RankingMobileCard({
   selectedWeek,
   mode = "ranking",
   serverType,
+  highlightHistoryNames = false,
 }) {
   return (
     <div className="rounded-2xl border border-slate-800 bg-slate-900 p-4">
@@ -102,13 +103,20 @@ serverType === "alliance-pvp"
 
 ) : mode === "history" ? (
 
-  <div className="mt-4 text-lg font-semibold text-white">
+  <div
+    className={`mt-4 text-lg font-semibold ${
+      highlightHistoryNames
+        ? "text-sky-400"
+        : "text-white"
+    }`}
+  >
     {item.displayName}
   </div>
 
 ) : (
 
   <Link
+  
     to={`/${
       view === "players"
         ? "player"

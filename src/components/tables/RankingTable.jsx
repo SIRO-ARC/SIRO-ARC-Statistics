@@ -9,6 +9,7 @@ export default function RankingTable({
   onSort,
   mode = "ranking",
   serverType,
+  highlightHistoryNames = false,
 }) {
 
   
@@ -25,6 +26,7 @@ export default function RankingTable({
   selectedWeek={selectedWeek}
   mode={mode}
   serverType={serverType}
+  highlightHistoryNames={highlightHistoryNames}
 />
     ))}
   </div>
@@ -92,10 +94,12 @@ export default function RankingTable({
         onClick={() => onSort("name")}
       >
         {mode === "history"
-          ? "Player"
-          : view === "players"
-            ? "Player"
-            : "Alliance"}{" "}
+  ? view === "alliances"
+    ? "Alliance"
+    : "Player"
+  : view === "players"
+    ? "Player"
+    : "Alliance"}{" "}
         {sortField === "name" &&
           (sortDirection === "asc" ? "▲" : "▼")}
       </th>
@@ -198,9 +202,15 @@ serverType === "alliance-pvp"
 
       {mode === "history" ? (
 
-        item.displayName
+  highlightHistoryNames ? (
+    <span className="text-sky-400">
+      {item.displayName}
+    </span>
+  ) : (
+    item.displayName
+  )
 
-      ) : (
+) : (
 
         <Link
           to={`/${

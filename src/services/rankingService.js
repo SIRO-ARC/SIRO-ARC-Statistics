@@ -370,6 +370,68 @@ export async function getGrowthHistory({
   return result;
 
 }
+
+export async function getAllianceGrowthHistory({
+  alliances = [],
+}) {
+
+  const cacheKey = "alliance-growth-history";
+
+  let history = rankingsCache[cacheKey];
+
+  if (!history) {
+
+    const response = await fetch(
+      "/api/growth/alliance-history.json",
+      {
+        cache: "no-store",
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    history = await response.json();
+
+    rankingsCache[cacheKey] = history;
+
+  }
+
+  const result = [];
+
+  for (const alliance of alliances) {
+
+    if (history[alliance]) {
+      result.push(...history[alliance]);
+    }
+
+  }
+
+  result.sort((a, b) => {
+
+    const getOrder = (week) => {
+
+      const number = Number(
+        week.replace("CW", "")
+      );
+
+      if (number >= 50) {
+        return number - 50;
+      }
+
+      return number + 2;
+
+    };
+
+    return getOrder(a.week) - getOrder(b.week);
+
+  });
+
+  return result;
+
+}
+
 export async function getPlayersByServer(server) {
 
 const cacheKey = `players-${server}`;

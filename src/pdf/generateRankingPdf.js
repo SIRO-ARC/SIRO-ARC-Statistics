@@ -159,7 +159,7 @@ function createTable({
   columns,
   rankings,
   highlightTopThree = false,
-
+  tableMargin = [14, 0, 0, 0],
 }) {
   const header = columns.map((column) => ({
   text: column.header,
@@ -221,7 +221,7 @@ bold:
     ],
   },
 
-  margin: [14, 0, 0, 0],
+  margin: tableMargin,
 
   layout: {
       fillColor: (rowIndex) => {
@@ -309,6 +309,8 @@ export async function generateRankingPdf({
   rankings = [],
   filename = "SIRO_Stats_Ranking.pdf",
   headerSpacing = 10,
+  highlightTopThree = true,
+  tableMargin = [14, 0, 0, 0],
 }) {
   const logoBase64 = await getLogoBase64();
 
@@ -487,8 +489,9 @@ content.push({
   createTable({
     columns,
     rankings: chunk,
-    highlightTopThree: isFirstPage,
-
+    highlightTopThree:
+      isFirstPage && highlightTopThree,
+    tableMargin,
   })
 );
 
