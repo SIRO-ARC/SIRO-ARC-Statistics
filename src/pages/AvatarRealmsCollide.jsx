@@ -83,21 +83,25 @@ export default function AvatarRealmsCollide() {
       to="/mgm"
       className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
     >
-      <div className="text-4xl">
-        📊
-      </div>
+      <div className="text-center">
 
-      <h3 className="mt-4 text-2xl font-bold text-white">
-        Overview
-      </h3>
+  <div className="text-4xl">
+    📊
+  </div>
 
-      <p className="mt-2 text-sm leading-6 text-slate-400">
-        Get a quick overview of MGM performance, participation and results.
-      </p>
+  <h3 className="mt-4 text-2xl font-bold text-white">
+    Overview
+  </h3>
 
-      <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-        View MGM Overview →
-      </div>
+  <p className="mt-2 text-sm leading-6 text-slate-400">
+    Get a quick overview of MGM performance, participation and results.
+  </p>
+
+  <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+    View MGM Overview →
+  </div>
+
+</div>
     </Link>
 
 
@@ -107,21 +111,25 @@ export default function AvatarRealmsCollide() {
       to="/mgm-statistics"
       className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
     >
-      <div className="text-4xl">
-        📈
-      </div>
+      <div className="text-center">
 
-      <h3 className="mt-4 text-2xl font-bold text-white">
-        Statistics
-      </h3>
+  <div className="text-4xl">
+    📈
+  </div>
 
-      <p className="mt-2 text-sm leading-6 text-slate-400">
-        Explore detailed MGM statistics and historical graphs.
-      </p>
+  <h3 className="mt-4 text-2xl font-bold text-white">
+    Statistics
+  </h3>
 
-      <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-        View MGM Statistics →
-      </div>
+  <p className="mt-2 text-sm leading-6 text-slate-400">
+    Explore detailed MGM statistics and historical graphs.
+  </p>
+
+  <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+    View MGM Statistics →
+  </div>
+
+</div>
     </Link>
 
 
@@ -131,6 +139,8 @@ export default function AvatarRealmsCollide() {
   to="/leaderboards"
   className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
 >
+  <div className="text-center">
+
   <div className="text-4xl">
     🏅
   </div>
@@ -147,6 +157,8 @@ export default function AvatarRealmsCollide() {
   <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
     View MGM Leaderboards →
   </div>
+
+</div>
 </Link>
 
 </div>
@@ -170,30 +182,26 @@ export default function AvatarRealmsCollide() {
     to="/power-growth-history"
     className="group mx-auto block max-w-3xl rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
   >
-    <div className="flex flex-col items-center text-center md:flex-row md:items-center md:text-left">
+    <div className="text-center">
 
-      <div className="text-5xl">
-        📈
-      </div>
+  <div className="text-5xl">
+    📈
+  </div>
 
-      <div className="mt-5 md:ml-6 md:mt-0">
-        <h3 className="text-2xl font-bold text-white">
-          Power Growth History
-        </h3>
+  <h3 className="mt-4 text-2xl font-bold text-white">
+    Power Growth History
+  </h3>
 
-        <p className="mt-2 max-w-3xl text-slate-400">
-          Compare historical power development and see how players and
-          alliances have progressed over time.
-        </p>
-      </div>
+  <p className="mx-auto mt-2 max-w-3xl text-slate-400">
+    Compare historical power growth and see how players and
+    alliances have progressed over time.
+  </p>
 
-      <div className="mt-5 md:ml-auto md:mt-0">
-        <span className="text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-          View Growth →
-        </span>
-      </div>
+  <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+    View History →
+  </div>
 
-    </div>
+</div>
   </Link>
 
 </section>

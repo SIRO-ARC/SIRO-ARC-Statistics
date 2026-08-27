@@ -1,7 +1,8 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, useRef } from "react";
 import WarzoneCard from "../components/mgm/WarzoneCard";
 import { getMgm } from "../services/rankingService";
 import { formatDate } from "../utils/formatDate";
+import { generateMgmOverviewPdf } from "../pdf/generateMgmOverviewPdf";
 
 export default function MGM() {
   const [dataset, setDataset] = useState("post");
@@ -9,9 +10,12 @@ export default function MGM() {
 const [isLoading, setIsLoading] = useState(true);
 
   const [selectedEvent, setSelectedEvent] = useState("");
-  const [selectedTime, setSelectedTime] = useState("");
-  const [selectedWarzone, setSelectedWarzone] = useState("");
-  const [search, setSearch] = useState("");
+const [selectedTime, setSelectedTime] = useState("");
+const [selectedWarzone, setSelectedWarzone] = useState("");
+const [selectedServer, setSelectedServer] = useState("");
+const [selectedAlliance, setSelectedAlliance] = useState([]);
+const [allianceDropdownOpen, setAllianceDropdownOpen] = useState(false);
+const allianceDropdownRef = useRef(null);
 
   useEffect(() => {
   async function loadData() {
@@ -41,22 +45,48 @@ loadData();
   setSelectedEvent("");
   setSelectedTime("");
   setSelectedWarzone("");
-  setSearch("");
+  setSelectedServer("");
+  setSelectedAlliance([]);
+  setAllianceDropdownOpen(false);
 }, [dataset]);
+
 useEffect(() => {
   setSelectedTime("");
   setSelectedWarzone("");
 }, [selectedEvent]);
+
+useEffect(() => {
+  setSelectedAlliance([]);
+  setAllianceDropdownOpen(false);
+}, [selectedServer]);
+
+useEffect(() => {
+  function handleClickOutside(event) {
+    if (
+      allianceDropdownRef.current &&
+      !allianceDropdownRef.current.contains(event.target)
+    ) {
+      setAllianceDropdownOpen(false);
+    }
+  }
+
+  document.addEventListener(
+    "mousedown",
+    handleClickOutside
+  );
+
+  return () => {
+    document.removeEventListener(
+      "mousedown",
+      handleClickOutside
+    );
+  };
+}, []);
+
 useEffect(() => {
   setSelectedWarzone("");
 }, [selectedTime]);
-useEffect(() => {
-  if (search.trim()) {
-    setSelectedEvent("");
-    setSelectedTime("");
-    setSelectedWarzone("");
-  }
-}, [search]);
+
 
   const events = useMemo(() => {
     return [...new Set(mgmData.map(item => item.date))].sort();
@@ -97,6 +127,42 @@ useEffect(() => {
   selectedEvent,
   selectedTime
 ]);
+
+const servers = useMemo(() => {
+  return [...new Set(
+    mgmData
+      .map((item) => item.server)
+      .filter(
+        (server) =>
+          server !== null &&
+          server !== undefined &&
+          server !== ""
+      )
+  )].sort((a, b) => Number(a) - Number(b));
+}, [mgmData]);
+
+const alliances = useMemo(() => {
+  if (!selectedServer) {
+    return [];
+  }
+
+  return [...new Set(
+    mgmData
+      .filter(
+        (item) =>
+          String(item.server) ===
+          String(selectedServer)
+      )
+      .map((item) => item.alliance)
+      .filter(
+        (alliance) =>
+          alliance !== null &&
+          alliance !== undefined &&
+          alliance !== ""
+      )
+  )].sort();
+}, [mgmData, selectedServer]);
+
   const filteredData = useMemo(() => {
   return mgmData.filter((item) => {
 
@@ -125,7 +191,6 @@ useEffect(() => {
   selectedEvent,
   selectedTime,
   selectedWarzone,
-  search
 ]);
 const matches = useMemo(() => {
   const warzoneMap = {};
@@ -156,23 +221,41 @@ if (!warzoneMap[matchKey]) {
   return new Date(b.date) - new Date(a.date);
 });
 }, [filteredData]);
+
 const visibleMatches = useMemo(() => {
-  if (!search.trim()) {
+  if (!selectedServer) {
     return matches;
   }
 
   return matches.filter((match) => {
-    // Gewinner prüfen
-    if (match.winner && String(match.winner.server) === search.trim()) {
-      return true;
-    }
+    const participants = [
+      ...(match.winner ? [match.winner] : []),
+      ...match.opponents,
+    ];
 
-    // Gegner prüfen
-    return match.opponents.some(
-      (opponent) => String(opponent.server) === search.trim()
-    );
+    return participants.some((item) => {
+      const serverMatches =
+        String(item.server) ===
+        String(selectedServer);
+
+      if (!serverMatches) {
+        return false;
+      }
+
+      if (selectedAlliance.length === 0) {
+  return true;
+}
+
+return selectedAlliance.includes(
+  String(item.alliance)
+);
+    });
   });
-}, [matches, search]);
+}, [
+  matches,
+  selectedServer,
+  selectedAlliance
+]);
 
 
 
@@ -217,7 +300,6 @@ const visibleMatches = useMemo(() => {
   value={selectedEvent}
               onChange={(e) => {
   setSelectedEvent(e.target.value);
-  setSearch("");
 }}
               className="w-full rounded-lg border border-gray-700 bg-gray-800 p-3 text-white"
             >
@@ -284,6 +366,123 @@ const visibleMatches = useMemo(() => {
             </select>
           </div>
 
+          {/* PDF Download */}
+
+          <div className="order-7 flex items-end md:col-span-2 xl:col-span-1 xl:order-5">
+            <button
+              onClick={() =>
+                generateMgmOverviewPdf(
+                  visibleMatches,
+                  dataset
+                )
+              }
+              disabled={
+                isLoading ||
+                visibleMatches.length === 0
+              }
+              className="w-full rounded-lg bg-blue-600 p-3 font-semibold text-white transition hover:bg-blue-500 disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              📄 Download PDF
+            </button>
+          </div>
+
+
+                    {/* Server */}
+
+          <div className="order-5 xl:order-6">
+            <label className="mb-2 block text-sm font-medium text-gray-300">
+              Server
+            </label>
+
+            <select
+              disabled={isLoading}
+              value={selectedServer}
+              onChange={(e) => setSelectedServer(e.target.value)}
+              className="w-full rounded-lg border border-gray-700 bg-gray-800 p-3 text-white"
+            >
+              <option value="">
+                {isLoading ? "Loading data..." : "All Servers"}
+              </option>
+
+              {servers.map((server) => (
+                <option key={server} value={server}>
+                  {server}
+                </option>
+              ))}
+            </select>
+          </div>
+                    {/* Alliance */}
+
+<div
+  ref={allianceDropdownRef}
+  className="order-6 xl:order-7 relative"
+>
+  <label className="mb-2 block text-sm font-medium text-gray-300">
+    Alliance
+  </label>
+
+  <button
+    type="button"
+    disabled={
+      isLoading ||
+      !selectedServer
+    }
+    onClick={() =>
+      setAllianceDropdownOpen(
+        !allianceDropdownOpen
+      )
+    }
+    className="flex w-full items-center justify-between rounded-lg border border-gray-700 bg-gray-800 p-3 text-left text-white disabled:cursor-not-allowed disabled:opacity-50"
+  >
+    <span className="truncate">
+      {selectedAlliance.length === 0
+        ? "All Alliances"
+        : selectedAlliance.join(", ")}
+    </span>
+
+    <span className="ml-2 text-gray-400">
+      ▼
+    </span>
+  </button>
+
+  {allianceDropdownOpen && (
+    <div className="absolute z-50 mt-2 max-h-64 w-full overflow-y-auto rounded-lg border border-gray-700 bg-gray-800 p-2 shadow-xl">
+      {alliances.map((alliance) => (
+        <label
+          key={alliance}
+          className="flex cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-white hover:bg-gray-700"
+        >
+          <input
+            type="checkbox"
+            checked={selectedAlliance.includes(
+              alliance
+            )}
+            onChange={() => {
+              setSelectedAlliance((current) =>
+                current.includes(alliance)
+                  ? current.filter(
+                      (item) =>
+                        item !== alliance
+                    )
+                  : [
+                      ...current,
+                      alliance,
+                    ]
+              );
+            }}
+            className="h-4 w-4"
+          />
+
+          <span>{alliance}</span>
+        </label>
+      ))}
+    </div>
+  )}
+</div>
+
+          
+                    
+
           {/* Search */}
 {/*
           <div>
@@ -313,7 +512,8 @@ const visibleMatches = useMemo(() => {
 
         </div>
 
-      </div>
+            </div>
+
       <div className="mt-8 space-y-8">
 
   {visibleMatches.map((match) => (
