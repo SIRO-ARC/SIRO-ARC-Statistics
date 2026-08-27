@@ -69,6 +69,28 @@ export default function MgmRankings() {
             </div>
           </Link>
 
+{/* Server Activity */}
+
+<Link
+  to="/rankings/mgm/server-event-activity"
+  className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+>
+  <div className="text-5xl">
+    🌍
+  </div>
+
+  <h2 className="mt-5 text-2xl font-bold text-white">
+    Server Activity
+  </h2>
+
+  <p className="mt-3 text-sm leading-6 text-slate-400">
+    Compare MGM participation by server for individual events.
+  </p>
+
+  <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+    View Ranking →
+  </div>
+</Link>
 
           {/* Alliance Overall Activity */}
 
@@ -141,11 +163,14 @@ export default function MgmRankings() {
     View Ranking →
   </div>
 </Link>
+
+
+
 {/* Leaderboards */}
 
 <Link
   to="/rankings/mgm/leaderboards"
-  className="group rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
+  className="group lg:col-span-3 rounded-3xl border border-sky-400/30 bg-slate-900/60 p-8 text-center h-[250px] shadow-[0_0_25px_rgba(56,189,248,0.10)] transition hover:-translate-y-1 hover:border-sky-400 hover:shadow-[0_0_30px_rgba(56,189,248,0.20)]"
 >
   <div className="text-5xl">
     🏆

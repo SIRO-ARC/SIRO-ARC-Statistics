@@ -35,6 +35,7 @@ import MgmAllianceActivityRanking from "./pages/MgmAllianceActivityRanking";
 import MgmServerActivityRanking from "./pages/MgmServerActivityRanking";
 import MgmAverageParticipantsRanking from "./pages/MgmAverageParticipantsRanking";
 import ServerPlayerPowerRanking from "./pages/ServerPlayerPowerRanking";
+import MgmServerEventActivityRanking from "./pages/MgmServerEventActivityRanking";
 
 export default function App() {
   const navigate = useNavigate();
@@ -126,6 +127,11 @@ useEffect(() => {
 <Route
   path="/rankings/mgm/server-activity"
   element={<MgmServerActivityRanking />}
+/>
+
+<Route
+  path="/rankings/mgm/server-event-activity"
+  element={<MgmServerEventActivityRanking />}
 />
 
 <Route
