@@ -6,35 +6,41 @@ export default function Statistics() {
     <>
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
 
-        <section className="mx-auto mt-10 md:mt-2 max-w-6xl px-4 text-center">
+        {/* PAGE HEADER */}
+
+        <section className="mx-auto mt-10 max-w-6xl px-4 text-center">
 
   <h1 className="text-5xl font-bold text-sky-400">
-    📊 Statistics
+    ⚔️ Murong's Grand Melee
   </h1>
 
   <p className="mx-auto mt-3 max-w-2xl text-lg leading-8 text-slate-400">
-    Explore detailed statistics, historical data and progression
-    available on SIRO STATS.
+    Explore MGM statistics, rankings, leaderboards and event data.
   </p>
 
 </section>
 
+
+        {/* MGM HUB */}
+
         <section className="mx-auto mt-12 max-w-6xl">
 
-          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 md:grid-cols-2">
 
-            {/* MGM Overview */}
+
+            {/* OVERVIEW */}
 
             <Link
-              to="/mgm"
+              to="/mgm/overview"
               className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
             >
+
               <div className="text-4xl">
                 📊
               </div>
 
               <h2 className="mt-4 text-2xl font-bold text-white">
-                MGM Overview
+                Overview
               </h2>
 
               <p className="mt-2 text-sm leading-6 text-slate-400">
@@ -43,23 +49,25 @@ export default function Statistics() {
               </p>
 
               <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-                View MGM Overview →
+                View Overview →
               </div>
+
             </Link>
 
 
-            {/* MGM Statistics */}
+            {/* STATISTICS */}
 
             <Link
-              to="/mgm-statistics"
+              to="/mgm/statistics"
               className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
             >
+
               <div className="text-4xl">
                 📈
               </div>
 
               <h2 className="mt-4 text-2xl font-bold text-white">
-                MGM Statistics
+                Statistics
               </h2>
 
               <p className="mt-2 text-sm leading-6 text-slate-400">
@@ -68,34 +76,65 @@ export default function Statistics() {
               </p>
 
               <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-                View MGM Statistics →
+                View Statistics →
               </div>
+
             </Link>
 
 
-            {/* Track Progression */}
+            {/* LEADERBOARDS */}
 
             <Link
-              to="/power-growth-history"
+              to="/rankings/mgm/leaderboards"
               className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
             >
+
               <div className="text-4xl">
-                📈
+                🏆
               </div>
 
               <h2 className="mt-4 text-2xl font-bold text-white">
-                Track Power Progression
+                Leaderboards
               </h2>
 
               <p className="mt-2 text-sm leading-6 text-slate-400">
-                Follow player and alliance power growth across historical
-                rankings.
+                View MGM leaderboards and compare player, alliance and
+                server performance.
               </p>
 
               <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
-                View Growth History →
+                View Leaderboards →
               </div>
+
             </Link>
+
+
+            {/* RANKINGS */}
+
+            <Link
+              to="/rankings/mgm"
+              className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+            >
+
+              <div className="text-4xl">
+                🥇
+              </div>
+
+              <h2 className="mt-4 text-2xl font-bold text-white">
+                Rankings
+              </h2>
+
+              <p className="mt-2 text-sm leading-6 text-slate-400">
+                Explore the complete MGM rankings and performance
+                comparisons.
+              </p>
+
+              <div className="mt-5 text-sm font-semibold text-sky-400 group-hover:text-sky-300">
+                View Rankings →
+              </div>
+
+            </Link>
+
 
           </div>
 

@@ -1,5 +1,6 @@
 import Statistics from "./pages/Statistics";
 import Tools from "./pages/Tools";
+import TalentTreeBuilder from "./pages/TalentTreeBuilder";
 import Guides from "./pages/Guides";
 import PowerGrowthHistory from "./pages/PowerGrowthHistory";
 import Archive from "./pages/Archive";
@@ -195,7 +196,12 @@ useEffect(() => {
     element={<PowerGrowthHistory />}
   />
 
-  <Route path="/mgm" element={<MGM />} />
+  <Route path="/mgm" element={<Statistics />} />
+
+  <Route
+  path="/mgm/overview"
+  element={<MGM />}
+/>
 
   <Route
   path="/rankings/mgm/leaderboards"
@@ -207,13 +213,19 @@ useEffect(() => {
   element={<Leaderboards />}
 />
 
-  <Route path="/mgm-statistics" element={<MgmStatistics />} />
+  <Route
+  path="/mgm/statistics"
+  element={<MgmStatistics />}
+/>
   <Route path="/archive" element={<Archive />} />
   <Route path="/info" element={<Info />} />
 
   {/* Neue Seiten */}
-  <Route path="/statistics" element={<Statistics />} />
   <Route path="/tools" element={<Tools />} />
+  <Route
+  path="/tools/talent-builder"
+  element={<TalentTreeBuilder />}
+/>
   <Route path="/guides" element={<Guides />} />
 
   <Route
