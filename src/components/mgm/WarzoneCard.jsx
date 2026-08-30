@@ -3,6 +3,15 @@ import OpponentCard from "./OpponentCard";
 import { formatDate } from "../../utils/formatDate";
 
 export default function WarzoneCard({ match }) {
+
+  const totalParticipants =
+  (Number(match.winner?.participants) || 0) +
+  match.opponents.reduce(
+    (total, opponent) =>
+      total + (Number(opponent.participants) || 0),
+    0
+  );
+
   return (
     <div className="rounded-2xl border border-gray-800 bg-gray-900 p-6 shadow-lg">
 
@@ -10,17 +19,27 @@ export default function WarzoneCard({ match }) {
 
       <div className="mb-6 flex items-center justify-between border-b border-gray-800 pb-4">
 
-        <div>
-          <h2 className="text-2xl font-bold text-white">
-            🌍 Warzone {match.warzone}
-          </h2>
+  <div>
+    <h2 className="text-2xl font-bold text-sky-400 drop-shadow-[0_0_8px_rgba(56,189,248,0.8)]">
+  Warzone {match.warzone}
+</h2>
 
-          <p className="mt-1 text-sm text-gray-400">
-  📅 {formatDate(match.date)} • 🕒 {match.time}
+    <p className="mt-1 text-sm text-gray-400">
+      📅 {formatDate(match.date)} • 🕒 {match.time}
+    </p>
+  </div>
+
+  <div className="text-right">
+  <p className="text-xs uppercase tracking-wide text-gray-400">
+  TOTAL <span className="text-base">👥</span>
 </p>
-        </div>
 
-      </div>
+  <p className="mt-1 text-lg font-semibold text-white">
+    {totalParticipants}
+  </p>
+</div>
+
+</div>
 
       {/* Winner */}
 

@@ -2,7 +2,7 @@ export default function OpponentCard({ opponent }) {
   return (
     <div className="rounded-xl border border-gray-700 bg-gray-800 p-4 transition-all hover:border-gray-500 hover:bg-gray-700">
 
-      <h4 className="mb-3 text-lg font-semibold text-white">
+      <h4 className="mb-3 text-lg font-bold text-sky-400 drop-shadow-[0_0_8px_rgba(56,189,248,0.8)]">
         {opponent.alliance}
       </h4>
 

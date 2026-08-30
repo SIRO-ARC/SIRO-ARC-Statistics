@@ -6,7 +6,7 @@ export default function WinnerCard({ winner }) {
         <span className="text-2xl">🏆</span>
 
         <div>
-          <h3 className="text-2xl font-bold text-white">
+          <h3 className="text-2xl font-bold text-sky-400 drop-shadow-[0_0_8px_rgba(56,189,248,0.8)]">
             {winner.alliance}
           </h3>
 
