@@ -107,22 +107,19 @@ export default function RankingTable({
     )}
 
 
-    {mode !== "server" && (
-
-      <th
-        className="cursor-pointer p-4 text-left select-none"
-        onClick={() => onSort("tag")}
-      >
-        {mode === "history"
-          ? "Rank"
-          : view === "players"
-            ? "Alliance"
-            : "Tag"}{" "}
-        {sortField === "tag" &&
-          (sortDirection === "asc" ? "▲" : "▼")}
-      </th>
-
-    )}
+    {mode !== "server" &&
+  (mode === "history" || view === "players") && (
+    <th
+      className="cursor-pointer p-4 text-left select-none"
+      onClick={() => onSort("tag")}
+    >
+      {mode === "history"
+        ? "Rank"
+        : "Alliance"}{" "}
+      {sortField === "tag" &&
+        (sortDirection === "asc" ? "▲" : "▼")}
+    </th>
+)}
 
 
     {mode === "server" ? (
@@ -241,7 +238,8 @@ serverType === "alliance-pvp"
   )}
 
 
-  {mode !== "server" && (
+  {mode !== "server" &&
+  (mode === "history" || view === "players") && (
 
     <td className="p-4">
 

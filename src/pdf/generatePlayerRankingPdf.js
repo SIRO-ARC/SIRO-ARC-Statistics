@@ -35,53 +35,51 @@ const rankingTitle =
     headerSpacing: 40,
 
     columns: [
-      {
-        key: "rank",
-        header: "Rank",
-        width: 50,
-        align: "center",
-      },
-      {
-  key: "name",
-  header: fileType === "Player" ? "Player" : "Alliance",
-  width: "*",
-  align: "left",
-  accent: true,
-},
-      {
-        key: "tag",
-        header:
-          fileType === "Player"
-            ? "Alliance"
-            : "Tag",
-        width: 60,
-        align: "center",
-      },
-      {
-        key: "server",
-        header: "Server",
-        width: 60,
-        align: "center",
-      },
-      {
-  key:
-    dataType === "gathering"
-      ? "power"
-      : dataType === "pvp"
-        ? "power"
-        : "power",
+  {
+    key: "rank",
+    header: "Rank",
+    width: 50,
+    align: "center",
+  },
 
-  header:
-    dataType === "gathering"
-      ? "Resources"
-      : dataType === "pvp"
-        ? "Points"
-        : "Power",
+  {
+    key: "name",
+    header: fileType === "Player" ? "Player" : "Alliance",
+    width: "*",
+    align: "left",
+    accent: true,
+  },
 
-  width: 120,
-  align: "right",
-},
-    ],
+  ...(fileType === "Player"
+    ? [
+        {
+          key: "tag",
+          header: "Alliance",
+          width: 60,
+          align: "center",
+        },
+      ]
+    : []),
+
+  {
+    key: "server",
+    header: "Server",
+    width: 60,
+    align: "center",
+  },
+
+  {
+    key: "power",
+    header:
+      dataType === "gathering"
+        ? "Resources"
+        : dataType === "pvp"
+          ? "Points"
+          : "Power",
+    width: 120,
+    align: "right",
+  },
+],
 
     rankings,
 

@@ -254,38 +254,53 @@ function createAllianceCard(item, isWinner) {
 }
 
 function createMatchHeader(match) {
+    const totalParticipants =
+    (Number(match.winner?.participants) || 0) +
+    (match.opponents ?? []).reduce(
+      (total, opponent) =>
+        total + (Number(opponent.participants) || 0),
+      0
+    );
   return {
     stack: [
       {
-        text: `Warzone ${match.warzone}`,
-        fontSize: 22,
-        bold: true,
-        color: "#FF6A1A",
-        alignment: "center",
-      },
+  text: `Warzone ${match.warzone}`,
+  fontSize: 22,
+  bold: true,
+  color: "#FF6A1A",
+  alignment: "center",
+  margin: [0, 0, 0, 11],
+},
 
       {
-        columns: [
-          {
-            text: `Date: ${formatDate(match.date)}`,
-            alignment: "right",
-            fontSize: 9,
-            bold: true,
-            color: "#94A3B8",
-          },
+  columns: [
+  {
+    text: `Date: ${formatDate(match.date)}`,
+    alignment: "center",
+    fontSize: 9,
+    bold: true,
+    color: "#94A3B8",
+  },
 
-          {
-            text: `Time Slot: ${match.time ?? "-"}`,
-            alignment: "left",
-            fontSize: 9,
-            bold: true,
-            color: "#94A3B8",
-            margin: [15, 0, 0, 0],
-          },
-        ],
+  {
+    text: `Time Slot: ${match.time ?? "-"}`,
+    alignment: "center",
+    fontSize: 9,
+    bold: true,
+    color: "#94A3B8",
+  },
 
-        margin: [0, 5, 0, 18],
-      },
+  {
+    text: `Total Participants: ${totalParticipants}`,
+    alignment: "center",
+    fontSize: 9,
+    bold: true,
+    color: "#94A3B8",
+  },
+],
+
+  margin: [0, 5, 0, 18],
+},
     ],
   };
 }

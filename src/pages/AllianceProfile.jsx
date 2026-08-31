@@ -63,41 +63,38 @@ if (!alliance) {
 }
 
   return (
-    <div className="mx-auto max-w-5xl p-6">
-      <SnapshotHeader
-  type="Alliance Snapshot"
-  title={alliance.displayName}
-  snapshot={decodeURIComponent(week)}
-/>
+  <div className="mx-auto max-w-5xl p-6">
 
-  <div className="grid gap-6 md:grid-cols-2">
+    <SnapshotHeader
+      type="Alliance Snapshot"
+      title={alliance.displayName}
+      snapshot={decodeURIComponent(week)}
+    />
 
-  <StatCard
-    icon="🏆"
-    label="Rank"
-    value={`#${alliance.rank}`}
-  />
+    <div className="grid gap-6 text-center md:grid-cols-2">
 
-  <StatCard
-  icon="⚡"
-  label={category === "pvp" ? "Points" : "Power"}
-  value={alliance.power.toLocaleString()}
-/>
+      <StatCard
+        icon="🏆"
+        label="Rank"
+        value={`#${alliance.rank}`}
+      />
 
-  <StatCard
-    icon="🌍"
-    label="Server"
-    value={alliance.server}
-  />
+      <StatCard
+        icon="🌍"
+        label="Server"
+        value={alliance.server}
+      />
 
-  <StatCard
-    icon="🏷️"
-    label="Tag"
-    value={alliance.tag}
-  />
-
-</div>
+      <div className="md:col-span-2">
+        <StatCard
+          icon="⚡"
+          label={category === "pvp" ? "Points" : "Power"}
+          value={alliance.power.toLocaleString()}
+        />
+      </div>
 
     </div>
-  );
+
+  </div>
+);
 }

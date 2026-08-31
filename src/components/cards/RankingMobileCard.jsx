@@ -140,15 +140,19 @@ serverType === "alliance-pvp"
 
 )}
 
-{mode !== "server" && (
+{mode === "history" ? (
 
   <div className="mt-1 text-slate-400">
-    {mode === "history"
-      ? `Rank #${item.rank}`
-      : item.tag ?? "-"}
+    Rank #{item.rank}
   </div>
 
-)}
+) : view === "players" ? (
+
+  <div className="mt-1 text-slate-400">
+    {item.tag ?? "-"}
+  </div>
+
+) : null}
     </div>
   );
 }
