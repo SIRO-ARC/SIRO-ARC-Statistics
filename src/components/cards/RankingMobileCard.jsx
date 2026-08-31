@@ -146,7 +146,7 @@ serverType === "alliance-pvp"
     Rank #{item.rank}
   </div>
 
-) : view === "players" ? (
+) : mode !== "server" && view === "players" ? (
 
   <div className="mt-1 text-slate-400">
     {item.tag ?? "-"}
