@@ -10,6 +10,11 @@
     "name": "Aang Jr"
   },
   {
+    "displayName": "AangJr",
+    "tag": null,
+    "name": "AangJr"
+  },
+  {
     "displayName": "[SBC] Ajay",
     "tag": "SBC",
     "name": "Ajay"
@@ -58,6 +63,11 @@
     "displayName": "[FtA] Avatar Roku",
     "tag": "FtA",
     "name": "Avatar Roku"
+  },
+  {
+    "displayName": "[SMTH] Avi",
+    "tag": "SMTH",
+    "name": "Avi"
   },
   {
     "displayName": "Barbarian669",
@@ -118,6 +128,11 @@
     "displayName": "cabbageman",
     "tag": null,
     "name": "cabbageman"
+  },
+  {
+    "displayName": "CanadaMan",
+    "tag": null,
+    "name": "CanadaMan"
   },
   {
     "displayName": "[SMTH] CanadaMan",
@@ -320,6 +335,11 @@
     "name": "kris"
   },
   {
+    "displayName": "[Appa] leader_3122667",
+    "tag": "Appa",
+    "name": "leader_3122667"
+  },
+  {
     "displayName": "[Aaaa] leader_3132591",
     "tag": "Aaaa",
     "name": "leader_3132591"
@@ -368,6 +388,11 @@
     "displayName": "[OUT] Minime",
     "tag": "OUT",
     "name": "Minime"
+  },
+  {
+    "displayName": "Moon Bunny",
+    "tag": null,
+    "name": "Moon Bunny"
   },
   {
     "displayName": "[SMTH] Moon Bunny",
@@ -470,9 +495,19 @@
     "name": "Rachell"
   },
   {
+    "displayName": "RageGrewal",
+    "tag": null,
+    "name": "RageGrewal"
+  },
+  {
     "displayName": "[SMTH] RageGrewal",
     "tag": "SMTH",
     "name": "RageGrewal"
+  },
+  {
+    "displayName": "[FZD] Red 1 2026",
+    "tag": "FZD",
+    "name": "Red 1 2026"
   },
   {
     "displayName": "[FBA] Red 1 2026",
@@ -540,6 +575,11 @@
     "name": "Stever09"
   },
   {
+    "displayName": "Storm Shadow",
+    "tag": null,
+    "name": "Storm Shadow"
+  },
+  {
     "displayName": "[SBC] Syladon",
     "tag": "SBC",
     "name": "Syladon"
@@ -560,14 +600,29 @@
     "name": "Tepid"
   },
   {
+    "displayName": "[非戰不屈] Tia",
+    "tag": "非戰不屈",
+    "name": "Tia"
+  },
+  {
     "displayName": "[Ş​ᴇ戮 不尼 ] Tia",
     "tag": "Ş​ᴇ戮 不尼 ",
     "name": "Tia"
   },
   {
+    "displayName": "tonylandia",
+    "tag": null,
+    "name": "tonylandia"
+  },
+  {
     "displayName": "[SMTH] tonylandia",
     "tag": "SMTH",
     "name": "tonylandia"
+  },
+  {
+    "displayName": "Tyler2R3AL",
+    "tag": null,
+    "name": "Tyler2R3AL"
   },
   {
     "displayName": "[SMTH] Tyler2R3AL",

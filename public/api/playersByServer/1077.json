@@ -15,6 +15,11 @@
     "name": "Arcane"
   },
   {
+    "displayName": "[RxW] Ardy Nopo",
+    "tag": "RxW",
+    "name": "Ardy Nopo"
+  },
+  {
     "displayName": "[102] Aurelius",
     "tag": "102",
     "name": "Aurelius"
@@ -83,6 +88,11 @@
     "displayName": "[TBL] coopwins",
     "tag": "TBL",
     "name": "coopwins"
+  },
+  {
+    "displayName": "[TBL] CrankyGoober",
+    "tag": "TBL",
+    "name": "CrankyGoober"
   },
   {
     "displayName": "[TBL] cuzzo3231blu",
@@ -270,9 +280,19 @@
     "name": "leader_3709097"
   },
   {
+    "displayName": "leader_3710931",
+    "tag": null,
+    "name": "leader_3710931"
+  },
+  {
     "displayName": "[UTP] leader_3710931",
     "tag": "UTP",
     "name": "leader_3710931"
+  },
+  {
+    "displayName": "[Lies] leader_3715034",
+    "tag": "Lies",
+    "name": "leader_3715034"
   },
   {
     "displayName": "[Kng] leader_3717355",
@@ -293,6 +313,11 @@
     "displayName": "[UTP] leowinnie151",
     "tag": "UTP",
     "name": "leowinnie151"
+  },
+  {
+    "displayName": "[UTP] lerigoo",
+    "tag": "UTP",
+    "name": "lerigoo"
   },
   {
     "displayName": "[Aura] lerigoo",
@@ -370,6 +395,11 @@
     "name": "Ozai Cannon"
   },
   {
+    "displayName": "[TBL] Paragon",
+    "tag": "TBL",
+    "name": "Paragon"
+  },
+  {
     "displayName": "[TBL] Patrioto",
     "tag": "TBL",
     "name": "Patrioto"
@@ -398,6 +428,11 @@
     "displayName": "[RxW] Polly",
     "tag": "RxW",
     "name": "Polly"
+  },
+  {
+    "displayName": "[TBL] PsykoPølle",
+    "tag": "TBL",
+    "name": "PsykoPølle"
   },
   {
     "displayName": "[TBL] R3DBIRD",
@@ -523,6 +558,11 @@
     "displayName": "[RxW] Xuân Hoà",
     "tag": "RxW",
     "name": "Xuân Hoà"
+  },
+  {
+    "displayName": "[TBL] YahiaSensei",
+    "tag": "TBL",
+    "name": "YahiaSensei"
   },
   {
     "displayName": "[TBL] YähiaSensei",

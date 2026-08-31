@@ -30,6 +30,11 @@
     "name": "ASWANG"
   },
   {
+    "displayName": "[AGNI] ATLAS",
+    "tag": "AGNI",
+    "name": "ATLAS"
+  },
+  {
     "displayName": "[AGNI] Attackonsuga",
     "tag": "AGNI",
     "name": "Attackonsuga"
@@ -78,6 +83,11 @@
     "displayName": "[APPA] Babinski",
     "tag": "APPA",
     "name": "Babinski"
+  },
+  {
+    "displayName": "Balance1297",
+    "tag": null,
+    "name": "Balance1297"
   },
   {
     "displayName": "Bane",
@@ -215,6 +225,11 @@
     "name": "GeneralIroh"
   },
   {
+    "displayName": "[NOVA] Harley",
+    "tag": "NOVA",
+    "name": "Harley"
+  },
+  {
     "displayName": "[APPA] Hebekore",
     "tag": "APPA",
     "name": "Hebekore"
@@ -228,6 +243,11 @@
     "displayName": "HÖ Rï",
     "tag": null,
     "name": "HÖ Rï"
+  },
+  {
+    "displayName": "HÖRï",
+    "tag": null,
+    "name": "HÖRï"
   },
   {
     "displayName": "[AGNI] ICE",
@@ -320,6 +340,11 @@
     "name": "Laxus"
   },
   {
+    "displayName": "[PHTA] leader_150565",
+    "tag": "PHTA",
+    "name": "leader_150565"
+  },
+  {
     "displayName": "leader_182486",
     "tag": null,
     "name": "leader_182486"
@@ -370,6 +395,11 @@
     "name": "maeri"
   },
   {
+    "displayName": "[AGNI] Magik",
+    "tag": "AGNI",
+    "name": "Magik"
+  },
+  {
     "displayName": "[NOVA] Maharaja",
     "tag": "NOVA",
     "name": "Maharaja"
@@ -393,6 +423,11 @@
     "displayName": "[AGNI]Max Pegasus",
     "tag": "AGNI",
     "name": "Max Pegasus"
+  },
+  {
+    "displayName": "maylady",
+    "tag": null,
+    "name": "maylady"
   },
   {
     "displayName": "MegaDeath",
@@ -490,6 +525,11 @@
     "name": "Penk"
   },
   {
+    "displayName": "Peppers",
+    "tag": null,
+    "name": "Peppers"
+  },
+  {
     "displayName": "[JKM] Perun",
     "tag": "JKM",
     "name": "Perun"
@@ -498,6 +538,11 @@
     "displayName": "Phoezari",
     "tag": null,
     "name": "Phoezari"
+  },
+  {
+    "displayName": "Pianono",
+    "tag": null,
+    "name": "Pianono"
   },
   {
     "displayName": "[NOVA] pippinpaddle",
@@ -530,6 +575,11 @@
     "name": "Rey"
   },
   {
+    "displayName": "Rmarinho",
+    "tag": null,
+    "name": "Rmarinho"
+  },
+  {
     "displayName": "[AGNI] saviro",
     "tag": "AGNI",
     "name": "saviro"
@@ -538,6 +588,16 @@
     "displayName": "Sherry",
     "tag": null,
     "name": "Sherry"
+  },
+  {
+    "displayName": "[AGNI] Shroom Gnome",
+    "tag": "AGNI",
+    "name": "Shroom Gnome"
+  },
+  {
+    "displayName": "[LAT] SILVER",
+    "tag": "LAT",
+    "name": "SILVER"
   },
   {
     "displayName": "[JKM]songo",
@@ -580,9 +640,19 @@
     "name": "TacoDePastor"
   },
   {
+    "displayName": "[NOVA] Thalia",
+    "tag": "NOVA",
+    "name": "Thalia"
+  },
+  {
     "displayName": "[AGNI] Thea",
     "tag": "AGNI",
     "name": "Thea"
+  },
+  {
+    "displayName": "[SAGE] Tylee",
+    "tag": "SAGE",
+    "name": "Tylee"
   },
   {
     "displayName": "[AGNI] Unalaq",

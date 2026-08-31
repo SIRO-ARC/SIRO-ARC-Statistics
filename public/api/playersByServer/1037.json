@@ -10,6 +10,11 @@
     "name": "389 king"
   },
   {
+    "displayName": "[WHLT] Adam",
+    "tag": "WHLT",
+    "name": "Adam"
+  },
+  {
     "displayName": "[CRTZ] Ads",
     "tag": "CRTZ",
     "name": "Ads"
@@ -63,6 +68,11 @@
     "displayName": "[CORZ] BraLuke",
     "tag": "CORZ",
     "name": "BraLuke"
+  },
+  {
+    "displayName": "[WHLT] BUDDHARICE",
+    "tag": "WHLT",
+    "name": "BUDDHARICE"
   },
   {
     "displayName": "[CRTZ] Cactus juice",
@@ -285,6 +295,11 @@
     "name": "Iguaçu"
   },
   {
+    "displayName": "[CRTZ] InfinityBob",
+    "tag": "CRTZ",
+    "name": "InfinityBob"
+  },
+  {
     "displayName": "[CRTZ] InflnityBob",
     "tag": "CRTZ",
     "name": "InflnityBob"
@@ -355,6 +370,16 @@
     "name": "KiwiAntoneli"
   },
   {
+    "displayName": "[WHLT] Königswache",
+    "tag": "WHLT",
+    "name": "Königswache"
+  },
+  {
+    "displayName": "[CRTZ] Köri",
+    "tag": "CRTZ",
+    "name": "Köri"
+  },
+  {
     "displayName": "[CRTZ] Korrasami",
     "tag": "CRTZ",
     "name": "Korrasami"
@@ -403,6 +428,11 @@
     "displayName": "[OHNO] leader_2025569",
     "tag": "OHNO",
     "name": "leader_2025569"
+  },
+  {
+    "displayName": "[Ash] leader_2038416",
+    "tag": "Ash",
+    "name": "leader_2038416"
   },
   {
     "displayName": "[KOCH] leader_2038416",
@@ -505,6 +535,11 @@
     "name": "MARSmitL"
   },
   {
+    "displayName": "[WHLT] Melon Lord",
+    "tag": "WHLT",
+    "name": "Melon Lord"
+  },
+  {
     "displayName": "[OHNO] MelonLord",
     "tag": "OHNO",
     "name": "MelonLord"
@@ -598,6 +633,11 @@
     "displayName": "[CORZ]sillius",
     "tag": "CORZ",
     "name": "sillius"
+  },
+  {
+    "displayName": "[CRTZ] SirCurt",
+    "tag": "CRTZ",
+    "name": "SirCurt"
   },
   {
     "displayName": "[WHLT] Skar King",

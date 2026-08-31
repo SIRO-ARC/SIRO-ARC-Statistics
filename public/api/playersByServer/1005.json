@@ -1,5 +1,10 @@
 [
   {
+    "displayName": "[Loti] Aangfan",
+    "tag": "Loti",
+    "name": "Aangfan"
+  },
+  {
     "displayName": "[SUN]Abicus",
     "tag": "SUN",
     "name": "Abicus"
@@ -35,6 +40,11 @@
     "name": "ApPabu"
   },
   {
+    "displayName": "[Loti] AppaYipYip",
+    "tag": "Loti",
+    "name": "AppaYipYip"
+  },
+  {
     "displayName": "[SUN] AppaYipYip",
     "tag": "SUN",
     "name": "AppaYipYip"
@@ -55,14 +65,29 @@
     "name": "Ashemae"
   },
   {
+    "displayName": "[Loti] AvatarBrit",
+    "tag": "Loti",
+    "name": "AvatarBrit"
+  },
+  {
     "displayName": "[SUN] AvatarBrit",
     "tag": "SUN",
     "name": "AvatarBrit"
   },
   {
+    "displayName": "[WLAU] AvatarTNT",
+    "tag": "WLAU",
+    "name": "AvatarTNT"
+  },
+  {
     "displayName": "[SUN] AvatarTNT",
     "tag": "SUN",
     "name": "AvatarTNT"
+  },
+  {
+    "displayName": "[Loti] Azuula",
+    "tag": "Loti",
+    "name": "Azuula"
   },
   {
     "displayName": "[Loti] BigBlue33",
@@ -150,6 +175,11 @@
     "name": "devilsalad"
   },
   {
+    "displayName": "[WLAU] Diesel894",
+    "tag": "WLAU",
+    "name": "Diesel894"
+  },
+  {
     "displayName": "[Loti] Dragon874",
     "tag": "Loti",
     "name": "Dragon874"
@@ -190,6 +220,11 @@
     "name": "DUMO"
   },
   {
+    "displayName": "[Loti] Eætmêöũt",
+    "tag": "Loti",
+    "name": "Eætmêöũt"
+  },
+  {
     "displayName": "[Loti] Esteban",
     "tag": "Loti",
     "name": "Esteban"
@@ -213,6 +248,11 @@
     "displayName": "[SUN] evangελιση",
     "tag": "SUN",
     "name": "evangελιση"
+  },
+  {
+    "displayName": "[SUN] ExiledPrince",
+    "tag": "SUN",
+    "name": "ExiledPrince"
   },
   {
     "displayName": "[Loti] Eyleson",
@@ -260,6 +300,16 @@
     "name": "Fulcrum"
   },
   {
+    "displayName": "[Loti] Gojo Satoru",
+    "tag": "Loti",
+    "name": "Gojo Satoru"
+  },
+  {
+    "displayName": "[Loti] GroundSpider",
+    "tag": "Loti",
+    "name": "GroundSpider"
+  },
+  {
     "displayName": "[SUN] GroundSpider",
     "tag": "SUN",
     "name": "GroundSpider"
@@ -290,6 +340,11 @@
     "name": "HOOTHOOT"
   },
   {
+    "displayName": "Infinity",
+    "tag": null,
+    "name": "Infinity"
+  },
+  {
     "displayName": "[SUN] Infinity",
     "tag": "SUN",
     "name": "Infinity"
@@ -313,6 +368,11 @@
     "displayName": "James",
     "tag": null,
     "name": "James"
+  },
+  {
+    "displayName": "[Loti] Jìnx",
+    "tag": "Loti",
+    "name": "Jìnx"
   },
   {
     "displayName": "[WLAU] July",
@@ -375,6 +435,11 @@
     "name": "Kovess"
   },
   {
+    "displayName": "Kraze",
+    "tag": null,
+    "name": "Kraze"
+  },
+  {
     "displayName": "[SUN] Kraze",
     "tag": "SUN",
     "name": "Kraze"
@@ -403,6 +468,16 @@
     "displayName": "link87",
     "tag": null,
     "name": "link87"
+  },
+  {
+    "displayName": "Lord Bada",
+    "tag": null,
+    "name": "Lord Bada"
+  },
+  {
+    "displayName": "LukeS137",
+    "tag": null,
+    "name": "LukeS137"
   },
   {
     "displayName": "[SUN] LukeS137",
@@ -615,6 +690,11 @@
     "name": "ShreksyHag"
   },
   {
+    "displayName": "SONAMxTAGAH",
+    "tag": null,
+    "name": "SONAMxTAGAH"
+  },
+  {
     "displayName": "[SUN] SONAMxTAGAH",
     "tag": "SUN",
     "name": "SONAMxTAGAH"
@@ -623,6 +703,11 @@
     "displayName": "[SUN]Sorry TooOP",
     "tag": "SUN",
     "name": "Sorry TooOP"
+  },
+  {
+    "displayName": "SorryTooOP",
+    "tag": null,
+    "name": "SorryTooOP"
   },
   {
     "displayName": "[SUN] SorryTooOP",
@@ -665,6 +750,11 @@
     "name": "Toph B"
   },
   {
+    "displayName": "[Loti] Turles",
+    "tag": "Loti",
+    "name": "Turles"
+  },
+  {
     "displayName": "Turles",
     "tag": null,
     "name": "Turles"
@@ -678,6 +768,11 @@
     "displayName": "[kyln] Unicorn Deet",
     "tag": "kyln",
     "name": "Unicorn Deet"
+  },
+  {
+    "displayName": "Vessel",
+    "tag": null,
+    "name": "Vessel"
   },
   {
     "displayName": "[SUN] Vessel",
@@ -713,6 +808,11 @@
     "displayName": "[SUN] Zedkilz",
     "tag": "SUN",
     "name": "Zedkilz"
+  },
+  {
+    "displayName": "[Loti] Zetsubou",
+    "tag": "Loti",
+    "name": "Zetsubou"
   },
   {
     "displayName": "[SUN] ZIMBA KAP",

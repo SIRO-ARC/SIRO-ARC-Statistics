@@ -30,6 +30,11 @@
     "name": "Ash"
   },
   {
+    "displayName": "[RTS] Azulon",
+    "tag": "RTS",
+    "name": "Azulon"
+  },
+  {
     "displayName": "ᴮᴳ Broly",
     "tag": null,
     "name": "ᴮᴳ Broly"
@@ -65,9 +70,19 @@
     "name": "Buddha Prime"
   },
   {
+    "displayName": "[YIN] BUDDHABULL",
+    "tag": "YIN",
+    "name": "BUDDHABULL"
+  },
+  {
     "displayName": "Cami",
     "tag": null,
     "name": "Cami"
+  },
+  {
+    "displayName": "[YIN] CaptBarbossa",
+    "tag": "YIN",
+    "name": "CaptBarbossa"
   },
   {
     "displayName": "CEPNI",
@@ -145,6 +160,11 @@
     "name": "Fatkat44"
   },
   {
+    "displayName": "Fefiii24",
+    "tag": null,
+    "name": "Fefiii24"
+  },
+  {
     "displayName": "Feflii24",
     "tag": null,
     "name": "Feflii24"
@@ -218,6 +238,11 @@
     "displayName": "HΔNZO",
     "tag": null,
     "name": "HΔNZO"
+  },
+  {
+    "displayName": "HΔNZΘ",
+    "tag": null,
+    "name": "HΔNZΘ"
   },
   {
     "displayName": "[YIN] IslandBreeze",
@@ -315,9 +340,19 @@
     "name": "leader_3641872"
   },
   {
+    "displayName": "[119] lilackitten",
+    "tag": "119",
+    "name": "lilackitten"
+  },
+  {
     "displayName": "[YIN] LilSnow",
     "tag": "YIN",
     "name": "LilSnow"
+  },
+  {
+    "displayName": "[TBP] Lucolas",
+    "tag": "TBP",
+    "name": "Lucolas"
   },
   {
     "displayName": "Magnus",
@@ -388,6 +423,11 @@
     "displayName": "[YIN] Omanthedude",
     "tag": "YIN",
     "name": "Omanthedude"
+  },
+  {
+    "displayName": "[Kit] Orion",
+    "tag": "Kit",
+    "name": "Orion"
   },
   {
     "displayName": "Phantom",
@@ -503,6 +543,11 @@
     "displayName": "SparkyDePyro",
     "tag": null,
     "name": "SparkyDePyro"
+  },
+  {
+    "displayName": "[Fing] Stacey",
+    "tag": "Fing",
+    "name": "Stacey"
   },
   {
     "displayName": "StormSoldier",

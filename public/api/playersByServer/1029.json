@@ -10,6 +10,11 @@
     "name": "Aelyn"
   },
   {
+    "displayName": "[TIE] AJLChosen",
+    "tag": "TIE",
+    "name": "AJLChosen"
+  },
+  {
     "displayName": "[TIE] Anwood16",
     "tag": "TIE",
     "name": "Anwood16"
@@ -63,6 +68,11 @@
     "displayName": "[KND] Bela",
     "tag": "KND",
     "name": "Bela"
+  },
+  {
+    "displayName": "[KND] Bela ᴮᴿ",
+    "tag": "KND",
+    "name": "Bela ᴮᴿ"
   },
   {
     "displayName": "[KND] Billions",
@@ -140,6 +150,11 @@
     "name": "Cuban Zeus"
   },
   {
+    "displayName": "[KND] DareDevil",
+    "tag": "KND",
+    "name": "DareDevil"
+  },
+  {
     "displayName": "[KND] Dasko",
     "tag": "KND",
     "name": "Dasko"
@@ -153,6 +168,11 @@
     "displayName": "[KND] DeezFrimps",
     "tag": "KND",
     "name": "DeezFrimps"
+  },
+  {
+    "displayName": "[KND] \u0000\u0000\u0000\u0000\u0000\u0000\u0000ＤＭＯＮツ",
+    "tag": "KND",
+    "name": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000ＤＭＯＮツ"
   },
   {
     "displayName": "[KND] Don Pedro",
@@ -178,6 +198,11 @@
     "displayName": "[KND] Edu",
     "tag": "KND",
     "name": "Edu"
+  },
+  {
+    "displayName": "[PPG] Eve010",
+    "tag": "PPG",
+    "name": "Eve010"
   },
   {
     "displayName": "[KND] Fabrizio",
@@ -228,6 +253,11 @@
     "displayName": "Hadsae",
     "tag": null,
     "name": "Hadsae"
+  },
+  {
+    "displayName": "[KND] Homeylakshᴮᴿ",
+    "tag": "KND",
+    "name": "Homeylakshᴮᴿ"
   },
   {
     "displayName": "[KND] House Senger",
@@ -320,6 +350,11 @@
     "name": "Jerry Werld"
   },
   {
+    "displayName": "[KND] Jerry World",
+    "tag": "KND",
+    "name": "Jerry World"
+  },
+  {
     "displayName": "[TLB] Jess123",
     "tag": "TLB",
     "name": "Jess123"
@@ -380,6 +415,11 @@
     "name": "Juan"
   },
   {
+    "displayName": "[CRep] Kaele",
+    "tag": "CRep",
+    "name": "Kaele"
+  },
+  {
     "displayName": "[KND] khan",
     "tag": "KND",
     "name": "khan"
@@ -418,6 +458,11 @@
     "displayName": "[KND] ˡᶜʰᵃˡᶜʰᵘᵃOＭƠ Nツ",
     "tag": "KND",
     "name": "ˡᶜʰᵃˡᶜʰᵘᵃOＭƠ Nツ"
+  },
+  {
+    "displayName": "[KND] Le Leader",
+    "tag": "KND",
+    "name": "Le Leader"
   },
   {
     "displayName": "[KND] leader_1575111",
@@ -510,6 +555,11 @@
     "name": "NewJerusalem"
   },
   {
+    "displayName": "[KND] Numb ᴮᴿ",
+    "tag": "KND",
+    "name": "Numb ᴮᴿ"
+  },
+  {
     "displayName": "[BSS] Pakku",
     "tag": "BSS",
     "name": "Pakku"
@@ -573,6 +623,11 @@
     "displayName": "[CRep] Ravaa",
     "tag": "CRep",
     "name": "Ravaa"
+  },
+  {
+    "displayName": "[KND] Rbff",
+    "tag": "KND",
+    "name": "Rbff"
   },
   {
     "displayName": "[TLB] RELLER",
@@ -770,8 +825,18 @@
     "name": "xXHaseo"
   },
   {
+    "displayName": "[KND] xXHaseo ᴬᴿᴳ",
+    "tag": "KND",
+    "name": "xXHaseo ᴬᴿᴳ"
+  },
+  {
     "displayName": "[KND] yanic xD",
     "tag": "KND",
     "name": "yanic xD"
+  },
+  {
+    "displayName": "[CRep] Zaheer",
+    "tag": "CRep",
+    "name": "Zaheer"
   }
 ]

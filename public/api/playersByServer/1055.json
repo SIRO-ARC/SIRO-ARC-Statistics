@@ -50,6 +50,11 @@
     "name": "Aretan"
   },
   {
+    "displayName": "[ZONE] ASMODEO",
+    "tag": "ZONE",
+    "name": "ASMODEO"
+  },
+  {
     "displayName": "Aurora",
     "tag": null,
     "name": "Aurora"
@@ -295,6 +300,11 @@
     "name": "Gojira"
   },
   {
+    "displayName": "[dash] Goro",
+    "tag": "dash",
+    "name": "Goro"
+  },
+  {
     "displayName": "gothboss",
     "tag": null,
     "name": "gothboss"
@@ -345,6 +355,11 @@
     "name": "Jambo"
   },
   {
+    "displayName": "[ZONE] Jarvis",
+    "tag": "ZONE",
+    "name": "Jarvis"
+  },
+  {
     "displayName": "[DPk] Jarvis",
     "tag": "DPk",
     "name": "Jarvis"
@@ -393,6 +408,11 @@
     "displayName": "[MSFT]JoshLTea",
     "tag": "MSFT",
     "name": "JoshLTea"
+  },
+  {
+    "displayName": "Katara",
+    "tag": null,
+    "name": "Katara"
   },
   {
     "displayName": "[WLB] kelliebeeee",
@@ -540,6 +560,16 @@
     "name": "MewOtsutsukí"
   },
   {
+    "displayName": "[FARM] Mewtwo",
+    "tag": "FARM",
+    "name": "Mewtwo"
+  },
+  {
+    "displayName": "[WLB] MiniSamuDave",
+    "tag": "WLB",
+    "name": "MiniSamuDave"
+  },
+  {
     "displayName": "[ZONE] Misery",
     "tag": "ZONE",
     "name": "Misery"
@@ -570,6 +600,11 @@
     "name": "N3sith4n"
   },
   {
+    "displayName": "[FARM] nataniah",
+    "tag": "FARM",
+    "name": "nataniah"
+  },
+  {
     "displayName": "Nate",
     "tag": null,
     "name": "Nate"
@@ -595,6 +630,11 @@
     "name": "ozmium"
   },
   {
+    "displayName": "[Help] Pandi0612",
+    "tag": "Help",
+    "name": "Pandi0612"
+  },
+  {
     "displayName": "[KING] Pandi0612",
     "tag": "KING",
     "name": "Pandi0612"
@@ -608,6 +648,11 @@
     "displayName": "Pernix",
     "tag": null,
     "name": "Pernix"
+  },
+  {
+    "displayName": "Pinkrose165",
+    "tag": null,
+    "name": "Pinkrose165"
   },
   {
     "displayName": "raven",
@@ -685,6 +730,11 @@
     "name": "Schnucksy"
   },
   {
+    "displayName": "[ZONE] Shazza",
+    "tag": "ZONE",
+    "name": "Shazza"
+  },
+  {
     "displayName": "[WLB] ShiniYmir",
     "tag": "WLB",
     "name": "ShiniYmir"
@@ -693,6 +743,11 @@
     "displayName": "[LEAF] Shisui",
     "tag": "LEAF",
     "name": "Shisui"
+  },
+  {
+    "displayName": "[LOTO] skip89",
+    "tag": "LOTO",
+    "name": "skip89"
   },
   {
     "displayName": "[ZONE] SlyHai07",
@@ -708,6 +763,11 @@
     "displayName": "[WLB] Sorudas",
     "tag": "WLB",
     "name": "Sorudas"
+  },
+  {
+    "displayName": "[NART] SorudasJr",
+    "tag": "NART",
+    "name": "SorudasJr"
   },
   {
     "displayName": "[WLB] Squiglypikel",
@@ -740,6 +800,11 @@
     "name": "TommyGun72"
   },
   {
+    "displayName": "[WLB] turtleduck",
+    "tag": "WLB",
+    "name": "turtleduck"
+  },
+  {
     "displayName": "Tzlil94",
     "tag": null,
     "name": "Tzlil94"
@@ -753,6 +818,16 @@
     "displayName": "Vesi Johtaaja",
     "tag": null,
     "name": "Vesi Johtaaja"
+  },
+  {
+    "displayName": "VesiJohtaaja",
+    "tag": null,
+    "name": "VesiJohtaaja"
+  },
+  {
+    "displayName": "[ZONE] Wardley",
+    "tag": "ZONE",
+    "name": "Wardley"
   },
   {
     "displayName": "Yochanan",
@@ -788,6 +863,11 @@
     "displayName": "[MSFT]zelda3469",
     "tag": "MSFT",
     "name": "zelda3469"
+  },
+  {
+    "displayName": "[DPk] Zuko95",
+    "tag": "DPk",
+    "name": "Zuko95"
   },
   {
     "displayName": "[MSFT] ｲﾑ/",

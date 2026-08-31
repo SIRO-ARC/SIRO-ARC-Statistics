@@ -20,6 +20,11 @@
     "name": "Angerflst"
   },
   {
+    "displayName": "[Oath] Anni4Göki",
+    "tag": "Oath",
+    "name": "Anni4Göki"
+  },
+  {
     "displayName": "[Oath] Annihilator",
     "tag": "Oath",
     "name": "Annihilator"
@@ -190,6 +195,11 @@
     "name": "Drexel243"
   },
   {
+    "displayName": "[TEA] ɖąŋı1203",
+    "tag": "TEA",
+    "name": "ɖąŋı1203"
+  },
+  {
     "displayName": "[Oath] ëeffok",
     "tag": "Oath",
     "name": "ëeffok"
@@ -230,9 +240,24 @@
     "name": "Freddy"
   },
   {
+    "displayName": "[Oath] GabbaGandalf",
+    "tag": "Oath",
+    "name": "GabbaGandalf"
+  },
+  {
     "displayName": "[Oath] Gabeo",
     "tag": "Oath",
     "name": "Gabeo"
+  },
+  {
+    "displayName": "[Oath] Gabeo4Göki",
+    "tag": "Oath",
+    "name": "Gabeo4Göki"
+  },
+  {
+    "displayName": "[Eden] GameStop Bro",
+    "tag": "Eden",
+    "name": "GameStop Bro"
   },
   {
     "displayName": "[Eden] GEN",
@@ -255,9 +280,109 @@
     "name": "Göki"
   },
   {
+    "displayName": "[Oath] GÖKI Arie",
+    "tag": "Oath",
+    "name": "GÖKI Arie"
+  },
+  {
+    "displayName": "[Oath] Göki Göddess",
+    "tag": "Oath",
+    "name": "Göki Göddess"
+  },
+  {
+    "displayName": "[Oath] Göki Party",
+    "tag": "Oath",
+    "name": "Göki Party"
+  },
+  {
+    "displayName": "[Oath] GökiEternal",
+    "tag": "Oath",
+    "name": "GökiEternal"
+  },
+  {
+    "displayName": "[Oath] GÖKIFlyHigh",
+    "tag": "Oath",
+    "name": "GÖKIFlyHigh"
+  },
+  {
+    "displayName": "[Oath] GökiƘöhkí",
+    "tag": "Oath",
+    "name": "GökiƘöhkí"
+  },
+  {
+    "displayName": "[TEA] Gökįs Åįr",
+    "tag": "TEA",
+    "name": "Gökįs Åįr"
+  },
+  {
+    "displayName": "[Oath] Gokis Shadow",
+    "tag": "Oath",
+    "name": "Gokis Shadow"
+  },
+  {
+    "displayName": "[Eden] Gökis uncle",
+    "tag": "Eden",
+    "name": "Gökis uncle"
+  },
+  {
+    "displayName": "[Oath] GøkisBrtendr",
+    "tag": "Oath",
+    "name": "GøkisBrtendr"
+  },
+  {
+    "displayName": "[Eden] GökisCajun",
+    "tag": "Eden",
+    "name": "GökisCajun"
+  },
+  {
+    "displayName": "[Eden] GökisChstery",
+    "tag": "Eden",
+    "name": "GökisChstery"
+  },
+  {
+    "displayName": "[Eden] GökisDrexal",
+    "tag": "Eden",
+    "name": "GökisDrexal"
+  },
+  {
+    "displayName": "[Eden] GökisGEN",
+    "tag": "Eden",
+    "name": "GökisGEN"
+  },
+  {
+    "displayName": "[Oath] GökisHitman",
+    "tag": "Oath",
+    "name": "GökisHitman"
+  },
+  {
+    "displayName": "[Oath] GOKIsPharte",
+    "tag": "Oath",
+    "name": "GOKIsPharte"
+  },
+  {
+    "displayName": "[Oath] Gokithesith",
+    "tag": "Oath",
+    "name": "Gokithesith"
+  },
+  {
+    "displayName": "[Oath] GöƙīÆřēŞ",
+    "tag": "Oath",
+    "name": "GöƙīÆřēŞ"
+  },
+  {
     "displayName": "[Oath] Gretchen",
     "tag": "Oath",
     "name": "Gretchen"
+  },
+  {
+    "displayName": "[Oath] Hail Göki",
+    "tag": "Oath",
+    "name": "Hail Göki"
+  },
+  {
+    "displayName": "[Eden] HailGökiSuus",
+    "tag": "Eden",
+    "name": "HailGökiSuus"
   },
   {
     "displayName": "[Oath] Holmes",
@@ -265,9 +390,29 @@
     "name": "Holmes"
   },
   {
+    "displayName": "[Oath] Hölmes",
+    "tag": "Oath",
+    "name": "Hölmes"
+  },
+  {
+    "displayName": "[Oath] HønørOfGöki",
+    "tag": "Oath",
+    "name": "HønørOfGöki"
+  },
+  {
+    "displayName": "[Oath] HøtGöki",
+    "tag": "Oath",
+    "name": "HøtGöki"
+  },
+  {
     "displayName": "[Oath] Høttea",
     "tag": "Oath",
     "name": "Høttea"
+  },
+  {
+    "displayName": "[TEA] Ice4Göki",
+    "tag": "TEA",
+    "name": "Ice4Göki"
   },
   {
     "displayName": "[TEA] IceSlayer",
@@ -293,6 +438,11 @@
     "displayName": "[TEA] jedzz",
     "tag": "TEA",
     "name": "jedzz"
+  },
+  {
+    "displayName": "[Eden] Jef78",
+    "tag": "Eden",
+    "name": "Jef78"
   },
   {
     "displayName": "[TEA] jershkersh",
@@ -365,6 +515,11 @@
     "name": "KöhPíngüinª"
   },
   {
+    "displayName": "[TEA] koko",
+    "tag": "TEA",
+    "name": "koko"
+  },
+  {
     "displayName": "[Oath] koko",
     "tag": "Oath",
     "name": "koko"
@@ -373,6 +528,11 @@
     "displayName": "[Oath] Krønøs",
     "tag": "Oath",
     "name": "Krønøs"
+  },
+  {
+    "displayName": "[TEA] kurisuten",
+    "tag": "TEA",
+    "name": "kurisuten"
   },
   {
     "displayName": "[Oath] ŁagërɫhąKöh",
@@ -440,13 +600,13 @@
     "name": "MATRIX202c"
   },
   {
-    "displayName": "[0420] MATRIX909c",
-    "tag": "0420",
+    "displayName": "[Oath] MATRIX909c",
+    "tag": "Oath",
     "name": "MATRIX909c"
   },
   {
-    "displayName": "[Oath] MATRIX909c",
-    "tag": "Oath",
+    "displayName": "[0420] MATRIX909c",
+    "tag": "0420",
     "name": "MATRIX909c"
   },
   {
@@ -488,6 +648,11 @@
     "displayName": "[Eden] NaNaPower",
     "tag": "Eden",
     "name": "NaNaPower"
+  },
+  {
+    "displayName": "[Eden] NaNapwerGOki",
+    "tag": "Eden",
+    "name": "NaNapwerGOki"
   },
   {
     "displayName": "[TEA] Nic0",
@@ -535,9 +700,19 @@
     "name": "Øwl"
   },
   {
+    "displayName": "[Oath] Peri4Göki",
+    "tag": "Oath",
+    "name": "Peri4Göki"
+  },
+  {
     "displayName": "[Oath] Pericolun",
     "tag": "Oath",
     "name": "Pericolun"
+  },
+  {
+    "displayName": "[Eden] PokeGØki",
+    "tag": "Eden",
+    "name": "PokeGØki"
   },
   {
     "displayName": "[Oath] Praimfaya",
@@ -563,6 +738,11 @@
     "displayName": "[Oath] QueenAzheda",
     "tag": "Oath",
     "name": "QueenAzheda"
+  },
+  {
+    "displayName": "[Eden] Rädiänt Göki",
+    "tag": "Eden",
+    "name": "Rädiänt Göki"
   },
   {
     "displayName": "[Eden] Ragnarr",
@@ -640,6 +820,11 @@
     "name": "Samkee"
   },
   {
+    "displayName": "[Oath] SandGØKI",
+    "tag": "Oath",
+    "name": "SandGØKI"
+  },
+  {
     "displayName": "[Eden] SapphireFire",
     "tag": "Eden",
     "name": "SapphireFire"
@@ -653,6 +838,11 @@
     "displayName": "[Oath] Scarfo",
     "tag": "Oath",
     "name": "Scarfo"
+  },
+  {
+    "displayName": "[Oath] ScubaGöki",
+    "tag": "Oath",
+    "name": "ScubaGöki"
   },
   {
     "displayName": "[Oath] ScubaSteve",
@@ -678,6 +868,11 @@
     "displayName": "[Oath] SØL",
     "tag": "Oath",
     "name": "SØL"
+  },
+  {
+    "displayName": "[Oath] SØL of Göki",
+    "tag": "Oath",
+    "name": "SØL of Göki"
   },
   {
     "displayName": "[HOPE] sorry",
@@ -745,6 +940,11 @@
     "name": "TØM"
   },
   {
+    "displayName": "[Oath] TripleGöki",
+    "tag": "Oath",
+    "name": "TripleGöki"
+  },
+  {
     "displayName": "[Oath] Tripleh3195",
     "tag": "Oath",
     "name": "Tripleh3195"
@@ -763,6 +963,11 @@
     "displayName": "[Oath] UncleKane9",
     "tag": "Oath",
     "name": "UncleKane9"
+  },
+  {
+    "displayName": "[Oath] UncleLLGOKI",
+    "tag": "Oath",
+    "name": "UncleLLGOKI"
   },
   {
     "displayName": "[Oath] UnclePanther",
@@ -803,6 +1008,11 @@
     "displayName": "[Oath] Xerel Vega",
     "tag": "Oath",
     "name": "Xerel Vega"
+  },
+  {
+    "displayName": "[Oath] YamiHana",
+    "tag": "Oath",
+    "name": "YamiHana"
   },
   {
     "displayName": "[TEA] YoungReek",

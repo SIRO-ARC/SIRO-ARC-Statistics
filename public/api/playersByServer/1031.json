@@ -30,9 +30,19 @@
     "name": "andrecho"
   },
   {
+    "displayName": "[AWOL] AngryGrandpa",
+    "tag": "AWOL",
+    "name": "AngryGrandpa"
+  },
+  {
     "displayName": "[Kai] ATNTO",
     "tag": "Kai",
     "name": "ATNTO"
+  },
+  {
+    "displayName": "[AWOL] Avatar 731",
+    "tag": "AWOL",
+    "name": "Avatar 731"
   },
   {
     "displayName": "[AWOL] Avatar Evie",
@@ -75,6 +85,11 @@
     "name": "BeardedNewt"
   },
   {
+    "displayName": "[AWOL] Ben Dover",
+    "tag": "AWOL",
+    "name": "Ben Dover"
+  },
+  {
     "displayName": "[Kai] Ben Dover",
     "tag": "Kai",
     "name": "Ben Dover"
@@ -95,6 +110,11 @@
     "name": "BigS145"
   },
   {
+    "displayName": "[Kai] Blanka",
+    "tag": "Kai",
+    "name": "Blanka"
+  },
+  {
     "displayName": "[GWAG] Blanka",
     "tag": "GWAG",
     "name": "Blanka"
@@ -113,6 +133,11 @@
     "displayName": "[Ele]Blind Bandit",
     "tag": "Ele",
     "name": "Blind Bandit"
+  },
+  {
+    "displayName": "[Kai] BOOGIWOOGIWU",
+    "tag": "Kai",
+    "name": "BOOGIWOOGIWU"
   },
   {
     "displayName": "[Kai] BOOGIWOOGIẂÚ",
@@ -230,6 +255,11 @@
     "name": "Eržil as"
   },
   {
+    "displayName": "[Kai] Eržilas",
+    "tag": "Kai",
+    "name": "Eržilas"
+  },
+  {
     "displayName": "[AWOL] Eržilas",
     "tag": "AWOL",
     "name": "Eržilas"
@@ -250,6 +280,11 @@
     "name": "Falanix"
   },
   {
+    "displayName": "[AWOL] FedeXz",
+    "tag": "AWOL",
+    "name": "FedeXz"
+  },
+  {
     "displayName": "[Kai] Feetz",
     "tag": "Kai",
     "name": "Feetz"
@@ -263,6 +298,16 @@
     "displayName": "[Kai] Firelord Ben",
     "tag": "Kai",
     "name": "Firelord Ben"
+  },
+  {
+    "displayName": "[AWOL] FirelordOzai",
+    "tag": "AWOL",
+    "name": "FirelordOzai"
+  },
+  {
+    "displayName": "[AWOL] Flawzin",
+    "tag": "AWOL",
+    "name": "Flawzin"
   },
   {
     "displayName": "[GWAG] Floop",
@@ -305,6 +350,11 @@
     "name": "haku"
   },
   {
+    "displayName": "[Kai] HellCat",
+    "tag": "Kai",
+    "name": "HellCat"
+  },
+  {
     "displayName": "[AWOL] HolyGhost",
     "tag": "AWOL",
     "name": "HolyGhost"
@@ -313,6 +363,11 @@
     "displayName": "[Kai] HUFFA",
     "tag": "Kai",
     "name": "HUFFA"
+  },
+  {
+    "displayName": "[Kai] IcsDad",
+    "tag": "Kai",
+    "name": "IcsDad"
   },
   {
     "displayName": "[GWAG] ᴵˢˢChamo",
@@ -353,6 +408,11 @@
     "displayName": "[GWAG] kelbobaggins",
     "tag": "GWAG",
     "name": "kelbobaggins"
+  },
+  {
+    "displayName": "[AWOL] King Raw",
+    "tag": "AWOL",
+    "name": "King Raw"
   },
   {
     "displayName": "[Kai] King Raw",
@@ -495,6 +555,11 @@
     "name": "Orphic"
   },
   {
+    "displayName": "[Kai] Otter",
+    "tag": "Kai",
+    "name": "Otter"
+  },
+  {
     "displayName": "[GWAG] outsidemid33",
     "tag": "GWAG",
     "name": "outsidemid33"
@@ -580,6 +645,11 @@
     "name": "seekndstroy"
   },
   {
+    "displayName": "[Kai] Sekhmet",
+    "tag": "Kai",
+    "name": "Sekhmet"
+  },
+  {
     "displayName": "[GWAG] Sekhmet",
     "tag": "GWAG",
     "name": "Sekhmet"
@@ -620,6 +690,11 @@
     "name": "ShinyDemon"
   },
   {
+    "displayName": "[AWOL] sickwangs",
+    "tag": "AWOL",
+    "name": "sickwangs"
+  },
+  {
     "displayName": "[Kai] sickwangs",
     "tag": "Kai",
     "name": "sickwangs"
@@ -633,6 +708,11 @@
     "displayName": "[BOR] Sidetrack",
     "tag": "BOR",
     "name": "Sidetrack"
+  },
+  {
+    "displayName": "[AWOL] Sonja",
+    "tag": "AWOL",
+    "name": "Sonja"
   },
   {
     "displayName": "[Kai] Sonja",
@@ -690,6 +770,11 @@
     "name": "Streaks07"
   },
   {
+    "displayName": "[AWOL] SwanSong",
+    "tag": "AWOL",
+    "name": "SwanSong"
+  },
+  {
     "displayName": "[Kai] Swiftie",
     "tag": "Kai",
     "name": "Swiftie"
@@ -713,6 +798,11 @@
     "displayName": "[Kai] ThatDannGuy",
     "tag": "Kai",
     "name": "ThatDannGuy"
+  },
+  {
+    "displayName": "[Kai] Tim",
+    "tag": "Kai",
+    "name": "Tim"
   },
   {
     "displayName": "[AWOL] Tim",
@@ -748,6 +838,11 @@
     "displayName": "[Kai] Tom Bombadil",
     "tag": "Kai",
     "name": "Tom Bombadil"
+  },
+  {
+    "displayName": "[Kai] Totopo",
+    "tag": "Kai",
+    "name": "Totopo"
   },
   {
     "displayName": "[AWOL] Totopo",

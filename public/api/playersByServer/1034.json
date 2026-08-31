@@ -15,6 +15,11 @@
     "name": "3cheers"
   },
   {
+    "displayName": "51oux",
+    "tag": null,
+    "name": "51oux"
+  },
+  {
     "displayName": "[ARC] 51oux",
     "tag": "ARC",
     "name": "51oux"
@@ -63,6 +68,11 @@
     "displayName": "[ARC] alleyesonme",
     "tag": "ARC",
     "name": "alleyesonme"
+  },
+  {
+    "displayName": "[DAD] Antopia",
+    "tag": "DAD",
+    "name": "Antopia"
   },
   {
     "displayName": "ARChNemesis",
@@ -130,6 +140,11 @@
     "name": "Beer me"
   },
   {
+    "displayName": "[Farm] BellaTriX",
+    "tag": "Farm",
+    "name": "BellaTriX"
+  },
+  {
     "displayName": "[Dota] BellaTriX",
     "tag": "Dota",
     "name": "BellaTriX"
@@ -150,9 +165,19 @@
     "name": "BendAndSnap"
   },
   {
+    "displayName": "[Dota] Bina",
+    "tag": "Dota",
+    "name": "Bina"
+  },
+  {
     "displayName": "[ARC] Bina",
     "tag": "ARC",
     "name": "Bina"
+  },
+  {
+    "displayName": "[Dota] Blind1EyeCow",
+    "tag": "Dota",
+    "name": "Blind1EyeCow"
   },
   {
     "displayName": "[ARC] Blind1EyeCow",
@@ -185,9 +210,19 @@
     "name": "Bolin"
   },
   {
+    "displayName": "[Dota] Cd Villarejo",
+    "tag": "Dota",
+    "name": "Cd Villarejo"
+  },
+  {
     "displayName": "[ARC] Cd Villarejo",
     "tag": "ARC",
     "name": "Cd Villarejo"
+  },
+  {
+    "displayName": "Cheesemonkey",
+    "tag": null,
+    "name": "Cheesemonkey"
   },
   {
     "displayName": "[ARC] Cheesemonkey",
@@ -198,6 +233,11 @@
     "displayName": "[DAD] chihiro",
     "tag": "DAD",
     "name": "chihiro"
+  },
+  {
+    "displayName": "[DAD] Choowee",
+    "tag": "DAD",
+    "name": "Choowee"
   },
   {
     "displayName": "[DAD] Ciel Fortuna",
@@ -238,6 +278,11 @@
     "displayName": "[WLD]Daeme",
     "tag": "WLD",
     "name": "Daeme"
+  },
+  {
+    "displayName": "[Dota] Daria",
+    "tag": "Dota",
+    "name": "Daria"
   },
   {
     "displayName": "[ARC] Daria",
@@ -305,9 +350,24 @@
     "name": "Escanor"
   },
   {
+    "displayName": "[DAD] Estcry94",
+    "tag": "DAD",
+    "name": "Estcry94"
+  },
+  {
+    "displayName": "[Dota] Ezrah",
+    "tag": "Dota",
+    "name": "Ezrah"
+  },
+  {
     "displayName": "[ARC] Ezrah",
     "tag": "ARC",
     "name": "Ezrah"
+  },
+  {
+    "displayName": "[Dota] Faramir",
+    "tag": "Dota",
+    "name": "Faramir"
   },
   {
     "displayName": "[ARC] Faramir",
@@ -330,6 +390,11 @@
     "name": "Glitch"
   },
   {
+    "displayName": "Grouch808",
+    "tag": null,
+    "name": "Grouch808"
+  },
+  {
     "displayName": "[ARC] Grouch808",
     "tag": "ARC",
     "name": "Grouch808"
@@ -338,6 +403,11 @@
     "displayName": "[ARC] Guntana",
     "tag": "ARC",
     "name": "Guntana"
+  },
+  {
+    "displayName": "[DAD] H0lyGh0st",
+    "tag": "DAD",
+    "name": "H0lyGh0st"
   },
   {
     "displayName": "Haaallooo",
@@ -450,6 +520,11 @@
     "name": "leader 18765"
   },
   {
+    "displayName": "[Dota] leader_1850373",
+    "tag": "Dota",
+    "name": "leader_1850373"
+  },
+  {
     "displayName": "[ARC] leader_1850373",
     "tag": "ARC",
     "name": "leader_1850373"
@@ -458,6 +533,11 @@
     "displayName": "[DAD] Lesedi",
     "tag": "DAD",
     "name": "Lesedi"
+  },
+  {
+    "displayName": "[DAD] lian",
+    "tag": "DAD",
+    "name": "lian"
   },
   {
     "displayName": "[DAD] MacroSlicer",
@@ -498,6 +578,11 @@
     "displayName": "[WLD]Matey McBong",
     "tag": "WLD",
     "name": "Matey McBong"
+  },
+  {
+    "displayName": "[DAD] maxAir180",
+    "tag": "DAD",
+    "name": "maxAir180"
   },
   {
     "displayName": "[DAD] Mexicano",
@@ -545,6 +630,11 @@
     "name": "Nightowl"
   },
   {
+    "displayName": "[Farm] NymphaDoRa",
+    "tag": "Farm",
+    "name": "NymphaDoRa"
+  },
+  {
     "displayName": "[Dota] NymphaDoRa",
     "tag": "Dota",
     "name": "NymphaDoRa"
@@ -565,13 +655,13 @@
     "name": "otterduck"
   },
   {
-    "displayName": "[ARC] Paasipius",
-    "tag": "ARC",
+    "displayName": "[DAD] Paasipius",
+    "tag": "DAD",
     "name": "Paasipius"
   },
   {
-    "displayName": "[DAD] Paasipius",
-    "tag": "DAD",
+    "displayName": "[ARC] Paasipius",
+    "tag": "ARC",
     "name": "Paasipius"
   },
   {
@@ -640,6 +730,11 @@
     "name": "patate"
   },
   {
+    "displayName": "[DAD] pazoo",
+    "tag": "DAD",
+    "name": "pazoo"
+  },
+  {
     "displayName": "[DAD] Pazoo",
     "tag": "DAD",
     "name": "Pazoo"
@@ -665,6 +760,11 @@
     "name": "PracticalM"
   },
   {
+    "displayName": "[DAD] Queenie",
+    "tag": "DAD",
+    "name": "Queenie"
+  },
+  {
     "displayName": "[DAD] Rad",
     "tag": "DAD",
     "name": "Rad"
@@ -685,13 +785,13 @@
     "name": "Ron"
   },
   {
-    "displayName": "Ronaldo",
-    "tag": null,
+    "displayName": "[DAD] Ronaldo",
+    "tag": "DAD",
     "name": "Ronaldo"
   },
   {
-    "displayName": "[DAD] Ronaldo",
-    "tag": "DAD",
+    "displayName": "Ronaldo",
+    "tag": null,
     "name": "Ronaldo"
   },
   {
@@ -718,6 +818,11 @@
     "displayName": "Shade",
     "tag": null,
     "name": "Shade"
+  },
+  {
+    "displayName": "[DAD] Slammedstorm",
+    "tag": "DAD",
+    "name": "Slammedstorm"
   },
   {
     "displayName": "[DAD] Space lizard",
@@ -748,6 +853,26 @@
     "displayName": "[Dota] Stronghold",
     "tag": "Dota",
     "name": "Stronghold"
+  },
+  {
+    "displayName": "[DAD] Super Mystic",
+    "tag": "DAD",
+    "name": "Super Mystic"
+  },
+  {
+    "displayName": "[DAD] The llama",
+    "tag": "DAD",
+    "name": "The llama"
+  },
+  {
+    "displayName": "[DAD] TheNoFace",
+    "tag": "DAD",
+    "name": "TheNoFace"
+  },
+  {
+    "displayName": "[Dota] ThommyG",
+    "tag": "Dota",
+    "name": "ThommyG"
   },
   {
     "displayName": "[MIĽF] THRAGG",
@@ -800,6 +925,11 @@
     "name": "VANQU33F"
   },
   {
+    "displayName": "[DAD] VENUM",
+    "tag": "DAD",
+    "name": "VENUM"
+  },
+  {
     "displayName": "[Dota] VENUM",
     "tag": "Dota",
     "name": "VENUM"
@@ -850,6 +980,16 @@
     "name": "Wastelander"
   },
   {
+    "displayName": "[DAD] WhosYerDaddy",
+    "tag": "DAD",
+    "name": "WhosYerDaddy"
+  },
+  {
+    "displayName": "[Dota] wollipolli",
+    "tag": "Dota",
+    "name": "wollipolli"
+  },
+  {
     "displayName": "[ARC] wollipolli",
     "tag": "ARC",
     "name": "wollipolli"
@@ -858,6 +998,16 @@
     "displayName": "[DAD] woof",
     "tag": "DAD",
     "name": "woof"
+  },
+  {
+    "displayName": "[Doom] XX Jo XX",
+    "tag": "Doom",
+    "name": "XX Jo XX"
+  },
+  {
+    "displayName": "[Dota] Yeslyn",
+    "tag": "Dota",
+    "name": "Yeslyn"
   },
   {
     "displayName": "[ARC] Yeslyn",

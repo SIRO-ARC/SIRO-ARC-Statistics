@@ -115,6 +115,11 @@
     "name": "Bored AF"
   },
   {
+    "displayName": "Breeze",
+    "tag": null,
+    "name": "Breeze"
+  },
+  {
     "displayName": "[MIR] Breeze",
     "tag": "MIR",
     "name": "Breeze"
@@ -200,9 +205,19 @@
     "name": "Feuerlord"
   },
   {
+    "displayName": "[MIR] fofi",
+    "tag": "MIR",
+    "name": "fofi"
+  },
+  {
     "displayName": "[MIR] fofl",
     "tag": "MIR",
     "name": "fofl"
+  },
+  {
+    "displayName": "[MIR] Fredbeard",
+    "tag": "MIR",
+    "name": "Fredbeard"
   },
   {
     "displayName": "[MYTH] Freyja",
@@ -400,6 +415,11 @@
     "name": "MarioWolfX"
   },
   {
+    "displayName": "[MIR] MartyMcFly",
+    "tag": "MIR",
+    "name": "MartyMcFly"
+  },
+  {
     "displayName": "[PMS] MasterShlóng",
     "tag": "PMS",
     "name": "MasterShlóng"
@@ -408,6 +428,11 @@
     "displayName": "[PMS]MasterShlóng",
     "tag": "PMS",
     "name": "MasterShlóng"
+  },
+  {
+    "displayName": "[MYTH] Meelo",
+    "tag": "MYTH",
+    "name": "Meelo"
   },
   {
     "displayName": "[MYTH] Mega kaiju",
@@ -433,6 +458,11 @@
     "displayName": "[MIR] Mithrandir",
     "tag": "MIR",
     "name": "Mithrandir"
+  },
+  {
+    "displayName": "MIYA",
+    "tag": null,
+    "name": "MIYA"
   },
   {
     "displayName": "[MIR] MIYA",
@@ -625,6 +655,11 @@
     "name": "Skaði"
   },
   {
+    "displayName": "[MIR] Sm eg ma",
+    "tag": "MIR",
+    "name": "Sm eg ma"
+  },
+  {
     "displayName": "[BBD] Sm eg ma",
     "tag": "BBD",
     "name": "Sm eg ma"
@@ -638,6 +673,11 @@
     "displayName": "[TACO]softtaco",
     "tag": "TACO",
     "name": "softtaco"
+  },
+  {
+    "displayName": "[MYTH] spectral0ats",
+    "tag": "MYTH",
+    "name": "spectral0ats"
   },
   {
     "displayName": "[Xmen] St0rm",
@@ -675,9 +715,19 @@
     "name": "TacoTree"
   },
   {
+    "displayName": "[MIR] The Platypus",
+    "tag": "MIR",
+    "name": "The Platypus"
+  },
+  {
     "displayName": "[BBD] The Platypus",
     "tag": "BBD",
     "name": "The Platypus"
+  },
+  {
+    "displayName": "[MIR] Thus",
+    "tag": "MIR",
+    "name": "Thus"
   },
   {
     "displayName": "[MYTH] Vecnardo",
@@ -750,6 +800,11 @@
     "name": "Yukari"
   },
   {
+    "displayName": "[MYTH] zelda3469",
+    "tag": "MYTH",
+    "name": "zelda3469"
+  },
+  {
     "displayName": "[MYTH] zeus",
     "tag": "MYTH",
     "name": "zeus"
@@ -763,6 +818,11 @@
     "displayName": "[MYTH] zєυs",
     "tag": "MYTH",
     "name": "zєυs"
+  },
+  {
+    "displayName": "[MYTH] zєυѕ",
+    "tag": "MYTH",
+    "name": "zєυѕ"
   },
   {
     "displayName": "[MYTH] ΖευS",

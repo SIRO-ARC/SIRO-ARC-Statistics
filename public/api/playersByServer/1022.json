@@ -60,6 +60,11 @@
     "name": "Avatar 48"
   },
   {
+    "displayName": "[Dogs] Avatar Seth",
+    "tag": "Dogs",
+    "name": "Avatar Seth"
+  },
+  {
     "displayName": "[UNSC] Avatar Seth",
     "tag": "UNSC",
     "name": "Avatar Seth"
@@ -108,6 +113,16 @@
     "displayName": "[UNSC] bitbyasnake",
     "tag": "UNSC",
     "name": "bitbyasnake"
+  },
+  {
+    "displayName": "[VEX] Blaze13",
+    "tag": "VEX",
+    "name": "Blaze13"
+  },
+  {
+    "displayName": "BullyXL Blue",
+    "tag": null,
+    "name": "BullyXL Blue"
   },
   {
     "displayName": "[VEX] C8",
@@ -260,6 +275,11 @@
     "name": "Fanfantastik"
   },
   {
+    "displayName": "[VEX] frog",
+    "tag": "VEX",
+    "name": "frog"
+  },
+  {
     "displayName": "[VEX] Gandalf",
     "tag": "VEX",
     "name": "Gandalf"
@@ -323,6 +343,11 @@
     "displayName": "[VEX] JustEm",
     "tag": "VEX",
     "name": "JustEm"
+  },
+  {
+    "displayName": "[UNSC] katana",
+    "tag": "UNSC",
+    "name": "katana"
   },
   {
     "displayName": "[UNSC] Keelin",
@@ -405,6 +430,11 @@
     "name": "Lord Welf"
   },
   {
+    "displayName": "[VEX] Lord Wolf",
+    "tag": "VEX",
+    "name": "Lord Wolf"
+  },
+  {
     "displayName": "LordEl",
     "tag": null,
     "name": "LordEl"
@@ -433,6 +463,16 @@
     "displayName": "[VELN]luise",
     "tag": "VELN",
     "name": "luise"
+  },
+  {
+    "displayName": "[VEX] Mac Tire",
+    "tag": "VEX",
+    "name": "Mac Tire"
+  },
+  {
+    "displayName": "[MELN] masch",
+    "tag": "MELN",
+    "name": "masch"
   },
   {
     "displayName": "[VELN] Master Meelo",
@@ -485,6 +525,11 @@
     "name": "Megamuss"
   },
   {
+    "displayName": "MeganSuki",
+    "tag": null,
+    "name": "MeganSuki"
+  },
+  {
     "displayName": "[VEX] Mercyy",
     "tag": "VEX",
     "name": "Mercyy"
@@ -500,14 +545,29 @@
     "name": "Mint"
   },
   {
+    "displayName": "[VEX] Moonflower",
+    "tag": "VEX",
+    "name": "Moonflower"
+  },
+  {
     "displayName": "[UNSC] MotoWolf",
     "tag": "UNSC",
     "name": "MotoWolf"
   },
   {
+    "displayName": "[MELN] Mustached",
+    "tag": "MELN",
+    "name": "Mustached"
+  },
+  {
     "displayName": "[VEX] mynn",
     "tag": "VEX",
     "name": "mynn"
+  },
+  {
+    "displayName": "[VEX] N2002",
+    "tag": "VEX",
+    "name": "N2002"
   },
   {
     "displayName": "[TRTL] Nate",
@@ -645,6 +705,16 @@
     "name": "Rebel"
   },
   {
+    "displayName": "RexZeus",
+    "tag": null,
+    "name": "RexZeus"
+  },
+  {
+    "displayName": "rmrmrm",
+    "tag": null,
+    "name": "rmrmrm"
+  },
+  {
     "displayName": "[VEX] Ryu",
     "tag": "VEX",
     "name": "Ryu"
@@ -743,6 +813,11 @@
     "displayName": "[VEX] Silberfeder",
     "tag": "VEX",
     "name": "Silberfeder"
+  },
+  {
+    "displayName": "[VEX] SirFlopsy",
+    "tag": "VEX",
+    "name": "SirFlopsy"
   },
   {
     "displayName": "[VEX] Sisi",
@@ -880,6 +955,11 @@
     "name": "WinterFox"
   },
   {
+    "displayName": "xam",
+    "tag": null,
+    "name": "xam"
+  },
+  {
     "displayName": "[VEX] Xyro",
     "tag": "VEX",
     "name": "Xyro"
@@ -908,5 +988,10 @@
     "displayName": "[VEX] ZuZu13",
     "tag": "VEX",
     "name": "ZuZu13"
+  },
+  {
+    "displayName": "[DRU] Κοτοπουλο",
+    "tag": "DRU",
+    "name": "Κοτοπουλο"
   }
 ]

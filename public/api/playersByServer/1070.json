@@ -5,13 +5,13 @@
     "name": "4strom"
   },
   {
-    "displayName": "[OLＹM] Achilles",
-    "tag": "OLＹM",
+    "displayName": "[OLYM] Achilles",
+    "tag": "OLYM",
     "name": "Achilles"
   },
   {
-    "displayName": "[OLYM] Achilles",
-    "tag": "OLYM",
+    "displayName": "[OLＹM] Achilles",
+    "tag": "OLＹM",
     "name": "Achilles"
   },
   {
@@ -20,9 +20,19 @@
     "name": "Admiral LJツ"
   },
   {
+    "displayName": "[OLYM] Amihan",
+    "tag": "OLYM",
+    "name": "Amihan"
+  },
+  {
     "displayName": "[OLYM] appa",
     "tag": "OLYM",
     "name": "appa"
+  },
+  {
+    "displayName": "[OLYM] Avatarjoaco",
+    "tag": "OLYM",
+    "name": "Avatarjoaco"
   },
   {
     "displayName": "[OLＹM] Avatarjoaco",
@@ -40,18 +50,23 @@
     "name": "Azulas toy"
   },
   {
+    "displayName": "[OLYM] Barrel Rider",
+    "tag": "OLYM",
+    "name": "Barrel Rider"
+  },
+  {
     "displayName": "[SOS] Barrel Rider",
     "tag": "SOS",
     "name": "Barrel Rider"
   },
   {
-    "displayName": "[OLＹM] Bastion",
-    "tag": "OLＹM",
+    "displayName": "[OLYM] Bastion",
+    "tag": "OLYM",
     "name": "Bastion"
   },
   {
-    "displayName": "[OLYM] Bastion",
-    "tag": "OLYM",
+    "displayName": "[OLＹM] Bastion",
+    "tag": "OLＹM",
     "name": "Bastion"
   },
   {
@@ -60,9 +75,19 @@
     "name": "Bekah"
   },
   {
+    "displayName": "[OLYM] Beowulf",
+    "tag": "OLYM",
+    "name": "Beowulf"
+  },
+  {
     "displayName": "[OLＹM] Beowulf",
     "tag": "OLＹM",
     "name": "Beowulf"
+  },
+  {
+    "displayName": "Big Dindon",
+    "tag": null,
+    "name": "Big Dindon"
   },
   {
     "displayName": "[OLＹM] Big Dindon",
@@ -75,14 +100,29 @@
     "name": "Big Dindon"
   },
   {
+    "displayName": "[OLYM] BigLex",
+    "tag": "OLYM",
+    "name": "BigLex"
+  },
+  {
     "displayName": "[OLＹM] BigLex",
     "tag": "OLＹM",
     "name": "BigLex"
   },
   {
+    "displayName": "[OLYM] Bodaccienne",
+    "tag": "OLYM",
+    "name": "Bodaccienne"
+  },
+  {
     "displayName": "[OLＹM] Bodaccienne",
     "tag": "OLＹM",
     "name": "Bodaccienne"
+  },
+  {
+    "displayName": "[EDEN] BombLight",
+    "tag": "EDEN",
+    "name": "BombLight"
   },
   {
     "displayName": "[SOS] Cammy",
@@ -125,6 +165,11 @@
     "name": "Daddy H"
   },
   {
+    "displayName": "Daedalus",
+    "tag": null,
+    "name": "Daedalus"
+  },
+  {
     "displayName": "[OLＹM] Daedalus",
     "tag": "OLＹM",
     "name": "Daedalus"
@@ -133,6 +178,11 @@
     "displayName": "[OLYM] Daedalus",
     "tag": "OLYM",
     "name": "Daedalus"
+  },
+  {
+    "displayName": "[OLYM] Dardyorse",
+    "tag": "OLYM",
+    "name": "Dardyorse"
   },
   {
     "displayName": "[OLＹM] Dardyorse",
@@ -150,9 +200,19 @@
     "name": "DefNotBekah"
   },
   {
+    "displayName": "[OLYM] Dikbil",
+    "tag": "OLYM",
+    "name": "Dikbil"
+  },
+  {
     "displayName": "[OLＹM] Dikbil",
     "tag": "OLＹM",
     "name": "Dikbil"
+  },
+  {
+    "displayName": "[OLYM] dReaper",
+    "tag": "OLYM",
+    "name": "dReaper"
   },
   {
     "displayName": "[OLＹM] dReaper",
@@ -160,9 +220,9 @@
     "name": "dReaper"
   },
   {
-    "displayName": "[OLYM] dReaper",
+    "displayName": "[OLYM] EAS1268",
     "tag": "OLYM",
-    "name": "dReaper"
+    "name": "EAS1268"
   },
   {
     "displayName": "[OLＹM] EAS1268",
@@ -195,9 +255,24 @@
     "name": "Fatty"
   },
   {
+    "displayName": "[EDEN] FattyLight",
+    "tag": "EDEN",
+    "name": "FattyLight"
+  },
+  {
+    "displayName": "[FREE] Gatolynn",
+    "tag": "FREE",
+    "name": "Gatolynn"
+  },
+  {
     "displayName": "Gatolynn",
     "tag": null,
     "name": "Gatolynn"
+  },
+  {
+    "displayName": "[OLYM] Giggles",
+    "tag": "OLYM",
+    "name": "Giggles"
   },
   {
     "displayName": "Giggles",
@@ -220,14 +295,34 @@
     "name": "Gotcho"
   },
   {
+    "displayName": "[OLYM] GuacAndRoll",
+    "tag": "OLYM",
+    "name": "GuacAndRoll"
+  },
+  {
     "displayName": "[OLＹM] GuacAndRoll",
     "tag": "OLＹM",
     "name": "GuacAndRoll"
   },
   {
+    "displayName": "[SOS] Gust",
+    "tag": "SOS",
+    "name": "Gust"
+  },
+  {
+    "displayName": "[OLYM] Habagat",
+    "tag": "OLYM",
+    "name": "Habagat"
+  },
+  {
     "displayName": "[OLYM] hamby",
     "tag": "OLYM",
     "name": "hamby"
+  },
+  {
+    "displayName": "[EDEN] Helios",
+    "tag": "EDEN",
+    "name": "Helios"
   },
   {
     "displayName": "[OLＹM] Helios",
@@ -240,19 +335,19 @@
     "name": "Helios"
   },
   {
-    "displayName": "[OLＹM] Hephaestus",
-    "tag": "OLＹM",
-    "name": "Hephaestus"
-  },
-  {
     "displayName": "[OLYM] Hephaestus",
     "tag": "OLYM",
     "name": "Hephaestus"
   },
   {
-    "displayName": "[OLＹM] Hermes",
+    "displayName": "[OLＹM] Hephaestus",
     "tag": "OLＹM",
-    "name": "Hermes"
+    "name": "Hephaestus"
+  },
+  {
+    "displayName": "[OLYM] Hercules",
+    "tag": "OLYM",
+    "name": "Hercules"
   },
   {
     "displayName": "[OLYM] Hermes",
@@ -260,14 +355,34 @@
     "name": "Hermes"
   },
   {
+    "displayName": "[OLＹM] Hermes",
+    "tag": "OLＹM",
+    "name": "Hermes"
+  },
+  {
+    "displayName": "[OLYM] Hibiscus",
+    "tag": "OLYM",
+    "name": "Hibiscus"
+  },
+  {
     "displayName": "[OLＹM] Hibiscus",
     "tag": "OLＹM",
     "name": "Hibiscus"
   },
   {
+    "displayName": "[OLYM] HotLeafJuice",
+    "tag": "OLYM",
+    "name": "HotLeafJuice"
+  },
+  {
     "displayName": "IAE3",
     "tag": null,
     "name": "IAE3"
+  },
+  {
+    "displayName": "[OLYM] Imp Tarak",
+    "tag": "OLYM",
+    "name": "Imp Tarak"
   },
   {
     "displayName": "[OLＹM] Imp Tarak",
@@ -290,9 +405,19 @@
     "name": "ItachiZuko"
   },
   {
+    "displayName": "[OLYM] Jazmin",
+    "tag": "OLYM",
+    "name": "Jazmin"
+  },
+  {
     "displayName": "[OLＹM] Jazmin",
     "tag": "OLＹM",
     "name": "Jazmin"
+  },
+  {
+    "displayName": "[OLYM] jennylee",
+    "tag": "OLYM",
+    "name": "jennylee"
   },
   {
     "displayName": "[OLＹM] jennylee",
@@ -300,9 +425,19 @@
     "name": "jennylee"
   },
   {
+    "displayName": "[EDEN] Jinlight",
+    "tag": "EDEN",
+    "name": "Jinlight"
+  },
+  {
     "displayName": "[OLＹM] Jinora",
     "tag": "OLＹM",
     "name": "Jinora"
+  },
+  {
+    "displayName": "[OLYM] JuicyMan",
+    "tag": "OLYM",
+    "name": "JuicyMan"
   },
   {
     "displayName": "[OLＹM] JuicyMan",
@@ -315,6 +450,11 @@
     "name": "Jules"
   },
   {
+    "displayName": "[OLYM] Jupiter",
+    "tag": "OLYM",
+    "name": "Jupiter"
+  },
+  {
     "displayName": "[OLＹM] Jupiter",
     "tag": "OLＹM",
     "name": "Jupiter"
@@ -325,14 +465,29 @@
     "name": "Kabu"
   },
   {
+    "displayName": "[EDEN] Kas",
+    "tag": "EDEN",
+    "name": "Kas"
+  },
+  {
+    "displayName": "[OLYM] KenzyFrenzy",
+    "tag": "OLYM",
+    "name": "KenzyFrenzy"
+  },
+  {
     "displayName": "[OLＹM] KenzyFrenzy",
     "tag": "OLＹM",
     "name": "KenzyFrenzy"
   },
   {
-    "displayName": "[OLＹM] KoiZilla",
-    "tag": "OLＹM",
-    "name": "KoiZilla"
+    "displayName": "[OLYM] Klatsch",
+    "tag": "OLYM",
+    "name": "Klatsch"
+  },
+  {
+    "displayName": "[OLYM] Knightmare",
+    "tag": "OLYM",
+    "name": "Knightmare"
   },
   {
     "displayName": "[OLYM] KoiZilla",
@@ -340,9 +495,24 @@
     "name": "KoiZilla"
   },
   {
+    "displayName": "[OLＹM] KoiZilla",
+    "tag": "OLＹM",
+    "name": "KoiZilla"
+  },
+  {
+    "displayName": "[OLYM] Kraven",
+    "tag": "OLYM",
+    "name": "Kraven"
+  },
+  {
     "displayName": "[OLＹM] Kraven",
     "tag": "OLＹM",
     "name": "Kraven"
+  },
+  {
+    "displayName": "[OLYM] leader_1967837",
+    "tag": "OLYM",
+    "name": "leader_1967837"
   },
   {
     "displayName": "[OLＹM] leader_1967837",
@@ -353,6 +523,11 @@
     "displayName": "leader_2378513",
     "tag": null,
     "name": "leader_2378513"
+  },
+  {
+    "displayName": "[OLYM] liliium",
+    "tag": "OLYM",
+    "name": "liliium"
   },
   {
     "displayName": "[OLＹM] liliium",
@@ -370,9 +545,19 @@
     "name": "LJツ"
   },
   {
+    "displayName": "[OLYM] lonestar",
+    "tag": "OLYM",
+    "name": "lonestar"
+  },
+  {
     "displayName": "[OLＹM] lonestar",
     "tag": "OLＹM",
     "name": "lonestar"
+  },
+  {
+    "displayName": "[OLYM] LordHunter",
+    "tag": "OLYM",
+    "name": "LordHunter"
   },
   {
     "displayName": "[OLＹM] LordHunter",
@@ -398,6 +583,11 @@
     "displayName": "[OLＹM] Maenad",
     "tag": "OLＹM",
     "name": "Maenad"
+  },
+  {
+    "displayName": "[OLYM] Miyuki",
+    "tag": "OLYM",
+    "name": "Miyuki"
   },
   {
     "displayName": "[OLＹM] Miyuki",
@@ -430,13 +620,13 @@
     "name": "Moonlight"
   },
   {
-    "displayName": "[OLＹM] Morena",
-    "tag": "OLＹM",
+    "displayName": "[OLYM] Morena",
+    "tag": "OLYM",
     "name": "Morena"
   },
   {
-    "displayName": "[OLYM] Morena",
-    "tag": "OLYM",
+    "displayName": "[OLＹM] Morena",
+    "tag": "OLＹM",
     "name": "Morena"
   },
   {
@@ -445,9 +635,19 @@
     "name": "ᴹᵒʳᵉⁿᵃ"
   },
   {
+    "displayName": "[OLYM] Mr CEO PILLC",
+    "tag": "OLYM",
+    "name": "Mr CEO PILLC"
+  },
+  {
     "displayName": "[OLＹM] Mr CEO PILLC",
     "tag": "OLＹM",
     "name": "Mr CEO PILLC"
+  },
+  {
+    "displayName": "[OLYM] Muffins",
+    "tag": "OLYM",
+    "name": "Muffins"
   },
   {
     "displayName": "[OLＹM] Mufflns",
@@ -460,9 +660,19 @@
     "name": "Nightmaere"
   },
   {
+    "displayName": "[OLYM] Nikiko",
+    "tag": "OLYM",
+    "name": "Nikiko"
+  },
+  {
     "displayName": "[OLＹM] Nikiko",
     "tag": "OLＹM",
     "name": "Nikiko"
+  },
+  {
+    "displayName": "[OLYM] Nomescha",
+    "tag": "OLYM",
+    "name": "Nomescha"
   },
   {
     "displayName": "[OLＹM] Nomescha",
@@ -483,6 +693,11 @@
     "displayName": "[OLYM] Omni Man",
     "tag": "OLYM",
     "name": "Omni Man"
+  },
+  {
+    "displayName": "[OLYM] OnyxKing",
+    "tag": "OLYM",
+    "name": "OnyxKing"
   },
   {
     "displayName": "[OLＹM] OnyxKing",
@@ -515,9 +730,19 @@
     "name": "OWLs moon"
   },
   {
+    "displayName": "[AFR] Pandora0117",
+    "tag": "AFR",
+    "name": "Pandora0117"
+  },
+  {
     "displayName": "Patch",
     "tag": null,
     "name": "Patch"
+  },
+  {
+    "displayName": "[OLYM] Pegasus",
+    "tag": "OLYM",
+    "name": "Pegasus"
   },
   {
     "displayName": "[OLＹM] Pegasus",
@@ -525,9 +750,29 @@
     "name": "Pegasus"
   },
   {
+    "displayName": "[EDEN] Peglight",
+    "tag": "EDEN",
+    "name": "Peglight"
+  },
+  {
+    "displayName": "[EDEN] Pilsen Light",
+    "tag": "EDEN",
+    "name": "Pilsen Light"
+  },
+  {
+    "displayName": "[OLYM] PixelWitch",
+    "tag": "OLYM",
+    "name": "PixelWitch"
+  },
+  {
     "displayName": "[OLＹM] PixelWitch",
     "tag": "OLＹM",
     "name": "PixelWitch"
+  },
+  {
+    "displayName": "[OLYM] Poukatchi",
+    "tag": "OLYM",
+    "name": "Poukatchi"
   },
   {
     "displayName": "[OLＹM] Poukatchi",
@@ -540,6 +785,11 @@
     "name": "Princess"
   },
   {
+    "displayName": "[SOS] Rain",
+    "tag": "SOS",
+    "name": "Rain"
+  },
+  {
     "displayName": "[EDEN] Raph1304",
     "tag": "EDEN",
     "name": "Raph1304"
@@ -550,6 +800,11 @@
     "name": "RayM90"
   },
   {
+    "displayName": "[OLYM] Rebel B",
+    "tag": "OLYM",
+    "name": "Rebel B"
+  },
+  {
     "displayName": "[OLＹM] Rebel B",
     "tag": "OLＹM",
     "name": "Rebel B"
@@ -558,6 +813,11 @@
     "displayName": "Rhelbugken",
     "tag": null,
     "name": "Rhelbugken"
+  },
+  {
+    "displayName": "[OLYM] RiaPasillas",
+    "tag": "OLYM",
+    "name": "RiaPasillas"
   },
   {
     "displayName": "[OLＹM] RiaPasillas",
@@ -580,13 +840,13 @@
     "name": "Sabrina"
   },
   {
-    "displayName": "[OLＹM] Salamander",
-    "tag": "OLＹM",
+    "displayName": "[OLYM] Salamander",
+    "tag": "OLYM",
     "name": "Salamander"
   },
   {
-    "displayName": "[OLYM] Salamander",
-    "tag": "OLYM",
+    "displayName": "[OLＹM] Salamander",
+    "tag": "OLＹM",
     "name": "Salamander"
   },
   {
@@ -600,9 +860,19 @@
     "name": "ScottishSimp"
   },
   {
+    "displayName": "[OLYM] SeanKAugust",
+    "tag": "OLYM",
+    "name": "SeanKAugust"
+  },
+  {
     "displayName": "[OLＹM] SeanKAugust",
     "tag": "OLＹM",
     "name": "SeanKAugust"
+  },
+  {
+    "displayName": "[OLYM] Sephiroth",
+    "tag": "OLYM",
+    "name": "Sephiroth"
   },
   {
     "displayName": "[OLＹM] Sephiroth",
@@ -635,14 +905,39 @@
     "name": "SkyAppa"
   },
   {
+    "displayName": "[OLYM] SprkyBoomMan",
+    "tag": "OLYM",
+    "name": "SprkyBoomMan"
+  },
+  {
+    "displayName": "[OLYM] Staagy",
+    "tag": "OLYM",
+    "name": "Staagy"
+  },
+  {
     "displayName": "[OLＹM] Staagy",
     "tag": "OLＹM",
     "name": "Staagy"
   },
   {
+    "displayName": "[EDEN] Starlight",
+    "tag": "EDEN",
+    "name": "Starlight"
+  },
+  {
     "displayName": "[OLＹM] TerraNic",
     "tag": "OLＹM",
     "name": "TerraNic"
+  },
+  {
+    "displayName": "ThankYouOLYM",
+    "tag": null,
+    "name": "ThankYouOLYM"
+  },
+  {
+    "displayName": "[OLYM] That guy",
+    "tag": "OLYM",
+    "name": "That guy"
   },
   {
     "displayName": "[OLＹM] That guy",
@@ -675,14 +970,14 @@
     "name": "Tommy"
   },
   {
-    "displayName": "[OLYM] toph",
-    "tag": "OLYM",
+    "displayName": "[EDEN] toph",
+    "tag": "EDEN",
     "name": "toph"
   },
   {
-    "displayName": "[OLＹM] Topshelf505",
-    "tag": "OLＹM",
-    "name": "Topshelf505"
+    "displayName": "[OLYM] toph",
+    "tag": "OLYM",
+    "name": "toph"
   },
   {
     "displayName": "[OLYM] Topshelf505",
@@ -690,9 +985,9 @@
     "name": "Topshelf505"
   },
   {
-    "displayName": "[OLＹM] ToughTizzy",
+    "displayName": "[OLＹM] Topshelf505",
     "tag": "OLＹM",
-    "name": "ToughTizzy"
+    "name": "Topshelf505"
   },
   {
     "displayName": "[OLYM] ToughTizzy",
@@ -700,9 +995,24 @@
     "name": "ToughTizzy"
   },
   {
+    "displayName": "[OLＹM] ToughTizzy",
+    "tag": "OLＹM",
+    "name": "ToughTizzy"
+  },
+  {
+    "displayName": "[OLYM] Tubic",
+    "tag": "OLYM",
+    "name": "Tubic"
+  },
+  {
     "displayName": "[EDEN] Tururk",
     "tag": "EDEN",
     "name": "Tururk"
+  },
+  {
+    "displayName": "[OLYM] Twilight",
+    "tag": "OLYM",
+    "name": "Twilight"
   },
   {
     "displayName": "[OLＹM] Twilight",
@@ -723,6 +1033,21 @@
     "displayName": "[OLYM] Venus",
     "tag": "OLYM",
     "name": "Venus"
+  },
+  {
+    "displayName": "[OLYM] WolfSokka",
+    "tag": "OLYM",
+    "name": "WolfSokka"
+  },
+  {
+    "displayName": "[OLYM] Yanic xD",
+    "tag": "OLYM",
+    "name": "Yanic xD"
+  },
+  {
+    "displayName": "[OLYM] Zatros",
+    "tag": "OLYM",
+    "name": "Zatros"
   },
   {
     "displayName": "[OLＹM] Zatros",

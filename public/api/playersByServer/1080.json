@@ -60,6 +60,21 @@
     "name": "Autumn"
   },
   {
+    "displayName": "[BURN] Avatar Ges",
+    "tag": "BURN",
+    "name": "Avatar Ges"
+  },
+  {
+    "displayName": "[BURN] axon",
+    "tag": "BURN",
+    "name": "axon"
+  },
+  {
+    "displayName": "[BURN] Azula Flame",
+    "tag": "BURN",
+    "name": "Azula Flame"
+  },
+  {
     "displayName": "[PSyn] Azula Flame",
     "tag": "PSyn",
     "name": "Azula Flame"
@@ -93,6 +108,11 @@
     "displayName": "[KyoW] BlakMar",
     "tag": "KyoW",
     "name": "BlakMar"
+  },
+  {
+    "displayName": "[BURN] BuddhaNug",
+    "tag": "BURN",
+    "name": "BuddhaNug"
   },
   {
     "displayName": "[PSyn] Bumi",
@@ -175,6 +195,11 @@
     "name": "ETM"
   },
   {
+    "displayName": "Farewell",
+    "tag": null,
+    "name": "Farewell"
+  },
+  {
     "displayName": "[BURN] FenderBender",
     "tag": "BURN",
     "name": "FenderBender"
@@ -185,9 +210,24 @@
     "name": "Gali"
   },
   {
+    "displayName": "[BURN] GoodLuckMode",
+    "tag": "BURN",
+    "name": "GoodLuckMode"
+  },
+  {
+    "displayName": "[KyoW] GrandMaster",
+    "tag": "KyoW",
+    "name": "GrandMaster"
+  },
+  {
     "displayName": "[PSyn] GrandMaster",
     "tag": "PSyn",
     "name": "GrandMaster"
+  },
+  {
+    "displayName": "[PSyn] HanShotFirst",
+    "tag": "PSyn",
+    "name": "HanShotFirst"
   },
   {
     "displayName": "[KyoW] HanShotFirst",
@@ -218,6 +258,11 @@
     "displayName": "[BURN] JermO",
     "tag": "BURN",
     "name": "JermO"
+  },
+  {
+    "displayName": "JerzMatty",
+    "tag": null,
+    "name": "JerzMatty"
   },
   {
     "displayName": "[BURN] JerzMatty",
@@ -253,6 +298,11 @@
     "displayName": "[BURN] LadySa",
     "tag": "BURN",
     "name": "LadySa"
+  },
+  {
+    "displayName": "Lale",
+    "tag": null,
+    "name": "Lale"
   },
   {
     "displayName": "[BURN] Lale",
@@ -300,6 +350,11 @@
     "name": "Mangojuice"
   },
   {
+    "displayName": "[PSyn] Marshmallow",
+    "tag": "PSyn",
+    "name": "Marshmallow"
+  },
+  {
     "displayName": "[PSyn] Meridian",
     "tag": "PSyn",
     "name": "Meridian"
@@ -345,6 +400,16 @@
     "name": "Moomoo0420"
   },
   {
+    "displayName": "[BURN] Moxie",
+    "tag": "BURN",
+    "name": "Moxie"
+  },
+  {
+    "displayName": "[BURN] Mumps",
+    "tag": "BURN",
+    "name": "Mumps"
+  },
+  {
     "displayName": "[BURN] NEO",
     "tag": "BURN",
     "name": "NEO"
@@ -370,6 +435,16 @@
     "name": "Oogi"
   },
   {
+    "displayName": "[BURN] Oromis",
+    "tag": "BURN",
+    "name": "Oromis"
+  },
+  {
+    "displayName": "[BURN] Pakku",
+    "tag": "BURN",
+    "name": "Pakku"
+  },
+  {
     "displayName": "[Syn] ParadiseLost",
     "tag": "Syn",
     "name": "ParadiseLost"
@@ -388,6 +463,11 @@
     "displayName": "Player one",
     "tag": null,
     "name": "Player one"
+  },
+  {
+    "displayName": "[BURN] plero",
+    "tag": "BURN",
+    "name": "plero"
   },
   {
     "displayName": "[PSyn] plero",
@@ -425,6 +505,11 @@
     "name": "ReportMeBots"
   },
   {
+    "displayName": "[BURN] Riki",
+    "tag": "BURN",
+    "name": "Riki"
+  },
+  {
     "displayName": "[PSyn] Rysiam",
     "tag": "PSyn",
     "name": "Rysiam"
@@ -455,6 +540,11 @@
     "name": "Snowy aged"
   },
   {
+    "displayName": "[KyoW] suneth",
+    "tag": "KyoW",
+    "name": "suneth"
+  },
+  {
     "displayName": "[BURN] SunPhysic",
     "tag": "BURN",
     "name": "SunPhysic"
@@ -478,6 +568,11 @@
     "displayName": "[KyoW] Telekhast",
     "tag": "KyoW",
     "name": "Telekhast"
+  },
+  {
+    "displayName": "[PSyn] Tex",
+    "tag": "PSyn",
+    "name": "Tex"
   },
   {
     "displayName": "[BURN] Thasil",
@@ -505,6 +600,21 @@
     "name": "Venvee"
   },
   {
+    "displayName": "[BURN] Vonvee",
+    "tag": "BURN",
+    "name": "Vonvee"
+  },
+  {
+    "displayName": "[BURN] Wang Fire",
+    "tag": "BURN",
+    "name": "Wang Fire"
+  },
+  {
+    "displayName": "[BURN] WickedGodz",
+    "tag": "BURN",
+    "name": "WickedGodz"
+  },
+  {
     "displayName": "[PSyn] WickedGodz",
     "tag": "PSyn",
     "name": "WickedGodz"
@@ -515,9 +625,19 @@
     "name": "yamisyam"
   },
   {
+    "displayName": "[BURN] Yoshi287",
+    "tag": "BURN",
+    "name": "Yoshi287"
+  },
+  {
     "displayName": "[PSyn] Yoshi287",
     "tag": "PSyn",
     "name": "Yoshi287"
+  },
+  {
+    "displayName": "[BURN] Yugs74",
+    "tag": "BURN",
+    "name": "Yugs74"
   },
   {
     "displayName": "[PSyn] Yugs74",

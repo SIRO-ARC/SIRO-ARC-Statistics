@@ -1,0 +1,502 @@
+[
+  {
+    "displayName": "[XMEN] agon",
+    "tag": "XMEN",
+    "name": "agon"
+  },
+  {
+    "displayName": "[NUG] Amelia",
+    "tag": "NUG",
+    "name": "Amelia"
+  },
+  {
+    "displayName": "[BAL] Angel Hybrid",
+    "tag": "BAL",
+    "name": "Angel Hybrid"
+  },
+  {
+    "displayName": "[TQLA] Apex",
+    "tag": "TQLA",
+    "name": "Apex"
+  },
+  {
+    "displayName": "[TQLA] Araangorn",
+    "tag": "TQLA",
+    "name": "Araangorn"
+  },
+  {
+    "displayName": "[WNV] AvatarWaffle",
+    "tag": "WNV",
+    "name": "AvatarWaffle"
+  },
+  {
+    "displayName": "[TPLS] B4warned",
+    "tag": "TPLS",
+    "name": "B4warned"
+  },
+  {
+    "displayName": "[TQLA] Bad Biscuits",
+    "tag": "TQLA",
+    "name": "Bad Biscuits"
+  },
+  {
+    "displayName": "[TPLS] Bad Donut",
+    "tag": "TPLS",
+    "name": "Bad Donut"
+  },
+  {
+    "displayName": "[TPLS] Bad Milk",
+    "tag": "TPLS",
+    "name": "Bad Milk"
+  },
+  {
+    "displayName": "[WAR] batz",
+    "tag": "WAR",
+    "name": "batz"
+  },
+  {
+    "displayName": "[LGE] Bolinpabu",
+    "tag": "LGE",
+    "name": "Bolinpabu"
+  },
+  {
+    "displayName": "[TPLS] Bootymeat",
+    "tag": "TPLS",
+    "name": "Bootymeat"
+  },
+  {
+    "displayName": "[WNV] Cassiopeia",
+    "tag": "WNV",
+    "name": "Cassiopeia"
+  },
+  {
+    "displayName": "[LGE] D1 n only",
+    "tag": "LGE",
+    "name": "D1 n only"
+  },
+  {
+    "displayName": "[WAR] D20orBust",
+    "tag": "WAR",
+    "name": "D20orBust"
+  },
+  {
+    "displayName": "[LOTR] D3fUz4",
+    "tag": "LOTR",
+    "name": "D3fUz4"
+  },
+  {
+    "displayName": "[TQLA] DarkAmon",
+    "tag": "TQLA",
+    "name": "DarkAmon"
+  },
+  {
+    "displayName": "[XMEN] DarkAngel",
+    "tag": "XMEN",
+    "name": "DarkAngel"
+  },
+  {
+    "displayName": "[WAR] Dart",
+    "tag": "WAR",
+    "name": "Dart"
+  },
+  {
+    "displayName": "[USA9] DDD",
+    "tag": "USA9",
+    "name": "DDD"
+  },
+  {
+    "displayName": "[TQLA] Deathwing710",
+    "tag": "TQLA",
+    "name": "Deathwing710"
+  },
+  {
+    "displayName": "[XMEN] DoctorDoom",
+    "tag": "XMEN",
+    "name": "DoctorDoom"
+  },
+  {
+    "displayName": "[WAR] Drakeon",
+    "tag": "WAR",
+    "name": "Drakeon"
+  },
+  {
+    "displayName": "[WAR] DreamGeekGal",
+    "tag": "WAR",
+    "name": "DreamGeekGal"
+  },
+  {
+    "displayName": "[NUG] Dukky",
+    "tag": "NUG",
+    "name": "Dukky"
+  },
+  {
+    "displayName": "[TQLA] Elowen",
+    "tag": "TQLA",
+    "name": "Elowen"
+  },
+  {
+    "displayName": "[XMEN] Erzsébet",
+    "tag": "XMEN",
+    "name": "Erzsébet"
+  },
+  {
+    "displayName": "[NSL] Fatte Moert",
+    "tag": "NSL",
+    "name": "Fatte Moert"
+  },
+  {
+    "displayName": "[WNV] Firebender",
+    "tag": "WNV",
+    "name": "Firebender"
+  },
+  {
+    "displayName": "[TQLA] Grimaldus",
+    "tag": "TQLA",
+    "name": "Grimaldus"
+  },
+  {
+    "displayName": "[TPLS] Imabadtacos",
+    "tag": "TPLS",
+    "name": "Imabadtacos"
+  },
+  {
+    "displayName": "[XMEN] Jean Gray",
+    "tag": "XMEN",
+    "name": "Jean Gray"
+  },
+  {
+    "displayName": "[LGE] Jessie",
+    "tag": "LGE",
+    "name": "Jessie"
+  },
+  {
+    "displayName": "[WAR] kanycus",
+    "tag": "WAR",
+    "name": "kanycus"
+  },
+  {
+    "displayName": "[WAR] KappyBara",
+    "tag": "WAR",
+    "name": "KappyBara"
+  },
+  {
+    "displayName": "[TQLA] Kasoh",
+    "tag": "TQLA",
+    "name": "Kasoh"
+  },
+  {
+    "displayName": "[TQLA] keplermango",
+    "tag": "TQLA",
+    "name": "keplermango"
+  },
+  {
+    "displayName": "klaus",
+    "tag": null,
+    "name": "klaus"
+  },
+  {
+    "displayName": "[WNV] Kwan",
+    "tag": "WNV",
+    "name": "Kwan"
+  },
+  {
+    "displayName": "[WAR] KYOSHI",
+    "tag": "WAR",
+    "name": "KYOSHI"
+  },
+  {
+    "displayName": "[WAR] KyoshiPuhhh",
+    "tag": "WAR",
+    "name": "KyoshiPuhhh"
+  },
+  {
+    "displayName": "[XMEN] LadyB0de",
+    "tag": "XMEN",
+    "name": "LadyB0de"
+  },
+  {
+    "displayName": "[real] leader_4451493",
+    "tag": "real",
+    "name": "leader_4451493"
+  },
+  {
+    "displayName": "[WAR] LeeSteele04",
+    "tag": "WAR",
+    "name": "LeeSteele04"
+  },
+  {
+    "displayName": "[NSL] Lejeune",
+    "tag": "NSL",
+    "name": "Lejeune"
+  },
+  {
+    "displayName": "[WAR] Lifeline",
+    "tag": "WAR",
+    "name": "Lifeline"
+  },
+  {
+    "displayName": "[WAR] Lord Sozin",
+    "tag": "WAR",
+    "name": "Lord Sozin"
+  },
+  {
+    "displayName": "[TQLA] m a n g o",
+    "tag": "TQLA",
+    "name": "m a n g o"
+  },
+  {
+    "displayName": "[LOTR] MacioraUwU",
+    "tag": "LOTR",
+    "name": "MacioraUwU"
+  },
+  {
+    "displayName": "[XMEN] Magik",
+    "tag": "XMEN",
+    "name": "Magik"
+  },
+  {
+    "displayName": "[XMEN] MAGNETO",
+    "tag": "XMEN",
+    "name": "MAGNETO"
+  },
+  {
+    "displayName": "[TQLA] Mahoragaッ",
+    "tag": "TQLA",
+    "name": "Mahoragaッ"
+  },
+  {
+    "displayName": "[XMEN] Mancha Solar",
+    "tag": "XMEN",
+    "name": "Mancha Solar"
+  },
+  {
+    "displayName": "[XMEN] Marco",
+    "tag": "XMEN",
+    "name": "Marco"
+  },
+  {
+    "displayName": "[TQLA] Mastersoa",
+    "tag": "TQLA",
+    "name": "Mastersoa"
+  },
+  {
+    "displayName": "[TQLA] McMoo",
+    "tag": "TQLA",
+    "name": "McMoo"
+  },
+  {
+    "displayName": "[LGE] Metalog",
+    "tag": "LGE",
+    "name": "Metalog"
+  },
+  {
+    "displayName": "[TQLA] Miko",
+    "tag": "TQLA",
+    "name": "Miko"
+  },
+  {
+    "displayName": "[WAR] Mira",
+    "tag": "WAR",
+    "name": "Mira"
+  },
+  {
+    "displayName": "[WNV] miwa",
+    "tag": "WNV",
+    "name": "miwa"
+  },
+  {
+    "displayName": "[LGE] Moin",
+    "tag": "LGE",
+    "name": "Moin"
+  },
+  {
+    "displayName": "[SSSS] Mush",
+    "tag": "SSSS",
+    "name": "Mush"
+  },
+  {
+    "displayName": "[XMEN] Mystique",
+    "tag": "XMEN",
+    "name": "Mystique"
+  },
+  {
+    "displayName": "[WAR] Mythos",
+    "tag": "WAR",
+    "name": "Mythos"
+  },
+  {
+    "displayName": "[TQLA] OldmanBonez",
+    "tag": "TQLA",
+    "name": "OldmanBonez"
+  },
+  {
+    "displayName": "[XMEN] Onslaught",
+    "tag": "XMEN",
+    "name": "Onslaught"
+  },
+  {
+    "displayName": "[WNV] Papi Chulo L",
+    "tag": "WNV",
+    "name": "Papi Chulo L"
+  },
+  {
+    "displayName": "[Foxi] Pika",
+    "tag": "Foxi",
+    "name": "Pika"
+  },
+  {
+    "displayName": "[WNV] RagingRicky",
+    "tag": "WNV",
+    "name": "RagingRicky"
+  },
+  {
+    "displayName": "[LOTR] Ragnar",
+    "tag": "LOTR",
+    "name": "Ragnar"
+  },
+  {
+    "displayName": "[WNV] Riobaldo",
+    "tag": "WNV",
+    "name": "Riobaldo"
+  },
+  {
+    "displayName": "[TQLA] ron",
+    "tag": "TQLA",
+    "name": "ron"
+  },
+  {
+    "displayName": "[NUG] Rothhes",
+    "tag": "NUG",
+    "name": "Rothhes"
+  },
+  {
+    "displayName": "[WAR] roxo",
+    "tag": "WAR",
+    "name": "roxo"
+  },
+  {
+    "displayName": "[WAR] Ruger",
+    "tag": "WAR",
+    "name": "Ruger"
+  },
+  {
+    "displayName": "[XMEN] ScarletWitch",
+    "tag": "XMEN",
+    "name": "ScarletWitch"
+  },
+  {
+    "displayName": "[WNV] Señor Syrup",
+    "tag": "WNV",
+    "name": "Señor Syrup"
+  },
+  {
+    "displayName": "[LOTR] Smaug",
+    "tag": "LOTR",
+    "name": "Smaug"
+  },
+  {
+    "displayName": "[TPLS] ssemprine",
+    "tag": "TPLS",
+    "name": "ssemprine"
+  },
+  {
+    "displayName": "[LGE] Stefan",
+    "tag": "LGE",
+    "name": "Stefan"
+  },
+  {
+    "displayName": "[NUG] Sven",
+    "tag": "NUG",
+    "name": "Sven"
+  },
+  {
+    "displayName": "[WAR] Swaglord",
+    "tag": "WAR",
+    "name": "Swaglord"
+  },
+  {
+    "displayName": "[WAR] Sαɱƙҽҽ",
+    "tag": "WAR",
+    "name": "Sαɱƙҽҽ"
+  },
+  {
+    "displayName": "[WAR] TessaCS",
+    "tag": "WAR",
+    "name": "TessaCS"
+  },
+  {
+    "displayName": "[LOTR] Thorin",
+    "tag": "LOTR",
+    "name": "Thorin"
+  },
+  {
+    "displayName": "[XMEN] Tormenta",
+    "tag": "XMEN",
+    "name": "Tormenta"
+  },
+  {
+    "displayName": "[WAR] Trav88x",
+    "tag": "WAR",
+    "name": "Trav88x"
+  },
+  {
+    "displayName": "[LOTR] Tubic",
+    "tag": "LOTR",
+    "name": "Tubic"
+  },
+  {
+    "displayName": "[PIN] Ubdallyah",
+    "tag": "PIN",
+    "name": "Ubdallyah"
+  },
+  {
+    "displayName": "[WNV] Vacna",
+    "tag": "WNV",
+    "name": "Vacna"
+  },
+  {
+    "displayName": "[WNV] Windwalker",
+    "tag": "WNV",
+    "name": "Windwalker"
+  },
+  {
+    "displayName": "[WNV] ᴡᴀғғʟᴇʙᴇɴᴅᴇʀ",
+    "tag": "WNV",
+    "name": "ᴡᴀғғʟᴇʙᴇɴᴅᴇʀ"
+  },
+  {
+    "displayName": "[WNV] Xx 匚卄乇尺尺ㄚxX",
+    "tag": "WNV",
+    "name": "Xx 匚卄乇尺尺ㄚxX"
+  },
+  {
+    "displayName": "[TPLS] xXTroubleXx",
+    "tag": "TPLS",
+    "name": "xXTroubleXx"
+  },
+  {
+    "displayName": "[TQLA] Youri0512",
+    "tag": "TQLA",
+    "name": "Youri0512"
+  },
+  {
+    "displayName": "[WAR] zaero",
+    "tag": "WAR",
+    "name": "zaero"
+  },
+  {
+    "displayName": "[WAR] Zandog97",
+    "tag": "WAR",
+    "name": "Zandog97"
+  },
+  {
+    "displayName": "[LOTR] Zila125",
+    "tag": "LOTR",
+    "name": "Zila125"
+  },
+  {
+    "displayName": "[XMEN] Zion",
+    "tag": "XMEN",
+    "name": "Zion"
+  }
+]

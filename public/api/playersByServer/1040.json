@@ -35,6 +35,11 @@
     "name": "Avatar Aklak"
   },
   {
+    "displayName": "[T4N] Avatar Appa",
+    "tag": "T4N",
+    "name": "Avatar Appa"
+  },
+  {
     "displayName": "[T4N] Avatar Ash",
     "tag": "T4N",
     "name": "Avatar Ash"
@@ -68,6 +73,11 @@
     "displayName": "[T4N] Belteard",
     "tag": "T4N",
     "name": "Belteard"
+  },
+  {
+    "displayName": "[WARS] Betoalohawai",
+    "tag": "WARS",
+    "name": "Betoalohawai"
   },
   {
     "displayName": "[WAR5] Blaziken",
@@ -173,6 +183,11 @@
     "displayName": "[WARS] Daxter",
     "tag": "WARS",
     "name": "Daxter"
+  },
+  {
+    "displayName": "[T4N] Daxz Ballz",
+    "tag": "T4N",
+    "name": "Daxz Ballz"
   },
   {
     "displayName": "[T4N] Dessie",
@@ -480,9 +495,24 @@
     "name": "Lil z"
   },
   {
+    "displayName": "[WARS] Lil Z",
+    "tag": "WARS",
+    "name": "Lil Z"
+  },
+  {
     "displayName": "[WARS] lil z ALT",
     "tag": "WARS",
     "name": "lil z ALT"
+  },
+  {
+    "displayName": "[WARS] ₗᵢₗ Z ₐₗₜ",
+    "tag": "WARS",
+    "name": "ₗᵢₗ Z ₐₗₜ"
+  },
+  {
+    "displayName": "[WARS] ˡⁱˡ ᶻ ᶠ2ᴾ",
+    "tag": "WARS",
+    "name": "ˡⁱˡ ᶻ ᶠ2ᴾ"
   },
   {
     "displayName": "[WARS] ᴸⁱˡ ᶻL]ⁱʳ",
@@ -640,6 +670,11 @@
     "name": "Rangis Top"
   },
   {
+    "displayName": "[T4N] Rbow Boom",
+    "tag": "T4N",
+    "name": "Rbow Boom"
+  },
+  {
     "displayName": "[T4N] Rina",
     "tag": "T4N",
     "name": "Rina"
@@ -653,6 +688,11 @@
     "displayName": "[OTWL] scissorknot",
     "tag": "OTWL",
     "name": "scissorknot"
+  },
+  {
+    "displayName": "[WARS] ScoobyDoo KD",
+    "tag": "WARS",
+    "name": "ScoobyDoo KD"
   },
   {
     "displayName": "[T4N] ScoobyDoo KD",
@@ -673,6 +713,11 @@
     "displayName": "[WARS] SilentDrop",
     "tag": "WARS",
     "name": "SilentDrop"
+  },
+  {
+    "displayName": "[WAR5] SkippyDoo",
+    "tag": "WAR5",
+    "name": "SkippyDoo"
   },
   {
     "displayName": "[T4N] SkrappyDoo",
@@ -755,6 +800,11 @@
     "name": "ᵁᵉʳʸˢʰʸᴳⁱʳˡ"
   },
   {
+    "displayName": "[WARS] ⱽᵉʳʸˢʰʸᴳⁱʳˡ",
+    "tag": "WARS",
+    "name": "ⱽᵉʳʸˢʰʸᴳⁱʳˡ"
+  },
+  {
     "displayName": "[WARS] Wettaco",
     "tag": "WARS",
     "name": "Wettaco"
@@ -768,6 +818,11 @@
     "displayName": "[WARS] Whitemist",
     "tag": "WARS",
     "name": "Whitemist"
+  },
+  {
+    "displayName": "[WAR5] WhoopsyDoo",
+    "tag": "WAR5",
+    "name": "WhoopsyDoo"
   },
   {
     "displayName": "[WARS] Willrd",

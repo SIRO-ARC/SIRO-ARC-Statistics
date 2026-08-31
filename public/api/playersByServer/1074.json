@@ -1,13 +1,33 @@
 [
   {
+    "displayName": "[GTA] A noodle",
+    "tag": "GTA",
+    "name": "A noodle"
+  },
+  {
     "displayName": "[ITAL] akram",
     "tag": "ITAL",
     "name": "akram"
   },
   {
+    "displayName": "[GOBY] Alasdair",
+    "tag": "GOBY",
+    "name": "Alasdair"
+  },
+  {
     "displayName": "[RWBY] Alasdair",
     "tag": "RWBY",
     "name": "Alasdair"
+  },
+  {
+    "displayName": "[GTA] Almorok",
+    "tag": "GTA",
+    "name": "Almorok"
+  },
+  {
+    "displayName": "[GOBY] Ancheline22",
+    "tag": "GOBY",
+    "name": "Ancheline22"
   },
   {
     "displayName": "[GOT] Ancheline22",
@@ -40,6 +60,16 @@
     "name": "Azzip"
   },
   {
+    "displayName": "[GTA] Badman",
+    "tag": "GTA",
+    "name": "Badman"
+  },
+  {
+    "displayName": "Bastik",
+    "tag": null,
+    "name": "Bastik"
+  },
+  {
     "displayName": "[RWBY] Bastik",
     "tag": "RWBY",
     "name": "Bastik"
@@ -65,9 +95,19 @@
     "name": "BlakDeth"
   },
   {
+    "displayName": "[GTA] blueberry",
+    "tag": "GTA",
+    "name": "blueberry"
+  },
+  {
     "displayName": "[RWBY] Bluedragon",
     "tag": "RWBY",
     "name": "Bluedragon"
+  },
+  {
+    "displayName": "[GOBY] Boburrito",
+    "tag": "GOBY",
+    "name": "Boburrito"
   },
   {
     "displayName": "[GOT] Boburrito",
@@ -75,9 +115,19 @@
     "name": "Boburrito"
   },
   {
+    "displayName": "Bofrad",
+    "tag": null,
+    "name": "Bofrad"
+  },
+  {
     "displayName": "[RWBY] Bofrad",
     "tag": "RWBY",
     "name": "Bofrad"
+  },
+  {
+    "displayName": "Bryson0619",
+    "tag": null,
+    "name": "Bryson0619"
   },
   {
     "displayName": "[RWBY] Bryson0619",
@@ -100,6 +150,11 @@
     "name": "CallMeJester"
   },
   {
+    "displayName": "[GOBY] Camper Dan",
+    "tag": "GOBY",
+    "name": "Camper Dan"
+  },
+  {
     "displayName": "[RWBY] Camper Dan",
     "tag": "RWBY",
     "name": "Camper Dan"
@@ -115,6 +170,11 @@
     "name": "cerberuspug"
   },
   {
+    "displayName": "[GOBY] ChagasPlague",
+    "tag": "GOBY",
+    "name": "ChagasPlague"
+  },
+  {
     "displayName": "[RWBY] ChagasPlague",
     "tag": "RWBY",
     "name": "ChagasPlague"
@@ -125,6 +185,16 @@
     "name": "Chey"
   },
   {
+    "displayName": "[GTA] ChristinaKW",
+    "tag": "GTA",
+    "name": "ChristinaKW"
+  },
+  {
+    "displayName": "CowBear",
+    "tag": null,
+    "name": "CowBear"
+  },
+  {
     "displayName": "[RWBY] CowBear",
     "tag": "RWBY",
     "name": "CowBear"
@@ -133,6 +203,16 @@
     "displayName": "[GOT] CrookieJ",
     "tag": "GOT",
     "name": "CrookieJ"
+  },
+  {
+    "displayName": "[GTA] Dafi",
+    "tag": "GTA",
+    "name": "Dafi"
+  },
+  {
+    "displayName": "[GTA] DatLyktMe",
+    "tag": "GTA",
+    "name": "DatLyktMe"
   },
   {
     "displayName": "[RWBY] Depa",
@@ -160,14 +240,29 @@
     "name": "Doge"
   },
   {
+    "displayName": "[GOBY] Drew",
+    "tag": "GOBY",
+    "name": "Drew"
+  },
+  {
     "displayName": "[GOT] Drew",
     "tag": "GOT",
     "name": "Drew"
   },
   {
+    "displayName": "[GOBY] eeku",
+    "tag": "GOBY",
+    "name": "eeku"
+  },
+  {
     "displayName": "[GOT] eeku",
     "tag": "GOT",
     "name": "eeku"
+  },
+  {
+    "displayName": "[GOBY] Eowyn18",
+    "tag": "GOBY",
+    "name": "Eowyn18"
   },
   {
     "displayName": "[GOT] Eowyn18",
@@ -180,9 +275,24 @@
     "name": "Eze25"
   },
   {
+    "displayName": "[GTA] Falco",
+    "tag": "GTA",
+    "name": "Falco"
+  },
+  {
+    "displayName": "[GTA] FIREL0RDZUK0",
+    "tag": "GTA",
+    "name": "FIREL0RDZUK0"
+  },
+  {
     "displayName": "[GOT] FireLordZuko",
     "tag": "GOT",
     "name": "FireLordZuko"
+  },
+  {
+    "displayName": "Fran",
+    "tag": null,
+    "name": "Fran"
   },
   {
     "displayName": "[GOT] Fran",
@@ -195,14 +305,34 @@
     "name": "FXS"
   },
   {
+    "displayName": "[GTA] Gaia",
+    "tag": "GTA",
+    "name": "Gaia"
+  },
+  {
+    "displayName": "[GTA] Gakeon",
+    "tag": "GTA",
+    "name": "Gakeon"
+  },
+  {
     "displayName": "[GOT] Gardevoir",
     "tag": "GOT",
     "name": "Gardevoir"
   },
   {
+    "displayName": "[GTA] GeoEevee",
+    "tag": "GTA",
+    "name": "GeoEevee"
+  },
+  {
     "displayName": "[RWBY] GinGin",
     "tag": "RWBY",
     "name": "GinGin"
+  },
+  {
+    "displayName": "[GOBY] GinsengRoot",
+    "tag": "GOBY",
+    "name": "GinsengRoot"
   },
   {
     "displayName": "[RWBY] GinsengRoot",
@@ -220,9 +350,39 @@
     "name": "gvas"
   },
   {
+    "displayName": "[GTA] Hech",
+    "tag": "GTA",
+    "name": "Hech"
+  },
+  {
+    "displayName": "[GTA] Herb",
+    "tag": "GTA",
+    "name": "Herb"
+  },
+  {
+    "displayName": "[GTA] Hermit",
+    "tag": "GTA",
+    "name": "Hermit"
+  },
+  {
+    "displayName": "[GOBY] High Score",
+    "tag": "GOBY",
+    "name": "High Score"
+  },
+  {
     "displayName": "[RWBY] High Score",
     "tag": "RWBY",
     "name": "High Score"
+  },
+  {
+    "displayName": "[GTA] His Momoness",
+    "tag": "GTA",
+    "name": "His Momoness"
+  },
+  {
+    "displayName": "[GTA] ILoveOrcas",
+    "tag": "GTA",
+    "name": "ILoveOrcas"
   },
   {
     "displayName": "[GOT] IloveTenzin",
@@ -230,9 +390,24 @@
     "name": "IloveTenzin"
   },
   {
+    "displayName": "[GTA] irohman",
+    "tag": "GTA",
+    "name": "irohman"
+  },
+  {
+    "displayName": "[GTA] Irohs Herbal",
+    "tag": "GTA",
+    "name": "Irohs Herbal"
+  },
+  {
     "displayName": "[SCE] Jinx",
     "tag": "SCE",
     "name": "Jinx"
+  },
+  {
+    "displayName": "[GOBY] jivp",
+    "tag": "GOBY",
+    "name": "jivp"
   },
   {
     "displayName": "[GOT] jivp",
@@ -250,14 +425,29 @@
     "name": "Joseph"
   },
   {
+    "displayName": "[GTA] Jules",
+    "tag": "GTA",
+    "name": "Jules"
+  },
+  {
     "displayName": "[RWBY] JW NATION",
     "tag": "RWBY",
     "name": "JW NATION"
   },
   {
+    "displayName": "Kamui",
+    "tag": null,
+    "name": "Kamui"
+  },
+  {
     "displayName": "[GOT] Kamui",
     "tag": "GOT",
     "name": "Kamui"
+  },
+  {
+    "displayName": "[GOBY] Kewchie",
+    "tag": "GOBY",
+    "name": "Kewchie"
   },
   {
     "displayName": "[GOT] Kewchie",
@@ -270,6 +460,11 @@
     "name": "Keyser Soze"
   },
   {
+    "displayName": "[GTA] Khal",
+    "tag": "GTA",
+    "name": "Khal"
+  },
+  {
     "displayName": "[RWBY] Khaled",
     "tag": "RWBY",
     "name": "Khaled"
@@ -280,6 +475,26 @@
     "name": "KiCho"
   },
   {
+    "displayName": "[GTA] Kiddo",
+    "tag": "GTA",
+    "name": "Kiddo"
+  },
+  {
+    "displayName": "[GTA] Kimana",
+    "tag": "GTA",
+    "name": "Kimana"
+  },
+  {
+    "displayName": "[GTA] Kintsugi",
+    "tag": "GTA",
+    "name": "Kintsugi"
+  },
+  {
+    "displayName": "[GTA] Korg n Miek",
+    "tag": "GTA",
+    "name": "Korg n Miek"
+  },
+  {
     "displayName": "[SYN] KukulchanFX",
     "tag": "SYN",
     "name": "KukulchanFX"
@@ -288,6 +503,11 @@
     "displayName": "[RWBY] kushangku",
     "tag": "RWBY",
     "name": "kushangku"
+  },
+  {
+    "displayName": "[GOBY] lahima",
+    "tag": "GOBY",
+    "name": "lahima"
   },
   {
     "displayName": "[RWBY] lahima",
@@ -305,9 +525,19 @@
     "name": "Leader123"
   },
   {
+    "displayName": "[GTA] Leē",
+    "tag": "GTA",
+    "name": "Leē"
+  },
+  {
     "displayName": "[GOT] Leigha",
     "tag": "GOT",
     "name": "Leigha"
+  },
+  {
+    "displayName": "[GOBY] Limeki3",
+    "tag": "GOBY",
+    "name": "Limeki3"
   },
   {
     "displayName": "[GOT] Limeki3",
@@ -315,14 +545,34 @@
     "name": "Limeki3"
   },
   {
+    "displayName": "[GTA] MageeCarp",
+    "tag": "GTA",
+    "name": "MageeCarp"
+  },
+  {
     "displayName": "[RWBY] MagitoReborn",
     "tag": "RWBY",
     "name": "MagitoReborn"
   },
   {
+    "displayName": "[GTA] Magneto",
+    "tag": "GTA",
+    "name": "Magneto"
+  },
+  {
+    "displayName": "[GOBY] mao",
+    "tag": "GOBY",
+    "name": "mao"
+  },
+  {
     "displayName": "[RWBY] mao",
     "tag": "RWBY",
     "name": "mao"
+  },
+  {
+    "displayName": "[GTA] Mephisto",
+    "tag": "GTA",
+    "name": "Mephisto"
   },
   {
     "displayName": "[SCE] MetalMaven",
@@ -340,14 +590,44 @@
     "name": "Mevet"
   },
   {
+    "displayName": "[GTA] MIRA",
+    "tag": "GTA",
+    "name": "MIRA"
+  },
+  {
+    "displayName": "[GOBY] Moet",
+    "tag": "GOBY",
+    "name": "Moet"
+  },
+  {
     "displayName": "[GOT] Moet",
     "tag": "GOT",
     "name": "Moet"
   },
   {
+    "displayName": "[GOBY] Moistness",
+    "tag": "GOBY",
+    "name": "Moistness"
+  },
+  {
     "displayName": "[GOT] Moistness",
     "tag": "GOT",
     "name": "Moistness"
+  },
+  {
+    "displayName": "[GTA] Mooshi",
+    "tag": "GTA",
+    "name": "Mooshi"
+  },
+  {
+    "displayName": "[GTA] Najjim",
+    "tag": "GTA",
+    "name": "Najjim"
+  },
+  {
+    "displayName": "[GOBY] Nastea",
+    "tag": "GOBY",
+    "name": "Nastea"
   },
   {
     "displayName": "[GOT] Nastea",
@@ -365,6 +645,26 @@
     "name": "Nikkey"
   },
   {
+    "displayName": "[GTA] Nobara",
+    "tag": "GTA",
+    "name": "Nobara"
+  },
+  {
+    "displayName": "[GTA] Noryko",
+    "tag": "GTA",
+    "name": "Noryko"
+  },
+  {
+    "displayName": "[GTA] Nugs",
+    "tag": "GTA",
+    "name": "Nugs"
+  },
+  {
+    "displayName": "[GTA] NYC Baddie",
+    "tag": "GTA",
+    "name": "NYC Baddie"
+  },
+  {
     "displayName": "[RWBY] nylsoj",
     "tag": "RWBY",
     "name": "nylsoj"
@@ -375,9 +675,29 @@
     "name": "NyxNahriv"
   },
   {
+    "displayName": "[GTA] OG Anubis",
+    "tag": "GTA",
+    "name": "OG Anubis"
+  },
+  {
+    "displayName": "[GOBY] Old Man",
+    "tag": "GOBY",
+    "name": "Old Man"
+  },
+  {
     "displayName": "[GOT] Old Man",
     "tag": "GOT",
     "name": "Old Man"
+  },
+  {
+    "displayName": "[GTA] PaintdTheydy",
+    "tag": "GTA",
+    "name": "PaintdTheydy"
+  },
+  {
+    "displayName": "[GOBY] Pandey",
+    "tag": "GOBY",
+    "name": "Pandey"
   },
   {
     "displayName": "[RWBY] Pandey",
@@ -390,6 +710,16 @@
     "name": "Patro27"
   },
   {
+    "displayName": "[GTA] Phobos",
+    "tag": "GTA",
+    "name": "Phobos"
+  },
+  {
+    "displayName": "[GOBY] phoenix",
+    "tag": "GOBY",
+    "name": "phoenix"
+  },
+  {
     "displayName": "[RWBY] phoenix",
     "tag": "RWBY",
     "name": "phoenix"
@@ -400,9 +730,24 @@
     "name": "PikoJinx"
   },
   {
+    "displayName": "[GTA] Puentezfc13",
+    "tag": "GTA",
+    "name": "Puentezfc13"
+  },
+  {
+    "displayName": "[GOBY] PuzzleKnight",
+    "tag": "GOBY",
+    "name": "PuzzleKnight"
+  },
+  {
     "displayName": "[RWBY] PuzzleKnight",
     "tag": "RWBY",
     "name": "PuzzleKnight"
+  },
+  {
+    "displayName": "[GTA] PuzzlePebble",
+    "tag": "GTA",
+    "name": "PuzzlePebble"
   },
   {
     "displayName": "[GOT] Ral007",
@@ -413,6 +758,11 @@
     "displayName": "[SCE] RALEMONN",
     "tag": "SCE",
     "name": "RALEMONN"
+  },
+  {
+    "displayName": "[GOBY] RAOS",
+    "tag": "GOBY",
+    "name": "RAOS"
   },
   {
     "displayName": "[GOT] RAOS",
@@ -430,9 +780,34 @@
     "name": "Raszhagal"
   },
   {
+    "displayName": "[GTA] RedScope",
+    "tag": "GTA",
+    "name": "RedScope"
+  },
+  {
+    "displayName": "[GTA] Rivalian",
+    "tag": "GTA",
+    "name": "Rivalian"
+  },
+  {
     "displayName": "[GOT] RobertStark",
     "tag": "GOT",
     "name": "RobertStark"
+  },
+  {
+    "displayName": "[GTA] Ryoko",
+    "tag": "GTA",
+    "name": "Ryoko"
+  },
+  {
+    "displayName": "[GTA] Sagane",
+    "tag": "GTA",
+    "name": "Sagane"
+  },
+  {
+    "displayName": "[GTA] Seismic Fist",
+    "tag": "GTA",
+    "name": "Seismic Fist"
   },
   {
     "displayName": "Senpai",
@@ -440,9 +815,19 @@
     "name": "Senpai"
   },
   {
+    "displayName": "[GOBY] ShwdwnKid",
+    "tag": "GOBY",
+    "name": "ShwdwnKid"
+  },
+  {
     "displayName": "[GOT] ShwdwnKid",
     "tag": "GOT",
     "name": "ShwdwnKid"
+  },
+  {
+    "displayName": "[GOBY] SnelleKenny",
+    "tag": "GOBY",
+    "name": "SnelleKenny"
   },
   {
     "displayName": "[GOT] SnelleKenny",
@@ -450,9 +835,34 @@
     "name": "SnelleKenny"
   },
   {
+    "displayName": "[GTA] Steely dan",
+    "tag": "GTA",
+    "name": "Steely dan"
+  },
+  {
+    "displayName": "[GOBY] StinkySkunk",
+    "tag": "GOBY",
+    "name": "StinkySkunk"
+  },
+  {
     "displayName": "[RWBY] StinkySkunk",
     "tag": "RWBY",
     "name": "StinkySkunk"
+  },
+  {
+    "displayName": "[GTA] strawberry",
+    "tag": "GTA",
+    "name": "strawberry"
+  },
+  {
+    "displayName": "[GTA] Suat",
+    "tag": "GTA",
+    "name": "Suat"
+  },
+  {
+    "displayName": "[GOBY] Sunshine",
+    "tag": "GOBY",
+    "name": "Sunshine"
   },
   {
     "displayName": "[RWBY] Sunshine",
@@ -465,14 +875,44 @@
     "name": "Tento"
   },
   {
+    "displayName": "[GTA] ThatBtchFox",
+    "tag": "GTA",
+    "name": "ThatBtchFox"
+  },
+  {
+    "displayName": "[GTA] themarxel",
+    "tag": "GTA",
+    "name": "themarxel"
+  },
+  {
+    "displayName": "[GTA] TiberiusRad",
+    "tag": "GTA",
+    "name": "TiberiusRad"
+  },
+  {
     "displayName": "[RWBY] Tobiko",
     "tag": "RWBY",
     "name": "Tobiko"
   },
   {
+    "displayName": "[GOBY] Toophunkey",
+    "tag": "GOBY",
+    "name": "Toophunkey"
+  },
+  {
     "displayName": "[GOT] Toophunkey",
     "tag": "GOT",
     "name": "Toophunkey"
+  },
+  {
+    "displayName": "[GTA] TRTLman",
+    "tag": "GTA",
+    "name": "TRTLman"
+  },
+  {
+    "displayName": "[GOBY] TSS",
+    "tag": "GOBY",
+    "name": "TSS"
   },
   {
     "displayName": "[GOT] TSS",
@@ -500,6 +940,26 @@
     "name": "Vane"
   },
   {
+    "displayName": "[GTA] VID07",
+    "tag": "GTA",
+    "name": "VID07"
+  },
+  {
+    "displayName": "[GTA] ViscountMatt",
+    "tag": "GTA",
+    "name": "ViscountMatt"
+  },
+  {
+    "displayName": "[GTA] WhiteArmor",
+    "tag": "GTA",
+    "name": "WhiteArmor"
+  },
+  {
+    "displayName": "[GOBY] xXMatt11Xx",
+    "tag": "GOBY",
+    "name": "xXMatt11Xx"
+  },
+  {
     "displayName": "[GOT] xXMatt11Xx",
     "tag": "GOT",
     "name": "xXMatt11Xx"
@@ -510,6 +970,16 @@
     "name": "xXMatt22Xx"
   },
   {
+    "displayName": "[GTA] yeet",
+    "tag": "GTA",
+    "name": "yeet"
+  },
+  {
+    "displayName": "[GOBY] Yorch",
+    "tag": "GOBY",
+    "name": "Yorch"
+  },
+  {
     "displayName": "[RWBY] Yorch",
     "tag": "RWBY",
     "name": "Yorch"
@@ -518,5 +988,20 @@
     "displayName": "Yüū",
     "tag": null,
     "name": "Yüū"
+  },
+  {
+    "displayName": "[GTA] Zommer",
+    "tag": "GTA",
+    "name": "Zommer"
+  },
+  {
+    "displayName": "[GTA] ZutaraLover",
+    "tag": "GTA",
+    "name": "ZutaraLover"
+  },
+  {
+    "displayName": "[GTA] Максимка",
+    "tag": "GTA",
+    "name": "Максимка"
   }
 ]

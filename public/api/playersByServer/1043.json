@@ -95,6 +95,11 @@
     "name": "Badgermole"
   },
   {
+    "displayName": "[KWS] Bhutan",
+    "tag": "KWS",
+    "name": "Bhutan"
+  },
+  {
     "displayName": "[UMI] Bjorn",
     "tag": "UMI",
     "name": "Bjorn"
@@ -125,6 +130,11 @@
     "name": "Btasf"
   },
   {
+    "displayName": "[KWS] CAUPOLICAN",
+    "tag": "KWS",
+    "name": "CAUPOLICAN"
+  },
+  {
     "displayName": "[BLUE] Charmander",
     "tag": "BLUE",
     "name": "Charmander"
@@ -143,6 +153,11 @@
     "displayName": "[KWS] Cherish",
     "tag": "KWS",
     "name": "Cherish"
+  },
+  {
+    "displayName": "[UMI] CorgoShip99",
+    "tag": "UMI",
+    "name": "CorgoShip99"
   },
   {
     "displayName": "[UMI] CyPy",
@@ -223,6 +238,11 @@
     "displayName": "[ASH] Fireturtle",
     "tag": "ASH",
     "name": "Fireturtle"
+  },
+  {
+    "displayName": "[UMI] FJCM",
+    "tag": "UMI",
+    "name": "FJCM"
   },
   {
     "displayName": "[UMI] Floppy",
@@ -405,6 +425,11 @@
     "name": "Ketrill"
   },
   {
+    "displayName": "[UMI] KingLLK",
+    "tag": "UMI",
+    "name": "KingLLK"
+  },
+  {
     "displayName": "[KWS] kono",
     "tag": "KWS",
     "name": "kono"
@@ -475,6 +500,11 @@
     "name": "Melon"
   },
   {
+    "displayName": "[UMI] MelOne",
+    "tag": "UMI",
+    "name": "MelOne"
+  },
+  {
     "displayName": "[UMI] MelonLord",
     "tag": "UMI",
     "name": "MelonLord"
@@ -530,6 +560,11 @@
     "name": "MrReddog"
   },
   {
+    "displayName": "[UMI] Nadine",
+    "tag": "UMI",
+    "name": "Nadine"
+  },
+  {
     "displayName": "[UMI] Napsack",
     "tag": "UMI",
     "name": "Napsack"
@@ -543,6 +578,11 @@
     "displayName": "[KWS] neon",
     "tag": "KWS",
     "name": "neon"
+  },
+  {
+    "displayName": "[UMI] nitay",
+    "tag": "UMI",
+    "name": "nitay"
   },
   {
     "displayName": "[BLUE] noizyB",
@@ -715,8 +755,18 @@
     "name": "Waterturtle"
   },
   {
+    "displayName": "[UMI] π Rëy Zükø",
+    "tag": "UMI",
+    "name": "π Rëy Zükø"
+  },
+  {
     "displayName": "[ASH] πSëgädör",
     "tag": "ASH",
     "name": "πSëgädör"
+  },
+  {
+    "displayName": "[UMI] Ееvее",
+    "tag": "UMI",
+    "name": "Ееvее"
   }
 ]

@@ -20,6 +20,11 @@
     "name": "Alanhalem"
   },
   {
+    "displayName": "[NkM] Antz",
+    "tag": "NkM",
+    "name": "Antz"
+  },
+  {
     "displayName": "[SIN] Antz",
     "tag": "SIN",
     "name": "Antz"
@@ -60,6 +65,11 @@
     "name": "Banger EOD"
   },
   {
+    "displayName": "[CxC] Bea",
+    "tag": "CxC",
+    "name": "Bea"
+  },
+  {
     "displayName": "[CxC] Bea 2",
     "tag": "CxC",
     "name": "Bea 2"
@@ -98,6 +108,11 @@
     "displayName": "[SIN] BOOGIEWOOGIE",
     "tag": "SIN",
     "name": "BOOGIEWOOGIE"
+  },
+  {
+    "displayName": "[CxC] BRINA",
+    "tag": "CxC",
+    "name": "BRINA"
   },
   {
     "displayName": "[SIN] Buff Belphie",
@@ -175,9 +190,19 @@
     "name": "DaRealTodo"
   },
   {
+    "displayName": "[CxC] Deanith",
+    "tag": "CxC",
+    "name": "Deanith"
+  },
+  {
     "displayName": "[NkM] Deanu",
     "tag": "NkM",
     "name": "Deanu"
+  },
+  {
+    "displayName": "Deez",
+    "tag": null,
+    "name": "Deez"
   },
   {
     "displayName": "[SIN] Deez",
@@ -313,6 +338,16 @@
     "displayName": "[NkM] iljaaa",
     "tag": "NkM",
     "name": "iljaaa"
+  },
+  {
+    "displayName": "[CxC] IMPERATØR",
+    "tag": "CxC",
+    "name": "IMPERATØR"
+  },
+  {
+    "displayName": "[CxC] IRON PALADIN",
+    "tag": "CxC",
+    "name": "IRON PALADIN"
   },
   {
     "displayName": "[CxC] IvoTheChick",
@@ -455,6 +490,11 @@
     "name": "Kyseki"
   },
   {
+    "displayName": "[CxC] ᴋᴜᴢᴏɴ",
+    "tag": "CxC",
+    "name": "ᴋᴜᴢᴏɴ"
+  },
+  {
     "displayName": "[eva] Last Chapter",
     "tag": "eva",
     "name": "Last Chapter"
@@ -475,9 +515,24 @@
     "name": "Leni"
   },
   {
+    "displayName": "[CxC] Leodamian",
+    "tag": "CxC",
+    "name": "Leodamian"
+  },
+  {
+    "displayName": "[CxC] lika",
+    "tag": "CxC",
+    "name": "lika"
+  },
+  {
     "displayName": "[SIN] LilRedKrem",
     "tag": "SIN",
     "name": "LilRedKrem"
+  },
+  {
+    "displayName": "[CSS] LimaBeanSoup",
+    "tag": "CSS",
+    "name": "LimaBeanSoup"
   },
   {
     "displayName": "[CxC] Loreley",
@@ -535,9 +590,19 @@
     "name": "mijão"
   },
   {
+    "displayName": "[CxC] MłŁFSŁAYER",
+    "tag": "CxC",
+    "name": "MłŁFSŁAYER"
+  },
+  {
     "displayName": "[NkM] Mochi",
     "tag": "NkM",
     "name": "Mochi"
+  },
+  {
+    "displayName": "[CxC] MOMØDIN",
+    "tag": "CxC",
+    "name": "MOMØDIN"
   },
   {
     "displayName": "[NkM] Mothgil",
@@ -555,6 +620,11 @@
     "name": "Neptun"
   },
   {
+    "displayName": "[CxC] Nezuko",
+    "tag": "CxC",
+    "name": "Nezuko"
+  },
+  {
     "displayName": "[CxC] Nope",
     "tag": "CxC",
     "name": "Nope"
@@ -563,6 +633,16 @@
     "displayName": "[NkM] Nox",
     "tag": "NkM",
     "name": "Nox"
+  },
+  {
+    "displayName": "[CxC] NUKE is PUKE",
+    "tag": "CxC",
+    "name": "NUKE is PUKE"
+  },
+  {
+    "displayName": "[CxC] NukieDookie",
+    "tag": "CxC",
+    "name": "NukieDookie"
   },
   {
     "displayName": "[Cxc] Ø D I N 火",
@@ -645,6 +725,11 @@
     "name": "Riverhawk"
   },
   {
+    "displayName": "[CxC] S0yunmagito",
+    "tag": "CxC",
+    "name": "S0yunmagito"
+  },
+  {
     "displayName": "[CxC] Sab",
     "tag": "CxC",
     "name": "Sab"
@@ -663,6 +748,11 @@
     "displayName": "[NkM] SammyH232",
     "tag": "NkM",
     "name": "SammyH232"
+  },
+  {
+    "displayName": "[CxC] Samurai Hana",
+    "tag": "CxC",
+    "name": "Samurai Hana"
   },
   {
     "displayName": "[NkM] Sariba",
@@ -685,9 +775,19 @@
     "name": "SaturnTheKid"
   },
   {
+    "displayName": "[CSS] Schmeterling",
+    "tag": "CSS",
+    "name": "Schmeterling"
+  },
+  {
     "displayName": "[CxC] Schmeterling",
     "tag": "CxC",
     "name": "Schmeterling"
+  },
+  {
+    "displayName": "[CxC] SehlamCCC",
+    "tag": "CxC",
+    "name": "SehlamCCC"
   },
   {
     "displayName": "[CxC] Senpai",
@@ -745,9 +845,19 @@
     "name": "Soroč"
   },
   {
+    "displayName": "[CxC] SpkySpkyBoom",
+    "tag": "CxC",
+    "name": "SpkySpkyBoom"
+  },
+  {
     "displayName": "StarCatcher",
     "tag": null,
     "name": "StarCatcher"
+  },
+  {
+    "displayName": "[CxC] starrfire",
+    "tag": "CxC",
+    "name": "starrfire"
   },
   {
     "displayName": "[CxC] Stealth",
@@ -830,6 +940,11 @@
     "name": "Vercruelle"
   },
   {
+    "displayName": "[CxC] Verohn",
+    "tag": "CxC",
+    "name": "Verohn"
+  },
+  {
     "displayName": "[CxC] WageBrina",
     "tag": "CxC",
     "name": "WageBrina"
@@ -848,6 +963,11 @@
     "displayName": "[CxC] Woody",
     "tag": "CxC",
     "name": "Woody"
+  },
+  {
+    "displayName": "[CxC] XH DRBZ",
+    "tag": "CxC",
+    "name": "XH DRBZ"
   },
   {
     "displayName": "[NkM] Yun",
