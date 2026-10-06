@@ -1,6 +1,7 @@
 import Statistics from "./pages/Statistics";
 import Tools from "./pages/Tools";
 import TalentTreeBuilder from "./pages/TalentTreeBuilder";
+import ArcMap from "./pages/ArcMap";
 import Guides from "./pages/Guides";
 import PowerGrowthHistory from "./pages/PowerGrowthHistory";
 import Archive from "./pages/Archive";
@@ -226,6 +227,12 @@ useEffect(() => {
   path="/tools/talent-builder"
   element={<TalentTreeBuilder />}
 />
+
+<Route
+  path="/tools/arc-map"
+  element={<ArcMap />}
+/>
+
   <Route path="/guides" element={<Guides />} />
 
   <Route
