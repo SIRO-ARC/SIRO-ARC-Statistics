@@ -51,7 +51,8 @@ export function calculateTalentStats(
         }
 
         const contribution =
-            talent.modifier * selectedPoints;
+    talent.levelValues?.[selectedPoints - 1] ??
+    talent.modifier * selectedPoints;
 
         totals[aura.id] =
             (totals[aura.id] || 0) +

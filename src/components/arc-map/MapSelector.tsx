@@ -242,7 +242,7 @@ React.useEffect(() => {
 }}
     >
       {/* Help overlay */}
-      <div style={{
+      <div className="arc-map-help" style={{
         position: 'absolute',
         top: 108,
   right: 12,
@@ -252,12 +252,13 @@ React.useEffect(() => {
         borderRadius: 8,
         fontSize: 12,
         zIndex: 10,
+        textAlign: 'center',
         pointerEvents: 'none',
         lineHeight: 1.5,
         width: 260,
         boxShadow: '0 4px 12px rgba(0,0,0,0.35)'
       }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontWeight: 700, marginBottom: 6, fontSize: 13 }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6, fontWeight: 700, marginBottom: 6, fontSize: 13 }}>
           <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" role="presentation" style={{ flex: '0 0 auto' }}>
             <line x1="8" y1="2" x2="8" y2="14" stroke="#fff" strokeWidth="1.5" />
             <polygon points="8,1 6.5,3 9.5,3" fill="#fff" />
@@ -1040,9 +1041,117 @@ URL.revokeObjectURL(url);
   const selectedGates = Object.keys(gateColors);
   const selectedShrines = Object.keys(shrineColors);
 
+  // Mobile-only layout fixes. Desktop values remain unchanged.
+  const mobileStyles = `
+    @media (max-width: 768px) {
+      .arc-map-root {
+        height: auto !important;
+        min-height: calc(100vh - 80px) !important;
+        overflow: visible !important;
+      }
+
+.arc-map-controls > div {
+  transform: translateX(-12px) !important;
+}
+
+      .arc-map-controls {
+        top: 8px !important;
+        padding: 4px 8px !important;
+      }
+
+      .arc-map-controls-inner {
+  gap: 8px !important;
+  transform: translateX(-12px) !important;
+}
+
+      /* Six colors per row, two rows total. */
+      .arc-map-controls-inner > div:first-child {
+        width: 100% !important;
+      }
+      .arc-map-color-list {
+  gap: 5px !important;
+  width: 100% !important;
+  justify-content: center !important;
+}
+      .arc-map-color-item {
+        min-width: 54px !important;
+        gap: 2px !important;
+      }
+      .arc-map-color-button {
+        width: 27px !important;
+        height: 27px !important;
+      }
+      .arc-map-label {
+        width: 54px !important;
+        min-height: 16px !important;
+        font-size: 10px !important;
+        padding: 2px 3px !important;
+      }
+
+      /* Keep the three action buttons together and centered below the palette. */
+      .arc-map-action-button {
+        margin-left: 0 !important;
+        padding: 6px 10px !important;
+      }
+      .arc-map-controls-inner > button {
+        margin-left: 0 !important;
+      }
+      .arc-map-controls-inner > div:first-child + button {
+        margin-left: auto !important;
+      }
+      .arc-map-controls-inner > button:last-child {
+        margin-right: auto !important;
+      }
+
+      /* Mobile becomes normal document flow: controls -> map -> scoring legend. */
+      .arc-map-stage {
+        position: relative !important;
+        top: auto !important;
+        left: auto !important;
+        width: 100% !important;
+        height: min(68vh, 100vw) !important;
+        margin-top: 190px !important;
+      }
+      .arc-map-stage svg {
+        transform: translateY(0) !important;
+      }
+
+      .arc-map-help {
+        display: none !important;
+      }
+
+      .arc-map-scoring {
+  top: 75px !important;
+  left: 8px !important;
+  right: 24px !important;
+  bottom: auto !important;
+  width: auto !important;
+  transform: none !important;
+  box-sizing: border-box !important;
+  max-height: none !important;
+  overflow-y: visible !important;
+}
+    }
+
+    @media (max-width: 390px) {
+      .arc-map-color-item {
+        min-width: 50px !important;
+      }
+      .arc-map-label {
+        width: 50px !important;
+      }
+      .arc-map-stage {
+        margin-top: 184px !important;
+        height: min(68vh, 100vw) !important;
+      }
+    }
+  `;
+
   return (
-    <div style={{ height: 'calc(100vh - 80px)', width: '100%', margin: 0, padding: 0, overflow: 'hidden', position: 'relative', background: 'transparent' }}>
-      <div style={{
+    <>
+      <style>{mobileStyles}</style>
+    <div className="arc-map-root" style={{ height: 'calc(100vh - 80px)', width: '100%', margin: 0, padding: 0, overflow: 'hidden', position: 'relative', background: 'transparent' }}>
+      <div className="arc-map-controls" style={{
         margin: 0,
         padding: '8px 16px',
         display: 'flex',
@@ -1066,10 +1175,11 @@ URL.revokeObjectURL(url);
 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
             <span style={{ fontWeight: 500, color: '#fff' }}></span>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            <div className="arc-map-color-list" style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
               {COLORS.map((color) => (
-                <div key={color} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4, minWidth: 80 }}>
+                <div key={color} className="arc-map-color-item" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4, minWidth: 80 }}>
                   <button
+                    className="arc-map-color-button"
                     style={{
                       background: color,
                       border: selectedColor === color ? "2.5px solid #fff" : "1px solid #888",
@@ -1089,6 +1199,7 @@ URL.revokeObjectURL(url);
                   {/* Label input/display */}
                   {editingLabel === color ? (
                     <input
+                      className="arc-map-label"
                       type="text"
                       value={colorLabels[color] || ''}
                       onChange={(e) => handleLabelEdit(color, e.target.value)}
@@ -1109,6 +1220,7 @@ URL.revokeObjectURL(url);
                     />
                   ) : (
                     <div
+                      className="arc-map-label"
                       onClick={() => setEditingLabel(color)}
                       style={{
                         fontSize: '12px',
@@ -1174,6 +1286,7 @@ URL.revokeObjectURL(url);
           </div>
           
           <button
+            className="arc-map-action-button"
             onClick={resetSelections}
             style={{
               background: '#dc3545',
@@ -1193,6 +1306,7 @@ URL.revokeObjectURL(url);
           </button>
           
           <button
+            className="arc-map-action-button"
             onClick={() => resetZoomRef.current?.()}
             style={{
               background: '#17a2b8',
@@ -1213,6 +1327,7 @@ URL.revokeObjectURL(url);
           </button>
           
           <button
+  className="arc-map-action-button"
   onClick={() => exportAsImage('png')}
   style={{
     background: '#28a745',
@@ -1233,7 +1348,7 @@ URL.revokeObjectURL(url);
 </button>
         </div>
       </div>
-      <div style={{
+      <div className="arc-map-stage" style={{
         position: 'absolute',
         top: 130,
         left: 0,
@@ -1263,6 +1378,7 @@ URL.revokeObjectURL(url);
       
       {/* Scoring Legend (right side) */}
     <div
+        className="arc-map-scoring"
         aria-label="Scoring Legend"
         style={{
           position: 'fixed',
@@ -1273,11 +1389,12 @@ URL.revokeObjectURL(url);
           color: '#fff',
           padding: '10px 12px',
           borderRadius: 8,
+          textAlign: 'center',
           zIndex: 5,
           boxShadow: '0 4px 12px rgba(0,0,0,0.35)'
         }}
       >
-        <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontWeight: 700, marginBottom: 6, fontSize: 13 }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6, fontWeight: 700, marginBottom: 6, fontSize: 13 }}>
           <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" role="presentation" style={{ flex: '0 0 auto' }}>
             <circle cx="8" cy="5" r="3" fill="none" stroke="#fff" strokeWidth="1.5" />
             <polygon points="6,8 5,14 7.5,12" fill="#fff" opacity="0.9" />
@@ -1299,6 +1416,7 @@ URL.revokeObjectURL(url);
 
  
     </div>
+    </>
   );
 };
 

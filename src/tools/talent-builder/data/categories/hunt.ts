@@ -11,8 +11,8 @@ export const hunt = createLayout(
         14,
         44,
         54,
-        43,
-        55,
+        88,
+        89,
         56
     ]
 )

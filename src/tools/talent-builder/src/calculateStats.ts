@@ -33,7 +33,9 @@ export function calculateAuraStats({ selectedTalentNodes, layout }: { selectedTa
             continue;
 
         const auraId = talent.auraId;
-        const value = talent.modifier * points;
+        const value =
+    talent.levelValues?.[points - 1] ??
+    talent.modifier * points;
 
         if (!auraTotals[auraId]) 
             auraTotals[auraId] = 0;

@@ -88,4 +88,6 @@ export const talents: Record<number, Talent> = {
     85: { id: 85, title: "Insight", maxPoints: 4, modifier: 1, auraId: 67, image: "insight.png" },
     86: { id: 86, title: "Critical Hit", maxPoints: 3, modifier: 1, auraId: 8, image: "critical_hit.png" },
     87: { id: 87, title: "Blessing of the Wind", maxPoints: 4, modifier: 1.5, auraId: 16, image: "blessing_of_the_wind.png" },
+    88: { id: 88, title: "Solid Defense", maxPoints: 4, modifier: 1, levelValues: [1, 3, 6, 9], auraId: 17, image: "solid_defense.png" },
+    89: { id: 89, title: "Body Conditioning", maxPoints: 4, modifier: 1, levelValues: [1, 3, 6, 9], auraId: 19, image: "body_enhancement.png" },
 }

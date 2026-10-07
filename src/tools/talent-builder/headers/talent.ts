@@ -5,7 +5,8 @@ export type Talent = {
   title: string
   maxPoints: number
   modifier: number
-  auraId: number
+levelValues?: number[]
+auraId: number
   image?: string
 }
 

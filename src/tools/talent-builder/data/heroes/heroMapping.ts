@@ -47,6 +47,8 @@ import { sokkaTree } from "./water/sokka";
 import { sokkaWWTree } from "./water/sokkaWW";
 import { unalaqTree } from "./water/unalaq";
 import { yueTree } from "./water/yue";
+import { kelsangTree } from "./air/kelsang";
+import { rangiTree } from "./fire/rangi";
 
 export const heroMapping: Record<string, HeroTree> = {
     unalaq: unalaqTree,
@@ -97,4 +99,6 @@ export const heroMapping: Record<string, HeroTree> = {
     tyLee: tyLeeTree,
     kataraSF: kataraSFTree,
     kingBumiMK: kingBumiMKTree,
+    rangi: rangiTree,
+    kelsang: kelsangTree,
 }

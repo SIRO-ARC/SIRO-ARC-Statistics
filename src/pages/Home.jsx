@@ -106,7 +106,7 @@ export default function Home() {
         <div className="text-center">
 
           <p className="text-sm text-slate-400">
-            Version v1.2
+            Version v1.3
           </p>
 
           <h2 className="mt-2 text-2xl font-bold text-sky-300">
@@ -123,7 +123,7 @@ export default function Home() {
             </span>
 
             <span className="font-semibold text-sky-400">
-              Latest Update: August 2026
+              Latest Update: October 2026
             </span>
           </div>
 
@@ -149,11 +149,11 @@ export default function Home() {
           <div>✔️ MGM Leaderboards</div>
           <div>✔️ Growth History</div>
 
-          <div>✔️ Rankings Navigation</div>
+          <div>✔️ Talent Tree Builder</div>
           <div>✔️ Responsive Design</div>
 
           <div>✔️ Mobile Optimization</div>
-          <div>✔️ Global Homepage</div>
+          <div>✔️ ARC Map Generator</div>
 
           <div>✔️ Game Hub</div>
           <div>✔️ Background System</div>

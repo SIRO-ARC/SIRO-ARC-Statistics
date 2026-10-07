@@ -31,7 +31,7 @@ const isPlatformHome = location.pathname === "/";
       { label: "MGM", to: "/mgm" },
       { label: "Tools", to: "/tools" },
       { label: "Guides", to: "/guides" },
-      { label: "Info", to: "/info" },
+
     ];
 
   const navIcons = {
@@ -42,7 +42,6 @@ const isPlatformHome = location.pathname === "/";
   "/mgm": LineChart,
   "/tools": Swords,
   "/guides": Archive,
-  "/info": Info,
 };
 
   return (

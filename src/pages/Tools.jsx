@@ -66,6 +66,29 @@ export default function Tools() {
             </div>
           </Link>
 
+          {/* ARC Map */}
+
+          <Link
+            to="/tools/arc-map"
+            className="group rounded-2xl border border-slate-700 bg-[#111A2E] p-6 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+          >
+            <div className="text-4xl">
+              🗺️
+            </div>
+
+            <h2 className="mt-4 text-2xl font-bold text-white">
+              ARC Map
+            </h2>
+
+            <p className="mt-2 text-sm leading-6 text-slate-400">
+              Explore the Avatar: Realms Collide world map and select territories.
+            </p>
+
+            <div className="mt-5 font-semibold text-sky-400 transition-transform duration-300 group-hover:translate-x-2">
+              Open ARC Map →
+            </div>
+          </Link>
+
         </div>
 
       </section>

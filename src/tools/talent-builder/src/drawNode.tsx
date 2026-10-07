@@ -39,13 +39,18 @@ export const DrawNode: React.FC<DrawNodeProps> = ({
     const isActive = currentPoints > 0;
 
 
-    const value = Math.max(1, currentPoints) * talent.modifier;
+    const value =
+    talent.levelValues?.[Math.max(1, currentPoints) - 1] ??
+    Math.max(1, currentPoints) * talent.modifier;
 
     const tooltipDescription = aura.effect.replace("{value}", `${value}`);
 
     const nextLevelText = currentPoints > 0 && currentPoints < maxPoints
-        ? `[Next level: ${(currentPoints + 1) * talent.modifier}${aura.unit}]`
-        : null;
+    ? `[Next level: ${
+        talent.levelValues?.[currentPoints] ??
+        (currentPoints + 1) * talent.modifier
+    }${aura.unit}]`
+    : null;
 
     const showTop = y < 80;
 
