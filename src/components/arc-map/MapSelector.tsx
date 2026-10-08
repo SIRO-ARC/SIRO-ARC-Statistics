@@ -17,6 +17,11 @@ const ZoomablePanSvgMap: React.FC<ZoomablePanSvgMapProps> = (props) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const [viewBox, setViewBox] = useState<[number, number, number, number]>([0, 0, 8192, 8192]);
   const [drag, setDrag] = useState<{ x: number; y: number } | null>(null);
+  const pinchRef = useRef<{
+  distance: number;
+  centerX: number;
+  centerY: number;
+} | null>(null);
 
   // Reset zoom function
   const resetZoom = () => {
@@ -184,44 +189,171 @@ React.useEffect(() => {
 
   // Touch handlers for mobile support
   const onTouchStart = (e: React.TouchEvent) => {
-    if (e.touches.length === 1) {
-      const touch = e.touches[0];
-      setDrag({ x: touch.clientX, y: touch.clientY });
-    }
-  };
+  if (e.touches.length === 1) {
+    const touch = e.touches[0];
 
-  const onTouchMove = (e: React.TouchEvent) => {
-    e.preventDefault();
-    if (drag && e.touches.length === 1 && svgRef.current) {
-      const touch = e.touches[0];
+    pinchRef.current = null;
+    setDrag({
+      x: touch.clientX,
+      y: touch.clientY,
+    });
+
+    return;
+  }
+
+  if (e.touches.length === 2 && svgRef.current) {
+    const touch1 = e.touches[0];
+    const touch2 = e.touches[1];
+
+    const dx = touch2.clientX - touch1.clientX;
+    const dy = touch2.clientY - touch1.clientY;
+
+    pinchRef.current = {
+      distance: Math.hypot(dx, dy),
+      centerX: (touch1.clientX + touch2.clientX) / 2,
+      centerY: (touch1.clientY + touch2.clientY) / 2,
+    };
+
+    setDrag(null);
+  }
+};
+
+const onTouchMove = (e: React.TouchEvent) => {
+  e.preventDefault();
+
+  if (!svgRef.current) return;
+
+  // Two-finger pinch zoom
+  if (e.touches.length === 2) {
+    const touch1 = e.touches[0];
+    const touch2 = e.touches[1];
+
+    const dx = touch2.clientX - touch1.clientX;
+    const dy = touch2.clientY - touch1.clientY;
+
+    const distance = Math.hypot(dx, dy);
+    const centerX = (touch1.clientX + touch2.clientX) / 2;
+    const centerY = (touch1.clientY + touch2.clientY) / 2;
+
+    if (pinchRef.current && distance > 0) {
       const rect = svgRef.current.getBoundingClientRect();
-      const dx = ((touch.clientX - drag.x) / rect.width) * viewBox[2];
-      const dy = ((touch.clientY - drag.y) / rect.height) * viewBox[3];
-      
+
+      const scale = pinchRef.current.distance / distance;
+
       setViewBox(([x, y, w, h]) => {
-        const newX = x - dx;
-        const newY = y - dy;
-        
-        // Apply same bounds as mouse move
-        const maxOffset = Math.max(w, h) * 0.5;
+        const newW = Math.min(
+          Math.max(w * scale, 500),
+          16384
+        );
+
+        const newH = Math.min(
+          Math.max(h * scale, 500),
+          16384
+        );
+
+        // Convert pinch center from screen coordinates
+        // into the current SVG viewBox coordinates.
+        const relativeX =
+          (centerX - rect.left) / rect.width;
+
+        const relativeY =
+          (centerY - rect.top) / rect.height;
+
+        const focalX = x + relativeX * w;
+        const focalY = y + relativeY * h;
+
+        const newX =
+          focalX - relativeX * newW;
+
+        const newY =
+          focalY - relativeY * newH;
+
+        const maxOffset = Math.max(newW, newH) * 0.5;
         const minX = -maxOffset;
         const minY = -maxOffset;
-        const maxX = 8192 + maxOffset - w;
-        const maxY = 8192 + maxOffset - h;
-        
+        const maxX = 8192 + maxOffset - newW;
+        const maxY = 8192 + maxOffset - newH;
+
         return [
           Math.max(minX, Math.min(maxX, newX)),
           Math.max(minY, Math.min(maxY, newY)),
-          w,
-          h,
+          newW,
+          newH,
         ];
       });
-      
-      setDrag({ x: touch.clientX, y: touch.clientY });
-    }
-  };
 
-  const onTouchEnd = () => setDrag(null);
+      pinchRef.current = {
+        distance,
+        centerX,
+        centerY,
+      };
+    }
+
+    return;
+  }
+
+  // One-finger pan
+  if (
+    drag &&
+    e.touches.length === 1 &&
+    svgRef.current
+  ) {
+    const touch = e.touches[0];
+    const rect = svgRef.current.getBoundingClientRect();
+
+    const dx =
+      ((touch.clientX - drag.x) / rect.width) *
+      viewBox[2];
+
+    const dy =
+      ((touch.clientY - drag.y) / rect.height) *
+      viewBox[3];
+
+    setViewBox(([x, y, w, h]) => {
+      const newX = x - dx;
+      const newY = y - dy;
+
+      const maxOffset = Math.max(w, h) * 0.5;
+      const minX = -maxOffset;
+      const minY = -maxOffset;
+      const maxX = 8192 + maxOffset - w;
+      const maxY = 8192 + maxOffset - h;
+
+      return [
+        Math.max(minX, Math.min(maxX, newX)),
+        Math.max(minY, Math.min(maxY, newY)),
+        w,
+        h,
+      ];
+    });
+
+    setDrag({
+      x: touch.clientX,
+      y: touch.clientY,
+    });
+  }
+};
+
+const onTouchEnd = (e: React.TouchEvent) => {
+  if (e.touches.length === 0) {
+    pinchRef.current = null;
+    setDrag(null);
+    return;
+  }
+
+  // When going from two fingers back to one,
+  // start a fresh pan position.
+  if (e.touches.length === 1) {
+    pinchRef.current = null;
+
+    const touch = e.touches[0];
+
+    setDrag({
+      x: touch.clientX,
+      y: touch.clientY,
+    });
+  }
+};
 
   return (
     <div
@@ -324,11 +456,12 @@ const MapSelector: React.FC = () => {
   // Sanctuaries just north/south of center: shrine13 (north), shrine15 (south)
   // Temple tile at the very center: tile ID 30
   const CENTER_TILE_IDS = React.useMemo(() => new Set<number>([
-    1,2,3,4,5,6,7,8,9,10,
-    11,12,13,14,15,16,17,18,19,20,
-    21,22,23,24,25,26,27,28,29,30,
-    31,32,33,34,35,36
-  ]), []);
+  1,2,3,4,5,6,7,8,9,10,
+  11,12,13,14,15,16,17,18,19,20,
+  21,22,23,24,25,26,27,28,29,30,
+  31,32,33,34,35,36,
+  37,39,40,41,42,43,44,45,46
+]), []);
   const CENTER_GATE_IDS = React.useMemo(() => new Set<string>([
     'gate1','gate2','gate3','gate4','gate5','gate6','gate7','gate8',
     'gate9','gate10','gate11','gate12','gate13','gate14','gate15','gate16'
@@ -1110,7 +1243,7 @@ URL.revokeObjectURL(url);
         left: auto !important;
         width: 100% !important;
         height: min(68vh, 100vw) !important;
-        margin-top: 190px !important;
+        margin-top: 40px !important;
       }
       .arc-map-stage svg {
         transform: translateY(0) !important;
@@ -1121,17 +1254,8 @@ URL.revokeObjectURL(url);
       }
 
       .arc-map-scoring {
-  top: 75px !important;
-  left: 8px !important;
-  right: 24px !important;
-  bottom: auto !important;
-  width: auto !important;
-  transform: none !important;
-  box-sizing: border-box !important;
-  max-height: none !important;
-  overflow-y: visible !important;
+  display: none !important;
 }
-    }
 
     @media (max-width: 390px) {
       .arc-map-color-item {
@@ -1405,9 +1529,9 @@ URL.revokeObjectURL(url);
         <ul style={{ listStyle: 'none', padding: 0, margin: 0, lineHeight: 1.5, fontSize: 12 }}>
           <li><strong>+300</strong> per center territory tile</li>
           <li><strong>+1,500</strong> per center gate</li>
-          <li><strong>+1,500</strong> North Sanctuary (tile 1)</li>
-          <li><strong>+1,500</strong> South Sanctuary (tile 41)</li>
-          <li><strong>+10,000</strong> Temple (tile 38)</li>
+          <li><strong>+1,500</strong> North Sanctuary</li>
+          <li><strong>+1,500</strong> South Sanctuary</li>
+          <li><strong>+10,000</strong> Temple</li>
         </ul>
         <div style={{ marginTop: 6, fontSize: 11, opacity: 0.8 }}>
           Sanctuary points go to the color that owns the listed tiles. Sanctuary tiles are excluded from the base +300 center-tile score.

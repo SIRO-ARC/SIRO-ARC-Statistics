@@ -6,7 +6,7 @@ import Guides from "./pages/Guides";
 import PowerGrowthHistory from "./pages/PowerGrowthHistory";
 import Archive from "./pages/Archive";
 import Top10 from "./pages/Top10";
-import { Routes, Route, useNavigate } from "react-router-dom";
+import { Routes, Route, useNavigate, useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
 
 import Navbar from "./components/layout/Navbar";
@@ -41,6 +41,11 @@ import MgmServerEventActivityRanking from "./pages/MgmServerEventActivityRanking
 
 export default function App() {
   const navigate = useNavigate();
+  const location = useLocation();
+
+useEffect(() => {
+  window.scrollTo(0, 0);
+}, [location.pathname, location.search]);
 
 useEffect(() => {
   const redirect = sessionStorage.getItem("redirect");
