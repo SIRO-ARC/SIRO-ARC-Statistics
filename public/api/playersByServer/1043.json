@@ -370,6 +370,11 @@
     "name": "Hotleafjuice"
   },
   {
+    "displayName": "Hotleafjuice",
+    "tag": null,
+    "name": "Hotleafjuice"
+  },
+  {
     "displayName": "[ASH] Hotleafjuice",
     "tag": "ASH",
     "name": "Hotleafjuice"
@@ -660,6 +665,11 @@
     "name": "Porygon"
   },
   {
+    "displayName": "[UMI] Preeem",
+    "tag": "UMI",
+    "name": "Preeem"
+  },
+  {
     "displayName": "[UMI] Quelli",
     "tag": "UMI",
     "name": "Quelli"
@@ -790,9 +800,24 @@
     "name": "Waterturtle"
   },
   {
+    "displayName": "[ASH] Waterturtle",
+    "tag": "ASH",
+    "name": "Waterturtle"
+  },
+  {
     "displayName": "[UMI] π Rëy Zükø",
     "tag": "UMI",
     "name": "π Rëy Zükø"
+  },
+  {
+    "displayName": "[UMI] π Rё y Zükø",
+    "tag": "UMI",
+    "name": "π Rё y Zükø"
+  },
+  {
+    "displayName": "[UMI] π Zücø 43",
+    "tag": "UMI",
+    "name": "π Zücø 43"
   },
   {
     "displayName": "[ASH] πSëgädör",

@@ -10,6 +10,11 @@
     "name": "Admiral Iroh"
   },
   {
+    "displayName": "Ahimsa44",
+    "tag": null,
+    "name": "Ahimsa44"
+  },
+  {
     "displayName": "[KyoW] Ahimsa44",
     "tag": "KyoW",
     "name": "Ahimsa44"
@@ -45,6 +50,11 @@
     "name": "Antharas"
   },
   {
+    "displayName": "[sv1] Arfunes",
+    "tag": "sv1",
+    "name": "Arfunes"
+  },
+  {
     "displayName": "[BURN] ArtHenrys",
     "tag": "BURN",
     "name": "ArtHenrys"
@@ -63,6 +73,11 @@
     "displayName": "[BURN] Asourah",
     "tag": "BURN",
     "name": "Asourah"
+  },
+  {
+    "displayName": "Autumn",
+    "tag": null,
+    "name": "Autumn"
   },
   {
     "displayName": "[BURN] Autumn",
@@ -180,6 +195,11 @@
     "name": "Crime"
   },
   {
+    "displayName": "[PSyn] Crunchy Taco",
+    "tag": "PSyn",
+    "name": "Crunchy Taco"
+  },
+  {
     "displayName": "[PSyn] cupcaek",
     "tag": "PSyn",
     "name": "cupcaek"
@@ -193,6 +213,11 @@
     "displayName": "[BURN] cuppycaek",
     "tag": "BURN",
     "name": "cuppycaek"
+  },
+  {
+    "displayName": "[BURN] Daddy",
+    "tag": "BURN",
+    "name": "Daddy"
   },
   {
     "displayName": "[BURN] Daisy",
@@ -215,6 +240,11 @@
     "name": "Deathshell"
   },
   {
+    "displayName": "[FFA] Deathshell",
+    "tag": "FFA",
+    "name": "Deathshell"
+  },
+  {
     "displayName": "[BURN] DeKampioenen",
     "tag": "BURN",
     "name": "DeKampioenen"
@@ -233,6 +263,16 @@
     "displayName": "[PSyn] DragonSon",
     "tag": "PSyn",
     "name": "DragonSon"
+  },
+  {
+    "displayName": "[KyoW] DragonSon",
+    "tag": "KyoW",
+    "name": "DragonSon"
+  },
+  {
+    "displayName": "ETM",
+    "tag": null,
+    "name": "ETM"
   },
   {
     "displayName": "[PSyn] ETM",
@@ -305,6 +345,11 @@
     "name": "HanShotFirst"
   },
   {
+    "displayName": "[BURN] HanShotFirst",
+    "tag": "BURN",
+    "name": "HanShotFirst"
+  },
+  {
     "displayName": "[BURN] Inferno",
     "tag": "BURN",
     "name": "Inferno"
@@ -340,6 +385,11 @@
     "name": "JerzMatty"
   },
   {
+    "displayName": "[BURN] JoãoGrande",
+    "tag": "BURN",
+    "name": "JoãoGrande"
+  },
+  {
     "displayName": "[BURN] JoãoOGrande",
     "tag": "BURN",
     "name": "JoãoOGrande"
@@ -348,6 +398,11 @@
     "displayName": "[BURN] Jojo",
     "tag": "BURN",
     "name": "Jojo"
+  },
+  {
+    "displayName": "[PSyn] kait",
+    "tag": "PSyn",
+    "name": "kait"
   },
   {
     "displayName": "[PSyn] KrayzieTL",
@@ -475,6 +530,11 @@
     "name": "Mjolnerd"
   },
   {
+    "displayName": "[PSyn] Mjolnerd",
+    "tag": "PSyn",
+    "name": "Mjolnerd"
+  },
+  {
     "displayName": "[BURN] molly",
     "tag": "BURN",
     "name": "molly"
@@ -525,9 +585,19 @@
     "name": "NEO"
   },
   {
+    "displayName": "[BURN] Nightfury",
+    "tag": "BURN",
+    "name": "Nightfury"
+  },
+  {
     "displayName": "[PSyn] nizz",
     "tag": "PSyn",
     "name": "nizz"
+  },
+  {
+    "displayName": "[BURN] Noatak",
+    "tag": "BURN",
+    "name": "Noatak"
   },
   {
     "displayName": "[PSyn] NOVA",
@@ -685,6 +755,11 @@
     "name": "SScorp17"
   },
   {
+    "displayName": "[KyoW] SScorp17",
+    "tag": "KyoW",
+    "name": "SScorp17"
+  },
+  {
     "displayName": "[KyoW] suneth",
     "tag": "KyoW",
     "name": "suneth"
@@ -738,6 +813,11 @@
     "displayName": "[KyoW] Tienan",
     "tag": "KyoW",
     "name": "Tienan"
+  },
+  {
+    "displayName": "[Lbs] Tigress",
+    "tag": "Lbs",
+    "name": "Tigress"
   },
   {
     "displayName": "[PSyn] TitanVL91",

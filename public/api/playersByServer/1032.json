@@ -1,5 +1,10 @@
 [
   {
+    "displayName": "[HoH]",
+    "tag": "HoH",
+    "name": ""
+  },
+  {
     "displayName": "[HoH] ▨▨▨",
     "tag": "HoH",
     "name": "▨▨▨"
@@ -28,6 +33,11 @@
     "displayName": "[SYN] ANATOLY",
     "tag": "SYN",
     "name": "ANATOLY"
+  },
+  {
+    "displayName": "[HoH] Apollo",
+    "tag": "HoH",
+    "name": "Apollo"
   },
   {
     "displayName": "[Gods] Apollo",
@@ -265,6 +275,11 @@
     "name": "Devastator"
   },
   {
+    "displayName": "[HoH] DEVSNEDMONEY",
+    "tag": "HoH",
+    "name": "DEVSNEDMONEY"
+  },
+  {
     "displayName": "DiamondFuse",
     "tag": null,
     "name": "DiamondFuse"
@@ -278,6 +293,11 @@
     "displayName": "[CYB] Dinobot",
     "tag": "CYB",
     "name": "Dinobot"
+  },
+  {
+    "displayName": "Disfor4treyi",
+    "tag": null,
+    "name": "Disfor4treyi"
   },
   {
     "displayName": "[HoH] Disfor4treyi",
@@ -775,6 +795,11 @@
     "name": "Nino Brown"
   },
   {
+    "displayName": "Nino Brown",
+    "tag": null,
+    "name": "Nino Brown"
+  },
+  {
     "displayName": "[LTUS] Nino Brown",
     "tag": "LTUS",
     "name": "Nino Brown"
@@ -795,9 +820,19 @@
     "name": "Notabot"
   },
   {
+    "displayName": "Nÿx",
+    "tag": null,
+    "name": "Nÿx"
+  },
+  {
     "displayName": "[HoH] Nÿx",
     "tag": "HoH",
     "name": "Nÿx"
+  },
+  {
+    "displayName": "[HoH] OG Drag0nZzz",
+    "tag": "HoH",
+    "name": "OG Drag0nZzz"
   },
   {
     "displayName": "[ZAPP]OG DraGonZ",
@@ -920,6 +955,11 @@
     "name": "Rhéa"
   },
   {
+    "displayName": "[HoH] Rhėa",
+    "tag": "HoH",
+    "name": "Rhėa"
+  },
+  {
     "displayName": "[DEAD] Rhėa",
     "tag": "DEAD",
     "name": "Rhėa"
@@ -940,9 +980,19 @@
     "name": "Roku"
   },
   {
+    "displayName": "Rokuson",
+    "tag": null,
+    "name": "Rokuson"
+  },
+  {
     "displayName": "[HoH] Rokuson",
     "tag": "HoH",
     "name": "Rokuson"
+  },
+  {
+    "displayName": "Sagane",
+    "tag": null,
+    "name": "Sagane"
   },
   {
     "displayName": "[HoH] Sagane",
@@ -963,6 +1013,11 @@
     "displayName": "[TJD]Scar",
     "tag": "TJD",
     "name": "Scar"
+  },
+  {
+    "displayName": "ShawnHinote",
+    "tag": null,
+    "name": "ShawnHinote"
   },
   {
     "displayName": "[STWR] ShawnHinote",
@@ -988,6 +1043,11 @@
     "displayName": "[CYB] Skids",
     "tag": "CYB",
     "name": "Skids"
+  },
+  {
+    "displayName": "Soduko ST",
+    "tag": null,
+    "name": "Soduko ST"
   },
   {
     "displayName": "[HoH] Soduko ST",
@@ -1067,6 +1127,11 @@
   {
     "displayName": "[karl] TukoAang",
     "tag": "karl",
+    "name": "TukoAang"
+  },
+  {
+    "displayName": "[SYN] TukoAang",
+    "tag": "SYN",
     "name": "TukoAang"
   },
   {

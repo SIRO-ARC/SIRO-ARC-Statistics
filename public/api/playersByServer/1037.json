@@ -160,6 +160,11 @@
     "name": "CactusJuice"
   },
   {
+    "displayName": "Calígula",
+    "tag": null,
+    "name": "Calígula"
+  },
+  {
     "displayName": "[WHLT] Calígula",
     "tag": "WHLT",
     "name": "Calígula"
@@ -760,6 +765,11 @@
     "name": "MelonLord"
   },
   {
+    "displayName": "[WHLT] MelonLord",
+    "tag": "WHLT",
+    "name": "MelonLord"
+  },
+  {
     "displayName": "MFDarkness",
     "tag": null,
     "name": "MFDarkness"
@@ -798,6 +808,11 @@
     "displayName": "[WHLT] NoName",
     "tag": "WHLT",
     "name": "NoName"
+  },
+  {
+    "displayName": "Noway",
+    "tag": null,
+    "name": "Noway"
   },
   {
     "displayName": "[CRTZ] Noway",

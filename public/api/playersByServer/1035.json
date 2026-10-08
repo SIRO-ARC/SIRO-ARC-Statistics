@@ -620,6 +620,11 @@
     "name": "Mugiwara313"
   },
   {
+    "displayName": "[THEE] MugiwaraTuT",
+    "tag": "THEE",
+    "name": "MugiwaraTuT"
+  },
+  {
     "displayName": "[FIRE] MugiwaraTuT",
     "tag": "FIRE",
     "name": "MugiwaraTuT"
@@ -720,6 +725,11 @@
     "name": "pacifist"
   },
   {
+    "displayName": "[THEE] paciflst",
+    "tag": "THEE",
+    "name": "paciflst"
+  },
+  {
     "displayName": "[FIRE] Patat",
     "tag": "FIRE",
     "name": "Patat"
@@ -743,6 +753,11 @@
     "displayName": "[FIRE] Penguin No 100",
     "tag": "FIRE",
     "name": "Penguin No 100"
+  },
+  {
+    "displayName": "[FIRE] Penguin No 5",
+    "tag": "FIRE",
+    "name": "Penguin No 5"
   },
   {
     "displayName": "[THEE] Pluviophile",
@@ -1010,6 +1025,11 @@
     "name": "WarriorXY"
   },
   {
+    "displayName": "WarriorXY",
+    "tag": null,
+    "name": "WarriorXY"
+  },
+  {
     "displayName": "[FIRE] WarriorXY",
     "tag": "FIRE",
     "name": "WarriorXY"
@@ -1075,6 +1095,11 @@
     "name": "Withthewinds"
   },
   {
+    "displayName": "[FIRE] Wlththewinds",
+    "tag": "FIRE",
+    "name": "Wlththewinds"
+  },
+  {
     "displayName": "[THEE] Wolfrage",
     "tag": "THEE",
     "name": "Wolfrage"
@@ -1110,13 +1135,13 @@
     "name": "Zukka"
   },
   {
-    "displayName": "[FIRE] Zukka",
-    "tag": "FIRE",
+    "displayName": "[TLT] Zukka",
+    "tag": "TLT",
     "name": "Zukka"
   },
   {
-    "displayName": "[TLT] Zukka",
-    "tag": "TLT",
+    "displayName": "[FIRE] Zukka",
+    "tag": "FIRE",
     "name": "Zukka"
   },
   {

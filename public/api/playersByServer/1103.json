@@ -10,6 +10,11 @@
     "name": "Abazoulo"
   },
   {
+    "displayName": "[FE26] Abazoulo",
+    "tag": "FE26",
+    "name": "Abazoulo"
+  },
+  {
     "displayName": "[FIRE] Adire",
     "tag": "FIRE",
     "name": "Adire"
@@ -35,6 +40,11 @@
     "name": "Amir"
   },
   {
+    "displayName": "[WEL] Amir",
+    "tag": "WEL",
+    "name": "Amir"
+  },
+  {
     "displayName": "[Frog] Ancii",
     "tag": "Frog",
     "name": "Ancii"
@@ -50,8 +60,18 @@
     "name": "Ariana"
   },
   {
+    "displayName": "[FIRE] Axa",
+    "tag": "FIRE",
+    "name": "Axa"
+  },
+  {
     "displayName": "[Empi] Azulala",
     "tag": "Empi",
+    "name": "Azulala"
+  },
+  {
+    "displayName": "[WEL] Azulala",
+    "tag": "WEL",
     "name": "Azulala"
   },
   {
@@ -85,6 +105,11 @@
     "name": "Ceroo"
   },
   {
+    "displayName": "[WEL] Ceroo",
+    "tag": "WEL",
+    "name": "Ceroo"
+  },
+  {
     "displayName": "[Frog] Chiko",
     "tag": "Frog",
     "name": "Chiko"
@@ -93,6 +118,16 @@
     "displayName": "[TWL] chou rire",
     "tag": "TWL",
     "name": "chou rire"
+  },
+  {
+    "displayName": "[MLD] chou rire",
+    "tag": "MLD",
+    "name": "chou rire"
+  },
+  {
+    "displayName": "[TRST] CleverEnough",
+    "tag": "TRST",
+    "name": "CleverEnough"
   },
   {
     "displayName": "[Frog] Courtreezy",
@@ -140,6 +175,11 @@
     "name": "FINE"
   },
   {
+    "displayName": "[TRST] FIRE LORD",
+    "tag": "TRST",
+    "name": "FIRE LORD"
+  },
+  {
     "displayName": "[FIRE] FkYoLyfeM8",
     "tag": "FIRE",
     "name": "FkYoLyfeM8"
@@ -147,6 +187,11 @@
   {
     "displayName": "Flo05",
     "tag": null,
+    "name": "Flo05"
+  },
+  {
+    "displayName": "[WEL] Flo05",
+    "tag": "WEL",
     "name": "Flo05"
   },
   {
@@ -180,14 +225,29 @@
     "name": "Gota"
   },
   {
+    "displayName": "[WEL] Gota",
+    "tag": "WEL",
+    "name": "Gota"
+  },
+  {
     "displayName": "[RLTS] grim",
     "tag": "RLTS",
     "name": "grim"
   },
   {
+    "displayName": "[FE46] GURUM",
+    "tag": "FE46",
+    "name": "GURUM"
+  },
+  {
     "displayName": "[Empi] Henni",
     "tag": "Empi",
     "name": "Henni"
+  },
+  {
+    "displayName": "[MLD] Herboxy",
+    "tag": "MLD",
+    "name": "Herboxy"
   },
   {
     "displayName": "[FIRE] hyuknell",
@@ -212,6 +272,11 @@
   {
     "displayName": "[Empi] juva",
     "tag": "Empi",
+    "name": "juva"
+  },
+  {
+    "displayName": "[WEL] juva",
+    "tag": "WEL",
     "name": "juva"
   },
   {
@@ -265,8 +330,18 @@
     "name": "Kuvira"
   },
   {
+    "displayName": "[Frog] Kuvira",
+    "tag": "Frog",
+    "name": "Kuvira"
+  },
+  {
     "displayName": "[Frog] Kuzon",
     "tag": "Frog",
+    "name": "Kuzon"
+  },
+  {
+    "displayName": "[TRST] Kuzon",
+    "tag": "TRST",
     "name": "Kuzon"
   },
   {
@@ -330,6 +405,11 @@
     "name": "Miolnir"
   },
   {
+    "displayName": "[WEL] mise",
+    "tag": "WEL",
+    "name": "mise"
+  },
+  {
     "displayName": "[FIRE] Monarch",
     "tag": "FIRE",
     "name": "Monarch"
@@ -340,6 +420,11 @@
     "name": "MoomooYappa"
   },
   {
+    "displayName": "[dnut] mortybaze",
+    "tag": "dnut",
+    "name": "mortybaze"
+  },
+  {
     "displayName": "[Empi] MrsLella",
     "tag": "Empi",
     "name": "MrsLella"
@@ -347,6 +432,11 @@
   {
     "displayName": "[FIRE] My Lord",
     "tag": "FIRE",
+    "name": "My Lord"
+  },
+  {
+    "displayName": "[TRST] My Lord",
+    "tag": "TRST",
     "name": "My Lord"
   },
   {
@@ -375,6 +465,11 @@
     "name": "PattyJG"
   },
   {
+    "displayName": "[WEL] PattyJG",
+    "tag": "WEL",
+    "name": "PattyJG"
+  },
+  {
     "displayName": "[TRST] Pheonix",
     "tag": "TRST",
     "name": "Pheonix"
@@ -397,6 +492,11 @@
   {
     "displayName": "[FIRE] RCA",
     "tag": "FIRE",
+    "name": "RCA"
+  },
+  {
+    "displayName": "RCA",
+    "tag": null,
     "name": "RCA"
   },
   {
@@ -445,8 +545,18 @@
     "name": "spiritman"
   },
   {
+    "displayName": "[coco] Squishy",
+    "tag": "coco",
+    "name": "Squishy"
+  },
+  {
     "displayName": "[Empi] Suvenety",
     "tag": "Empi",
+    "name": "Suvenety"
+  },
+  {
+    "displayName": "[WEL] Suvenety",
+    "tag": "WEL",
     "name": "Suvenety"
   },
   {
@@ -480,6 +590,11 @@
     "name": "VelvetThundr"
   },
   {
+    "displayName": "[TRST] Wiebuhh",
+    "tag": "TRST",
+    "name": "Wiebuhh"
+  },
+  {
     "displayName": "[Frog] Yalikejazzi",
     "tag": "Frog",
     "name": "Yalikejazzi"
@@ -490,8 +605,18 @@
     "name": "Yamii"
   },
   {
+    "displayName": "[MTLK] YCK",
+    "tag": "MTLK",
+    "name": "YCK"
+  },
+  {
     "displayName": "[FIRE] Yoru",
     "tag": "FIRE",
+    "name": "Yoru"
+  },
+  {
+    "displayName": "[WEL] Yoru",
+    "tag": "WEL",
     "name": "Yoru"
   },
   {

@@ -20,6 +20,11 @@
     "name": "Aʜꜱᴏᴋᴀ"
   },
   {
+    "displayName": "[PINK] Aʜꜱᴏᴋᴀ",
+    "tag": "PINK",
+    "name": "Aʜꜱᴏᴋᴀ"
+  },
+  {
     "displayName": "[TOON] Akalynn",
     "tag": "TOON",
     "name": "Akalynn"
@@ -115,6 +120,11 @@
     "name": "Ayumu"
   },
   {
+    "displayName": "[PINK] Azula",
+    "tag": "PINK",
+    "name": "Azula"
+  },
+  {
     "displayName": "[BOOM] B Sampson",
     "tag": "BOOM",
     "name": "B Sampson"
@@ -145,9 +155,24 @@
     "name": "Benny Benson"
   },
   {
+    "displayName": "Benny Benson",
+    "tag": null,
+    "name": "Benny Benson"
+  },
+  {
     "displayName": "[TOON] Big Z",
     "tag": "TOON",
     "name": "Big Z"
+  },
+  {
+    "displayName": "[PINK] Big Z",
+    "tag": "PINK",
+    "name": "Big Z"
+  },
+  {
+    "displayName": "Bluedrago",
+    "tag": null,
+    "name": "Bluedrago"
   },
   {
     "displayName": "[BOOM] Bluedrago",
@@ -165,6 +190,11 @@
     "name": "Ｂｏ Ｋａｔａｎ"
   },
   {
+    "displayName": "[PINK] Ｂｏ Ｋａｔａｎ",
+    "tag": "PINK",
+    "name": "Ｂｏ Ｋａｔａｎ"
+  },
+  {
     "displayName": "[TOON] Bugs Bunny",
     "tag": "TOON",
     "name": "Bugs Bunny"
@@ -175,9 +205,19 @@
     "name": "C8"
   },
   {
+    "displayName": "[TOON] C8 ʷᵉⁿᵈʸ",
+    "tag": "TOON",
+    "name": "C8 ʷᵉⁿᵈʸ"
+  },
+  {
     "displayName": "[BOOM] Cactus Juice",
     "tag": "BOOM",
     "name": "Cactus Juice"
+  },
+  {
+    "displayName": "CactusJuice",
+    "tag": null,
+    "name": "CactusJuice"
   },
   {
     "displayName": "[BOOM] CactusJuice",
@@ -197,6 +237,11 @@
   {
     "displayName": "[BOOM] Caladwyn",
     "tag": "BOOM",
+    "name": "Caladwyn"
+  },
+  {
+    "displayName": "Caladwyn",
+    "tag": null,
     "name": "Caladwyn"
   },
   {
@@ -220,9 +265,29 @@
     "name": "CapIgloF2P"
   },
   {
+    "displayName": "Carl Wheezer",
+    "tag": null,
+    "name": "Carl Wheezer"
+  },
+  {
+    "displayName": "[TBL] Carl Wheezer",
+    "tag": "TBL",
+    "name": "Carl Wheezer"
+  },
+  {
     "displayName": "[BOOM] Carl Wheezer",
     "tag": "BOOM",
     "name": "Carl Wheezer"
+  },
+  {
+    "displayName": "Cartman",
+    "tag": null,
+    "name": "Cartman"
+  },
+  {
+    "displayName": "[PINK] Cartman",
+    "tag": "PINK",
+    "name": "Cartman"
   },
   {
     "displayName": "[TOON] Cartman",
@@ -275,8 +340,23 @@
     "name": "Celestia"
   },
   {
+    "displayName": "Cersei",
+    "tag": null,
+    "name": "Cersei"
+  },
+  {
+    "displayName": "[TOON] Cersei",
+    "tag": "TOON",
+    "name": "Cersei"
+  },
+  {
     "displayName": "[TOON] Chaaaos",
     "tag": "TOON",
+    "name": "Chaaaos"
+  },
+  {
+    "displayName": "[BOOM] Chaaaos",
+    "tag": "BOOM",
     "name": "Chaaaos"
   },
   {
@@ -295,6 +375,11 @@
     "name": "Chicken Joe"
   },
   {
+    "displayName": "[PlNK] Chimi",
+    "tag": "PlNK",
+    "name": "Chimi"
+  },
+  {
     "displayName": "[TOON] Chowder",
     "tag": "TOON",
     "name": "Chowder"
@@ -302,6 +387,11 @@
   {
     "displayName": "[PINK] Ciza",
     "tag": "PINK",
+    "name": "Ciza"
+  },
+  {
+    "displayName": "[TAF] Ciza",
+    "tag": "TAF",
     "name": "Ciza"
   },
   {
@@ -320,19 +410,29 @@
     "name": "Clover"
   },
   {
-    "displayName": "[PINK] CodyMaverick",
-    "tag": "PINK",
-    "name": "CodyMaverick"
-  },
-  {
     "displayName": "[TOON] CodyMaverick",
     "tag": "TOON",
     "name": "CodyMaverick"
   },
   {
+    "displayName": "[PINK] CodyMaverick",
+    "tag": "PINK",
+    "name": "CodyMaverick"
+  },
+  {
+    "displayName": "Cohnmeda",
+    "tag": null,
+    "name": "Cohnmeda"
+  },
+  {
     "displayName": "[BOOM] Cohnmeda",
     "tag": "BOOM",
     "name": "Cohnmeda"
+  },
+  {
+    "displayName": "Daenerys",
+    "tag": null,
+    "name": "Daenerys"
   },
   {
     "displayName": "[TOON] Daffy Duck",
@@ -370,6 +470,11 @@
     "name": "DarkwingDuck"
   },
   {
+    "displayName": "[BOOM] Defiant súx",
+    "tag": "BOOM",
+    "name": "Defiant súx"
+  },
+  {
     "displayName": "[BOOM] Defiantsuks",
     "tag": "BOOM",
     "name": "Defiantsuks"
@@ -380,13 +485,13 @@
     "name": "Dewey Duck"
   },
   {
-    "displayName": "[PINK] Dewey Duck",
-    "tag": "PINK",
+    "displayName": "[TOON] Dewey Duck",
+    "tag": "TOON",
     "name": "Dewey Duck"
   },
   {
-    "displayName": "[TOON] Dewey Duck",
-    "tag": "TOON",
+    "displayName": "[PINK] Dewey Duck",
+    "tag": "PINK",
     "name": "Dewey Duck"
   },
   {
@@ -405,9 +510,19 @@
     "name": "Doctor Aphra"
   },
   {
+    "displayName": "[PINK] Doctor Aphra",
+    "tag": "PINK",
+    "name": "Doctor Aphra"
+  },
+  {
     "displayName": "[BOOM] Donkey ᴺᴬᴵᴸ",
     "tag": "BOOM",
     "name": "Donkey ᴺᴬᴵᴸ"
+  },
+  {
+    "displayName": "[BOOM] Dragon Liz",
+    "tag": "BOOM",
+    "name": "Dragon Liz"
   },
   {
     "displayName": "[BOOM] Drerydos",
@@ -420,8 +535,18 @@
     "name": "Duckz"
   },
   {
+    "displayName": "[TOON] E Tin",
+    "tag": "TOON",
+    "name": "E Tin"
+  },
+  {
     "displayName": "[BOOM] Eevee",
     "tag": "BOOM",
+    "name": "Eevee"
+  },
+  {
+    "displayName": "[PINK] Eevee",
+    "tag": "PINK",
     "name": "Eevee"
   },
   {
@@ -440,6 +565,11 @@
     "name": "Evileyez"
   },
   {
+    "displayName": "[TOON] Evileyez",
+    "tag": "TOON",
+    "name": "Evileyez"
+  },
+  {
     "displayName": "[PINK] Evileyez",
     "tag": "PINK",
     "name": "Evileyez"
@@ -455,6 +585,11 @@
     "name": "FaDu"
   },
   {
+    "displayName": "[BOOM] Farquadᵇᵉⁿⁿʸ",
+    "tag": "BOOM",
+    "name": "Farquadᵇᵉⁿⁿʸ"
+  },
+  {
     "displayName": "[TOON] FatherMyles",
     "tag": "TOON",
     "name": "FatherMyles"
@@ -465,9 +600,24 @@
     "name": "Fįøņa ʸᵃᵐⁱ"
   },
   {
+    "displayName": "[PINK] Fįøņa ʸᵃᵐⁱ",
+    "tag": "PINK",
+    "name": "Fįøņa ʸᵃᵐⁱ"
+  },
+  {
+    "displayName": "[PINK] Fluttershy",
+    "tag": "PINK",
+    "name": "Fluttershy"
+  },
+  {
     "displayName": "[TOON] Fluttershy",
     "tag": "TOON",
     "name": "Fluttershy"
+  },
+  {
+    "displayName": "[BLSP] Fraxor",
+    "tag": "BLSP",
+    "name": "Fraxor"
   },
   {
     "displayName": "Frazor",
@@ -483,6 +633,11 @@
     "displayName": "[BLSP]Frazor",
     "tag": "BLSP",
     "name": "Frazor"
+  },
+  {
+    "displayName": "[TOON] G the Shrimp",
+    "tag": "TOON",
+    "name": "G the Shrimp"
   },
   {
     "displayName": "G789",
@@ -525,8 +680,18 @@
     "name": "GR APE APE"
   },
   {
+    "displayName": "[BLSP] Great Uniter",
+    "tag": "BLSP",
+    "name": "Great Uniter"
+  },
+  {
     "displayName": "[TOON] ɢʀᴏᴏᴛ",
     "tag": "TOON",
+    "name": "ɢʀᴏᴏᴛ"
+  },
+  {
+    "displayName": "[BOOM] ɢʀᴏᴏᴛ",
+    "tag": "BOOM",
     "name": "ɢʀᴏᴏᴛ"
   },
   {
@@ -645,6 +810,11 @@
     "name": "KingAnt"
   },
   {
+    "displayName": "Kronk",
+    "tag": null,
+    "name": "Kronk"
+  },
+  {
     "displayName": "[TOON] Kronk",
     "tag": "TOON",
     "name": "Kronk"
@@ -675,6 +845,16 @@
     "name": "Kyle B"
   },
   {
+    "displayName": "[PINK] Kyle B",
+    "tag": "PINK",
+    "name": "Kyle B"
+  },
+  {
+    "displayName": "[TOON] Kyle B",
+    "tag": "TOON",
+    "name": "Kyle B"
+  },
+  {
     "displayName": "[BOOM] Kyle S",
     "tag": "BOOM",
     "name": "Kyle S"
@@ -695,9 +875,19 @@
     "name": "ᴋʜᴏɴꜱʜᴜ"
   },
   {
+    "displayName": "[PINK] ᴋʜᴏɴꜱʜᴜ",
+    "tag": "PINK",
+    "name": "ᴋʜᴏɴꜱʜᴜ"
+  },
+  {
     "displayName": "[SATO] Lavaling",
     "tag": "SATO",
     "name": "Lavaling"
+  },
+  {
+    "displayName": "Lever",
+    "tag": null,
+    "name": "Lever"
   },
   {
     "displayName": "[BOOM] Lil TayTay",
@@ -743,6 +933,11 @@
     "displayName": "[TOON] Maika",
     "tag": "TOON",
     "name": "Maika"
+  },
+  {
+    "displayName": "[BLSP] mccloud",
+    "tag": "BLSP",
+    "name": "mccloud"
   },
   {
     "displayName": "[HNOR] mccloud",
@@ -810,6 +1005,11 @@
     "name": "Monk Gyatso"
   },
   {
+    "displayName": "[BOOM] MuffinManF2P",
+    "tag": "BOOM",
+    "name": "MuffinManF2P"
+  },
+  {
     "displayName": "[PINK] mzs",
     "tag": "PINK",
     "name": "mzs"
@@ -875,6 +1075,11 @@
     "name": "Ozorian"
   },
   {
+    "displayName": "[BLSP] oТруТа",
+    "tag": "BLSP",
+    "name": "oТруТа"
+  },
+  {
     "displayName": "[BOOM] Palestina",
     "tag": "BOOM",
     "name": "Palestina"
@@ -905,6 +1110,11 @@
     "name": "Pinkie Pie"
   },
   {
+    "displayName": "[PINK] Pinkie Pie",
+    "tag": "PINK",
+    "name": "Pinkie Pie"
+  },
+  {
     "displayName": "[BLSP] Pupperfisch",
     "tag": "BLSP",
     "name": "Pupperfisch"
@@ -927,6 +1137,11 @@
   {
     "displayName": "[BOOM] Rąıņbøŵ Ðąşh",
     "tag": "BOOM",
+    "name": "Rąıņbøŵ Ðąşh"
+  },
+  {
+    "displayName": "[PINK] Rąıņbøŵ Ðąşh",
+    "tag": "PINK",
     "name": "Rąıņbøŵ Ðąşh"
   },
   {
@@ -970,6 +1185,11 @@
     "name": "Rockhoof"
   },
   {
+    "displayName": "[TOON] Rosé Petal",
+    "tag": "TOON",
+    "name": "Rosé Petal"
+  },
+  {
     "displayName": "[TOON] RoséPetal",
     "tag": "TOON",
     "name": "RoséPetal"
@@ -990,6 +1210,16 @@
     "name": "SabineWren"
   },
   {
+    "displayName": "[TAF] SabineWren",
+    "tag": "TAF",
+    "name": "SabineWren"
+  },
+  {
+    "displayName": "[PINK] Scooby Dooby",
+    "tag": "PINK",
+    "name": "Scooby Dooby"
+  },
+  {
     "displayName": "[TOON] Scooby Dooby",
     "tag": "TOON",
     "name": "Scooby Dooby"
@@ -1002,6 +1232,11 @@
   {
     "displayName": "[BOOM] shaggy",
     "tag": "BOOM",
+    "name": "shaggy"
+  },
+  {
+    "displayName": "shaggy",
+    "tag": null,
     "name": "shaggy"
   },
   {
@@ -1032,6 +1267,11 @@
   {
     "displayName": "[BOOM] Shirley",
     "tag": "BOOM",
+    "name": "Shirley"
+  },
+  {
+    "displayName": "[TOON] Shirley",
+    "tag": "TOON",
     "name": "Shirley"
   },
   {
@@ -1120,13 +1360,18 @@
     "name": "Sprky2BoomMn"
   },
   {
-    "displayName": "[TRL] Sprky2BoomMn",
-    "tag": "TRL",
+    "displayName": "[TAF] Sprky2BoomMn",
+    "tag": "TAF",
     "name": "Sprky2BoomMn"
   },
   {
     "displayName": "[HNOR] Sprky2BoomMn",
     "tag": "HNOR",
+    "name": "Sprky2BoomMn"
+  },
+  {
+    "displayName": "[TRL] Sprky2BoomMn",
+    "tag": "TRL",
     "name": "Sprky2BoomMn"
   },
   {
@@ -1170,6 +1415,16 @@
     "name": "The Ripper"
   },
   {
+    "displayName": "Theodora",
+    "tag": null,
+    "name": "Theodora"
+  },
+  {
+    "displayName": "[TRRL] Theodora",
+    "tag": "TRRL",
+    "name": "Theodora"
+  },
+  {
     "displayName": "[BOOM] Theodora",
     "tag": "BOOM",
     "name": "Theodora"
@@ -1210,6 +1465,11 @@
     "name": "Tweety Pai"
   },
   {
+    "displayName": "[BOOM] Tweety Pai",
+    "tag": "BOOM",
+    "name": "Tweety Pai"
+  },
+  {
     "displayName": "[TOON] TwiliteSpark",
     "tag": "TOON",
     "name": "TwiliteSpark"
@@ -1232,6 +1492,11 @@
   {
     "displayName": "[TOON] Vanellope",
     "tag": "TOON",
+    "name": "Vanellope"
+  },
+  {
+    "displayName": "[PINK] Vanellope",
+    "tag": "PINK",
     "name": "Vanellope"
   },
   {
@@ -1260,9 +1525,19 @@
     "name": "W0LF"
   },
   {
+    "displayName": "Wanda",
+    "tag": null,
+    "name": "Wanda"
+  },
+  {
     "displayName": "[BOOM] Wanda",
     "tag": "BOOM",
     "name": "Wanda"
+  },
+  {
+    "displayName": "[TOON] Wendy ᶜᵃⁱᵗ",
+    "tag": "TOON",
+    "name": "Wendy ᶜᵃⁱᵗ"
   },
   {
     "displayName": "[BLSP] wolf",
@@ -1272,6 +1547,11 @@
   {
     "displayName": "[TOON] WOLF",
     "tag": "TOON",
+    "name": "WOLF"
+  },
+  {
+    "displayName": "[BLSP] WOLF",
+    "tag": "BLSP",
     "name": "WOLF"
   },
   {
@@ -1295,6 +1575,11 @@
     "name": "Yᴏᴅᴀ"
   },
   {
+    "displayName": "[PINK] Yᴏᴅᴀ",
+    "tag": "PINK",
+    "name": "Yᴏᴅᴀ"
+  },
+  {
     "displayName": "[BLSP] Zuzu Hunter",
     "tag": "BLSP",
     "name": "Zuzu Hunter"
@@ -1305,8 +1590,28 @@
     "name": "Zuzu Hunter"
   },
   {
+    "displayName": "[PINK] ωιєвυнн",
+    "tag": "PINK",
+    "name": "ωιєвυнн"
+  },
+  {
+    "displayName": "Аzulа",
+    "tag": null,
+    "name": "Аzulа"
+  },
+  {
+    "displayName": "[TOON] Сaptain Rex",
+    "tag": "TOON",
+    "name": "Сaptain Rex"
+  },
+  {
     "displayName": "[BOOM] トトロ",
     "tag": "BOOM",
+    "name": "トトロ"
+  },
+  {
+    "displayName": "[PINK] トトロ",
+    "tag": "PINK",
     "name": "トトロ"
   }
 ]

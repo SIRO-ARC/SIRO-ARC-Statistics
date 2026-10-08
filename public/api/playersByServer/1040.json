@@ -25,6 +25,11 @@
     "name": "Amon"
   },
   {
+    "displayName": "[T4N] Amon",
+    "tag": "T4N",
+    "name": "Amon"
+  },
+  {
     "displayName": "[T4N] arihen2015",
     "tag": "T4N",
     "name": "arihen2015"
@@ -170,13 +175,13 @@
     "name": "cianureeves"
   },
   {
-    "displayName": "[POKE] Crobat",
-    "tag": "POKE",
+    "displayName": "[S40] Crobat",
+    "tag": "S40",
     "name": "Crobat"
   },
   {
-    "displayName": "[S40] Crobat",
-    "tag": "S40",
+    "displayName": "[POKE] Crobat",
+    "tag": "POKE",
     "name": "Crobat"
   },
   {
@@ -300,6 +305,16 @@
     "name": "Freyja"
   },
   {
+    "displayName": "FrndlyMshrm",
+    "tag": null,
+    "name": "FrndlyMshrm"
+  },
+  {
+    "displayName": "[Mdwt] FrndlyMshrm",
+    "tag": "Mdwt",
+    "name": "FrndlyMshrm"
+  },
+  {
     "displayName": "[WARS] FrndlyMshrm",
     "tag": "WARS",
     "name": "FrndlyMshrm"
@@ -395,6 +410,11 @@
     "name": "Honse13"
   },
   {
+    "displayName": "[WARS] Iamndee",
+    "tag": "WARS",
+    "name": "Iamndee"
+  },
+  {
     "displayName": "[T4N] Ich halt",
     "tag": "T4N",
     "name": "Ich halt"
@@ -428,6 +448,11 @@
     "displayName": "[T4N] Jak",
     "tag": "T4N",
     "name": "Jak"
+  },
+  {
+    "displayName": "[T4N] jakz ballz",
+    "tag": "T4N",
+    "name": "jakz ballz"
   },
   {
     "displayName": "[WARS] Jalapeño",
@@ -510,6 +535,16 @@
     "name": "Korra"
   },
   {
+    "displayName": "[WARS] ˡ ᶦˡ Z ᵃˡᵗ",
+    "tag": "WARS",
+    "name": "ˡ ᶦˡ Z ᵃˡᵗ"
+  },
+  {
+    "displayName": "[WARS] ˡ ᶦˡ ᶻ f2 ᴾ",
+    "tag": "WARS",
+    "name": "ˡ ᶦˡ ᶻ f2 ᴾ"
+  },
+  {
     "displayName": "[4ns] leader_2201695",
     "tag": "4ns",
     "name": "leader_2201695"
@@ -520,13 +555,13 @@
     "name": "LFCYNWA"
   },
   {
-    "displayName": "[S40] LightBender",
-    "tag": "S40",
+    "displayName": "[WARS] LightBender",
+    "tag": "WARS",
     "name": "LightBender"
   },
   {
-    "displayName": "[WARS] LightBender",
-    "tag": "WARS",
+    "displayName": "[S40] LightBender",
+    "tag": "S40",
     "name": "LightBender"
   },
   {
@@ -570,9 +605,19 @@
     "name": "lil z ALT"
   },
   {
+    "displayName": "[WARS] ˡⁱˡ Z ᵃˡᵗ",
+    "tag": "WARS",
+    "name": "ˡⁱˡ Z ᵃˡᵗ"
+  },
+  {
     "displayName": "[WARS] ₗᵢₗ Z ₐₗₜ",
     "tag": "WARS",
     "name": "ₗᵢₗ Z ₐₗₜ"
+  },
+  {
+    "displayName": "[WARS] ˡⁱˡ ᶻ ᴱ2 ᴾ",
+    "tag": "WARS",
+    "name": "ˡⁱˡ ᶻ ᴱ2 ᴾ"
   },
   {
     "displayName": "[WARS] ˡⁱˡ ᶻ ᶠ2ᴾ",
@@ -660,6 +705,11 @@
     "name": "Mamoswine"
   },
   {
+    "displayName": "[WARS] Maurizio86",
+    "tag": "WARS",
+    "name": "Maurizio86"
+  },
+  {
     "displayName": "[T4N] Melon Lord",
     "tag": "T4N",
     "name": "Melon Lord"
@@ -670,18 +720,23 @@
     "name": "Metal Energy"
   },
   {
+    "displayName": "[S40] Metal Energy",
+    "tag": "S40",
+    "name": "Metal Energy"
+  },
+  {
     "displayName": "[Poke] Milothicc",
     "tag": "Poke",
     "name": "Milothicc"
   },
   {
-    "displayName": "[POKE] Milothicc",
-    "tag": "POKE",
+    "displayName": "[S40] Milothicc",
+    "tag": "S40",
     "name": "Milothicc"
   },
   {
-    "displayName": "[S40] Milothicc",
-    "tag": "S40",
+    "displayName": "[POKE] Milothicc",
+    "tag": "POKE",
     "name": "Milothicc"
   },
   {
@@ -815,6 +870,11 @@
     "name": "SkrappyDoo"
   },
   {
+    "displayName": "[WARS] SkrappyDoo",
+    "tag": "WARS",
+    "name": "SkrappyDoo"
+  },
+  {
     "displayName": "[T4N] smoKesUmSHow",
     "tag": "T4N",
     "name": "smoKesUmSHow"
@@ -845,13 +905,13 @@
     "name": "Synner16"
   },
   {
-    "displayName": "[S40] TacoRat",
-    "tag": "S40",
+    "displayName": "[WARS] TacoRat",
+    "tag": "WARS",
     "name": "TacoRat"
   },
   {
-    "displayName": "[WARS] TacoRat",
-    "tag": "WARS",
+    "displayName": "[S40] TacoRat",
+    "tag": "S40",
     "name": "TacoRat"
   },
   {
@@ -980,6 +1040,16 @@
     "name": "Wrex"
   },
   {
+    "displayName": "Xatu",
+    "tag": null,
+    "name": "Xatu"
+  },
+  {
+    "displayName": "[WARS] Xatu",
+    "tag": "WARS",
+    "name": "Xatu"
+  },
+  {
     "displayName": "[T4N] YipYip",
     "tag": "T4N",
     "name": "YipYip"
@@ -1005,13 +1075,13 @@
     "name": "zukohere"
   },
   {
-    "displayName": "[POKE] ラルトス",
-    "tag": "POKE",
+    "displayName": "[S40] ラルトス",
+    "tag": "S40",
     "name": "ラルトス"
   },
   {
-    "displayName": "[S40] ラルトス",
-    "tag": "S40",
+    "displayName": "[POKE] ラルトス",
+    "tag": "POKE",
     "name": "ラルトス"
   },
   {
@@ -1030,9 +1100,19 @@
     "name": "嘧噺咻"
   },
   {
+    "displayName": "[WARS] 小,",
+    "tag": "WARS",
+    "name": "小,"
+  },
+  {
     "displayName": "[T4N] 超超武",
     "tag": "T4N",
     "name": "超超武"
+  },
+  {
+    "displayName": "[WARS] 阿呗啵",
+    "tag": "WARS",
+    "name": "阿呗啵"
   },
   {
     "displayName": "[WARS] 阿啾啾",

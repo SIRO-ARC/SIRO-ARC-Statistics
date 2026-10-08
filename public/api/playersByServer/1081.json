@@ -10,6 +10,11 @@
     "name": "AntiPower"
   },
   {
+    "displayName": "[SKYC] AntiPower",
+    "tag": "SKYC",
+    "name": "AntiPower"
+  },
+  {
     "displayName": "[DxL] AntiPower",
     "tag": "DxL",
     "name": "AntiPower"
@@ -48,6 +53,11 @@
     "displayName": "[HAWT] AyoTee",
     "tag": "HAWT",
     "name": "AyoTee"
+  },
+  {
+    "displayName": "[CTRL] BabYoda",
+    "tag": "CTRL",
+    "name": "BabYoda"
   },
   {
     "displayName": "[CTRL] BabYöda",
@@ -130,6 +140,11 @@
     "name": "dendelyne"
   },
   {
+    "displayName": "[CTRL] dendelyne",
+    "tag": "CTRL",
+    "name": "dendelyne"
+  },
+  {
     "displayName": "[HAWT] dendelyne",
     "tag": "HAWT",
     "name": "dendelyne"
@@ -152,6 +167,11 @@
   {
     "displayName": "[HAWT] Dragon Rider",
     "tag": "HAWT",
+    "name": "Dragon Rider"
+  },
+  {
+    "displayName": "[CTRL] Dragon Rider",
+    "tag": "CTRL",
     "name": "Dragon Rider"
   },
   {
@@ -205,9 +225,24 @@
     "name": "FearNinja"
   },
   {
+    "displayName": "Fenix",
+    "tag": null,
+    "name": "Fenix"
+  },
+  {
     "displayName": "[CTRL] Fenix",
     "tag": "CTRL",
     "name": "Fenix"
+  },
+  {
+    "displayName": "Firelord Dan",
+    "tag": null,
+    "name": "Firelord Dan"
+  },
+  {
+    "displayName": "[SKYC] Firelord Dan",
+    "tag": "SKYC",
+    "name": "Firelord Dan"
   },
   {
     "displayName": "[SKYC] Frizyn",
@@ -330,6 +365,11 @@
     "name": "Ka Leeb"
   },
   {
+    "displayName": "[SKYC] Ka Leeb",
+    "tag": "SKYC",
+    "name": "Ka Leeb"
+  },
+  {
     "displayName": "[DxL] Ka Leeb",
     "tag": "DxL",
     "name": "Ka Leeb"
@@ -338,6 +378,11 @@
     "displayName": "[HAWT] Kaeluub",
     "tag": "HAWT",
     "name": "Kaeluub"
+  },
+  {
+    "displayName": "[CTRL] Kellz",
+    "tag": "CTRL",
+    "name": "Kellz"
   },
   {
     "displayName": "[SKYC] King Mickey",
@@ -430,6 +475,11 @@
     "name": "Mermaid man"
   },
   {
+    "displayName": "Mighty Duck",
+    "tag": null,
+    "name": "Mighty Duck"
+  },
+  {
     "displayName": "[CTRL] Mighty Duck",
     "tag": "CTRL",
     "name": "Mighty Duck"
@@ -480,9 +530,19 @@
     "name": "Mumble"
   },
   {
+    "displayName": "[SKYC] Muten Roshi",
+    "tag": "SKYC",
+    "name": "Muten Roshi"
+  },
+  {
     "displayName": "[DxL] Muten Röshi",
     "tag": "DxL",
     "name": "Muten Röshi"
+  },
+  {
+    "displayName": "[HAWT] Nanny09",
+    "tag": "HAWT",
+    "name": "Nanny09"
   },
   {
     "displayName": "[CDXX] NoFace",
@@ -575,6 +635,11 @@
     "name": "Prince Bando"
   },
   {
+    "displayName": "[SKYC] Prince Bando",
+    "tag": "SKYC",
+    "name": "Prince Bando"
+  },
+  {
     "displayName": "[DxL] Prince Bando",
     "tag": "DxL",
     "name": "Prince Bando"
@@ -615,6 +680,11 @@
     "name": "RealFireLord"
   },
   {
+    "displayName": "[CTRL] Reaper",
+    "tag": "CTRL",
+    "name": "Reaper"
+  },
+  {
     "displayName": "[HAWT] RonnyRaeudig",
     "tag": "HAWT",
     "name": "RonnyRaeudig"
@@ -623,6 +693,11 @@
     "displayName": "[CDXX] RonnyRaeudig",
     "tag": "CDXX",
     "name": "RonnyRaeudig"
+  },
+  {
+    "displayName": "Rooster",
+    "tag": null,
+    "name": "Rooster"
   },
   {
     "displayName": "[CDXX] Rooster",
@@ -740,6 +815,11 @@
     "name": "Snurfel"
   },
   {
+    "displayName": "Socha",
+    "tag": null,
+    "name": "Socha"
+  },
+  {
     "displayName": "[SKYC] Socha",
     "tag": "SKYC",
     "name": "Socha"
@@ -780,6 +860,11 @@
     "name": "Strimpy"
   },
   {
+    "displayName": "Tammuz",
+    "tag": null,
+    "name": "Tammuz"
+  },
+  {
     "displayName": "[CTRL] Tammuz",
     "tag": "CTRL",
     "name": "Tammuz"
@@ -797,6 +882,11 @@
   {
     "displayName": "[SKYC] The Sun God",
     "tag": "SKYC",
+    "name": "The Sun God"
+  },
+  {
+    "displayName": "[GZO] The Sun God",
+    "tag": "GZO",
     "name": "The Sun God"
   },
   {

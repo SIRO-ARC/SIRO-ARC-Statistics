@@ -1,5 +1,10 @@
 [
   {
+    "displayName": "1Q1Q1Q",
+    "tag": null,
+    "name": "1Q1Q1Q"
+  },
+  {
     "displayName": "[MTO] 1Q1Q1Q",
     "tag": "MTO",
     "name": "1Q1Q1Q"
@@ -85,6 +90,11 @@
     "name": "BenDigga"
   },
   {
+    "displayName": "Bergalicious",
+    "tag": null,
+    "name": "Bergalicious"
+  },
+  {
     "displayName": "[MTO] Bergalicious",
     "tag": "MTO",
     "name": "Bergalicious"
@@ -150,6 +160,11 @@
     "name": "CaptAmerica"
   },
   {
+    "displayName": "[MRVL] Chick Hicks",
+    "tag": "MRVL",
+    "name": "Chick Hicks"
+  },
+  {
     "displayName": "[LOST] Christian Ft",
     "tag": "LOST",
     "name": "Christian Ft"
@@ -163,6 +178,16 @@
     "displayName": "[MTO] CMC Q",
     "tag": "MTO",
     "name": "CMC Q"
+  },
+  {
+    "displayName": "Cosmo",
+    "tag": null,
+    "name": "Cosmo"
+  },
+  {
+    "displayName": "[TITZ] Cosmo",
+    "tag": "TITZ",
+    "name": "Cosmo"
   },
   {
     "displayName": "Dahlia64",
@@ -230,6 +255,11 @@
     "name": "DjFatEnergy"
   },
   {
+    "displayName": "Dodo2304",
+    "tag": null,
+    "name": "Dodo2304"
+  },
+  {
     "displayName": "[MTO] Dodo2304",
     "tag": "MTO",
     "name": "Dodo2304"
@@ -253,6 +283,11 @@
     "displayName": "[LAT] dracarys",
     "tag": "LAT",
     "name": "dracarys"
+  },
+  {
+    "displayName": "[AMAN] duo echo",
+    "tag": "AMAN",
+    "name": "duo echo"
   },
   {
     "displayName": "[AMAN] Eärwen",
@@ -295,6 +330,11 @@
     "name": "Ezra"
   },
   {
+    "displayName": "[MTO] Falco",
+    "tag": "MTO",
+    "name": "Falco"
+  },
+  {
     "displayName": "[AMAN] Feliz",
     "tag": "AMAN",
     "name": "Feliz"
@@ -305,13 +345,28 @@
     "name": "Feliz"
   },
   {
+    "displayName": "[LOST] firelordzuko",
+    "tag": "LOST",
+    "name": "firelordzuko"
+  },
+  {
     "displayName": "[LOST] FirelordZuko",
     "tag": "LOST",
     "name": "FirelordZuko"
   },
   {
+    "displayName": "[RDLS] FirelordZuko",
+    "tag": "RDLS",
+    "name": "FirelordZuko"
+  },
+  {
     "displayName": "[AMAN] FireLordZuko",
     "tag": "AMAN",
+    "name": "FireLordZuko"
+  },
+  {
+    "displayName": "[MRVL] FireLordZuko",
+    "tag": "MRVL",
     "name": "FireLordZuko"
   },
   {
@@ -398,6 +453,11 @@
     "displayName": "[MRVL] irohman",
     "tag": "MRVL",
     "name": "irohman"
+  },
+  {
+    "displayName": "ｉｒｏｈｍａｎ",
+    "tag": null,
+    "name": "ｉｒｏｈｍａｎ"
   },
   {
     "displayName": "[MRVL] ｉｒｏｈｍａｎ",
@@ -570,6 +630,16 @@
     "name": "Mephistwo"
   },
   {
+    "displayName": "[MRVL] Mephistwo",
+    "tag": "MRVL",
+    "name": "Mephistwo"
+  },
+  {
+    "displayName": "[GEM] Mephistwo",
+    "tag": "GEM",
+    "name": "Mephistwo"
+  },
+  {
     "displayName": "[MTO] Meru",
     "tag": "MTO",
     "name": "Meru"
@@ -625,8 +695,18 @@
     "name": "morinake"
   },
   {
+    "displayName": "[WST] Mrak",
+    "tag": "WST",
+    "name": "Mrak"
+  },
+  {
     "displayName": "[AMAN] Nebula",
     "tag": "AMAN",
+    "name": "Nebula"
+  },
+  {
+    "displayName": "[LOST] Nebula",
+    "tag": "LOST",
     "name": "Nebula"
   },
   {
@@ -730,6 +810,11 @@
     "name": "Raya1234"
   },
   {
+    "displayName": "[MRVL] Remy LeBeau",
+    "tag": "MRVL",
+    "name": "Remy LeBeau"
+  },
+  {
     "displayName": "Remy LeBeau",
     "tag": null,
     "name": "Remy LeBeau"
@@ -742,6 +827,11 @@
   {
     "displayName": "[LOST] Rexshow",
     "tag": "LOST",
+    "name": "Rexshow"
+  },
+  {
+    "displayName": "[MTO] Rexshow",
+    "tag": "MTO",
     "name": "Rexshow"
   },
   {
@@ -860,6 +950,11 @@
     "name": "Spirit Guide"
   },
   {
+    "displayName": "Super Mystic",
+    "tag": null,
+    "name": "Super Mystic"
+  },
+  {
     "displayName": "[MRVL] Super Mystic",
     "tag": "MRVL",
     "name": "Super Mystic"
@@ -878,6 +973,16 @@
     "displayName": "[AMAN] Thani",
     "tag": "AMAN",
     "name": "Thani"
+  },
+  {
+    "displayName": "[MRVL] Thani",
+    "tag": "MRVL",
+    "name": "Thani"
+  },
+  {
+    "displayName": "The Magician",
+    "tag": null,
+    "name": "The Magician"
   },
   {
     "displayName": "[MRVL] The Magician",
@@ -930,6 +1035,11 @@
     "name": "TribeHealer"
   },
   {
+    "displayName": "[MTO] TRTLman",
+    "tag": "MTO",
+    "name": "TRTLman"
+  },
+  {
     "displayName": "[MRVL] Ʊiv Ʊision",
     "tag": "MRVL",
     "name": "Ʊiv Ʊision"
@@ -958,6 +1068,11 @@
     "displayName": "[AMAN] Ʋairë",
     "tag": "AMAN",
     "name": "Ʋairë"
+  },
+  {
+    "displayName": "[MRVL] Ʋiv Ʋision",
+    "tag": "MRVL",
+    "name": "Ʋiv Ʋision"
   },
   {
     "displayName": "WnterSoldier",

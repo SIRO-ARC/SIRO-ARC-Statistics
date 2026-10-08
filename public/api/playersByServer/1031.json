@@ -275,6 +275,11 @@
     "name": "Equulias"
   },
   {
+    "displayName": "[AWOL] Eržil as",
+    "tag": "AWOL",
+    "name": "Eržil as"
+  },
+  {
     "displayName": "[AWOL] Eržilas",
     "tag": "AWOL",
     "name": "Eržilas"
@@ -358,6 +363,11 @@
     "displayName": "[AWOL] GenderBender",
     "tag": "AWOL",
     "name": "GenderBender"
+  },
+  {
+    "displayName": "[AWOL] Gingerella",
+    "tag": "AWOL",
+    "name": "Gingerella"
   },
   {
     "displayName": "[Snow] Grumpy",
@@ -467,6 +477,16 @@
   {
     "displayName": "[AWOL] Kostebo",
     "tag": "AWOL",
+    "name": "Kostebo"
+  },
+  {
+    "displayName": "[Iroh] Kostebo",
+    "tag": "Iroh",
+    "name": "Kostebo"
+  },
+  {
+    "displayName": "Kostebo",
+    "tag": null,
     "name": "Kostebo"
   },
   {
@@ -595,6 +615,11 @@
     "name": "NGSM54"
   },
   {
+    "displayName": "[Kai] Nico Robin",
+    "tag": "Kai",
+    "name": "Nico Robin"
+  },
+  {
     "displayName": "[Kai] Øcho",
     "tag": "Kai",
     "name": "Øcho"
@@ -650,6 +675,11 @@
     "name": "PrincessYue"
   },
   {
+    "displayName": "[Kai] QueenHats",
+    "tag": "Kai",
+    "name": "QueenHats"
+  },
+  {
     "displayName": "[AWOL] Quelli",
     "tag": "AWOL",
     "name": "Quelli"
@@ -683,6 +713,11 @@
     "displayName": "[Kai] Russo",
     "tag": "Kai",
     "name": "Russo"
+  },
+  {
+    "displayName": "SAKURA77",
+    "tag": null,
+    "name": "SAKURA77"
   },
   {
     "displayName": "[AWOL] SAKURA77",
@@ -865,13 +900,13 @@
     "name": "ThatDannGuy"
   },
   {
-    "displayName": "[Kai] Tim",
-    "tag": "Kai",
+    "displayName": "[AWOL] Tim",
+    "tag": "AWOL",
     "name": "Tim"
   },
   {
-    "displayName": "[AWOL] Tim",
-    "tag": "AWOL",
+    "displayName": "[Kai] Tim",
+    "tag": "Kai",
     "name": "Tim"
   },
   {
@@ -905,13 +940,13 @@
     "name": "Tom Bombadil"
   },
   {
-    "displayName": "[Kai] Totopo",
-    "tag": "Kai",
+    "displayName": "[AWOL] Totopo",
+    "tag": "AWOL",
     "name": "Totopo"
   },
   {
-    "displayName": "[AWOL] Totopo",
-    "tag": "AWOL",
+    "displayName": "[Kai] Totopo",
+    "tag": "Kai",
     "name": "Totopo"
   },
   {

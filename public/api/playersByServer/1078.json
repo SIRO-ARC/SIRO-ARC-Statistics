@@ -5,13 +5,13 @@
     "name": "About20bees"
   },
   {
-    "displayName": "[1078] About20bees",
-    "tag": "1078",
+    "displayName": "[AURA] About20bees",
+    "tag": "AURA",
     "name": "About20bees"
   },
   {
-    "displayName": "[AURA] About20bees",
-    "tag": "AURA",
+    "displayName": "[1078] About20bees",
+    "tag": "1078",
     "name": "About20bees"
   },
   {
@@ -20,19 +20,14 @@
     "name": "acellis90"
   },
   {
-    "displayName": "[1078] acellis90",
-    "tag": "1078",
-    "name": "acellis90"
-  },
-  {
     "displayName": "[AURA] acellis90",
     "tag": "AURA",
     "name": "acellis90"
   },
   {
-    "displayName": "[1078] ACIDBATH",
+    "displayName": "[1078] acellis90",
     "tag": "1078",
-    "name": "ACIDBATH"
+    "name": "acellis90"
   },
   {
     "displayName": "[AURA] ACIDBATH",
@@ -40,9 +35,9 @@
     "name": "ACIDBATH"
   },
   {
-    "displayName": "[1078] Adora",
+    "displayName": "[1078] ACIDBATH",
     "tag": "1078",
-    "name": "Adora"
+    "name": "ACIDBATH"
   },
   {
     "displayName": "[AURA] Adora",
@@ -50,9 +45,19 @@
     "name": "Adora"
   },
   {
+    "displayName": "[1078] Adora",
+    "tag": "1078",
+    "name": "Adora"
+  },
+  {
     "displayName": "[LOT] alacran",
     "tag": "LOT",
     "name": "alacran"
+  },
+  {
+    "displayName": "[MID] Alderian",
+    "tag": "MID",
+    "name": "Alderian"
   },
   {
     "displayName": "[AURA] Amkisa",
@@ -65,13 +70,13 @@
     "name": "Anakin"
   },
   {
-    "displayName": "[1078] Anakin",
-    "tag": "1078",
+    "displayName": "[AURA] Anakin",
+    "tag": "AURA",
     "name": "Anakin"
   },
   {
-    "displayName": "[AURA] Anakin",
-    "tag": "AURA",
+    "displayName": "[1078] Anakin",
+    "tag": "1078",
     "name": "Anakin"
   },
   {
@@ -95,13 +100,13 @@
     "name": "Ang Joestar"
   },
   {
-    "displayName": "[1078] ArkinWarLord",
-    "tag": "1078",
+    "displayName": "[AURA] ArkinWarLord",
+    "tag": "AURA",
     "name": "ArkinWarLord"
   },
   {
-    "displayName": "[AURA] ArkinWarLord",
-    "tag": "AURA",
+    "displayName": "[1078] ArkinWarLord",
+    "tag": "1078",
     "name": "ArkinWarLord"
   },
   {
@@ -110,13 +115,13 @@
     "name": "AvatarRick69"
   },
   {
-    "displayName": "[1078] AvatarRick69",
-    "tag": "1078",
+    "displayName": "[AURA] AvatarRick69",
+    "tag": "AURA",
     "name": "AvatarRick69"
   },
   {
-    "displayName": "[AURA] AvatarRick69",
-    "tag": "AURA",
+    "displayName": "[1078] AvatarRick69",
+    "tag": "1078",
     "name": "AvatarRick69"
   },
   {
@@ -125,13 +130,13 @@
     "name": "Awisra"
   },
   {
-    "displayName": "[1078] Awisra",
-    "tag": "1078",
+    "displayName": "[AURA] Awisra",
+    "tag": "AURA",
     "name": "Awisra"
   },
   {
-    "displayName": "[AURA] Awisra",
-    "tag": "AURA",
+    "displayName": "[1078] Awisra",
+    "tag": "1078",
     "name": "Awisra"
   },
   {
@@ -140,18 +145,28 @@
     "name": "BaangSat"
   },
   {
+    "displayName": "[AURA] BaangSatt",
+    "tag": "AURA",
+    "name": "BaangSatt"
+  },
+  {
+    "displayName": "BaangSatt",
+    "tag": null,
+    "name": "BaangSatt"
+  },
+  {
     "displayName": "[1078] BaangSatt",
     "tag": "1078",
     "name": "BaangSatt"
   },
   {
-    "displayName": "[1078] Babinkis",
-    "tag": "1078",
+    "displayName": "[AURA] Babinkis",
+    "tag": "AURA",
     "name": "Babinkis"
   },
   {
-    "displayName": "[AURA] Babinkis",
-    "tag": "AURA",
+    "displayName": "[1078] Babinkis",
+    "tag": "1078",
     "name": "Babinkis"
   },
   {
@@ -160,18 +175,23 @@
     "name": "Bad Boy"
   },
   {
+    "displayName": "[AURA] BBT",
+    "tag": "AURA",
+    "name": "BBT"
+  },
+  {
     "displayName": "[1078] BBT",
     "tag": "1078",
     "name": "BBT"
   },
   {
-    "displayName": "[1078] Beeps",
-    "tag": "1078",
+    "displayName": "[AURA] Beeps",
+    "tag": "AURA",
     "name": "Beeps"
   },
   {
-    "displayName": "[AURA] Beeps",
-    "tag": "AURA",
+    "displayName": "[1078] Beeps",
+    "tag": "1078",
     "name": "Beeps"
   },
   {
@@ -180,14 +200,19 @@
     "name": "Bignasty1"
   },
   {
+    "displayName": "[AURA] Bignasty1",
+    "tag": "AURA",
+    "name": "Bignasty1"
+  },
+  {
     "displayName": "[1078] Bignasty1",
     "tag": "1078",
     "name": "Bignasty1"
   },
   {
-    "displayName": "[AURA] Bignasty1",
+    "displayName": "[AURA] Billy",
     "tag": "AURA",
-    "name": "Bignasty1"
+    "name": "Billy"
   },
   {
     "displayName": "[1078] Billy",
@@ -195,8 +220,8 @@
     "name": "Billy"
   },
   {
-    "displayName": "[AURA] Billy",
-    "tag": "AURA",
+    "displayName": "[RED] Billy",
+    "tag": "RED",
     "name": "Billy"
   },
   {
@@ -208,6 +233,11 @@
     "displayName": "[LAR] Brice",
     "tag": "LAR",
     "name": "Brice"
+  },
+  {
+    "displayName": "[WLTS] Caroline",
+    "tag": "WLTS",
+    "name": "Caroline"
   },
   {
     "displayName": "[LOT] CHARLY",
@@ -227,6 +257,11 @@
   {
     "displayName": "[LOT] Cowboy",
     "tag": "LOT",
+    "name": "Cowboy"
+  },
+  {
+    "displayName": "[AURA] Cowboy",
+    "tag": "AURA",
     "name": "Cowboy"
   },
   {
@@ -250,13 +285,13 @@
     "name": "Danni"
   },
   {
-    "displayName": "[LOT2] DarkAmon",
-    "tag": "LOT2",
-    "name": "DarkAmon"
+    "displayName": "[AURA] Danni",
+    "tag": "AURA",
+    "name": "Danni"
   },
   {
-    "displayName": "[1078] DarkAmon",
-    "tag": "1078",
+    "displayName": "[LOT2] DarkAmon",
+    "tag": "LOT2",
     "name": "DarkAmon"
   },
   {
@@ -265,9 +300,19 @@
     "name": "DarkAmon"
   },
   {
+    "displayName": "[1078] DarkAmon",
+    "tag": "1078",
+    "name": "DarkAmon"
+  },
+  {
     "displayName": "Darkangel",
     "tag": null,
     "name": "Darkangel"
+  },
+  {
+    "displayName": "[AURA] Deee358",
+    "tag": "AURA",
+    "name": "Deee358"
   },
   {
     "displayName": "[1078] Deee358",
@@ -275,9 +320,9 @@
     "name": "Deee358"
   },
   {
-    "displayName": "[AURA] Deee358",
+    "displayName": "[AURA] DEIMEN",
     "tag": "AURA",
-    "name": "Deee358"
+    "name": "DEIMEN"
   },
   {
     "displayName": "[LAR] Dewdrop",
@@ -295,13 +340,13 @@
     "name": "DonJuan"
   },
   {
-    "displayName": "[1078] Dq82",
-    "tag": "1078",
+    "displayName": "[AURA] Dq82",
+    "tag": "AURA",
     "name": "Dq82"
   },
   {
-    "displayName": "[AURA] Dq82",
-    "tag": "AURA",
+    "displayName": "[1078] Dq82",
+    "tag": "1078",
     "name": "Dq82"
   },
   {
@@ -325,6 +370,11 @@
     "name": "Elesis"
   },
   {
+    "displayName": "[AURA] Elesis",
+    "tag": "AURA",
+    "name": "Elesis"
+  },
+  {
     "displayName": "[1078] Elesis",
     "tag": "1078",
     "name": "Elesis"
@@ -335,13 +385,13 @@
     "name": "Elianortiz"
   },
   {
-    "displayName": "[1078] Elianortiz",
-    "tag": "1078",
+    "displayName": "[AURA] Elianortiz",
+    "tag": "AURA",
     "name": "Elianortiz"
   },
   {
-    "displayName": "[AURA] Elianortiz",
-    "tag": "AURA",
+    "displayName": "[1078] Elianortiz",
+    "tag": "1078",
     "name": "Elianortiz"
   },
   {
@@ -360,23 +410,23 @@
     "name": "Eris"
   },
   {
-    "displayName": "[1078] Eris",
-    "tag": "1078",
-    "name": "Eris"
-  },
-  {
     "displayName": "[AURA] Eris",
     "tag": "AURA",
     "name": "Eris"
   },
   {
-    "displayName": "[1078] FabsCNTRS",
+    "displayName": "[1078] Eris",
     "tag": "1078",
-    "name": "FabsCNTRS"
+    "name": "Eris"
   },
   {
     "displayName": "[AURA] FabsCNTRS",
     "tag": "AURA",
+    "name": "FabsCNTRS"
+  },
+  {
+    "displayName": "[1078] FabsCNTRS",
+    "tag": "1078",
     "name": "FabsCNTRS"
   },
   {
@@ -385,13 +435,13 @@
     "name": "FireFerret"
   },
   {
-    "displayName": "[1078] FireFerret",
-    "tag": "1078",
+    "displayName": "[AURA] FireFerret",
+    "tag": "AURA",
     "name": "FireFerret"
   },
   {
-    "displayName": "[AURA] FireFerret",
-    "tag": "AURA",
+    "displayName": "[1078] FireFerret",
+    "tag": "1078",
     "name": "FireFerret"
   },
   {
@@ -400,18 +450,23 @@
     "name": "Froggy"
   },
   {
+    "displayName": "[RED] Fuf",
+    "tag": "RED",
+    "name": "Fuf"
+  },
+  {
     "displayName": "[RED] Fufu",
     "tag": "RED",
     "name": "Fufu"
   },
   {
-    "displayName": "[1078] Gaia1728",
-    "tag": "1078",
+    "displayName": "[AURA] Gaia1728",
+    "tag": "AURA",
     "name": "Gaia1728"
   },
   {
-    "displayName": "[AURA] Gaia1728",
-    "tag": "AURA",
+    "displayName": "[1078] Gaia1728",
+    "tag": "1078",
     "name": "Gaia1728"
   },
   {
@@ -420,18 +475,23 @@
     "name": "GeneralMekai"
   },
   {
-    "displayName": "[1078] GodSlay",
-    "tag": "1078",
-    "name": "GodSlay"
-  },
-  {
     "displayName": "[AURA] GodSlay",
     "tag": "AURA",
     "name": "GodSlay"
   },
   {
+    "displayName": "[1078] GodSlay",
+    "tag": "1078",
+    "name": "GodSlay"
+  },
+  {
     "displayName": "[LOT2] Gourmandises",
     "tag": "LOT2",
+    "name": "Gourmandises"
+  },
+  {
+    "displayName": "[AURA] Gourmandises",
+    "tag": "AURA",
     "name": "Gourmandises"
   },
   {
@@ -445,14 +505,19 @@
     "name": "GrandZeno"
   },
   {
+    "displayName": "[AURA] GrandZeno",
+    "tag": "AURA",
+    "name": "GrandZeno"
+  },
+  {
     "displayName": "[1078] GrandZeno",
     "tag": "1078",
     "name": "GrandZeno"
   },
   {
-    "displayName": "[AURA] GrandZeno",
-    "tag": "AURA",
-    "name": "GrandZeno"
+    "displayName": "heikkku",
+    "tag": null,
+    "name": "heikkku"
   },
   {
     "displayName": "helal",
@@ -465,13 +530,13 @@
     "name": "Hertha7"
   },
   {
-    "displayName": "[1078] Hertha7",
-    "tag": "1078",
+    "displayName": "[AURA] Hertha7",
+    "tag": "AURA",
     "name": "Hertha7"
   },
   {
-    "displayName": "[AURA] Hertha7",
-    "tag": "AURA",
+    "displayName": "[1078] Hertha7",
+    "tag": "1078",
     "name": "Hertha7"
   },
   {
@@ -495,14 +560,19 @@
     "name": "Jac0king"
   },
   {
+    "displayName": "[AURA] JawsIV",
+    "tag": "AURA",
+    "name": "JawsIV"
+  },
+  {
     "displayName": "[1078] JawsIV",
     "tag": "1078",
     "name": "JawsIV"
   },
   {
-    "displayName": "[AURA] JawsIV",
-    "tag": "AURA",
-    "name": "JawsIV"
+    "displayName": "[LOT] Jay2an",
+    "tag": "LOT",
+    "name": "Jay2an"
   },
   {
     "displayName": "[1078] Jay2an",
@@ -525,13 +595,13 @@
     "name": "Johnnyy234"
   },
   {
-    "displayName": "[1078] Josh89",
-    "tag": "1078",
+    "displayName": "[AURA] Josh89",
+    "tag": "AURA",
     "name": "Josh89"
   },
   {
-    "displayName": "[AURA] Josh89",
-    "tag": "AURA",
+    "displayName": "[1078] Josh89",
+    "tag": "1078",
     "name": "Josh89"
   },
   {
@@ -555,13 +625,13 @@
     "name": "Kalishiva"
   },
   {
-    "displayName": "[1078] Kalishiva",
-    "tag": "1078",
+    "displayName": "[AURA] Kalishiva",
+    "tag": "AURA",
     "name": "Kalishiva"
   },
   {
-    "displayName": "[AURA] Kalishiva",
-    "tag": "AURA",
+    "displayName": "[1078] Kalishiva",
+    "tag": "1078",
     "name": "Kalishiva"
   },
   {
@@ -570,13 +640,13 @@
     "name": "Kanehira"
   },
   {
-    "displayName": "[1078] KevBro",
-    "tag": "1078",
+    "displayName": "[AURA] KevBro",
+    "tag": "AURA",
     "name": "KevBro"
   },
   {
-    "displayName": "[AURA] KevBro",
-    "tag": "AURA",
+    "displayName": "[1078] KevBro",
+    "tag": "1078",
     "name": "KevBro"
   },
   {
@@ -585,23 +655,23 @@
     "name": "Khaleesi"
   },
   {
-    "displayName": "[1078] Khaleesi",
-    "tag": "1078",
-    "name": "Khaleesi"
-  },
-  {
     "displayName": "[AURA] Khaleesi",
     "tag": "AURA",
     "name": "Khaleesi"
   },
   {
-    "displayName": "[1078] Kjonesy",
+    "displayName": "[1078] Khaleesi",
     "tag": "1078",
-    "name": "Kjonesy"
+    "name": "Khaleesi"
   },
   {
     "displayName": "[AURA] Kjonesy",
     "tag": "AURA",
+    "name": "Kjonesy"
+  },
+  {
+    "displayName": "[1078] Kjonesy",
+    "tag": "1078",
     "name": "Kjonesy"
   },
   {
@@ -620,13 +690,13 @@
     "name": "kraken"
   },
   {
-    "displayName": "[1078] Lanstede",
-    "tag": "1078",
+    "displayName": "[AURA] Lanstede",
+    "tag": "AURA",
     "name": "Lanstede"
   },
   {
-    "displayName": "[AURA] Lanstede",
-    "tag": "AURA",
+    "displayName": "[1078] Lanstede",
+    "tag": "1078",
     "name": "Lanstede"
   },
   {
@@ -660,19 +730,29 @@
     "name": "lubega ali"
   },
   {
-    "displayName": "[1078] m a n g o",
-    "tag": "1078",
-    "name": "m a n g o"
-  },
-  {
     "displayName": "[AURA] m a n g o",
     "tag": "AURA",
     "name": "m a n g o"
   },
   {
+    "displayName": "[1078] m a n g o",
+    "tag": "1078",
+    "name": "m a n g o"
+  },
+  {
+    "displayName": "Majestic",
+    "tag": null,
+    "name": "Majestic"
+  },
+  {
     "displayName": "[AURA] Majestic",
     "tag": "AURA",
     "name": "Majestic"
+  },
+  {
+    "displayName": "[AURA] mango",
+    "tag": "AURA",
+    "name": "mango"
   },
   {
     "displayName": "Maurice",
@@ -685,13 +765,13 @@
     "name": "Meh"
   },
   {
-    "displayName": "[1078] Michea",
-    "tag": "1078",
+    "displayName": "[AURA] Michea",
+    "tag": "AURA",
     "name": "Michea"
   },
   {
-    "displayName": "[AURA] Michea",
-    "tag": "AURA",
+    "displayName": "[1078] Michea",
+    "tag": "1078",
     "name": "Michea"
   },
   {
@@ -700,13 +780,13 @@
     "name": "Midnights"
   },
   {
-    "displayName": "[1078] Mikeeey",
-    "tag": "1078",
+    "displayName": "[AURA] Mikeeey",
+    "tag": "AURA",
     "name": "Mikeeey"
   },
   {
-    "displayName": "[AURA] Mikeeey",
-    "tag": "AURA",
+    "displayName": "[1078] Mikeeey",
+    "tag": "1078",
     "name": "Mikeeey"
   },
   {
@@ -715,19 +795,14 @@
     "name": "Mikis"
   },
   {
-    "displayName": "[1078] Miko",
-    "tag": "1078",
-    "name": "Miko"
-  },
-  {
     "displayName": "[AURA] Miko",
     "tag": "AURA",
     "name": "Miko"
   },
   {
-    "displayName": "[1078] Milagros1712",
+    "displayName": "[1078] Miko",
     "tag": "1078",
-    "name": "Milagros1712"
+    "name": "Miko"
   },
   {
     "displayName": "[AURA] Milagros1712",
@@ -735,13 +810,18 @@
     "name": "Milagros1712"
   },
   {
-    "displayName": "[1078] miwa",
+    "displayName": "[1078] Milagros1712",
     "tag": "1078",
-    "name": "miwa"
+    "name": "Milagros1712"
   },
   {
     "displayName": "[AURA] miwa",
     "tag": "AURA",
+    "name": "miwa"
+  },
+  {
+    "displayName": "[1078] miwa",
+    "tag": "1078",
     "name": "miwa"
   },
   {
@@ -755,6 +835,16 @@
     "name": "Mr Gato"
   },
   {
+    "displayName": "MrTonyStank",
+    "tag": null,
+    "name": "MrTonyStank"
+  },
+  {
+    "displayName": "[LOT] MrTonyStank",
+    "tag": "LOT",
+    "name": "MrTonyStank"
+  },
+  {
     "displayName": "[AURA] MrTonyStank",
     "tag": "AURA",
     "name": "MrTonyStank"
@@ -765,18 +855,23 @@
     "name": "Myokard"
   },
   {
-    "displayName": "[LOT] NaedleZip",
-    "tag": "LOT",
-    "name": "NaedleZip"
-  },
-  {
     "displayName": "[AURA] NaedleZip",
     "tag": "AURA",
     "name": "NaedleZip"
   },
   {
+    "displayName": "[LOT] NaedleZip",
+    "tag": "LOT",
+    "name": "NaedleZip"
+  },
+  {
     "displayName": "[LOT2] Nævis",
     "tag": "LOT2",
+    "name": "Nævis"
+  },
+  {
+    "displayName": "[AURA] Nævis",
+    "tag": "AURA",
     "name": "Nævis"
   },
   {
@@ -790,13 +885,13 @@
     "name": "Nati"
   },
   {
-    "displayName": "[1078] Nati",
-    "tag": "1078",
+    "displayName": "[AURA] Nati",
+    "tag": "AURA",
     "name": "Nati"
   },
   {
-    "displayName": "[AURA] Nati",
-    "tag": "AURA",
+    "displayName": "[1078] Nati",
+    "tag": "1078",
     "name": "Nati"
   },
   {
@@ -805,13 +900,13 @@
     "name": "Navi"
   },
   {
-    "displayName": "[1078] Nebrodi",
-    "tag": "1078",
+    "displayName": "[AURA] Nebrodi",
+    "tag": "AURA",
     "name": "Nebrodi"
   },
   {
-    "displayName": "[AURA] Nebrodi",
-    "tag": "AURA",
+    "displayName": "[1078] Nebrodi",
+    "tag": "1078",
     "name": "Nebrodi"
   },
   {
@@ -823,6 +918,11 @@
     "displayName": "NoKaOi",
     "tag": null,
     "name": "NoKaOi"
+  },
+  {
+    "displayName": "[AURA] NotWhite123",
+    "tag": "AURA",
+    "name": "NotWhite123"
   },
   {
     "displayName": "[1078] NotWhite123",
@@ -850,6 +950,11 @@
     "name": "Oki"
   },
   {
+    "displayName": "P4P1 J",
+    "tag": null,
+    "name": "P4P1 J"
+  },
+  {
     "displayName": "[AURA] P4P1 J",
     "tag": "AURA",
     "name": "P4P1 J"
@@ -858,6 +963,16 @@
     "displayName": "[AURA] Pachacutec",
     "tag": "AURA",
     "name": "Pachacutec"
+  },
+  {
+    "displayName": "[AURA] Pachacútec",
+    "tag": "AURA",
+    "name": "Pachacútec"
+  },
+  {
+    "displayName": "[LOT] Pachacútec",
+    "tag": "LOT",
+    "name": "Pachacútec"
   },
   {
     "displayName": "[AURA] Pachacǔtec",
@@ -885,13 +1000,13 @@
     "name": "PsYcHeDeLiCe"
   },
   {
-    "displayName": "[1078] Quackers",
-    "tag": "1078",
+    "displayName": "[AURA] Quackers",
+    "tag": "AURA",
     "name": "Quackers"
   },
   {
-    "displayName": "[AURA] Quackers",
-    "tag": "AURA",
+    "displayName": "[1078] Quackers",
+    "tag": "1078",
     "name": "Quackers"
   },
   {
@@ -908,6 +1023,11 @@
     "displayName": "[LOT] Raizel Kim",
     "tag": "LOT",
     "name": "Raizel Kim"
+  },
+  {
+    "displayName": "[WLTS] Randolph",
+    "tag": "WLTS",
+    "name": "Randolph"
   },
   {
     "displayName": "[ND2] Rava and koh",
@@ -940,13 +1060,13 @@
     "name": "Rosi"
   },
   {
-    "displayName": "[1078] RuyBR",
-    "tag": "1078",
+    "displayName": "[AURA] RuyBR",
+    "tag": "AURA",
     "name": "RuyBR"
   },
   {
-    "displayName": "[AURA] RuyBR",
-    "tag": "AURA",
+    "displayName": "[1078] RuyBR",
+    "tag": "1078",
     "name": "RuyBR"
   },
   {
@@ -960,18 +1080,23 @@
     "name": "ShapeShifter"
   },
   {
-    "displayName": "[1078] ShapeShifter",
-    "tag": "1078",
-    "name": "ShapeShifter"
-  },
-  {
     "displayName": "[AURA] ShapeShifter",
     "tag": "AURA",
     "name": "ShapeShifter"
   },
   {
+    "displayName": "[1078] ShapeShifter",
+    "tag": "1078",
+    "name": "ShapeShifter"
+  },
+  {
     "displayName": "[LOT2] Skaði",
     "tag": "LOT2",
+    "name": "Skaði"
+  },
+  {
+    "displayName": "[AURA] Skaði",
+    "tag": "AURA",
     "name": "Skaði"
   },
   {
@@ -985,13 +1110,13 @@
     "name": "SmellerBee"
   },
   {
-    "displayName": "[1078] SmellerBee",
-    "tag": "1078",
+    "displayName": "[AURA] SmellerBee",
+    "tag": "AURA",
     "name": "SmellerBee"
   },
   {
-    "displayName": "[AURA] SmellerBee",
-    "tag": "AURA",
+    "displayName": "[1078] SmellerBee",
+    "tag": "1078",
     "name": "SmellerBee"
   },
   {
@@ -1000,14 +1125,19 @@
     "name": "Speedyrbbud"
   },
   {
+    "displayName": "[AURA] Speedyrbbud",
+    "tag": "AURA",
+    "name": "Speedyrbbud"
+  },
+  {
     "displayName": "[1078] Speedyrbbud",
     "tag": "1078",
     "name": "Speedyrbbud"
   },
   {
-    "displayName": "[AURA] Speedyrbbud",
+    "displayName": "[AURA] Speedyrbud",
     "tag": "AURA",
-    "name": "Speedyrbbud"
+    "name": "Speedyrbud"
   },
   {
     "displayName": "[LOT2] Star Rex",
@@ -1015,13 +1145,13 @@
     "name": "Star Rex"
   },
   {
-    "displayName": "[1078] Star Rex",
-    "tag": "1078",
+    "displayName": "[AURA] Star Rex",
+    "tag": "AURA",
     "name": "Star Rex"
   },
   {
-    "displayName": "[AURA] Star Rex",
-    "tag": "AURA",
+    "displayName": "[1078] Star Rex",
+    "tag": "1078",
     "name": "Star Rex"
   },
   {
@@ -1035,13 +1165,13 @@
     "name": "TDoq"
   },
   {
-    "displayName": "[1078] TDoq",
-    "tag": "1078",
+    "displayName": "[AURA] TDoq",
+    "tag": "AURA",
     "name": "TDoq"
   },
   {
-    "displayName": "[AURA] TDoq",
-    "tag": "AURA",
+    "displayName": "[1078] TDoq",
+    "tag": "1078",
     "name": "TDoq"
   },
   {
@@ -1055,14 +1185,14 @@
     "name": "Tio Iroh"
   },
   {
-    "displayName": "[1078] Tio Iroh",
-    "tag": "1078",
+    "displayName": "[AURA] Tio Iroh",
+    "tag": "AURA",
     "name": "Tio Iroh"
   },
   {
-    "displayName": "[1078] Toph 7250",
+    "displayName": "[1078] Tio Iroh",
     "tag": "1078",
-    "name": "Toph 7250"
+    "name": "Tio Iroh"
   },
   {
     "displayName": "[AURA] Toph 7250",
@@ -1070,9 +1200,9 @@
     "name": "Toph 7250"
   },
   {
-    "displayName": "[1078] Toughie",
+    "displayName": "[1078] Toph 7250",
     "tag": "1078",
-    "name": "Toughie"
+    "name": "Toph 7250"
   },
   {
     "displayName": "[AURA] Toughie",
@@ -1080,18 +1210,28 @@
     "name": "Toughie"
   },
   {
+    "displayName": "[1078] Toughie",
+    "tag": "1078",
+    "name": "Toughie"
+  },
+  {
+    "displayName": "TROYA",
+    "tag": null,
+    "name": "TROYA"
+  },
+  {
     "displayName": "[AURA] TROYA",
     "tag": "AURA",
     "name": "TROYA"
   },
   {
-    "displayName": "[1078] try",
-    "tag": "1078",
+    "displayName": "[AURA] try",
+    "tag": "AURA",
     "name": "try"
   },
   {
-    "displayName": "[AURA] try",
-    "tag": "AURA",
+    "displayName": "[1078] try",
+    "tag": "1078",
     "name": "try"
   },
   {
@@ -1110,6 +1250,11 @@
     "name": "UMRebel"
   },
   {
+    "displayName": "[AURA] UMRebel",
+    "tag": "AURA",
+    "name": "UMRebel"
+  },
+  {
     "displayName": "[1078] UMRebel",
     "tag": "1078",
     "name": "UMRebel"
@@ -1120,13 +1265,13 @@
     "name": "Unalaq"
   },
   {
-    "displayName": "[1078] Unalaq",
-    "tag": "1078",
+    "displayName": "[AURA] Unalaq",
+    "tag": "AURA",
     "name": "Unalaq"
   },
   {
-    "displayName": "[AURA] Unalaq",
-    "tag": "AURA",
+    "displayName": "[1078] Unalaq",
+    "tag": "1078",
     "name": "Unalaq"
   },
   {
@@ -1135,13 +1280,13 @@
     "name": "valie"
   },
   {
-    "displayName": "[1078] valie",
-    "tag": "1078",
+    "displayName": "[AURA] valie",
+    "tag": "AURA",
     "name": "valie"
   },
   {
-    "displayName": "[AURA] valie",
-    "tag": "AURA",
+    "displayName": "[1078] valie",
+    "tag": "1078",
     "name": "valie"
   },
   {
@@ -1150,8 +1295,18 @@
     "name": "Vargg"
   },
   {
+    "displayName": "[AURA] Vargg",
+    "tag": "AURA",
+    "name": "Vargg"
+  },
+  {
     "displayName": "[1078] Vargg",
     "tag": "1078",
+    "name": "Vargg"
+  },
+  {
+    "displayName": "[LOT] Vargg",
+    "tag": "LOT",
     "name": "Vargg"
   },
   {
@@ -1165,23 +1320,23 @@
     "name": "ViliTheBoss1"
   },
   {
-    "displayName": "[1078] ViliTheBoss1",
-    "tag": "1078",
-    "name": "ViliTheBoss1"
-  },
-  {
     "displayName": "[AURA] ViliTheBoss1",
     "tag": "AURA",
     "name": "ViliTheBoss1"
   },
   {
-    "displayName": "[1078] Wave",
+    "displayName": "[1078] ViliTheBoss1",
     "tag": "1078",
-    "name": "Wave"
+    "name": "ViliTheBoss1"
   },
   {
     "displayName": "[AURA] Wave",
     "tag": "AURA",
+    "name": "Wave"
+  },
+  {
+    "displayName": "[1078] Wave",
+    "tag": "1078",
     "name": "Wave"
   },
   {
@@ -1190,13 +1345,13 @@
     "name": "WitchKing"
   },
   {
-    "displayName": "[1078] WitchKing",
-    "tag": "1078",
+    "displayName": "[AURA] WitchKing",
+    "tag": "AURA",
     "name": "WitchKing"
   },
   {
-    "displayName": "[AURA] WitchKing",
-    "tag": "AURA",
+    "displayName": "[1078] WitchKing",
+    "tag": "1078",
     "name": "WitchKing"
   },
   {
@@ -1205,14 +1360,19 @@
     "name": "Xaquery"
   },
   {
+    "displayName": "[AURA] Xaquery",
+    "tag": "AURA",
+    "name": "Xaquery"
+  },
+  {
     "displayName": "[1078] Xaquery",
     "tag": "1078",
     "name": "Xaquery"
   },
   {
-    "displayName": "[AURA] Xaquery",
-    "tag": "AURA",
-    "name": "Xaquery"
+    "displayName": "[LOT] Xx ㄷ┣乇RRŸ xX",
+    "tag": "LOT",
+    "name": "Xx ㄷ┣乇RRŸ xX"
   },
   {
     "displayName": "[LOT] Xx ㄷH€RRYxX",
@@ -1230,13 +1390,33 @@
     "name": "Xx 匚廾乇尺尺丫 xX"
   },
   {
+    "displayName": "[LOT] Xx 匚廾乇尺尺丫xX",
+    "tag": "LOT",
+    "name": "Xx 匚廾乇尺尺丫xX"
+  },
+  {
+    "displayName": "[LAR] Xx 匚廾乇尺尺丫xX",
+    "tag": "LAR",
+    "name": "Xx 匚廾乇尺尺丫xX"
+  },
+  {
     "displayName": "[AURA] Zkᵃrhᵃrt",
     "tag": "AURA",
     "name": "Zkᵃrhᵃrt"
   },
   {
+    "displayName": "[AURA] Zkªrhªrt",
+    "tag": "AURA",
+    "name": "Zkªrhªrt"
+  },
+  {
     "displayName": "Zƙªrhªrt",
     "tag": null,
+    "name": "Zƙªrhªrt"
+  },
+  {
+    "displayName": "[AURA] Zƙªrhªrt",
+    "tag": "AURA",
     "name": "Zƙªrhªrt"
   },
   {
@@ -1245,13 +1425,13 @@
     "name": "Zƙªrhªrt"
   },
   {
-    "displayName": "[1078] Zmai",
-    "tag": "1078",
+    "displayName": "[AURA] Zmai",
+    "tag": "AURA",
     "name": "Zmai"
   },
   {
-    "displayName": "[AURA] Zmai",
-    "tag": "AURA",
+    "displayName": "[1078] Zmai",
+    "tag": "1078",
     "name": "Zmai"
   }
 ]

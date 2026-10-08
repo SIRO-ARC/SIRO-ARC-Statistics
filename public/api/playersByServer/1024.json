@@ -155,6 +155,11 @@
     "name": "Diddy Kong"
   },
   {
+    "displayName": "[Wii] Dinkleberg",
+    "tag": "Wii",
+    "name": "Dinkleberg"
+  },
+  {
     "displayName": "[Wii] Donar",
     "tag": "Wii",
     "name": "Donar"
@@ -168,6 +173,11 @@
     "displayName": "[Wii]Donkey Kong",
     "tag": "Wii",
     "name": "Donkey Kong"
+  },
+  {
+    "displayName": "Dulli",
+    "tag": null,
+    "name": "Dulli"
   },
   {
     "displayName": "[Wii] Dulli",
@@ -213,6 +223,11 @@
     "displayName": "Flow0814",
     "tag": null,
     "name": "Flow0814"
+  },
+  {
+    "displayName": "Flower972",
+    "tag": null,
+    "name": "Flower972"
   },
   {
     "displayName": "[Wii] Flower972",
@@ -263,6 +278,11 @@
     "displayName": "[Wii] HunnyBun31",
     "tag": "Wii",
     "name": "HunnyBun31"
+  },
+  {
+    "displayName": "HunyBuny",
+    "tag": null,
+    "name": "HunyBuny"
   },
   {
     "displayName": "[Wii] IJs2002",
@@ -333,6 +353,11 @@
     "displayName": "[Wii] Ka Kashi",
     "tag": "Wii",
     "name": "Ka Kashi"
+  },
+  {
+    "displayName": "kat",
+    "tag": null,
+    "name": "kat"
   },
   {
     "displayName": "[Wii] kat",
@@ -510,6 +535,11 @@
     "name": "Marky164"
   },
   {
+    "displayName": "Megumi",
+    "tag": null,
+    "name": "Megumi"
+  },
+  {
     "displayName": "[LOST] Megumi",
     "tag": "LOST",
     "name": "Megumi"
@@ -683,6 +713,11 @@
     "displayName": "[Wii] PumaDRiley",
     "tag": "Wii",
     "name": "PumaDRiley"
+  },
+  {
+    "displayName": "Rdam",
+    "tag": null,
+    "name": "Rdam"
   },
   {
     "displayName": "[LOST] Rdam",

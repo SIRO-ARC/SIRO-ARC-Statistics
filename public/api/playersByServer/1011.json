@@ -190,6 +190,11 @@
     "name": "DaRKySouls"
   },
   {
+    "displayName": "[S11] DaRkYSoUs",
+    "tag": "S11",
+    "name": "DaRkYSoUs"
+  },
+  {
     "displayName": "[TUF] Darth Cognus",
     "tag": "TUF",
     "name": "Darth Cognus"
@@ -315,6 +320,11 @@
     "name": "Fiendfyre"
   },
   {
+    "displayName": "[S11] Fiendfyre",
+    "tag": "S11",
+    "name": "Fiendfyre"
+  },
+  {
     "displayName": "[WAR5] FiendFyre",
     "tag": "WAR5",
     "name": "FiendFyre"
@@ -378,6 +388,16 @@
     "displayName": "[WAR5] Ghost",
     "tag": "WAR5",
     "name": "Ghost"
+  },
+  {
+    "displayName": "[WAR5] Ghоst",
+    "tag": "WAR5",
+    "name": "Ghоst"
+  },
+  {
+    "displayName": "[WAR5] GoldBeggar69",
+    "tag": "WAR5",
+    "name": "GoldBeggar69"
   },
   {
     "displayName": "[WAR5] Goo",
@@ -450,9 +470,19 @@
     "name": "JleoZ"
   },
   {
+    "displayName": "[TUF] JleoZ",
+    "tag": "TUF",
+    "name": "JleoZ"
+  },
+  {
     "displayName": "[WAR5] JleoZ",
     "tag": "WAR5",
     "name": "JleoZ"
+  },
+  {
+    "displayName": "[S11] jojo moim",
+    "tag": "S11",
+    "name": "jojo moim"
   },
   {
     "displayName": "[WAR5] jojo moix",
@@ -565,9 +595,24 @@
     "name": "KAZOOM"
   },
   {
+    "displayName": "[WARS] KAZOOM",
+    "tag": "WARS",
+    "name": "KAZOOM"
+  },
+  {
     "displayName": "[WAR5] KAZOOM",
     "tag": "WAR5",
     "name": "KAZOOM"
+  },
+  {
+    "displayName": "[S11] KAZOOM",
+    "tag": "S11",
+    "name": "KAZOOM"
+  },
+  {
+    "displayName": "[WARS] KAZOOM ·",
+    "tag": "WARS",
+    "name": "KAZOOM ·"
   },
   {
     "displayName": "[WAR5] King Groot",
@@ -670,8 +715,18 @@
     "name": "MARROK"
   },
   {
+    "displayName": "[WARS] MARROK",
+    "tag": "WARS",
+    "name": "MARROK"
+  },
+  {
     "displayName": "[WAR5] MARROK",
     "tag": "WAR5",
+    "name": "MARROK"
+  },
+  {
+    "displayName": "[S11] MARROK",
+    "tag": "S11",
     "name": "MARROK"
   },
   {
@@ -735,13 +790,13 @@
     "name": "MixedSynapse"
   },
   {
-    "displayName": "[WARS] mojo jojo",
-    "tag": "WARS",
+    "displayName": "[WAR5] mojo jojo",
+    "tag": "WAR5",
     "name": "mojo jojo"
   },
   {
-    "displayName": "[WAR5] mojo jojo",
-    "tag": "WAR5",
+    "displayName": "[WARS] mojo jojo",
+    "tag": "WARS",
     "name": "mojo jojo"
   },
   {
@@ -760,13 +815,13 @@
     "name": "mojo jojo"
   },
   {
-    "displayName": "[WAR5] mojo nine",
-    "tag": "WAR5",
+    "displayName": "[S11] mojo nine",
+    "tag": "S11",
     "name": "mojo nine"
   },
   {
-    "displayName": "[S11] mojo nine",
-    "tag": "S11",
+    "displayName": "[WAR5] mojo nine",
+    "tag": "WAR5",
     "name": "mojo nine"
   },
   {
@@ -785,13 +840,13 @@
     "name": "Mojo Vinojo"
   },
   {
-    "displayName": "[WARS] Mojo Vinojo",
-    "tag": "WARS",
+    "displayName": "[S11] Mojo Vinojo",
+    "tag": "S11",
     "name": "Mojo Vinojo"
   },
   {
-    "displayName": "[S11] Mojo Vinojo",
-    "tag": "S11",
+    "displayName": "[WARS] Mojo Vinojo",
+    "tag": "WARS",
     "name": "Mojo Vinojo"
   },
   {
@@ -900,6 +955,16 @@
     "name": "Pickle Rick"
   },
   {
+    "displayName": "[POOR] Pickle Rick",
+    "tag": "POOR",
+    "name": "Pickle Rick"
+  },
+  {
+    "displayName": "[MOJO] Pickle Rick",
+    "tag": "MOJO",
+    "name": "Pickle Rick"
+  },
+  {
     "displayName": "[WARS] Pigeon",
     "tag": "WARS",
     "name": "Pigeon"
@@ -942,6 +1007,16 @@
   {
     "displayName": "[WARS] RICK PRIME",
     "tag": "WARS",
+    "name": "RICK PRIME"
+  },
+  {
+    "displayName": "[POOR] RICK PRIME",
+    "tag": "POOR",
+    "name": "RICK PRIME"
+  },
+  {
+    "displayName": "[MOJO] RICK PRIME",
+    "tag": "MOJO",
     "name": "RICK PRIME"
   },
   {
@@ -1120,6 +1195,26 @@
     "name": "Tiny Rick"
   },
   {
+    "displayName": "[WAR5] Tiny Rick",
+    "tag": "WAR5",
+    "name": "Tiny Rick"
+  },
+  {
+    "displayName": "[POOR] Tiny Rick",
+    "tag": "POOR",
+    "name": "Tiny Rick"
+  },
+  {
+    "displayName": "[MOJO] Tiny Rick",
+    "tag": "MOJO",
+    "name": "Tiny Rick"
+  },
+  {
+    "displayName": "[WARS] Tomato Soup",
+    "tag": "WARS",
+    "name": "Tomato Soup"
+  },
+  {
     "displayName": "[WAR5] Tomato Soup",
     "tag": "WAR5",
     "name": "Tomato Soup"
@@ -1132,6 +1227,21 @@
   {
     "displayName": "[WARS] Toxic Rick",
     "tag": "WARS",
+    "name": "Toxic Rick"
+  },
+  {
+    "displayName": "[WAR5] Toxic Rick",
+    "tag": "WAR5",
+    "name": "Toxic Rick"
+  },
+  {
+    "displayName": "[POOR] Toxic Rick",
+    "tag": "POOR",
+    "name": "Toxic Rick"
+  },
+  {
+    "displayName": "[MOJO] Toxic Rick",
+    "tag": "MOJO",
     "name": "Toxic Rick"
   },
   {

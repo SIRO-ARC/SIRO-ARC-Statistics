@@ -15,6 +15,11 @@
     "name": "3cheers"
   },
   {
+    "displayName": "[DAD] 51oux",
+    "tag": "DAD",
+    "name": "51oux"
+  },
+  {
     "displayName": "51oux",
     "tag": null,
     "name": "51oux"
@@ -30,8 +35,18 @@
     "name": "A B C"
   },
   {
+    "displayName": "[Doom] ABC",
+    "tag": "Doom",
+    "name": "ABC"
+  },
+  {
     "displayName": "[Dota] Acçes",
     "tag": "Dota",
+    "name": "Acçes"
+  },
+  {
+    "displayName": "[ARC] Acçes",
+    "tag": "ARC",
     "name": "Acçes"
   },
   {
@@ -85,13 +100,13 @@
     "name": "Antopia"
   },
   {
-    "displayName": "ARChNemesis",
-    "tag": null,
+    "displayName": "[DAD] ARChNemesis",
+    "tag": "DAD",
     "name": "ARChNemesis"
   },
   {
-    "displayName": "[DAD] ARChNemesis",
-    "tag": "DAD",
+    "displayName": "ARChNemesis",
+    "tag": null,
     "name": "ARChNemesis"
   },
   {
@@ -143,6 +158,11 @@
     "displayName": "[YMI] Baby Juice",
     "tag": "YMI",
     "name": "Baby Juice"
+  },
+  {
+    "displayName": "[Dota] Bad Boy",
+    "tag": "Dota",
+    "name": "Bad Boy"
   },
   {
     "displayName": "[DAD] BaSingSe2",
@@ -215,6 +235,11 @@
     "name": "Blind1EyeCow"
   },
   {
+    "displayName": "Blink2wice",
+    "tag": null,
+    "name": "Blink2wice"
+  },
+  {
     "displayName": "[SVRN] Bluey",
     "tag": "SVRN",
     "name": "Bluey"
@@ -255,6 +280,11 @@
     "name": "Cactus Juice"
   },
   {
+    "displayName": "[DAD] CasperF",
+    "tag": "DAD",
+    "name": "CasperF"
+  },
+  {
     "displayName": "[Dota] Cd Villarejo",
     "tag": "Dota",
     "name": "Cd Villarejo"
@@ -293,6 +323,11 @@
     "displayName": "[DAD] ComeGetPsalm",
     "tag": "DAD",
     "name": "ComeGetPsalm"
+  },
+  {
+    "displayName": "[Dota] Cook",
+    "tag": "Dota",
+    "name": "Cook"
   },
   {
     "displayName": "[YMI] Cortez4819",
@@ -400,6 +435,11 @@
     "name": "Doctor Darth"
   },
   {
+    "displayName": "[MIĽF] Dr Doom",
+    "tag": "MIĽF",
+    "name": "Dr Doom"
+  },
+  {
     "displayName": "[YMI] Drake1996",
     "tag": "YMI",
     "name": "Drake1996"
@@ -435,6 +475,11 @@
     "name": "Faramir"
   },
   {
+    "displayName": "[DAD] Faramir",
+    "tag": "DAD",
+    "name": "Faramir"
+  },
+  {
     "displayName": "[ARC] Faramir",
     "tag": "ARC",
     "name": "Faramir"
@@ -453,6 +498,11 @@
     "displayName": "[YMI] Firelord Bob",
     "tag": "YMI",
     "name": "Firelord Bob"
+  },
+  {
+    "displayName": "[Dota] FloatLeft",
+    "tag": "Dota",
+    "name": "FloatLeft"
   },
   {
     "displayName": "Frederikke",
@@ -555,6 +605,11 @@
     "name": "Jadaura"
   },
   {
+    "displayName": "[DAD] Jameson",
+    "tag": "DAD",
+    "name": "Jameson"
+  },
+  {
     "displayName": "[DILF] Jameson",
     "tag": "DILF",
     "name": "Jameson"
@@ -635,6 +690,11 @@
     "name": "katchou"
   },
   {
+    "displayName": "[DAD] kazoo",
+    "tag": "DAD",
+    "name": "kazoo"
+  },
+  {
     "displayName": "[DAD] KettleSun",
     "tag": "DAD",
     "name": "KettleSun"
@@ -655,6 +715,11 @@
     "name": "Kuruk"
   },
   {
+    "displayName": "Laeryken",
+    "tag": null,
+    "name": "Laeryken"
+  },
+  {
     "displayName": "[ARC] Laeryken",
     "tag": "ARC",
     "name": "Laeryken"
@@ -668,6 +733,11 @@
     "displayName": "leader 18765",
     "tag": null,
     "name": "leader 18765"
+  },
+  {
+    "displayName": "[DAD] leader_1850373",
+    "tag": "DAD",
+    "name": "leader_1850373"
   },
   {
     "displayName": "[Dota] leader_1850373",
@@ -770,13 +840,13 @@
     "name": "Miley Mouse"
   },
   {
-    "displayName": "[Love] MileyMouse",
-    "tag": "Love",
+    "displayName": "[ARC] MileyMouse",
+    "tag": "ARC",
     "name": "MileyMouse"
   },
   {
-    "displayName": "[ARC] MileyMouse",
-    "tag": "ARC",
+    "displayName": "[Love] MileyMouse",
+    "tag": "Love",
     "name": "MileyMouse"
   },
   {
@@ -848,6 +918,11 @@
     "displayName": "[DAD] otterduck",
     "tag": "DAD",
     "name": "otterduck"
+  },
+  {
+    "displayName": "[Dota] Ozbox",
+    "tag": "Dota",
+    "name": "Ozbox"
   },
   {
     "displayName": "[DAD] Paasipius",
@@ -935,6 +1010,11 @@
     "name": "pazoo"
   },
   {
+    "displayName": "Pazoo",
+    "tag": null,
+    "name": "Pazoo"
+  },
+  {
     "displayName": "[DAD] Pazoo",
     "tag": "DAD",
     "name": "Pazoo"
@@ -1018,6 +1098,16 @@
     "displayName": "[YMI] SageMaster64",
     "tag": "YMI",
     "name": "SageMaster64"
+  },
+  {
+    "displayName": "[DAD] Sama RHP",
+    "tag": "DAD",
+    "name": "Sama RHP"
+  },
+  {
+    "displayName": "[A1A4] Sammy365",
+    "tag": "A1A4",
+    "name": "Sammy365"
   },
   {
     "displayName": "[DAD] Sammy365",
@@ -1227,6 +1317,16 @@
   {
     "displayName": "[DAD] WhosYerDaddy",
     "tag": "DAD",
+    "name": "WhosYerDaddy"
+  },
+  {
+    "displayName": "WhosYerDaddy",
+    "tag": null,
+    "name": "WhosYerDaddy"
+  },
+  {
+    "displayName": "[ARC] WhosYerDaddy",
+    "tag": "ARC",
     "name": "WhosYerDaddy"
   },
   {

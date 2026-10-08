@@ -180,6 +180,11 @@
     "name": "CoffeeMoon"
   },
   {
+    "displayName": "[HOT] CoffeeMoon",
+    "tag": "HOT",
+    "name": "CoffeeMoon"
+  },
+  {
     "displayName": "[Embr] Coltrick",
     "tag": "Embr",
     "name": "Coltrick"
@@ -187,6 +192,11 @@
   {
     "displayName": "[Embr] Conan",
     "tag": "Embr",
+    "name": "Conan"
+  },
+  {
+    "displayName": "[HOT] Conan",
+    "tag": "HOT",
     "name": "Conan"
   },
   {
@@ -245,6 +255,11 @@
     "name": "DjangoII"
   },
   {
+    "displayName": "[Embr] DntCensorPkl",
+    "tag": "Embr",
+    "name": "DntCensorPkl"
+  },
+  {
     "displayName": "[GSW] DonLeandro77",
     "tag": "GSW",
     "name": "DonLeandro77"
@@ -300,6 +315,11 @@
     "name": "fifi"
   },
   {
+    "displayName": "[NALA] flfi",
+    "tag": "NALA",
+    "name": "flfi"
+  },
+  {
     "displayName": "[NALA] flfl",
     "tag": "NALA",
     "name": "flfl"
@@ -328,6 +348,11 @@
     "displayName": "[HOT] General Tedd",
     "tag": "HOT",
     "name": "General Tedd"
+  },
+  {
+    "displayName": "[HOT] GeneralTedd",
+    "tag": "HOT",
+    "name": "GeneralTedd"
   },
   {
     "displayName": "[TOES] GeneralTedd",
@@ -425,6 +450,11 @@
     "name": "Jellex"
   },
   {
+    "displayName": "[HOT] Jellez",
+    "tag": "HOT",
+    "name": "Jellez"
+  },
+  {
     "displayName": "[Embr] jello138",
     "tag": "Embr",
     "name": "jello138"
@@ -503,6 +533,11 @@
     "displayName": "KUKULCAN",
     "tag": null,
     "name": "KUKULCAN"
+  },
+  {
+    "displayName": "[Embr] Lady Elmo",
+    "tag": "Embr",
+    "name": "Lady Elmo"
   },
   {
     "displayName": "Lady Elmo",
@@ -603,6 +638,11 @@
     "displayName": "[TWLO] MasterArgent",
     "tag": "TWLO",
     "name": "MasterArgent"
+  },
+  {
+    "displayName": "[HOT] Mau19",
+    "tag": "HOT",
+    "name": "Mau19"
   },
   {
     "displayName": "[TWLO] Mau19",
@@ -740,6 +780,16 @@
     "name": "PICKLE RICK"
   },
   {
+    "displayName": "[HOT] PickleBeard",
+    "tag": "HOT",
+    "name": "PickleBeard"
+  },
+  {
+    "displayName": "[Embr] PickleBeard",
+    "tag": "Embr",
+    "name": "PickleBeard"
+  },
+  {
     "displayName": "[HOT] pikachu",
     "tag": "HOT",
     "name": "pikachu"
@@ -792,6 +842,11 @@
   {
     "displayName": "[Embr] Promise1022",
     "tag": "Embr",
+    "name": "Promise1022"
+  },
+  {
+    "displayName": "[HOT] Promise1022",
+    "tag": "HOT",
     "name": "Promise1022"
   },
   {
@@ -915,6 +970,11 @@
     "name": "ShadyLep"
   },
   {
+    "displayName": "[Embr] SlikAzPickle",
+    "tag": "Embr",
+    "name": "SlikAzPickle"
+  },
+  {
     "displayName": "[Embr] SmnGvz",
     "tag": "Embr",
     "name": "SmnGvz"
@@ -937,6 +997,11 @@
   {
     "displayName": "[Embr] StarryNight",
     "tag": "Embr",
+    "name": "StarryNight"
+  },
+  {
+    "displayName": "[HOT] StarryNight",
+    "tag": "HOT",
     "name": "StarryNight"
   },
   {
@@ -1000,6 +1065,11 @@
     "name": "tzu jung"
   },
   {
+    "displayName": "[HOT] Vavvmipire",
+    "tag": "HOT",
+    "name": "Vavvmipire"
+  },
+  {
     "displayName": "[TWLO]Vuurheer Mau",
     "tag": "TWLO",
     "name": "Vuurheer Mau"
@@ -1018,6 +1088,16 @@
     "displayName": "[Embr] WarJj",
     "tag": "Embr",
     "name": "WarJj"
+  },
+  {
+    "displayName": "[Embr] WhiskeyPickl",
+    "tag": "Embr",
+    "name": "WhiskeyPickl"
+  },
+  {
+    "displayName": "[Embr] WhosDtPickle",
+    "tag": "Embr",
+    "name": "WhosDtPickle"
   },
   {
     "displayName": "willz",
@@ -1047,6 +1127,11 @@
   {
     "displayName": "[Embr] YipYip",
     "tag": "Embr",
+    "name": "YipYip"
+  },
+  {
+    "displayName": "[HOT] YipYip",
+    "tag": "HOT",
     "name": "YipYip"
   },
   {
@@ -1083,6 +1168,11 @@
     "displayName": "[TWLO] Zelaerus",
     "tag": "TWLO",
     "name": "Zelaerus"
+  },
+  {
+    "displayName": "[HOT] Zelærus",
+    "tag": "HOT",
+    "name": "Zelærus"
   },
   {
     "displayName": "[Embr] Zhenshin",

@@ -40,6 +40,11 @@
     "name": "AlphaZwo"
   },
   {
+    "displayName": "Aredo",
+    "tag": null,
+    "name": "Aredo"
+  },
+  {
     "displayName": "[Tea] Aredo",
     "tag": "Tea",
     "name": "Aredo"
@@ -68,6 +73,11 @@
     "displayName": "[Tea] Bcamp",
     "tag": "Tea",
     "name": "Bcamp"
+  },
+  {
+    "displayName": "[Tea] Beechpuddin",
+    "tag": "Tea",
+    "name": "Beechpuddin"
   },
   {
     "displayName": "[IRON] Bhagudada",
@@ -185,8 +195,18 @@
     "name": "DRESDEN"
   },
   {
+    "displayName": "Egiliviate",
+    "tag": null,
+    "name": "Egiliviate"
+  },
+  {
     "displayName": "[Ref] Egiliviate",
     "tag": "Ref",
+    "name": "Egiliviate"
+  },
+  {
+    "displayName": "[Tea] Egiliviate",
+    "tag": "Tea",
     "name": "Egiliviate"
   },
   {
@@ -233,6 +253,11 @@
     "displayName": "[TTB] Flip",
     "tag": "TTB",
     "name": "Flip"
+  },
+  {
+    "displayName": "[Tea] fOOk mE iron",
+    "tag": "Tea",
+    "name": "fOOk mE iron"
   },
   {
     "displayName": "[IRON] fOOkmEIron",
@@ -380,6 +405,11 @@
     "name": "KnightOwl"
   },
   {
+    "displayName": "[Tea] Korra Tea",
+    "tag": "Tea",
+    "name": "Korra Tea"
+  },
+  {
     "displayName": "[Tea] KorraTea",
     "tag": "Tea",
     "name": "KorraTea"
@@ -473,6 +503,11 @@
     "displayName": "[IRON] MasterScoob",
     "tag": "IRON",
     "name": "MasterScoob"
+  },
+  {
+    "displayName": "MelonL0rd",
+    "tag": null,
+    "name": "MelonL0rd"
   },
   {
     "displayName": "[TTB] MelonL0rd",
@@ -570,6 +605,11 @@
     "name": "Ørfęüs"
   },
   {
+    "displayName": "[Ref] Ørfęūs",
+    "tag": "Ref",
+    "name": "Ørfęūs"
+  },
+  {
     "displayName": "[Tea] Ørfęūs",
     "tag": "Tea",
     "name": "Ørfęūs"
@@ -648,6 +688,11 @@
     "displayName": "[Ref] Sarani",
     "tag": "Ref",
     "name": "Sarani"
+  },
+  {
+    "displayName": "[Tea] SERAPH24",
+    "tag": "Tea",
+    "name": "SERAPH24"
   },
   {
     "displayName": "[IRON] SERAPH24",
@@ -748,6 +793,11 @@
     "displayName": "[Ref] Ursus Magnum",
     "tag": "Ref",
     "name": "Ursus Magnum"
+  },
+  {
+    "displayName": "Valheru",
+    "tag": null,
+    "name": "Valheru"
   },
   {
     "displayName": "[Tea] Valheru",
@@ -1005,6 +1055,11 @@
     "name": "XIVDestIron"
   },
   {
+    "displayName": "[Tea] xivDestroyer",
+    "tag": "Tea",
+    "name": "xivDestroyer"
+  },
+  {
     "displayName": "[ZúZú] xivDestzuzu",
     "tag": "ZúZú",
     "name": "xivDestzuzu"
@@ -1058,6 +1113,11 @@
     "displayName": "[IRON] ˣᴵⱽGGrffᴵʳᵒⁿ",
     "tag": "IRON",
     "name": "ˣᴵⱽGGrffᴵʳᵒⁿ"
+  },
+  {
+    "displayName": "[Tea] xivKali",
+    "tag": "Tea",
+    "name": "xivKali"
   },
   {
     "displayName": "[ZúZú] xivKali zuzu",
@@ -1115,6 +1175,11 @@
     "name": "ˣᴵⱽOriᴵʳᵒⁿ"
   },
   {
+    "displayName": "[Tea] xivPadreIron",
+    "tag": "Tea",
+    "name": "xivPadreIron"
+  },
+  {
     "displayName": "[IRON] xivPadreIron",
     "tag": "IRON",
     "name": "xivPadreIron"
@@ -1165,6 +1230,11 @@
     "name": "XIVSANTA Iron"
   },
   {
+    "displayName": "[Tea] xivSANTAiron",
+    "tag": "Tea",
+    "name": "xivSANTAiron"
+  },
+  {
     "displayName": "[IRON] xivSANTAIron",
     "tag": "IRON",
     "name": "xivSANTAIron"
@@ -1198,6 +1268,11 @@
     "displayName": "[Tea] xivSvGPaŤ",
     "tag": "Tea",
     "name": "xivSvGPaŤ"
+  },
+  {
+    "displayName": "[Tea] xivSvGPAŤ",
+    "tag": "Tea",
+    "name": "xivSvGPAŤ"
   },
   {
     "displayName": "[Tea] XIVSvGPąŤ",
@@ -1240,6 +1315,11 @@
     "name": "ˣᶦᵛMomosFury"
   },
   {
+    "displayName": "ˣᶦᵛMomosFury",
+    "tag": null,
+    "name": "ˣᶦᵛMomosFury"
+  },
+  {
     "displayName": "[IRON] ˣᶦᵛOriᴵʳᵒⁿ",
     "tag": "IRON",
     "name": "ˣᶦᵛOriᴵʳᵒⁿ"
@@ -1273,6 +1353,11 @@
     "displayName": "[ZúZú] xlvPadrezuzu",
     "tag": "ZúZú",
     "name": "xlvPadrezuzu"
+  },
+  {
+    "displayName": "Yðkai Saturn",
+    "tag": null,
+    "name": "Yðkai Saturn"
   },
   {
     "displayName": "Yokai Saturn",

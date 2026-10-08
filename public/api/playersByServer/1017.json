@@ -15,6 +15,11 @@
     "name": "Alexandria"
   },
   {
+    "displayName": "[τεα] Alexandria",
+    "tag": "τεα",
+    "name": "Alexandria"
+  },
+  {
     "displayName": "[τєα] Alexandria",
     "tag": "τєα",
     "name": "Alexandria"
@@ -25,6 +30,11 @@
     "name": "Appa yipyip"
   },
   {
+    "displayName": "[τεα] Appa yipyip",
+    "tag": "τεα",
+    "name": "Appa yipyip"
+  },
+  {
     "displayName": "[τєα] Appa yipyip",
     "tag": "τєα",
     "name": "Appa yipyip"
@@ -32,11 +42,6 @@
   {
     "displayName": "[sun] Appa yipyip",
     "tag": "sun",
-    "name": "Appa yipyip"
-  },
-  {
-    "displayName": "[τεα] Appa yipyip",
-    "tag": "τεα",
     "name": "Appa yipyip"
   },
   {
@@ -95,6 +100,11 @@
     "name": "Badgermole"
   },
   {
+    "displayName": "[τεα] Badgermole",
+    "tag": "τεα",
+    "name": "Badgermole"
+  },
+  {
     "displayName": "[τєα] Badgermole",
     "tag": "τєα",
     "name": "Badgermole"
@@ -105,8 +115,8 @@
     "name": "Badgermole"
   },
   {
-    "displayName": "[τεα] Badgermole",
-    "tag": "τεα",
+    "displayName": "[Tea] Badgermole",
+    "tag": "Tea",
     "name": "Badgermole"
   },
   {
@@ -155,14 +165,19 @@
     "name": "Buccsnort"
   },
   {
+    "displayName": "[τεα] Buccsnort",
+    "tag": "τεα",
+    "name": "Buccsnort"
+  },
+  {
     "displayName": "[τєα] Buccsnort",
     "tag": "τєα",
     "name": "Buccsnort"
   },
   {
-    "displayName": "[τεα] Buccsnort",
-    "tag": "τεα",
-    "name": "Buccsnort"
+    "displayName": "[Tεα] Buccsnorτ",
+    "tag": "Tεα",
+    "name": "Buccsnorτ"
   },
   {
     "displayName": "[RTH] Cactus juice",
@@ -215,13 +230,18 @@
     "name": "Cmdre Revan"
   },
   {
+    "displayName": "[τεα] Cmdre Revan",
+    "tag": "τεα",
+    "name": "Cmdre Revan"
+  },
+  {
     "displayName": "[τєα] Cmdre Revan",
     "tag": "τєα",
     "name": "Cmdre Revan"
   },
   {
-    "displayName": "[τεα] Cmdre Revan",
-    "tag": "τεα",
+    "displayName": "[Tεα] Cmdre Revan",
+    "tag": "Tεα",
     "name": "Cmdre Revan"
   },
   {
@@ -267,6 +287,11 @@
   {
     "displayName": "[тєα] Deadmaster01",
     "tag": "тєα",
+    "name": "Deadmaster01"
+  },
+  {
+    "displayName": "[τεα] Deadmaster01",
+    "tag": "τεα",
     "name": "Deadmaster01"
   },
   {
@@ -360,9 +385,19 @@
     "name": "GuiguiXs"
   },
   {
+    "displayName": "[τεα] GuiguiXs",
+    "tag": "τεα",
+    "name": "GuiguiXs"
+  },
+  {
     "displayName": "[τєα] GuiguiXs",
     "tag": "τєα",
     "name": "GuiguiXs"
+  },
+  {
+    "displayName": "IamTheEvil",
+    "tag": null,
+    "name": "IamTheEvil"
   },
   {
     "displayName": "[RTH] Ilija",
@@ -395,6 +430,11 @@
     "name": "KINGNOTHING"
   },
   {
+    "displayName": "[τεα] KINGNOTHING",
+    "tag": "τεα",
+    "name": "KINGNOTHING"
+  },
+  {
     "displayName": "[τєα] KINGNOTHING",
     "tag": "τєα",
     "name": "KINGNOTHING"
@@ -417,6 +457,11 @@
   {
     "displayName": "[тєα] LordPerkins",
     "tag": "тєα",
+    "name": "LordPerkins"
+  },
+  {
+    "displayName": "[τεα] LordPerkins",
+    "tag": "τεα",
     "name": "LordPerkins"
   },
   {
@@ -520,6 +565,11 @@
     "name": "PupBraxon"
   },
   {
+    "displayName": "[τεα] PupBraxon",
+    "tag": "τεα",
+    "name": "PupBraxon"
+  },
+  {
     "displayName": "[τєα] PupBraxon",
     "tag": "τєα",
     "name": "PupBraxon"
@@ -562,6 +612,11 @@
   {
     "displayName": "[тєα] Sayateepo",
     "tag": "тєα",
+    "name": "Sayateepo"
+  },
+  {
+    "displayName": "[τεα] Sayateepo",
+    "tag": "τεα",
     "name": "Sayateepo"
   },
   {
@@ -660,6 +715,11 @@
     "name": "Thorondor"
   },
   {
+    "displayName": "[RTH] Thorondor ·",
+    "tag": "RTH",
+    "name": "Thorondor ·"
+  },
+  {
     "displayName": "[THC] Toadstool",
     "tag": "THC",
     "name": "Toadstool"
@@ -735,6 +795,11 @@
     "name": "xxReaperxx"
   },
   {
+    "displayName": "[τεα] xxReaperxx",
+    "tag": "τεα",
+    "name": "xxReaperxx"
+  },
+  {
     "displayName": "[τєα] xxReaperxx",
     "tag": "τєα",
     "name": "xxReaperxx"
@@ -752,6 +817,11 @@
   {
     "displayName": "[тєα] Zangetsu91",
     "tag": "тєα",
+    "name": "Zangetsu91"
+  },
+  {
+    "displayName": "[τεα] Zangetsu91",
+    "tag": "τεα",
     "name": "Zangetsu91"
   },
   {

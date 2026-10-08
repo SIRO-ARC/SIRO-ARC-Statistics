@@ -155,6 +155,11 @@
     "name": "Beric"
   },
   {
+    "displayName": "Beric",
+    "tag": null,
+    "name": "Beric"
+  },
+  {
     "displayName": "[DKAI] Beric",
     "tag": "DKAI",
     "name": "Beric"
@@ -320,6 +325,31 @@
     "name": "Ferdi22"
   },
   {
+    "displayName": "[DKAI] Flip'e'ekim",
+    "tag": "DKAI",
+    "name": "Flip'e'ekim"
+  },
+  {
+    "displayName": "Flipleekim",
+    "tag": null,
+    "name": "Flipleekim"
+  },
+  {
+    "displayName": "[Dong] Flipleekim",
+    "tag": "Dong",
+    "name": "Flipleekim"
+  },
+  {
+    "displayName": "[F0UR] Flipleekim",
+    "tag": "F0UR",
+    "name": "Flipleekim"
+  },
+  {
+    "displayName": "[FOUR] Flipleekim",
+    "tag": "FOUR",
+    "name": "Flipleekim"
+  },
+  {
     "displayName": "[DKAI] Flipleekim",
     "tag": "DKAI",
     "name": "Flipleekim"
@@ -455,6 +485,11 @@
     "name": "Kadhaj"
   },
   {
+    "displayName": "Kasai",
+    "tag": null,
+    "name": "Kasai"
+  },
+  {
     "displayName": "[ITA] Kasai",
     "tag": "ITA",
     "name": "Kasai"
@@ -488,6 +523,11 @@
     "displayName": "[FOUR] Kyoshí",
     "tag": "FOUR",
     "name": "Kyoshí"
+  },
+  {
+    "displayName": "[SKAI] Le lé giste",
+    "tag": "SKAI",
+    "name": "Le lé giste"
   },
   {
     "displayName": "[SKAI] Le légiste",
@@ -605,6 +645,11 @@
     "name": "MaroonArrow"
   },
   {
+    "displayName": "Matangii",
+    "tag": null,
+    "name": "Matangii"
+  },
+  {
     "displayName": "[FOUR] meanness",
     "tag": "FOUR",
     "name": "meanness"
@@ -705,9 +750,19 @@
     "name": "noerdmaer"
   },
   {
+    "displayName": "[FOUR] Noh",
+    "tag": "FOUR",
+    "name": "Noh"
+  },
+  {
     "displayName": "[DKAI] Noh",
     "tag": "DKAI",
     "name": "Noh"
+  },
+  {
+    "displayName": "Nolteo",
+    "tag": null,
+    "name": "Nolteo"
   },
   {
     "displayName": "[ITA] Nolteo",
@@ -968,6 +1023,11 @@
     "displayName": "[DKAI] Streaks07",
     "tag": "DKAI",
     "name": "Streaks07"
+  },
+  {
+    "displayName": "sumomeza",
+    "tag": null,
+    "name": "sumomeza"
   },
   {
     "displayName": "[ITA] sumomeza",

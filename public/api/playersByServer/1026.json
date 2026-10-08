@@ -55,6 +55,11 @@
     "name": "Ari Dyrr"
   },
   {
+    "displayName": "[CSS] Ari Dyrr",
+    "tag": "CSS",
+    "name": "Ari Dyrr"
+  },
+  {
     "displayName": "[CxC] Ari Dyrr",
     "tag": "CxC",
     "name": "Ari Dyrr"
@@ -73,6 +78,11 @@
     "displayName": "Auntie Dory",
     "tag": null,
     "name": "Auntie Dory"
+  },
+  {
+    "displayName": "backookue",
+    "tag": null,
+    "name": "backookue"
   },
   {
     "displayName": "[SIN] Banger EOD",
@@ -165,6 +175,11 @@
     "name": "Chuck Nori"
   },
   {
+    "displayName": "[NkM] Chuck Nori",
+    "tag": "NkM",
+    "name": "Chuck Nori"
+  },
+  {
     "displayName": "[CxC] Chuck Nori",
     "tag": "CxC",
     "name": "Chuck Nori"
@@ -177,6 +192,11 @@
   {
     "displayName": "[CxC] Clav",
     "tag": "CxC",
+    "name": "Clav"
+  },
+  {
+    "displayName": "[NkM] Clav",
+    "tag": "NkM",
     "name": "Clav"
   },
   {
@@ -305,6 +325,16 @@
     "name": "EileeNoire13"
   },
   {
+    "displayName": "[TSG] EL PADRINØ",
+    "tag": "TSG",
+    "name": "EL PADRINØ"
+  },
+  {
+    "displayName": "[CxC] EL PADRINØ",
+    "tag": "CxC",
+    "name": "EL PADRINØ"
+  },
+  {
     "displayName": "[CxC] EREN YEAGER",
     "tag": "CxC",
     "name": "EREN YEAGER"
@@ -355,6 +385,11 @@
     "name": "Furin"
   },
   {
+    "displayName": "Furin",
+    "tag": null,
+    "name": "Furin"
+  },
+  {
     "displayName": "[FTR] General Zao",
     "tag": "FTR",
     "name": "General Zao"
@@ -392,6 +427,11 @@
   {
     "displayName": "Hailz1234",
     "tag": null,
+    "name": "Hailz1234"
+  },
+  {
+    "displayName": "[TSG] Hailz1234",
+    "tag": "TSG",
     "name": "Hailz1234"
   },
   {
@@ -463,6 +503,11 @@
     "displayName": "[CxC] IvoTheChick",
     "tag": "CxC",
     "name": "IvoTheChick"
+  },
+  {
+    "displayName": "IvoTheCruel",
+    "tag": null,
+    "name": "IvoTheCruel"
   },
   {
     "displayName": "[CxC] IvoTheCruel",
@@ -547,6 +592,11 @@
   {
     "displayName": "[CxC] Kazumi",
     "tag": "CxC",
+    "name": "Kazumi"
+  },
+  {
+    "displayName": "[NkM] Kazumi",
+    "tag": "NkM",
     "name": "Kazumi"
   },
   {
@@ -645,6 +695,11 @@
     "name": "LCC"
   },
   {
+    "displayName": "[CxC] LCC",
+    "tag": "CxC",
+    "name": "LCC"
+  },
+  {
     "displayName": "Leni",
     "tag": null,
     "name": "Leni"
@@ -675,6 +730,11 @@
     "name": "lika"
   },
   {
+    "displayName": "[NkM] lika",
+    "tag": "NkM",
+    "name": "lika"
+  },
+  {
     "displayName": "[CxC] lika",
     "tag": "CxC",
     "name": "lika"
@@ -690,6 +750,11 @@
     "name": "LimaBeanSoup"
   },
   {
+    "displayName": "[CxC] LimaBeanSoup",
+    "tag": "CxC",
+    "name": "LimaBeanSoup"
+  },
+  {
     "displayName": "[CSS] LimaBeanSoup",
     "tag": "CSS",
     "name": "LimaBeanSoup"
@@ -698,6 +763,11 @@
     "displayName": "[CxC] Loreley",
     "tag": "CxC",
     "name": "Loreley"
+  },
+  {
+    "displayName": "[TSG] Lucia Mar",
+    "tag": "TSG",
+    "name": "Lucia Mar"
   },
   {
     "displayName": "[SIN] Lukeia",
@@ -717,6 +787,11 @@
   {
     "displayName": "[NkN] M4nnyraGr4ce",
     "tag": "NkN",
+    "name": "M4nnyraGr4ce"
+  },
+  {
+    "displayName": "[NKM] M4nnyraGr4ce",
+    "tag": "NKM",
     "name": "M4nnyraGr4ce"
   },
   {
@@ -820,6 +895,11 @@
     "name": "NUKE is PUKE"
   },
   {
+    "displayName": "[CxC] NukedNuke",
+    "tag": "CxC",
+    "name": "NukedNuke"
+  },
+  {
     "displayName": "[TSG] NukieDookie",
     "tag": "TSG",
     "name": "NukieDookie"
@@ -830,9 +910,19 @@
     "name": "NukieDookie"
   },
   {
+    "displayName": "[CxC] Nukkake",
+    "tag": "CxC",
+    "name": "Nukkake"
+  },
+  {
     "displayName": "[Cxc] Ø D I N 火",
     "tag": "Cxc",
     "name": "Ø D I N 火"
+  },
+  {
+    "displayName": "[CxC] ØDIN",
+    "tag": "CxC",
+    "name": "ØDIN"
   },
   {
     "displayName": "OikawaIgro",
@@ -945,9 +1035,24 @@
     "name": "Saltfish"
   },
   {
+    "displayName": "[TSG] Saltfish",
+    "tag": "TSG",
+    "name": "Saltfish"
+  },
+  {
+    "displayName": "[CxC] Saltfish",
+    "tag": "CxC",
+    "name": "Saltfish"
+  },
+  {
     "displayName": "[NkM] Saltfish",
     "tag": "NkM",
     "name": "Saltfish"
+  },
+  {
+    "displayName": "[NkM] Saltflsh",
+    "tag": "NkM",
+    "name": "Saltflsh"
   },
   {
     "displayName": "[TSG] Saltydog",
@@ -988,6 +1093,11 @@
     "displayName": "[SIN]Saturn",
     "tag": "SIN",
     "name": "Saturn"
+  },
+  {
+    "displayName": "[SIN] SaturnTheKid",
+    "tag": "SIN",
+    "name": "SaturnTheKid"
   },
   {
     "displayName": "[CSS] Schmeterling",
@@ -1033,6 +1143,11 @@
     "displayName": "[SIN]Sinful EOD",
     "tag": "SIN",
     "name": "Sinful EOD"
+  },
+  {
+    "displayName": "[SIN] SinfulEOD",
+    "tag": "SIN",
+    "name": "SinfulEOD"
   },
   {
     "displayName": "[SIN] Skyhunter342",
@@ -1120,6 +1235,11 @@
     "name": "Thanos"
   },
   {
+    "displayName": "[SIN] TheUnworthy",
+    "tag": "SIN",
+    "name": "TheUnworthy"
+  },
+  {
     "displayName": "[SIN] todo",
     "tag": "SIN",
     "name": "todo"
@@ -1170,6 +1290,11 @@
     "name": "Tsubasa ツ"
   },
   {
+    "displayName": "[CxC] Tsubasa ツ",
+    "tag": "CxC",
+    "name": "Tsubasa ツ"
+  },
+  {
     "displayName": "[TSG] Tyzula",
     "tag": "TSG",
     "name": "Tyzula"
@@ -1187,6 +1312,11 @@
   {
     "displayName": "[CxC] Vercruelle",
     "tag": "CxC",
+    "name": "Vercruelle"
+  },
+  {
+    "displayName": "[NkM] Vercruelle",
+    "tag": "NkM",
     "name": "Vercruelle"
   },
   {

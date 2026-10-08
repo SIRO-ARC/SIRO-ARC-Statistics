@@ -15,6 +15,11 @@
     "name": "Alpharaptor"
   },
   {
+    "displayName": "[MIR] Amon",
+    "tag": "MIR",
+    "name": "Amon"
+  },
+  {
     "displayName": "[MIR] Andre",
     "tag": "MIR",
     "name": "Andre"
@@ -38,6 +43,16 @@
     "displayName": "[Xmen] Apocalypse",
     "tag": "Xmen",
     "name": "Apocalypse"
+  },
+  {
+    "displayName": "Apophis",
+    "tag": null,
+    "name": "Apophis"
+  },
+  {
+    "displayName": "[AIE] Apophis",
+    "tag": "AIE",
+    "name": "Apophis"
   },
   {
     "displayName": "[MIR] Apophis",
@@ -73,6 +88,11 @@
     "displayName": "[MYTH] Axe the Man",
     "tag": "MYTH",
     "name": "Axe the Man"
+  },
+  {
+    "displayName": "[MIR] Ayrton",
+    "tag": "MIR",
+    "name": "Ayrton"
   },
   {
     "displayName": "[MIR] BabyloniusUr",
@@ -285,6 +305,11 @@
     "name": "Gohan"
   },
   {
+    "displayName": "[MYTH] Gorgon",
+    "tag": "MYTH",
+    "name": "Gorgon"
+  },
+  {
     "displayName": "[MYTH] Gouldy",
     "tag": "MYTH",
     "name": "Gouldy"
@@ -338,6 +363,11 @@
     "displayName": "[MYTH] Iƙαɾσα",
     "tag": "MYTH",
     "name": "Iƙαɾσα"
+  },
+  {
+    "displayName": "[420G] Ivan",
+    "tag": "420G",
+    "name": "Ivan"
   },
   {
     "displayName": "[MYTH] Jahngogh",
@@ -462,6 +492,11 @@
   {
     "displayName": "[MYTH] Marduk",
     "tag": "MYTH",
+    "name": "Marduk"
+  },
+  {
+    "displayName": "Marduk",
+    "tag": null,
     "name": "Marduk"
   },
   {
@@ -630,6 +665,11 @@
     "name": "Prometheus"
   },
   {
+    "displayName": "puddle",
+    "tag": null,
+    "name": "puddle"
+  },
+  {
     "displayName": "[MYTH] puddle",
     "tag": "MYTH",
     "name": "puddle"
@@ -752,6 +792,11 @@
   {
     "displayName": "[MYTH] Scamo",
     "tag": "MYTH",
+    "name": "Scamo"
+  },
+  {
+    "displayName": "[PX48] Scamo",
+    "tag": "PX48",
     "name": "Scamo"
   },
   {

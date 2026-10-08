@@ -120,6 +120,11 @@
     "name": "BoomTown"
   },
   {
+    "displayName": "BoomTown",
+    "tag": null,
+    "name": "BoomTown"
+  },
+  {
     "displayName": "[Void] BoomTown",
     "tag": "Void",
     "name": "BoomTown"
@@ -492,6 +497,11 @@
   {
     "displayName": "[TFE] miniXRP",
     "tag": "TFE",
+    "name": "miniXRP"
+  },
+  {
+    "displayName": "miniXRP",
+    "tag": null,
     "name": "miniXRP"
   },
   {

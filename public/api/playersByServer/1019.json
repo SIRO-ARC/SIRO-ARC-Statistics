@@ -210,6 +210,11 @@
     "name": "Drexal243"
   },
   {
+    "displayName": "[SQU] Drexel243",
+    "tag": "SQU",
+    "name": "Drexel243"
+  },
+  {
     "displayName": "[KYW] Dume",
     "tag": "KYW",
     "name": "Dume"
@@ -330,6 +335,11 @@
     "name": "Jasang"
   },
   {
+    "displayName": "Jef78",
+    "tag": null,
+    "name": "Jef78"
+  },
+  {
     "displayName": "[SQU] Jef78",
     "tag": "SQU",
     "name": "Jef78"
@@ -430,6 +440,11 @@
     "name": "Luna Frost"
   },
   {
+    "displayName": "Mady Beifong",
+    "tag": null,
+    "name": "Mady Beifong"
+  },
+  {
     "displayName": "[SQU] Mady Beifong",
     "tag": "SQU",
     "name": "Mady Beifong"
@@ -438,6 +453,11 @@
     "displayName": "[SQU] Mafanja",
     "tag": "SQU",
     "name": "Mafanja"
+  },
+  {
+    "displayName": "[SQU] MHbronco",
+    "tag": "SQU",
+    "name": "MHbronco"
   },
   {
     "displayName": "[SQU] MHBronco",
@@ -515,6 +535,11 @@
     "name": "NUTZ"
   },
   {
+    "displayName": "Olenth",
+    "tag": null,
+    "name": "Olenth"
+  },
+  {
     "displayName": "[SQU] Olenth",
     "tag": "SQU",
     "name": "Olenth"
@@ -543,6 +568,11 @@
     "displayName": "Pleasureduck",
     "tag": null,
     "name": "Pleasureduck"
+  },
+  {
+    "displayName": "[GOON] Prometheus",
+    "tag": "GOON",
+    "name": "Prometheus"
   },
   {
     "displayName": "[GOON] Promethus",
@@ -575,6 +605,11 @@
     "name": "R3V"
   },
   {
+    "displayName": "[SQU] Ragnar",
+    "tag": "SQU",
+    "name": "Ragnar"
+  },
+  {
     "displayName": "[SQU] Ragnarr",
     "tag": "SQU",
     "name": "Ragnarr"
@@ -600,8 +635,18 @@
     "name": "ScoutMeHard"
   },
   {
+    "displayName": "ScoutMeHard",
+    "tag": null,
+    "name": "ScoutMeHard"
+  },
+  {
     "displayName": "[SQU] ScoutMeHardR",
     "tag": "SQU",
+    "name": "ScoutMeHardR"
+  },
+  {
+    "displayName": "ScoutMeHardR",
+    "tag": null,
     "name": "ScoutMeHardR"
   },
   {
