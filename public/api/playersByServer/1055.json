@@ -85,6 +85,11 @@
     "name": "Baldwin IV"
   },
   {
+    "displayName": "[0420] Bananabread",
+    "tag": "0420",
+    "name": "Bananabread"
+  },
+  {
     "displayName": "Bananabread",
     "tag": null,
     "name": "Bananabread"
@@ -113,11 +118,6 @@
     "displayName": "[WLB] BlackJack",
     "tag": "WLB",
     "name": "BlackJack"
-  },
-  {
-    "displayName": "[LEAF] BlackwoodLee",
-    "tag": "LEAF",
-    "name": "BlackwoodLee"
   },
   {
     "displayName": "[LEAF] BlackwoodX",
@@ -183,11 +183,6 @@
     "displayName": "[Rup] CookieClown",
     "tag": "Rup",
     "name": "CookieClown"
-  },
-  {
-    "displayName": "[LEAF] Cookloft",
-    "tag": "LEAF",
-    "name": "Cookloft"
   },
   {
     "displayName": "[DPk] Dani",
@@ -335,11 +330,6 @@
     "name": "Guri"
   },
   {
-    "displayName": "[LEAF] HMotsutsuki",
-    "tag": "LEAF",
-    "name": "HMotsutsuki"
-  },
-  {
     "displayName": "[LEAF] HMOtsutsuki",
     "tag": "LEAF",
     "name": "HMOtsutsuki"
@@ -470,6 +460,11 @@
     "name": "LaLoca"
   },
   {
+    "displayName": "[chw] leader_2923712",
+    "tag": "chw",
+    "name": "leader_2923712"
+  },
+  {
     "displayName": "[XZRO] leader_2932290",
     "tag": "XZRO",
     "name": "leader_2932290"
@@ -575,6 +570,11 @@
     "name": "Misery"
   },
   {
+    "displayName": "[WLB] Mongoose",
+    "tag": "WLB",
+    "name": "Mongoose"
+  },
+  {
     "displayName": "[WLB] Mordarran",
     "tag": "WLB",
     "name": "Mordarran"
@@ -648,6 +648,11 @@
     "displayName": "Pernix",
     "tag": null,
     "name": "Pernix"
+  },
+  {
+    "displayName": "[TNMD] Pinkrose165",
+    "tag": "TNMD",
+    "name": "Pinkrose165"
   },
   {
     "displayName": "Pinkrose165",

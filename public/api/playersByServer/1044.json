@@ -30,11 +30,6 @@
     "name": "Angarajan20"
   },
   {
-    "displayName": "[ØRB] AREŞ",
-    "tag": "ØRB",
-    "name": "AREŞ"
-  },
-  {
     "displayName": "[ØRB] ARĒŠ",
     "tag": "ØRB",
     "name": "ARĒŠ"
@@ -178,6 +173,11 @@
     "displayName": "Crowhoard",
     "tag": null,
     "name": "Crowhoard"
+  },
+  {
+    "displayName": "Daje",
+    "tag": null,
+    "name": "Daje"
   },
   {
     "displayName": "Dane",
@@ -420,11 +420,6 @@
     "name": "Kira"
   },
   {
-    "displayName": "[ØRB] KöhPíngúina",
-    "tag": "ØRB",
-    "name": "KöhPíngúina"
-  },
-  {
     "displayName": "[ØRB] KöhPíngüina",
     "tag": "ØRB",
     "name": "KöhPíngüina"
@@ -575,11 +570,6 @@
     "name": "ØƁŁÌVÌØN"
   },
   {
-    "displayName": "[ØRB] OGGE",
-    "tag": "ØRB",
-    "name": "OGGE"
-  },
-  {
     "displayName": "[ØRB] ØGGE",
     "tag": "ØRB",
     "name": "ØGGE"
@@ -628,6 +618,11 @@
     "displayName": "PeppyMaccy",
     "tag": null,
     "name": "PeppyMaccy"
+  },
+  {
+    "displayName": "[RAD] Phiona",
+    "tag": "RAD",
+    "name": "Phiona"
   },
   {
     "displayName": "[VOID] Purplerain",
@@ -818,6 +813,11 @@
     "displayName": "Sho6420",
     "tag": null,
     "name": "Sho6420"
+  },
+  {
+    "displayName": "[VOID] Sinistrius2",
+    "tag": "VOID",
+    "name": "Sinistrius2"
   },
   {
     "displayName": "[ØRB] Søl",

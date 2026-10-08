@@ -20,6 +20,16 @@
     "name": "Admiral LJツ"
   },
   {
+    "displayName": "[OLYM] akuosan",
+    "tag": "OLYM",
+    "name": "akuosan"
+  },
+  {
+    "displayName": "[SOS] Amihan",
+    "tag": "SOS",
+    "name": "Amihan"
+  },
+  {
     "displayName": "[OLYM] Amihan",
     "tag": "OLYM",
     "name": "Amihan"
@@ -50,13 +60,13 @@
     "name": "Azulas toy"
   },
   {
-    "displayName": "[OLYM] Barrel Rider",
-    "tag": "OLYM",
+    "displayName": "[SOS] Barrel Rider",
+    "tag": "SOS",
     "name": "Barrel Rider"
   },
   {
-    "displayName": "[SOS] Barrel Rider",
-    "tag": "SOS",
+    "displayName": "[OLYM] Barrel Rider",
+    "tag": "OLYM",
     "name": "Barrel Rider"
   },
   {
@@ -235,11 +245,6 @@
     "name": "ecampll"
   },
   {
-    "displayName": "[OLYM] Echo",
-    "tag": "OLYM",
-    "name": "Echo"
-  },
-  {
     "displayName": "[TWL] Echo",
     "tag": "TWL",
     "name": "Echo"
@@ -253,6 +258,11 @@
     "displayName": "[EDEN] Fatty",
     "tag": "EDEN",
     "name": "Fatty"
+  },
+  {
+    "displayName": "[OLYM] FattyLight",
+    "tag": "OLYM",
+    "name": "FattyLight"
   },
   {
     "displayName": "[EDEN] FattyLight",
@@ -310,6 +320,11 @@
     "name": "Gust"
   },
   {
+    "displayName": "[SOS] Habagat",
+    "tag": "SOS",
+    "name": "Habagat"
+  },
+  {
     "displayName": "[OLYM] Habagat",
     "tag": "OLYM",
     "name": "Habagat"
@@ -320,6 +335,11 @@
     "name": "hamby"
   },
   {
+    "displayName": "[OLYM] Helios",
+    "tag": "OLYM",
+    "name": "Helios"
+  },
+  {
     "displayName": "[EDEN] Helios",
     "tag": "EDEN",
     "name": "Helios"
@@ -327,11 +347,6 @@
   {
     "displayName": "[OLＹM] Helios",
     "tag": "OLＹM",
-    "name": "Helios"
-  },
-  {
-    "displayName": "[OLYM] Helios",
-    "tag": "OLYM",
     "name": "Helios"
   },
   {
@@ -428,6 +443,11 @@
     "displayName": "[EDEN] Jinlight",
     "tag": "EDEN",
     "name": "Jinlight"
+  },
+  {
+    "displayName": "[OLYM] Jinora",
+    "tag": "OLYM",
+    "name": "Jinora"
   },
   {
     "displayName": "[OLＹM] Jinora",
@@ -538,11 +558,6 @@
     "displayName": "[OLYM] Lino",
     "tag": "OLYM",
     "name": "Lino"
-  },
-  {
-    "displayName": "LJツ",
-    "tag": null,
-    "name": "LJツ"
   },
   {
     "displayName": "[OLYM] lonestar",
@@ -795,11 +810,6 @@
     "name": "Raph1304"
   },
   {
-    "displayName": "[ONE] RayM90",
-    "tag": "ONE",
-    "name": "RayM90"
-  },
-  {
     "displayName": "[OLYM] Rebel B",
     "tag": "OLYM",
     "name": "Rebel B"
@@ -828,6 +838,11 @@
     "displayName": "[ONE] RM90",
     "tag": "ONE",
     "name": "RM90"
+  },
+  {
+    "displayName": "[SOS] Roku RaiKu",
+    "tag": "SOS",
+    "name": "Roku RaiKu"
   },
   {
     "displayName": "Rude Cabbage",
@@ -925,6 +940,11 @@
     "name": "Starlight"
   },
   {
+    "displayName": "[OLYM] TerraNic",
+    "tag": "OLYM",
+    "name": "TerraNic"
+  },
+  {
     "displayName": "[OLＹM] TerraNic",
     "tag": "OLＹM",
     "name": "TerraNic"
@@ -955,11 +975,6 @@
     "name": "Tia"
   },
   {
-    "displayName": "[OLYM] Tia Dalma",
-    "tag": "OLYM",
-    "name": "Tia Dalma"
-  },
-  {
     "displayName": "[TWL] Tia Dalma",
     "tag": "TWL",
     "name": "Tia Dalma"
@@ -970,13 +985,13 @@
     "name": "Tommy"
   },
   {
-    "displayName": "[EDEN] toph",
-    "tag": "EDEN",
+    "displayName": "[OLYM] toph",
+    "tag": "OLYM",
     "name": "toph"
   },
   {
-    "displayName": "[OLYM] toph",
-    "tag": "OLYM",
+    "displayName": "[EDEN] toph",
+    "tag": "EDEN",
     "name": "toph"
   },
   {

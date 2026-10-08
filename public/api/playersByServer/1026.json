@@ -15,6 +15,11 @@
     "name": "4WARGASM"
   },
   {
+    "displayName": "[TSG] Alanhalem",
+    "tag": "TSG",
+    "name": "Alanhalem"
+  },
+  {
     "displayName": "[CxC] Alanhalem",
     "tag": "CxC",
     "name": "Alanhalem"
@@ -45,9 +50,19 @@
     "name": "anya"
   },
   {
+    "displayName": "[TSG] Ari Dyrr",
+    "tag": "TSG",
+    "name": "Ari Dyrr"
+  },
+  {
     "displayName": "[CxC] Ari Dyrr",
     "tag": "CxC",
     "name": "Ari Dyrr"
+  },
+  {
+    "displayName": "[TSG] AthomBomb",
+    "tag": "TSG",
+    "name": "AthomBomb"
   },
   {
     "displayName": "[CxC] AthomBomb",
@@ -65,6 +80,11 @@
     "name": "Banger EOD"
   },
   {
+    "displayName": "[TSG] Bea",
+    "tag": "TSG",
+    "name": "Bea"
+  },
+  {
     "displayName": "[CxC] Bea",
     "tag": "CxC",
     "name": "Bea"
@@ -80,6 +100,11 @@
     "name": "Bei Fong"
   },
   {
+    "displayName": "[TSG] BelzeBob",
+    "tag": "TSG",
+    "name": "BelzeBob"
+  },
+  {
     "displayName": "[CxC] BelzeBob",
     "tag": "CxC",
     "name": "BelzeBob"
@@ -90,9 +115,19 @@
     "name": "BettinaIV"
   },
   {
+    "displayName": "[TSG] big panda",
+    "tag": "TSG",
+    "name": "big panda"
+  },
+  {
     "displayName": "[CxC] big panda",
     "tag": "CxC",
     "name": "big panda"
+  },
+  {
+    "displayName": "[TSG] Biz",
+    "tag": "TSG",
+    "name": "Biz"
   },
   {
     "displayName": "[CxC] Biz",
@@ -110,6 +145,11 @@
     "name": "BOOGIEWOOGIE"
   },
   {
+    "displayName": "[TSG] BRINA",
+    "tag": "TSG",
+    "name": "BRINA"
+  },
+  {
     "displayName": "[CxC] BRINA",
     "tag": "CxC",
     "name": "BRINA"
@@ -120,9 +160,19 @@
     "name": "Buff Belphie"
   },
   {
+    "displayName": "[TSG] Chuck Nori",
+    "tag": "TSG",
+    "name": "Chuck Nori"
+  },
+  {
     "displayName": "[CxC] Chuck Nori",
     "tag": "CxC",
     "name": "Chuck Nori"
+  },
+  {
+    "displayName": "[TSG] Clav",
+    "tag": "TSG",
+    "name": "Clav"
   },
   {
     "displayName": "[CxC] Clav",
@@ -165,6 +215,11 @@
     "name": "Clavocado13k"
   },
   {
+    "displayName": "[TSG] Coco",
+    "tag": "TSG",
+    "name": "Coco"
+  },
+  {
     "displayName": "[CxC] Coco",
     "tag": "CxC",
     "name": "Coco"
@@ -173,6 +228,11 @@
     "displayName": "[NkM] Colonel Toni",
     "tag": "NkM",
     "name": "Colonel Toni"
+  },
+  {
+    "displayName": "[TSG] Cordero",
+    "tag": "TSG",
+    "name": "Cordero"
   },
   {
     "displayName": "[CxC] Cordero",
@@ -188,6 +248,11 @@
     "displayName": "[SIN] DaRealTodo",
     "tag": "SIN",
     "name": "DaRealTodo"
+  },
+  {
+    "displayName": "[TSG] Deanith",
+    "tag": "TSG",
+    "name": "Deanith"
   },
   {
     "displayName": "[CxC] Deanith",
@@ -270,18 +335,23 @@
     "name": "FrankLucas"
   },
   {
+    "displayName": "[TSG] FSoory",
+    "tag": "TSG",
+    "name": "FSoory"
+  },
+  {
     "displayName": "[CxC] FSoory",
     "tag": "CxC",
     "name": "FSoory"
   },
   {
-    "displayName": "[CxC] Furin",
-    "tag": "CxC",
+    "displayName": "[TSG] Furin",
+    "tag": "TSG",
     "name": "Furin"
   },
   {
-    "displayName": "Furin",
-    "tag": null,
+    "displayName": "[CxC] Furin",
+    "tag": "CxC",
     "name": "Furin"
   },
   {
@@ -300,9 +370,19 @@
     "name": "GENTLEMONSTR"
   },
   {
+    "displayName": "[TSG] Gorrest",
+    "tag": "TSG",
+    "name": "Gorrest"
+  },
+  {
     "displayName": "[CxC] Gorrest",
     "tag": "CxC",
     "name": "Gorrest"
+  },
+  {
+    "displayName": "[TSG] Great Leader",
+    "tag": "TSG",
+    "name": "Great Leader"
   },
   {
     "displayName": "[CxC] Great Leader",
@@ -310,9 +390,19 @@
     "name": "Great Leader"
   },
   {
+    "displayName": "Hailz1234",
+    "tag": null,
+    "name": "Hailz1234"
+  },
+  {
     "displayName": "[CxC] Hailz1234",
     "tag": "CxC",
     "name": "Hailz1234"
+  },
+  {
+    "displayName": "[TSG] Headpot",
+    "tag": "TSG",
+    "name": "Headpot"
   },
   {
     "displayName": "[CxC] Headpot",
@@ -325,9 +415,19 @@
     "name": "Hever"
   },
   {
+    "displayName": "[TSG] hibye69201",
+    "tag": "TSG",
+    "name": "hibye69201"
+  },
+  {
     "displayName": "[CxC] hibye69201",
     "tag": "CxC",
     "name": "hibye69201"
+  },
+  {
+    "displayName": "[NkM] ifrit",
+    "tag": "NkM",
+    "name": "ifrit"
   },
   {
     "displayName": "[CxC] ifrit",
@@ -340,9 +440,19 @@
     "name": "iljaaa"
   },
   {
+    "displayName": "[TSG] IMPERATOR",
+    "tag": "TSG",
+    "name": "IMPERATOR"
+  },
+  {
     "displayName": "[CxC] IMPERATØR",
     "tag": "CxC",
     "name": "IMPERATØR"
+  },
+  {
+    "displayName": "[TSG] IRON PALADIN",
+    "tag": "TSG",
+    "name": "IRON PALADIN"
   },
   {
     "displayName": "[CxC] IRON PALADIN",
@@ -353,11 +463,6 @@
     "displayName": "[CxC] IvoTheChick",
     "tag": "CxC",
     "name": "IvoTheChick"
-  },
-  {
-    "displayName": "IvoTheCruel",
-    "tag": null,
-    "name": "IvoTheCruel"
   },
   {
     "displayName": "[CxC] IvoTheCruel",
@@ -373,6 +478,11 @@
     "displayName": "[CxC] IvoTheMad",
     "tag": "CxC",
     "name": "IvoTheMad"
+  },
+  {
+    "displayName": "[TSG] Janneke",
+    "tag": "TSG",
+    "name": "Janneke"
   },
   {
     "displayName": "[CxC] Janneke",
@@ -395,6 +505,11 @@
     "name": "JasmineX"
   },
   {
+    "displayName": "[TSG] JaviFran",
+    "tag": "TSG",
+    "name": "JaviFran"
+  },
+  {
     "displayName": "[CxC] JaviFran",
     "tag": "CxC",
     "name": "JaviFran"
@@ -410,6 +525,11 @@
     "name": "JekellCub"
   },
   {
+    "displayName": "[TSG] Jose",
+    "tag": "TSG",
+    "name": "Jose"
+  },
+  {
     "displayName": "[CxC] Jose",
     "tag": "CxC",
     "name": "Jose"
@@ -418,6 +538,11 @@
     "displayName": "[SIN] Juggernaut",
     "tag": "SIN",
     "name": "Juggernaut"
+  },
+  {
+    "displayName": "[TSG] Kazumi",
+    "tag": "TSG",
+    "name": "Kazumi"
   },
   {
     "displayName": "[CxC] Kazumi",
@@ -445,6 +570,11 @@
     "name": "Kiluah"
   },
   {
+    "displayName": "[TSG] Kim",
+    "tag": "TSG",
+    "name": "Kim"
+  },
+  {
     "displayName": "[CxC] Kim",
     "tag": "CxC",
     "name": "Kim"
@@ -470,6 +600,11 @@
     "name": "KingRomeo"
   },
   {
+    "displayName": "[TSG] Kirkalopolis",
+    "tag": "TSG",
+    "name": "Kirkalopolis"
+  },
+  {
     "displayName": "[CxC] Kirkalopolis",
     "tag": "CxC",
     "name": "Kirkalopolis"
@@ -490,6 +625,11 @@
     "name": "Kyseki"
   },
   {
+    "displayName": "[TSG] ᴋᴜᴢᴏɴ",
+    "tag": "TSG",
+    "name": "ᴋᴜᴢᴏɴ"
+  },
+  {
     "displayName": "[CxC] ᴋᴜᴢᴏɴ",
     "tag": "CxC",
     "name": "ᴋᴜᴢᴏɴ"
@@ -498,6 +638,11 @@
     "displayName": "[eva] Last Chapter",
     "tag": "eva",
     "name": "Last Chapter"
+  },
+  {
+    "displayName": "[TSG] LCC",
+    "tag": "TSG",
+    "name": "LCC"
   },
   {
     "displayName": "Leni",
@@ -515,9 +660,19 @@
     "name": "Leni"
   },
   {
+    "displayName": "[TSG] Leodamian",
+    "tag": "TSG",
+    "name": "Leodamian"
+  },
+  {
     "displayName": "[CxC] Leodamian",
     "tag": "CxC",
     "name": "Leodamian"
+  },
+  {
+    "displayName": "[TSG] lika",
+    "tag": "TSG",
+    "name": "lika"
   },
   {
     "displayName": "[CxC] lika",
@@ -528,6 +683,11 @@
     "displayName": "[SIN] LilRedKrem",
     "tag": "SIN",
     "name": "LilRedKrem"
+  },
+  {
+    "displayName": "[TSG] LimaBeanSoup",
+    "tag": "TSG",
+    "name": "LimaBeanSoup"
   },
   {
     "displayName": "[CSS] LimaBeanSoup",
@@ -560,11 +720,6 @@
     "name": "M4nnyraGr4ce"
   },
   {
-    "displayName": "[NKM] M4nnyraGr4ce",
-    "tag": "NKM",
-    "name": "M4nnyraGr4ce"
-  },
-  {
     "displayName": "[CxC] M4nnyraGr4ce",
     "tag": "CxC",
     "name": "M4nnyraGr4ce"
@@ -590,6 +745,11 @@
     "name": "mijão"
   },
   {
+    "displayName": "[TSG] MłŁFSŁAYER",
+    "tag": "TSG",
+    "name": "MłŁFSŁAYER"
+  },
+  {
     "displayName": "[CxC] MłŁFSŁAYER",
     "tag": "CxC",
     "name": "MłŁFSŁAYER"
@@ -598,6 +758,11 @@
     "displayName": "[NkM] Mochi",
     "tag": "NkM",
     "name": "Mochi"
+  },
+  {
+    "displayName": "[TSG] MOMØDIN",
+    "tag": "TSG",
+    "name": "MOMØDIN"
   },
   {
     "displayName": "[CxC] MOMØDIN",
@@ -615,14 +780,29 @@
     "name": "Mozart"
   },
   {
+    "displayName": "[TSG] NedSchneebly",
+    "tag": "TSG",
+    "name": "NedSchneebly"
+  },
+  {
     "displayName": "[CxC] Neptun",
     "tag": "CxC",
     "name": "Neptun"
   },
   {
+    "displayName": "[TSG] Nezuko",
+    "tag": "TSG",
+    "name": "Nezuko"
+  },
+  {
     "displayName": "[CxC] Nezuko",
     "tag": "CxC",
     "name": "Nezuko"
+  },
+  {
+    "displayName": "[TSG] Nope",
+    "tag": "TSG",
+    "name": "Nope"
   },
   {
     "displayName": "[CxC] Nope",
@@ -638,6 +818,11 @@
     "displayName": "[CxC] NUKE is PUKE",
     "tag": "CxC",
     "name": "NUKE is PUKE"
+  },
+  {
+    "displayName": "[TSG] NukieDookie",
+    "tag": "TSG",
+    "name": "NukieDookie"
   },
   {
     "displayName": "[CxC] NukieDookie",
@@ -685,9 +870,19 @@
     "name": "Portugália"
   },
   {
+    "displayName": "[TSG] Prepotente",
+    "tag": "TSG",
+    "name": "Prepotente"
+  },
+  {
     "displayName": "[CSS] Puon Tim",
     "tag": "CSS",
     "name": "Puon Tim"
+  },
+  {
+    "displayName": "[TSG] Rava",
+    "tag": "TSG",
+    "name": "Rava"
   },
   {
     "displayName": "[CxC] Rava",
@@ -725,9 +920,19 @@
     "name": "Riverhawk"
   },
   {
+    "displayName": "[TSG] S0yunmagito",
+    "tag": "TSG",
+    "name": "S0yunmagito"
+  },
+  {
     "displayName": "[CxC] S0yunmagito",
     "tag": "CxC",
     "name": "S0yunmagito"
+  },
+  {
+    "displayName": "[TSG] Sab",
+    "tag": "TSG",
+    "name": "Sab"
   },
   {
     "displayName": "[CxC] Sab",
@@ -735,9 +940,19 @@
     "name": "Sab"
   },
   {
+    "displayName": "Saltfish",
+    "tag": null,
+    "name": "Saltfish"
+  },
+  {
     "displayName": "[NkM] Saltfish",
     "tag": "NkM",
     "name": "Saltfish"
+  },
+  {
+    "displayName": "[TSG] Saltydog",
+    "tag": "TSG",
+    "name": "Saltydog"
   },
   {
     "displayName": "[CxC] Saltydog",
@@ -748,6 +963,11 @@
     "displayName": "[NkM] SammyH232",
     "tag": "NkM",
     "name": "SammyH232"
+  },
+  {
+    "displayName": "[TSG] Samurai Hana",
+    "tag": "TSG",
+    "name": "Samurai Hana"
   },
   {
     "displayName": "[CxC] Samurai Hana",
@@ -770,11 +990,6 @@
     "name": "Saturn"
   },
   {
-    "displayName": "[SIN] SaturnTheKid",
-    "tag": "SIN",
-    "name": "SaturnTheKid"
-  },
-  {
     "displayName": "[CSS] Schmeterling",
     "tag": "CSS",
     "name": "Schmeterling"
@@ -783,6 +998,11 @@
     "displayName": "[CxC] Schmeterling",
     "tag": "CxC",
     "name": "Schmeterling"
+  },
+  {
+    "displayName": "[TSG] SehlamCCC",
+    "tag": "TSG",
+    "name": "SehlamCCC"
   },
   {
     "displayName": "[CxC] SehlamCCC",
@@ -800,6 +1020,11 @@
     "name": "Shibs"
   },
   {
+    "displayName": "[TSG] SimplyDaithí",
+    "tag": "TSG",
+    "name": "SimplyDaithí"
+  },
+  {
     "displayName": "[CxC] SimplyDaithí",
     "tag": "CxC",
     "name": "SimplyDaithí"
@@ -808,11 +1033,6 @@
     "displayName": "[SIN]Sinful EOD",
     "tag": "SIN",
     "name": "Sinful EOD"
-  },
-  {
-    "displayName": "[SIN] SinfulEOD",
-    "tag": "SIN",
-    "name": "SinfulEOD"
   },
   {
     "displayName": "[SIN] Skyhunter342",
@@ -845,6 +1065,11 @@
     "name": "Soroč"
   },
   {
+    "displayName": "[TSG] SpkySpkyBoom",
+    "tag": "TSG",
+    "name": "SpkySpkyBoom"
+  },
+  {
     "displayName": "[CxC] SpkySpkyBoom",
     "tag": "CxC",
     "name": "SpkySpkyBoom"
@@ -853,6 +1078,11 @@
     "displayName": "StarCatcher",
     "tag": null,
     "name": "StarCatcher"
+  },
+  {
+    "displayName": "[TSG] starrfire",
+    "tag": "TSG",
+    "name": "starrfire"
   },
   {
     "displayName": "[CxC] starrfire",
@@ -875,6 +1105,11 @@
     "name": "Stormblade"
   },
   {
+    "displayName": "[TSG] SupaCaution",
+    "tag": "TSG",
+    "name": "SupaCaution"
+  },
+  {
     "displayName": "[CxC] SupaCaution",
     "tag": "CxC",
     "name": "SupaCaution"
@@ -883,11 +1118,6 @@
     "displayName": "[GPS] Thanos",
     "tag": "GPS",
     "name": "Thanos"
-  },
-  {
-    "displayName": "[SIN] TheUnworthy",
-    "tag": "SIN",
-    "name": "TheUnworthy"
   },
   {
     "displayName": "[SIN] todo",
@@ -915,6 +1145,11 @@
     "name": "Tonyoshi"
   },
   {
+    "displayName": "[TSG] Tophe35",
+    "tag": "TSG",
+    "name": "Tophe35"
+  },
+  {
     "displayName": "[CxC] Tophe35",
     "tag": "CxC",
     "name": "Tophe35"
@@ -930,14 +1165,34 @@
     "name": "Trac"
   },
   {
+    "displayName": "[TSG] Tsubasa ツ",
+    "tag": "TSG",
+    "name": "Tsubasa ツ"
+  },
+  {
+    "displayName": "[TSG] Tyzula",
+    "tag": "TSG",
+    "name": "Tyzula"
+  },
+  {
     "displayName": "[CxC] Tyzula",
     "tag": "CxC",
     "name": "Tyzula"
   },
   {
+    "displayName": "[TSG] Vercruelle",
+    "tag": "TSG",
+    "name": "Vercruelle"
+  },
+  {
     "displayName": "[CxC] Vercruelle",
     "tag": "CxC",
     "name": "Vercruelle"
+  },
+  {
+    "displayName": "[TSG] Verohn",
+    "tag": "TSG",
+    "name": "Verohn"
   },
   {
     "displayName": "[CxC] Verohn",
@@ -980,6 +1235,11 @@
     "name": "Zaku"
   },
   {
+    "displayName": "[TSG] Zenze",
+    "tag": "TSG",
+    "name": "Zenze"
+  },
+  {
     "displayName": "[CxC] Zenze",
     "tag": "CxC",
     "name": "Zenze"
@@ -988,6 +1248,11 @@
     "displayName": "[Cxc] Zenze",
     "tag": "Cxc",
     "name": "Zenze"
+  },
+  {
+    "displayName": "[TSG] Zilla",
+    "tag": "TSG",
+    "name": "Zilla"
   },
   {
     "displayName": "[CxC] Zilla",

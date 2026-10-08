@@ -68,6 +68,7 @@ const [loadingServers, setLoadingServers] = useState(true);
 
 }, [server]);
 
+
 useEffect(() => {
   if (!server) {
     setAlliances([]);
@@ -77,42 +78,30 @@ useEffect(() => {
 
   const loadAlliances = async () => {
     try {
-      const weeksResponse = await fetch(
-        "/api/weeks.json",
+      const response = await fetch(
+        "/api/growth/alliance-history.json",
         {
           cache: "no-store",
         }
       );
 
-      if (!weeksResponse.ok) {
-        throw new Error(`HTTP ${weeksResponse.status}`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
       }
 
-      const weeksData = await weeksResponse.json();
+      const data = await response.json();
 
-      const latestWeek =
-        weeksData.currentWeek.replace(
-          "Global Player/Alliance Ranking ",
-          ""
-        );
-
-      const alliancesResponse = await fetch(
-        `/api/alliances/${latestWeek}.json`,
-        {
-          cache: "no-store",
-        }
-      );
-
-      if (!alliancesResponse.ok) {
-        throw new Error(`HTTP ${alliancesResponse.status}`);
-      }
-
-      const data = await alliancesResponse.json();
-
-      const serverAlliances = data.filter(
-        (alliance) =>
-          String(alliance.server) === String(server)
-      );
+      const serverAlliances = Object.entries(data)
+        .filter(([_, history]) =>
+          history.some(
+            (entry) =>
+              String(entry.server) === String(server)
+          )
+        )
+        .map(([displayName, history]) => ({
+          displayName,
+          server,
+        }));
 
       setAlliances(serverAlliances);
       setFilteredAlliances(serverAlliances);
@@ -144,10 +133,14 @@ useEffect(() => {
   }
 
   function removePlayer(displayName) {
-    setSelectedPlayers((prev) =>
-      prev.filter((p) => p.displayName !== displayName)
-    );
-  }
+  setSelectedPlayers((prev) =>
+    prev.filter((p) => p.displayName !== displayName)
+  );
+
+  setHistory((prev) =>
+    prev.filter((entry) => entry.displayName !== displayName)
+  );
+}
 
   function handleAllianceSelect(alliance) {
   if (
@@ -167,6 +160,10 @@ useEffect(() => {
 function removeAlliance(displayName) {
   setSelectedAlliances((prev) =>
     prev.filter((a) => a.displayName !== displayName)
+  );
+
+  setHistory((prev) =>
+    prev.filter((entry) => entry.displayName !== displayName)
   );
 }
 

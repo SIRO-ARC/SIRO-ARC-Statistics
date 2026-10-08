@@ -8,8 +8,18 @@ export default function LeaderboardMobileCard({
 
         <div>
 
-          <div className="text-lg font-bold">
-            #{item.rank}
+          <div className="flex items-center gap-1 text-lg font-bold">
+            <span>#{item.rank}</span>
+            {item.rankChange > 0 && (
+              <span className="text-xs font-medium text-emerald-400">
+                ▲ {item.rankChange}
+              </span>
+            )}
+            {item.rankChange < 0 && (
+              <span className="text-xs font-medium text-red-400">
+                ▼ {Math.abs(item.rankChange)}
+              </span>
+            )}
           </div>
 
           <div className="mt-1 text-sm text-slate-400">
@@ -24,8 +34,18 @@ export default function LeaderboardMobileCard({
             ⭐ SIRO Score
           </div>
 
-          <div className="font-semibold text-sky-400">
-            {item.points}
+          <div className="flex items-center justify-end gap-1 font-semibold text-sky-400">
+            <span>{item.points}</span>
+            {item.pointsChange > 0 && (
+              <span className="text-xs font-medium text-emerald-400">
+                +{item.pointsChange}
+              </span>
+            )}
+            {item.pointsChange < 0 && (
+              <span className="text-xs font-medium text-red-400">
+                {item.pointsChange}
+              </span>
+            )}
           </div>
 
         </div>
@@ -68,8 +88,14 @@ export default function LeaderboardMobileCard({
             Win Rate
           </div>
 
-          <div className="font-semibold">
-            {item.winRate.toFixed(1)}%
+          <div className="flex items-center justify-center gap-1 font-semibold">
+            <span>{item.winRate.toFixed(1)}%</span>
+            {item.winRateChange > 0 && (
+              <span className="text-xs font-medium text-emerald-400">▲</span>
+            )}
+            {item.winRateChange < 0 && (
+              <span className="text-xs font-medium text-red-400">▼</span>
+            )}
           </div>
 
         </div>

@@ -220,6 +220,16 @@
     "name": "Feuerflsch"
   },
   {
+    "displayName": "[CAT] Flemsh",
+    "tag": "CAT",
+    "name": "Flemsh"
+  },
+  {
+    "displayName": "[Dum] FLODERKING",
+    "tag": "Dum",
+    "name": "FLODERKING"
+  },
+  {
     "displayName": "[CAT] flood",
     "tag": "CAT",
     "name": "flood"
@@ -268,6 +278,11 @@
     "displayName": "[DCU] Harley Quinn",
     "tag": "DCU",
     "name": "Harley Quinn"
+  },
+  {
+    "displayName": "[CAT] Harvey Dent",
+    "tag": "CAT",
+    "name": "Harvey Dent"
   },
   {
     "displayName": "[AQUA] Harvey Dent",
@@ -323,6 +338,11 @@
     "displayName": "Joseph",
     "tag": null,
     "name": "Joseph"
+  },
+  {
+    "displayName": "[Dum] ᴊᴏᴋᴇʀ",
+    "tag": "Dum",
+    "name": "ᴊᴏᴋᴇʀ"
   },
   {
     "displayName": "[AQUA] ᴊᴏᴋᴇʀ",
@@ -385,11 +405,6 @@
     "name": "Kintsugi"
   },
   {
-    "displayName": "[FENX] Kintusugi",
-    "tag": "FENX",
-    "name": "Kintusugi"
-  },
-  {
     "displayName": "[CAT] Kohlkopf",
     "tag": "CAT",
     "name": "Kohlkopf"
@@ -403,6 +418,11 @@
     "displayName": "[MEEP] kuruk",
     "tag": "MEEP",
     "name": "kuruk"
+  },
+  {
+    "displayName": "[Dum] Lafodaang",
+    "tag": "Dum",
+    "name": "Lafodaang"
   },
   {
     "displayName": "[FENX] Lafodaang",
@@ -705,6 +725,11 @@
     "name": "Shredder"
   },
   {
+    "displayName": "[CAT] Sienarot325i",
+    "tag": "CAT",
+    "name": "Sienarot325i"
+  },
+  {
     "displayName": "Sienarot325i",
     "tag": null,
     "name": "Sienarot325i"
@@ -738,6 +763,11 @@
     "displayName": "snack rat",
     "tag": null,
     "name": "snack rat"
+  },
+  {
+    "displayName": "[CAT] SoccerTy",
+    "tag": "CAT",
+    "name": "SoccerTy"
   },
   {
     "displayName": "[CAT] sonzu",
@@ -865,6 +895,11 @@
     "name": "ZutaraLover"
   },
   {
+    "displayName": "[MoA] zuzudragon",
+    "tag": "MoA",
+    "name": "zuzudragon"
+  },
+  {
     "displayName": "zuzudragon",
     "tag": null,
     "name": "zuzudragon"
@@ -873,11 +908,6 @@
     "displayName": "[FENX] zuzudragon",
     "tag": "FENX",
     "name": "zuzudragon"
-  },
-  {
-    "displayName": "[FENX] Макcимка",
-    "tag": "FENX",
-    "name": "Макcимка"
   },
   {
     "displayName": "[FENX] Максимка",

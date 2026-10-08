@@ -15,6 +15,11 @@
     "name": "A noodle"
   },
   {
+    "displayName": "[TGL] Adrii",
+    "tag": "TGL",
+    "name": "Adrii"
+  },
+  {
     "displayName": "[ĠTM] Adrii",
     "tag": "ĠTM",
     "name": "Adrii"
@@ -60,6 +65,21 @@
     "name": "Alyr"
   },
   {
+    "displayName": "[TGL] anngtop",
+    "tag": "TGL",
+    "name": "anngtop"
+  },
+  {
+    "displayName": "[TGL] Anonymousx",
+    "tag": "TGL",
+    "name": "Anonymousx"
+  },
+  {
+    "displayName": "Apophis",
+    "tag": null,
+    "name": "Apophis"
+  },
+  {
     "displayName": "[TGL] Apophis",
     "tag": "TGL",
     "name": "Apophis"
@@ -75,6 +95,11 @@
     "name": "Bä Shėng Lù"
   },
   {
+    "displayName": "[TGL] Bā Shèng Lù",
+    "tag": "TGL",
+    "name": "Bā Shèng Lù"
+  },
+  {
     "displayName": "[ĠTM] Bā Shèng Lù",
     "tag": "ĠTM",
     "name": "Bā Shèng Lù"
@@ -85,6 +110,11 @@
     "name": "BigGuy"
   },
   {
+    "displayName": "[TGL] BLACK GHOST",
+    "tag": "TGL",
+    "name": "BLACK GHOST"
+  },
+  {
     "displayName": "[ĠTM] BLACK GHOST",
     "tag": "ĠTM",
     "name": "BLACK GHOST"
@@ -93,6 +123,16 @@
     "displayName": "[GTA] BLACK GHOST",
     "tag": "GTA",
     "name": "BLACK GHOST"
+  },
+  {
+    "displayName": "[TGL] Blackmourne",
+    "tag": "TGL",
+    "name": "Blackmourne"
+  },
+  {
+    "displayName": "[TGL] BlindBandit",
+    "tag": "TGL",
+    "name": "BlindBandit"
   },
   {
     "displayName": "[ĠTM] BlindBandit",
@@ -160,11 +200,6 @@
     "name": "Crasom"
   },
   {
-    "displayName": "[NASA] Crucio",
-    "tag": "NASA",
-    "name": "Crucio"
-  },
-  {
     "displayName": "[TGL] Dalcom",
     "tag": "TGL",
     "name": "Dalcom"
@@ -173,6 +208,16 @@
     "displayName": "[TGL] dav27",
     "tag": "TGL",
     "name": "dav27"
+  },
+  {
+    "displayName": "[TGL] Dayah",
+    "tag": "TGL",
+    "name": "Dayah"
+  },
+  {
+    "displayName": "[TGL] Deimos",
+    "tag": "TGL",
+    "name": "Deimos"
   },
   {
     "displayName": "[TGL] Delador",
@@ -203,6 +248,11 @@
     "displayName": "[TGL] drake",
     "tag": "TGL",
     "name": "drake"
+  },
+  {
+    "displayName": "[TGL] DrSpin19",
+    "tag": "TGL",
+    "name": "DrSpin19"
   },
   {
     "displayName": "[ĠTM] DrSpin19",
@@ -420,6 +470,11 @@
     "name": "JadeShogun"
   },
   {
+    "displayName": "[TGL] Jess",
+    "tag": "TGL",
+    "name": "Jess"
+  },
+  {
     "displayName": "[TGL] JFH",
     "tag": "TGL",
     "name": "JFH"
@@ -433,6 +488,11 @@
     "displayName": "[TGL] JonyG95",
     "tag": "TGL",
     "name": "JonyG95"
+  },
+  {
+    "displayName": "[TGL] Junkee",
+    "tag": "TGL",
+    "name": "Junkee"
   },
   {
     "displayName": "[ĠTM] Junkee",
@@ -485,6 +545,11 @@
     "name": "LeoTheKing"
   },
   {
+    "displayName": "[TDL] lEROYJENKINS",
+    "tag": "TDL",
+    "name": "lEROYJENKINS"
+  },
+  {
     "displayName": "[TGL] LightBender",
     "tag": "TGL",
     "name": "LightBender"
@@ -515,6 +580,11 @@
     "name": "Lubo"
   },
   {
+    "displayName": "[TGL] Luci",
+    "tag": "TGL",
+    "name": "Luci"
+  },
+  {
     "displayName": "[ĠTM] Luci",
     "tag": "ĠTM",
     "name": "Luci"
@@ -540,6 +610,11 @@
     "name": "maddy"
   },
   {
+    "displayName": "[TGL] mai",
+    "tag": "TGL",
+    "name": "mai"
+  },
+  {
     "displayName": "[ĠTM] mai",
     "tag": "ĠTM",
     "name": "mai"
@@ -558,6 +633,11 @@
     "displayName": "[TGL] makattack",
     "tag": "TGL",
     "name": "makattack"
+  },
+  {
+    "displayName": "[TGL] Mellow",
+    "tag": "TGL",
+    "name": "Mellow"
   },
   {
     "displayName": "[ĠTM] Mellow",
@@ -645,6 +725,11 @@
     "name": "Pheonix"
   },
   {
+    "displayName": "[TGL] Pica",
+    "tag": "TGL",
+    "name": "Pica"
+  },
+  {
     "displayName": "[ĠTM] Pica",
     "tag": "ĠTM",
     "name": "Pica"
@@ -670,6 +755,11 @@
     "name": "Polly676"
   },
   {
+    "displayName": "[TGL] pothed",
+    "tag": "TGL",
+    "name": "pothed"
+  },
+  {
     "displayName": "[ĠTM] pothed",
     "tag": "ĠTM",
     "name": "pothed"
@@ -688,6 +778,11 @@
     "displayName": "[GTA] Praymus",
     "tag": "GTA",
     "name": "Praymus"
+  },
+  {
+    "displayName": "[TGL] PrincessYue",
+    "tag": "TGL",
+    "name": "PrincessYue"
   },
   {
     "displayName": "[ĠTM] PrincessYue",
@@ -780,6 +875,11 @@
     "name": "Swoonoverme"
   },
   {
+    "displayName": "[TGL] Sybawave",
+    "tag": "TGL",
+    "name": "Sybawave"
+  },
+  {
     "displayName": "[ĠTM] Sybawave",
     "tag": "ĠTM",
     "name": "Sybawave"
@@ -798,6 +898,11 @@
     "displayName": "[GTA] Sylvia",
     "tag": "GTA",
     "name": "Sylvia"
+  },
+  {
+    "displayName": "[TGL] szgym",
+    "tag": "TGL",
+    "name": "szgym"
   },
   {
     "displayName": "[ĠTM] szgym",
@@ -833,6 +938,11 @@
     "displayName": "[GTA] TRTLman",
     "tag": "GTA",
     "name": "TRTLman"
+  },
+  {
+    "displayName": "[TGL] Turtleduck",
+    "tag": "TGL",
+    "name": "Turtleduck"
   },
   {
     "displayName": "[TGL] UI Goten",
@@ -908,5 +1018,10 @@
     "displayName": "[GTA] Zotti",
     "tag": "GTA",
     "name": "Zotti"
+  },
+  {
+    "displayName": "[TGL] 悟",
+    "tag": "TGL",
+    "name": "悟"
   }
 ]

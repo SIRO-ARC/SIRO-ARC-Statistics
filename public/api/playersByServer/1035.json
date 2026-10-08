@@ -230,6 +230,11 @@
     "name": "Darth Maul"
   },
   {
+    "displayName": "[THEE] DelightWarry",
+    "tag": "THEE",
+    "name": "DelightWarry"
+  },
+  {
     "displayName": "Deven",
     "tag": null,
     "name": "Deven"
@@ -560,6 +565,11 @@
     "name": "Lodicus"
   },
   {
+    "displayName": "[THEE] LuckyD08",
+    "tag": "THEE",
+    "name": "LuckyD08"
+  },
+  {
     "displayName": "Machiavelli",
     "tag": null,
     "name": "Machiavelli"
@@ -735,11 +745,6 @@
     "name": "Penguin No 100"
   },
   {
-    "displayName": "[FIRE] Penguin No 5",
-    "tag": "FIRE",
-    "name": "Penguin No 5"
-  },
-  {
     "displayName": "[THEE] Pluviophile",
     "tag": "THEE",
     "name": "Pluviophile"
@@ -758,6 +763,11 @@
     "displayName": "[TLT] Revaeni",
     "tag": "TLT",
     "name": "Revaeni"
+  },
+  {
+    "displayName": "[THEE] RinaRina",
+    "tag": "THEE",
+    "name": "RinaRina"
   },
   {
     "displayName": "[FIRE] Rogue04",
@@ -910,6 +920,11 @@
     "name": "TD11ty"
   },
   {
+    "displayName": "The Sun",
+    "tag": null,
+    "name": "The Sun"
+  },
+  {
     "displayName": "[THEE] The Sun",
     "tag": "THEE",
     "name": "The Sun"
@@ -1058,11 +1073,6 @@
     "displayName": "[LEAF]Withthewinds",
     "tag": "LEAF",
     "name": "Withthewinds"
-  },
-  {
-    "displayName": "[FIRE] Wlththewinds",
-    "tag": "FIRE",
-    "name": "Wlththewinds"
   },
   {
     "displayName": "[THEE] Wolfrage",

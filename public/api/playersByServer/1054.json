@@ -160,6 +160,11 @@
     "name": "BlackwoodBug"
   },
   {
+    "displayName": "[NWO] bmrangguy",
+    "tag": "NWO",
+    "name": "bmrangguy"
+  },
+  {
     "displayName": "[NWO] BOMBER BUG",
     "tag": "NWO",
     "name": "BOMBER BUG"
@@ -190,9 +195,19 @@
     "name": "BUGGABOO"
   },
   {
+    "displayName": "[NWO] BUTCHER BUG",
+    "tag": "NWO",
+    "name": "BUTCHER BUG"
+  },
+  {
     "displayName": "[SITH] Capt Cabbage",
     "tag": "SITH",
     "name": "Capt Cabbage"
+  },
+  {
+    "displayName": "[FAFO] castiel",
+    "tag": "FAFO",
+    "name": "castiel"
   },
   {
     "displayName": "[NWO] Catasthrophy",
@@ -253,6 +268,16 @@
     "displayName": "[SITH] Darth Answer",
     "tag": "SITH",
     "name": "Darth Answer"
+  },
+  {
+    "displayName": "[SITH] Darth Azula",
+    "tag": "SITH",
+    "name": "Darth Azula"
+  },
+  {
+    "displayName": "[SITH] Darth buu",
+    "tag": "SITH",
+    "name": "Darth buu"
   },
   {
     "displayName": "[SITH] Darth Daddy",
@@ -420,6 +445,11 @@
     "name": "grim bug"
   },
   {
+    "displayName": "[NWO] Grogu",
+    "tag": "NWO",
+    "name": "Grogu"
+  },
+  {
     "displayName": "[FAFO] Grungus",
     "tag": "FAFO",
     "name": "Grungus"
@@ -550,6 +580,11 @@
     "name": "Kimmander"
   },
   {
+    "displayName": "King K",
+    "tag": null,
+    "name": "King K"
+  },
+  {
     "displayName": "[FAFO] King K",
     "tag": "FAFO",
     "name": "King K"
@@ -670,6 +705,11 @@
     "name": "Mewbug"
   },
   {
+    "displayName": "[NWO] Momo Bug",
+    "tag": "NWO",
+    "name": "Momo Bug"
+  },
+  {
     "displayName": "[NWO] Morbug",
     "tag": "NWO",
     "name": "Morbug"
@@ -765,6 +805,11 @@
     "name": "Phoenix King"
   },
   {
+    "displayName": "[NWO] Piggott",
+    "tag": "NWO",
+    "name": "Piggott"
+  },
+  {
     "displayName": "[SITH] Piggott",
     "tag": "SITH",
     "name": "Piggott"
@@ -850,9 +895,19 @@
     "name": "Rem"
   },
   {
+    "displayName": "[NWO] Rempacolypse",
+    "tag": "NWO",
+    "name": "Rempacolypse"
+  },
+  {
     "displayName": "[FAFO] Rev",
     "tag": "FAFO",
     "name": "Rev"
+  },
+  {
+    "displayName": "[SITH] Rimuru",
+    "tag": "SITH",
+    "name": "Rimuru"
   },
   {
     "displayName": "[FAFO] Rory",
@@ -1020,6 +1075,11 @@
     "name": "VallentinX"
   },
   {
+    "displayName": "[NWO] W8 Lightning",
+    "tag": "NWO",
+    "name": "W8 Lightning"
+  },
+  {
     "displayName": "[FAFO] W8 Lightning",
     "tag": "FAFO",
     "name": "W8 Lightning"
@@ -1073,11 +1133,6 @@
     "displayName": "[NWO] Xarcas",
     "tag": "NWO",
     "name": "Xarcas"
-  },
-  {
-    "displayName": "[NWO] Xarças",
-    "tag": "NWO",
-    "name": "Xarças"
   },
   {
     "displayName": "[SITH] Xylko",

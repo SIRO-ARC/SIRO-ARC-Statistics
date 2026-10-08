@@ -1,10 +1,5 @@
 [
   {
-    "displayName": "[HoH]",
-    "tag": "HoH",
-    "name": ""
-  },
-  {
     "displayName": "[HoH] ▨▨▨",
     "tag": "HoH",
     "name": "▨▨▨"
@@ -33,11 +28,6 @@
     "displayName": "[SYN] ANATOLY",
     "tag": "SYN",
     "name": "ANATOLY"
-  },
-  {
-    "displayName": "[HoH] Apollo",
-    "tag": "HoH",
-    "name": "Apollo"
   },
   {
     "displayName": "[Gods] Apollo",
@@ -275,11 +265,6 @@
     "name": "Devastator"
   },
   {
-    "displayName": "[HoH] DEVSNEDMONEY",
-    "tag": "HoH",
-    "name": "DEVSNEDMONEY"
-  },
-  {
     "displayName": "DiamondFuse",
     "tag": null,
     "name": "DiamondFuse"
@@ -408,6 +393,11 @@
     "displayName": "[Gods] Hadés",
     "tag": "Gods",
     "name": "Hadés"
+  },
+  {
+    "displayName": "[SAIK] hawkeye87",
+    "tag": "SAIK",
+    "name": "hawkeye87"
   },
   {
     "displayName": "Helios",
@@ -810,11 +800,6 @@
     "name": "Nÿx"
   },
   {
-    "displayName": "[HoH] OG Drag0nZzz",
-    "tag": "HoH",
-    "name": "OG Drag0nZzz"
-  },
-  {
     "displayName": "[ZAPP]OG DraGonZ",
     "tag": "ZAPP",
     "name": "OG DraGonZ"
@@ -843,6 +828,11 @@
     "displayName": "[CYB] OptimusPrime",
     "tag": "CYB",
     "name": "OptimusPrime"
+  },
+  {
+    "displayName": "[HoH] Papi",
+    "tag": "HoH",
+    "name": "Papi"
   },
   {
     "displayName": "[HoH] Penguin No ∞",
@@ -965,6 +955,11 @@
     "name": "Saiyanite"
   },
   {
+    "displayName": "Samsuin",
+    "tag": null,
+    "name": "Samsuin"
+  },
+  {
     "displayName": "[TJD]Scar",
     "tag": "TJD",
     "name": "Scar"
@@ -1068,6 +1063,11 @@
     "displayName": "[SYN] tooken",
     "tag": "SYN",
     "name": "tooken"
+  },
+  {
+    "displayName": "[karl] TukoAang",
+    "tag": "karl",
+    "name": "TukoAang"
   },
   {
     "displayName": "TukoAang",

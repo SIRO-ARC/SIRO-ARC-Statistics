@@ -65,6 +65,11 @@
     "name": "Amaury"
   },
   {
+    "displayName": "[FOAL] Amon",
+    "tag": "FOAL",
+    "name": "Amon"
+  },
+  {
     "displayName": "[AFK] Amon",
     "tag": "AFK",
     "name": "Amon"
@@ -345,6 +350,11 @@
     "name": "Haunter"
   },
   {
+    "displayName": "[UMI] hectorini",
+    "tag": "UMI",
+    "name": "hectorini"
+  },
+  {
     "displayName": "[UMI] Hichan",
     "tag": "UMI",
     "name": "Hichan"
@@ -460,6 +470,11 @@
     "name": "leader oiso"
   },
   {
+    "displayName": "[UMI] leader_2374448",
+    "tag": "UMI",
+    "name": "leader_2374448"
+  },
+  {
     "displayName": "[UMI] Legi",
     "tag": "UMI",
     "name": "Legi"
@@ -513,6 +528,11 @@
     "displayName": "[ASH] MelonLord",
     "tag": "ASH",
     "name": "MelonLord"
+  },
+  {
+    "displayName": "[UMI] Meron",
+    "tag": "UMI",
+    "name": "Meron"
   },
   {
     "displayName": "[UMI] Mew",
@@ -595,6 +615,11 @@
     "name": "noizyB"
   },
   {
+    "displayName": "[UMI] Nope",
+    "tag": "UMI",
+    "name": "Nope"
+  },
+  {
     "displayName": "[UMI] Pavoneitor",
     "tag": "UMI",
     "name": "Pavoneitor"
@@ -638,6 +663,11 @@
     "displayName": "[UMI] Quelli",
     "tag": "UMI",
     "name": "Quelli"
+  },
+  {
+    "displayName": "[UMI] Random",
+    "tag": "UMI",
+    "name": "Random"
   },
   {
     "displayName": "[ASH] Reshiram",
@@ -710,9 +740,19 @@
     "name": "Teo"
   },
   {
+    "displayName": "Thalia1512",
+    "tag": null,
+    "name": "Thalia1512"
+  },
+  {
     "displayName": "[KWS] Thalia1512",
     "tag": "KWS",
     "name": "Thalia1512"
+  },
+  {
+    "displayName": "[FOAL] tyintyout",
+    "tag": "FOAL",
+    "name": "tyintyout"
   },
   {
     "displayName": "[AFK] tyintyout",
@@ -747,11 +787,6 @@
   {
     "displayName": "[UMI] Waterturtle",
     "tag": "UMI",
-    "name": "Waterturtle"
-  },
-  {
-    "displayName": "[ASH] Waterturtle",
-    "tag": "ASH",
     "name": "Waterturtle"
   },
   {

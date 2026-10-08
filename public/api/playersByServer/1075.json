@@ -10,9 +10,9 @@
     "name": "Aery"
   },
   {
-    "displayName": "[YANG] Aethyllias",
-    "tag": "YANG",
-    "name": "Aethyllias"
+    "displayName": "[LOTR] Aleandrus",
+    "tag": "LOTR",
+    "name": "Aleandrus"
   },
   {
     "displayName": "[TBP] Aleandrus",
@@ -23,11 +23,6 @@
     "displayName": "[YIN] Alfre21313",
     "tag": "YIN",
     "name": "Alfre21313"
-  },
-  {
-    "displayName": "[YANG] Ash",
-    "tag": "YANG",
-    "name": "Ash"
   },
   {
     "displayName": "[RTS] Azulon",
@@ -53,11 +48,6 @@
     "displayName": "ᴮᴳAPLLION",
     "tag": null,
     "name": "ᴮᴳAPLLION"
-  },
-  {
-    "displayName": "[YANG] bomboclat",
-    "tag": "YANG",
-    "name": "bomboclat"
   },
   {
     "displayName": "BomBomChiki",
@@ -95,19 +85,9 @@
     "name": "Chef Jojo"
   },
   {
-    "displayName": "[YIN] Chimera",
-    "tag": "YIN",
-    "name": "Chimera"
-  },
-  {
     "displayName": "Chin Chu Lin",
     "tag": null,
     "name": "Chin Chu Lin"
-  },
-  {
-    "displayName": "[Joos] conan",
-    "tag": "Joos",
-    "name": "conan"
   },
   {
     "displayName": "[YIN] Dadarkone",
@@ -118,6 +98,11 @@
     "displayName": "DaddyMarv",
     "tag": null,
     "name": "DaddyMarv"
+  },
+  {
+    "displayName": "Dawn",
+    "tag": null,
+    "name": "Dawn"
   },
   {
     "displayName": "[TBP] Dawn",
@@ -153,11 +138,6 @@
     "displayName": "[YIN] ElkoDrummer",
     "tag": "YIN",
     "name": "ElkoDrummer"
-  },
-  {
-    "displayName": "[YIN] Fatkat44",
-    "tag": "YIN",
-    "name": "Fatkat44"
   },
   {
     "displayName": "Fefiii24",
@@ -200,16 +180,6 @@
     "name": "Goob"
   },
   {
-    "displayName": "[YIN] GraveBoundZ",
-    "tag": "YIN",
-    "name": "GraveBoundZ"
-  },
-  {
-    "displayName": "[YIN] Hackton",
-    "tag": "YIN",
-    "name": "Hackton"
-  },
-  {
     "displayName": "[LOTV] hanami",
     "tag": "LOTV",
     "name": "hanami"
@@ -218,11 +188,6 @@
     "displayName": "Hazia",
     "tag": null,
     "name": "Hazia"
-  },
-  {
-    "displayName": "[YIN] HERET1K",
-    "tag": "YIN",
-    "name": "HERET1K"
   },
   {
     "displayName": "[YIN] Hoss",
@@ -295,6 +260,11 @@
     "name": "Kagema"
   },
   {
+    "displayName": "Koshad",
+    "tag": null,
+    "name": "Koshad"
+  },
+  {
     "displayName": "[TBP] Koshad",
     "tag": "TBP",
     "name": "Koshad"
@@ -350,6 +320,11 @@
     "name": "LilSnow"
   },
   {
+    "displayName": "Lucolas",
+    "tag": null,
+    "name": "Lucolas"
+  },
+  {
     "displayName": "[TBP] Lucolas",
     "tag": "TBP",
     "name": "Lucolas"
@@ -363,6 +338,11 @@
     "displayName": "[YIN] Mahalline",
     "tag": "YIN",
     "name": "Mahalline"
+  },
+  {
+    "displayName": "[YIN] MASTER REINA",
+    "tag": "YIN",
+    "name": "MASTER REINA"
   },
   {
     "displayName": "[LOTV] MASTER REINA",
@@ -395,11 +375,6 @@
     "name": "MrCow"
   },
   {
-    "displayName": "[YANG] Mythos",
-    "tag": "YANG",
-    "name": "Mythos"
-  },
-  {
     "displayName": "[YIN] Mythos Farm",
     "tag": "YIN",
     "name": "Mythos Farm"
@@ -410,9 +385,9 @@
     "name": "NatsuD"
   },
   {
-    "displayName": "[YIN] Noctem",
+    "displayName": "[YIN] Noldot",
     "tag": "YIN",
-    "name": "Noctem"
+    "name": "Noldot"
   },
   {
     "displayName": "Obouron",
@@ -423,6 +398,11 @@
     "displayName": "[YIN] Omanthedude",
     "tag": "YIN",
     "name": "Omanthedude"
+  },
+  {
+    "displayName": "[ATU] Orion",
+    "tag": "ATU",
+    "name": "Orion"
   },
   {
     "displayName": "[Kit] Orion",
@@ -453,16 +433,6 @@
     "displayName": "[YIN] PpMarioStyle",
     "tag": "YIN",
     "name": "PpMarioStyle"
-  },
-  {
-    "displayName": "[YANG] PrimeKrumpy",
-    "tag": "YANG",
-    "name": "PrimeKrumpy"
-  },
-  {
-    "displayName": "[YANG] PrimeLexa",
-    "tag": "YANG",
-    "name": "PrimeLexa"
   },
   {
     "displayName": "Punch",
@@ -515,9 +485,9 @@
     "name": "Shumix24"
   },
   {
-    "displayName": "[YANG] Smuuf",
-    "tag": "YANG",
-    "name": "Smuuf"
+    "displayName": "[Kit] Smootii",
+    "tag": "Kit",
+    "name": "Smootii"
   },
   {
     "displayName": "[YIN] Snickz",
@@ -570,14 +540,14 @@
     "name": "TheTrueKing"
   },
   {
-    "displayName": "[YANG] thündér",
-    "tag": "YANG",
-    "name": "thündér"
-  },
-  {
     "displayName": "tiril",
     "tag": null,
     "name": "tiril"
+  },
+  {
+    "displayName": "[Kit] Umay",
+    "tag": "Kit",
+    "name": "Umay"
   },
   {
     "displayName": "[Nmst] Uncle",
@@ -587,11 +557,6 @@
   {
     "displayName": "VeXx9",
     "tag": null,
-    "name": "VeXx9"
-  },
-  {
-    "displayName": "[YANG] VeXx9",
-    "tag": "YANG",
     "name": "VeXx9"
   },
   {
@@ -610,11 +575,6 @@
     "name": "Xoxo888"
   },
   {
-    "displayName": "[YANG] Xoxo888",
-    "tag": "YANG",
-    "name": "Xoxo888"
-  },
-  {
     "displayName": "Yang",
     "tag": null,
     "name": "Yang"
@@ -628,10 +588,5 @@
     "displayName": "Yodero",
     "tag": null,
     "name": "Yodero"
-  },
-  {
-    "displayName": "[YANG] ZEBZEB",
-    "tag": "YANG",
-    "name": "ZEBZEB"
   }
 ]

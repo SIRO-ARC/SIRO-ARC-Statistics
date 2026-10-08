@@ -5,6 +5,11 @@
     "name": "A noodle"
   },
   {
+    "displayName": "[GTA] Abdus",
+    "tag": "GTA",
+    "name": "Abdus"
+  },
+  {
     "displayName": "[ITAL] akram",
     "tag": "ITAL",
     "name": "akram"
@@ -100,6 +105,11 @@
     "name": "blueberry"
   },
   {
+    "displayName": "[GOBY] Bluedragon",
+    "tag": "GOBY",
+    "name": "Bluedragon"
+  },
+  {
     "displayName": "[RWBY] Bluedragon",
     "tag": "RWBY",
     "name": "Bluedragon"
@@ -132,11 +142,6 @@
   {
     "displayName": "[RWBY] Bryson0619",
     "tag": "RWBY",
-    "name": "Bryson0619"
-  },
-  {
-    "displayName": "[AFM] Bryson0619",
-    "tag": "AFM",
     "name": "Bryson0619"
   },
   {
@@ -230,11 +235,6 @@
     "name": "Dexter"
   },
   {
-    "displayName": "[SYN] dobcSi",
-    "tag": "SYN",
-    "name": "dobcSi"
-  },
-  {
     "displayName": "Doge",
     "tag": null,
     "name": "Doge"
@@ -270,11 +270,6 @@
     "name": "Eowyn18"
   },
   {
-    "displayName": "[SYN] Eze25",
-    "tag": "SYN",
-    "name": "Eze25"
-  },
-  {
     "displayName": "[GTA] Falco",
     "tag": "GTA",
     "name": "Falco"
@@ -298,6 +293,11 @@
     "displayName": "[GOT] Fran",
     "tag": "GOT",
     "name": "Fran"
+  },
+  {
+    "displayName": "[GTA] FTH",
+    "tag": "GTA",
+    "name": "FTH"
   },
   {
     "displayName": "[RWBY] FXS",
@@ -550,6 +550,11 @@
     "name": "MageeCarp"
   },
   {
+    "displayName": "[GOBY] MagitoReborn",
+    "tag": "GOBY",
+    "name": "MagitoReborn"
+  },
+  {
     "displayName": "[RWBY] MagitoReborn",
     "tag": "RWBY",
     "name": "MagitoReborn"
@@ -558,6 +563,11 @@
     "displayName": "[GTA] Magneto",
     "tag": "GTA",
     "name": "Magneto"
+  },
+  {
+    "displayName": "[GOBY] ManB3arPig",
+    "tag": "GOBY",
+    "name": "ManB3arPig"
   },
   {
     "displayName": "[GOBY] mao",
@@ -690,6 +700,11 @@
     "name": "Old Man"
   },
   {
+    "displayName": "[GTA] Ozai egos",
+    "tag": "GTA",
+    "name": "Ozai egos"
+  },
+  {
     "displayName": "[GTA] PaintdTheydy",
     "tag": "GTA",
     "name": "PaintdTheydy"
@@ -708,6 +723,11 @@
     "displayName": "[SCE] Patro27",
     "tag": "SCE",
     "name": "Patro27"
+  },
+  {
+    "displayName": "[GTA] Pɛbblɛ",
+    "tag": "GTA",
+    "name": "Pɛbblɛ"
   },
   {
     "displayName": "[GTA] Phobos",
@@ -985,9 +1005,9 @@
     "name": "Yorch"
   },
   {
-    "displayName": "Yüū",
-    "tag": null,
-    "name": "Yüū"
+    "displayName": "[GTA] Zeph",
+    "tag": "GTA",
+    "name": "Zeph"
   },
   {
     "displayName": "[GTA] Zommer",
@@ -998,6 +1018,11 @@
     "displayName": "[GTA] ZutaraLover",
     "tag": "GTA",
     "name": "ZutaraLover"
+  },
+  {
+    "displayName": "[GTA] ZWERGIUS",
+    "tag": "GTA",
+    "name": "ZWERGIUS"
   },
   {
     "displayName": "[GTA] Максимка",

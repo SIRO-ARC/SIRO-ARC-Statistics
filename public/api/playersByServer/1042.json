@@ -100,6 +100,11 @@
     "name": "bleach"
   },
   {
+    "displayName": "[Embr] BloodMoon",
+    "tag": "Embr",
+    "name": "BloodMoon"
+  },
+  {
     "displayName": "[Gam] BlutSvente",
     "tag": "Gam",
     "name": "BlutSvente"
@@ -185,11 +190,6 @@
     "name": "Conan"
   },
   {
-    "displayName": "[HOT] Conan",
-    "tag": "HOT",
-    "name": "Conan"
-  },
-  {
     "displayName": "[Embr] Cønan",
     "tag": "Embr",
     "name": "Cønan"
@@ -230,6 +230,11 @@
     "name": "DenverDuke"
   },
   {
+    "displayName": "[Eng] destroyer",
+    "tag": "Eng",
+    "name": "destroyer"
+  },
+  {
     "displayName": "destroyer",
     "tag": null,
     "name": "destroyer"
@@ -248,6 +253,11 @@
     "displayName": "[TOES] Dragon king",
     "tag": "TOES",
     "name": "Dragon king"
+  },
+  {
+    "displayName": "[Embr] Drastrula",
+    "tag": "Embr",
+    "name": "Drastrula"
   },
   {
     "displayName": "DrPorcellio",
@@ -320,11 +330,6 @@
     "name": "General Tedd"
   },
   {
-    "displayName": "[HOT] GeneralTedd",
-    "tag": "HOT",
-    "name": "GeneralTedd"
-  },
-  {
     "displayName": "[TOES] GeneralTedd",
     "tag": "TOES",
     "name": "GeneralTedd"
@@ -370,6 +375,11 @@
     "name": "Gustave"
   },
   {
+    "displayName": "[Embr] HarooOoooka",
+    "tag": "Embr",
+    "name": "HarooOoooka"
+  },
+  {
     "displayName": "[Embr] Haruka",
     "tag": "Embr",
     "name": "Haruka"
@@ -413,11 +423,6 @@
     "displayName": "[TWLO]Jellex",
     "tag": "TWLO",
     "name": "Jellex"
-  },
-  {
-    "displayName": "[HOT] Jellez",
-    "tag": "HOT",
-    "name": "Jellez"
   },
   {
     "displayName": "[Embr] jello138",
@@ -600,11 +605,6 @@
     "name": "MasterArgent"
   },
   {
-    "displayName": "[HOT] Mau19",
-    "tag": "HOT",
-    "name": "Mau19"
-  },
-  {
     "displayName": "[TWLO] Mau19",
     "tag": "TWLO",
     "name": "Mau19"
@@ -765,6 +765,11 @@
     "name": "pikachu"
   },
   {
+    "displayName": "[Embr] PikledPumkin",
+    "tag": "Embr",
+    "name": "PikledPumkin"
+  },
+  {
     "displayName": "[TOES] Pitato",
     "tag": "TOES",
     "name": "Pitato"
@@ -835,6 +840,11 @@
     "name": "Sabo"
   },
   {
+    "displayName": "[Embr] sachmos",
+    "tag": "Embr",
+    "name": "sachmos"
+  },
+  {
     "displayName": "[NALA] sachmos",
     "tag": "NALA",
     "name": "sachmos"
@@ -843,6 +853,16 @@
     "displayName": "[Embr] Sad Panda",
     "tag": "Embr",
     "name": "Sad Panda"
+  },
+  {
+    "displayName": "Saiko",
+    "tag": null,
+    "name": "Saiko"
+  },
+  {
+    "displayName": "sajper29",
+    "tag": null,
+    "name": "sajper29"
   },
   {
     "displayName": "[Embr] sajper29",
@@ -898,6 +918,16 @@
     "displayName": "[Embr] SmnGvz",
     "tag": "Embr",
     "name": "SmnGvz"
+  },
+  {
+    "displayName": "[Embr] SpookyNight",
+    "tag": "Embr",
+    "name": "SpookyNight"
+  },
+  {
+    "displayName": "[Embr] srdemon",
+    "tag": "Embr",
+    "name": "srdemon"
   },
   {
     "displayName": "srdemon",
@@ -960,14 +990,14 @@
     "name": "Trash Panda"
   },
   {
+    "displayName": "[Embr] TrashOrTreat",
+    "tag": "Embr",
+    "name": "TrashOrTreat"
+  },
+  {
     "displayName": "tzu jung",
     "tag": null,
     "name": "tzu jung"
-  },
-  {
-    "displayName": "[HOT] Vavvmipire",
-    "tag": "HOT",
-    "name": "Vavvmipire"
   },
   {
     "displayName": "[TWLO]Vuurheer Mau",
@@ -1053,11 +1083,6 @@
     "displayName": "[TWLO] Zelaerus",
     "tag": "TWLO",
     "name": "Zelaerus"
-  },
-  {
-    "displayName": "[HOT] Zelærus",
-    "tag": "HOT",
-    "name": "Zelærus"
   },
   {
     "displayName": "[Embr] Zhenshin",

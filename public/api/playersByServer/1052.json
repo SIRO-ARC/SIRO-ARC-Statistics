@@ -10,14 +10,19 @@
     "name": "ABBApalooza"
   },
   {
+    "displayName": "[LMNT] Acidburn",
+    "tag": "LMNT",
+    "name": "Acidburn"
+  },
+  {
     "displayName": "Acidburn",
     "tag": null,
     "name": "Acidburn"
   },
   {
-    "displayName": "[LMNT] Acidburn",
-    "tag": "LMNT",
-    "name": "Acidburn"
+    "displayName": "[Kou] Adennors",
+    "tag": "Kou",
+    "name": "Adennors"
   },
   {
     "displayName": "[LMNT] Adennors",
@@ -565,6 +570,11 @@
     "name": "Lawa"
   },
   {
+    "displayName": "[Kou] leader_2797398",
+    "tag": "Kou",
+    "name": "leader_2797398"
+  },
+  {
     "displayName": "[Fire] leader_2797398",
     "tag": "Fire",
     "name": "leader_2797398"
@@ -730,6 +740,11 @@
     "name": "Phoenix79"
   },
   {
+    "displayName": "[Gr3y] Pii",
+    "tag": "Gr3y",
+    "name": "Pii"
+  },
+  {
     "displayName": "[LMNT] Poison Ivy",
     "tag": "LMNT",
     "name": "Poison Ivy"
@@ -743,6 +758,11 @@
     "displayName": "PrinceofFire",
     "tag": null,
     "name": "PrinceofFire"
+  },
+  {
+    "displayName": "[LMNT] Ranma",
+    "tag": "LMNT",
+    "name": "Ranma"
   },
   {
     "displayName": "[Kou] razzledazzle",
@@ -978,6 +998,11 @@
     "displayName": "TrysMetrai",
     "tag": null,
     "name": "TrysMetrai"
+  },
+  {
+    "displayName": "[Kou] Vera",
+    "tag": "Kou",
+    "name": "Vera"
   },
   {
     "displayName": "[LMNT] Vera",

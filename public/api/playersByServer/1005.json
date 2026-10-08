@@ -95,6 +95,11 @@
     "name": "BigBlue33"
   },
   {
+    "displayName": "[Loti] BlueSpirit",
+    "tag": "Loti",
+    "name": "BlueSpirit"
+  },
+  {
     "displayName": "[SUN] BlueSpirit",
     "tag": "SUN",
     "name": "BlueSpirit"
@@ -165,6 +170,11 @@
     "name": "Dawid"
   },
   {
+    "displayName": "[Loti] Despair667",
+    "tag": "Loti",
+    "name": "Despair667"
+  },
+  {
     "displayName": "[SUN] Despair667",
     "tag": "SUN",
     "name": "Despair667"
@@ -213,6 +223,11 @@
     "displayName": "[DRK] DRUK",
     "tag": "DRK",
     "name": "DRUK"
+  },
+  {
+    "displayName": "[Loti] DUMO",
+    "tag": "Loti",
+    "name": "DUMO"
   },
   {
     "displayName": "[SUN] DUMO",
@@ -315,6 +330,11 @@
     "name": "GroundSpider"
   },
   {
+    "displayName": "[Loti] hamsolo",
+    "tag": "Loti",
+    "name": "hamsolo"
+  },
+  {
     "displayName": "[SUN] hamsolo",
     "tag": "SUN",
     "name": "hamsolo"
@@ -408,6 +428,11 @@
     "displayName": "kevin",
     "tag": null,
     "name": "kevin"
+  },
+  {
+    "displayName": "[Loti] KingQuantum",
+    "tag": "Loti",
+    "name": "KingQuantum"
   },
   {
     "displayName": "KingQuantum",
@@ -515,6 +540,11 @@
     "name": "Magne1982"
   },
   {
+    "displayName": "[987] Magoo",
+    "tag": "987",
+    "name": "Magoo"
+  },
+  {
     "displayName": "[Loti] Magoo",
     "tag": "Loti",
     "name": "Magoo"
@@ -558,6 +588,11 @@
     "displayName": "MFDOOM",
     "tag": null,
     "name": "MFDOOM"
+  },
+  {
+    "displayName": "[Loti] Miyuki",
+    "tag": "Loti",
+    "name": "Miyuki"
   },
   {
     "displayName": "[WLAU] Momos haven",
@@ -680,6 +715,11 @@
     "name": "RogerX"
   },
   {
+    "displayName": "RosesGarden",
+    "tag": null,
+    "name": "RosesGarden"
+  },
+  {
     "displayName": "[SUN] Seen my Bear",
     "tag": "SUN",
     "name": "Seen my Bear"
@@ -770,6 +810,11 @@
     "name": "Unicorn Deet"
   },
   {
+    "displayName": "[Loti] Vessel",
+    "tag": "Loti",
+    "name": "Vessel"
+  },
+  {
     "displayName": "Vessel",
     "tag": null,
     "name": "Vessel"
@@ -805,6 +850,11 @@
     "name": "Xyon"
   },
   {
+    "displayName": "[Loti] Zedkilz",
+    "tag": "Loti",
+    "name": "Zedkilz"
+  },
+  {
     "displayName": "[SUN] Zedkilz",
     "tag": "SUN",
     "name": "Zedkilz"
@@ -815,11 +865,6 @@
     "name": "Zetsubou"
   },
   {
-    "displayName": "[SUN] ZIMBA KAP",
-    "tag": "SUN",
-    "name": "ZIMBA KAP"
-  },
-  {
     "displayName": "[SUN] ZIMBA KAPTAN",
     "tag": "SUN",
     "name": "ZIMBA KAPTAN"
@@ -828,11 +873,6 @@
     "displayName": "[SUN] ZIMBΑ ΚΑΡΤΑΝ",
     "tag": "SUN",
     "name": "ZIMBΑ ΚΑΡΤΑΝ"
-  },
-  {
-    "displayName": "[SUN] ενaηgelion",
-    "tag": "SUN",
-    "name": "ενaηgelion"
   },
   {
     "displayName": "[SUN] εναngelιση",
@@ -868,11 +908,6 @@
     "displayName": "[SUN] 千σat E",
     "tag": "SUN",
     "name": "千σat E"
-  },
-  {
-    "displayName": "[SUN] 千ояt E",
-    "tag": "SUN",
-    "name": "千ояt E"
   },
   {
     "displayName": "[SUN] 千оят E",

@@ -90,6 +90,11 @@
     "name": "Asuna"
   },
   {
+    "displayName": "BearMaskクマ仮面",
+    "tag": null,
+    "name": "BearMaskクマ仮面"
+  },
+  {
     "displayName": "[TMLP] Bezimya",
     "tag": "TMLP",
     "name": "Bezimya"
@@ -230,11 +235,6 @@
     "name": "DRACOO"
   },
   {
-    "displayName": "[EQL] Dragon Beef",
-    "tag": "EQL",
-    "name": "Dragon Beef"
-  },
-  {
     "displayName": "[EMBR] Dragon Beef",
     "tag": "EMBR",
     "name": "Dragon Beef"
@@ -335,6 +335,11 @@
     "name": "hageP"
   },
   {
+    "displayName": "[EMBR] Hancox",
+    "tag": "EMBR",
+    "name": "Hancox"
+  },
+  {
     "displayName": "[EMBR] Hansoo",
     "tag": "EMBR",
     "name": "Hansoo"
@@ -365,6 +370,11 @@
     "name": "Httperror404"
   },
   {
+    "displayName": "[EMBR] Iris",
+    "tag": "EMBR",
+    "name": "Iris"
+  },
+  {
     "displayName": "[EQL] Iynrew",
     "tag": "EQL",
     "name": "Iynrew"
@@ -388,11 +398,6 @@
     "displayName": "[TMLP]Javelli",
     "tag": "TMLP",
     "name": "Javelli"
-  },
-  {
-    "displayName": "[TMLP] Jay S",
-    "tag": "TMLP",
-    "name": "Jay S"
   },
   {
     "displayName": "[EMBR] Jay S",
@@ -498,6 +503,11 @@
     "displayName": "[SKOL] Maddish",
     "tag": "SKOL",
     "name": "Maddish"
+  },
+  {
+    "displayName": "MastariFANG",
+    "tag": null,
+    "name": "MastariFANG"
   },
   {
     "displayName": "[TMLP] Mikepumba",
@@ -665,11 +675,6 @@
     "name": "Ryzix"
   },
   {
-    "displayName": "[TMLP] Ryzix",
-    "tag": "TMLP",
-    "name": "Ryzix"
-  },
-  {
     "displayName": "[EMBR]Ryzix",
     "tag": "EMBR",
     "name": "Ryzix"
@@ -715,11 +720,6 @@
     "name": "SilentSt0rm"
   },
   {
-    "displayName": "[TMLP] SilentStorm",
-    "tag": "TMLP",
-    "name": "SilentStorm"
-  },
-  {
     "displayName": "[EMBR] Sl0werM0tion",
     "tag": "EMBR",
     "name": "Sl0werM0tion"
@@ -728,11 +728,6 @@
     "displayName": "[EMBR] Sl0wM0tion",
     "tag": "EMBR",
     "name": "Sl0wM0tion"
-  },
-  {
-    "displayName": "[EMBR] Sl0wMotion",
-    "tag": "EMBR",
-    "name": "Sl0wMotion"
   },
   {
     "displayName": "[SKOL] SmellyCow",
@@ -953,6 +948,11 @@
     "displayName": "[jpn] カリガリQ作",
     "tag": "jpn",
     "name": "カリガリQ作"
+  },
+  {
+    "displayName": "[jpn] キンミヤ",
+    "tag": "jpn",
+    "name": "キンミヤ"
   },
   {
     "displayName": "[jpn] ル​ーお",

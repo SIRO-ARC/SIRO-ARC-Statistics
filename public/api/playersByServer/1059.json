@@ -220,6 +220,11 @@
     "name": "ejtann"
   },
   {
+    "displayName": "[DRGN] FelipeII",
+    "tag": "DRGN",
+    "name": "FelipeII"
+  },
+  {
     "displayName": "[MOMO] FelipeII",
     "tag": "MOMO",
     "name": "FelipeII"
@@ -355,6 +360,11 @@
     "name": "Leader Yag"
   },
   {
+    "displayName": "[ORV] leader_3036009",
+    "tag": "ORV",
+    "name": "leader_3036009"
+  },
+  {
     "displayName": "[HON] leader_3036161",
     "tag": "HON",
     "name": "leader_3036161"
@@ -373,6 +383,11 @@
     "displayName": "[PAI] leader_3053093",
     "tag": "PAI",
     "name": "leader_3053093"
+  },
+  {
+    "displayName": "[CHAT] leader_3056333",
+    "tag": "CHAT",
+    "name": "leader_3056333"
   },
   {
     "displayName": "[Zzz] leader_3056856",
@@ -413,6 +428,11 @@
     "displayName": "[ECTS] Manny",
     "tag": "ECTS",
     "name": "Manny"
+  },
+  {
+    "displayName": "MC Debdoob",
+    "tag": null,
+    "name": "MC Debdoob"
   },
   {
     "displayName": "[nns] MC Debdoob",

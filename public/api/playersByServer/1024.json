@@ -155,11 +155,6 @@
     "name": "Diddy Kong"
   },
   {
-    "displayName": "[Wii] Dinkleberg",
-    "tag": "Wii",
-    "name": "Dinkleberg"
-  },
-  {
     "displayName": "[Wii] Donar",
     "tag": "Wii",
     "name": "Donar"
@@ -420,6 +415,11 @@
     "name": "Lacika"
   },
   {
+    "displayName": "leader_1305273",
+    "tag": null,
+    "name": "leader_1305273"
+  },
+  {
     "displayName": "[GQ JO] leader_1305506",
     "tag": "GQ JO",
     "name": "leader_1305506"
@@ -603,6 +603,11 @@
     "displayName": "[Oogi] nagagurl",
     "tag": "Oogi",
     "name": "nagagurl"
+  },
+  {
+    "displayName": "[GOJO] Nagato",
+    "tag": "GOJO",
+    "name": "Nagato"
   },
   {
     "displayName": "Nagato",

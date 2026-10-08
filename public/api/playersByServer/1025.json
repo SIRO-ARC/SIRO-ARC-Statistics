@@ -25,13 +25,13 @@
     "name": "Alathia"
   },
   {
-    "displayName": "[NUКE] Ana",
-    "tag": "NUКE",
+    "displayName": "[NUKE] Ana",
+    "tag": "NUKE",
     "name": "Ana"
   },
   {
-    "displayName": "[NUKE] Ana",
-    "tag": "NUKE",
+    "displayName": "[NUКE] Ana",
+    "tag": "NUКE",
     "name": "Ana"
   },
   {
@@ -150,6 +150,11 @@
     "name": "Blue Panda"
   },
   {
+    "displayName": "[TBP] booze bender",
+    "tag": "TBP",
+    "name": "booze bender"
+  },
+  {
     "displayName": "[TBP] Brancor",
     "tag": "TBP",
     "name": "Brancor"
@@ -185,6 +190,11 @@
     "name": "CityOfRaava"
   },
   {
+    "displayName": "[TBP] Clobberdob",
+    "tag": "TBP",
+    "name": "Clobberdob"
+  },
+  {
     "displayName": "[NUKE] Cora",
     "tag": "NUKE",
     "name": "Cora"
@@ -193,11 +203,6 @@
     "displayName": "[NUKE] Cowi",
     "tag": "NUKE",
     "name": "Cowi"
-  },
-  {
-    "displayName": "[TBP] D] Bree",
-    "tag": "TBP",
-    "name": "D] Bree"
   },
   {
     "displayName": "[TBP] Daniel",
@@ -278,6 +283,11 @@
     "displayName": "[NUKE] EmilySkyler",
     "tag": "NUKE",
     "name": "EmilySkyler"
+  },
+  {
+    "displayName": "[TBP] Erekk",
+    "tag": "TBP",
+    "name": "Erekk"
   },
   {
     "displayName": "[NUKE] eVega00",
@@ -425,6 +435,16 @@
     "name": "Kion"
   },
   {
+    "displayName": "[TBP] KnightMare",
+    "tag": "TBP",
+    "name": "KnightMare"
+  },
+  {
+    "displayName": "[NUKE] Kuzy",
+    "tag": "NUKE",
+    "name": "Kuzy"
+  },
+  {
     "displayName": "[TBP] Lapin",
     "tag": "TBP",
     "name": "Lapin"
@@ -555,6 +575,16 @@
     "name": "Mr Snow 2"
   },
   {
+    "displayName": "[TBP] MTW264",
+    "tag": "TBP",
+    "name": "MTW264"
+  },
+  {
+    "displayName": "[NUKE] Mukbo",
+    "tag": "NUKE",
+    "name": "Mukbo"
+  },
+  {
     "displayName": "[TBP] NativeRugrat",
     "tag": "TBP",
     "name": "NativeRugrat"
@@ -578,6 +608,11 @@
     "displayName": "[TBP] Nuktuk",
     "tag": "TBP",
     "name": "Nuktuk"
+  },
+  {
+    "displayName": "[NUKE] Numb Nutz",
+    "tag": "NUKE",
+    "name": "Numb Nutz"
   },
   {
     "displayName": "[TBP] OARomanoff",
@@ -683,6 +718,11 @@
     "displayName": "[NUKE] SANDMAN",
     "tag": "NUKE",
     "name": "SANDMAN"
+  },
+  {
+    "displayName": "[NUKE] Scriptic",
+    "tag": "NUKE",
+    "name": "Scriptic"
   },
   {
     "displayName": "[NUKE] SCRIPTIC",
@@ -793,11 +833,6 @@
     "displayName": "[SYG] Tbpts",
     "tag": "SYG",
     "name": "Tbpts"
-  },
-  {
-    "displayName": "[SYG] Tbpys",
-    "tag": "SYG",
-    "name": "Tbpys"
   },
   {
     "displayName": "[NUKE] Tbx",

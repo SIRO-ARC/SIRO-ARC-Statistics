@@ -490,13 +490,13 @@
     "name": "little"
   },
   {
-    "displayName": "[0328] Lord Daygo",
-    "tag": "0328",
+    "displayName": "[LOTO] Lord Daygo",
+    "tag": "LOTO",
     "name": "Lord Daygo"
   },
   {
-    "displayName": "[LOTO] Lord Daygo",
-    "tag": "LOTO",
+    "displayName": "[0328] Lord Daygo",
+    "tag": "0328",
     "name": "Lord Daygo"
   },
   {
@@ -563,6 +563,11 @@
     "displayName": "[LOTO] Mazapan",
     "tag": "LOTO",
     "name": "Mazapan"
+  },
+  {
+    "displayName": "[LOTO] Mazascam",
+    "tag": "LOTO",
+    "name": "Mazascam"
   },
   {
     "displayName": "MercyfulFate",
@@ -975,14 +980,14 @@
     "name": "tomopepe PL"
   },
   {
-    "displayName": "[LOTO] tomotope PL",
-    "tag": "LOTO",
-    "name": "tomotope PL"
-  },
-  {
     "displayName": "[SPQR] Trophy Wife",
     "tag": "SPQR",
     "name": "Trophy Wife"
+  },
+  {
+    "displayName": "[Huna] Valkyria",
+    "tag": "Huna",
+    "name": "Valkyria"
   },
   {
     "displayName": "[LOTO] Vampichoco",

@@ -1,8 +1,18 @@
 [
   {
+    "displayName": "[ASAP] 1Q1Q1Q",
+    "tag": "ASAP",
+    "name": "1Q1Q1Q"
+  },
+  {
     "displayName": "1Q1Q1Q",
     "tag": null,
     "name": "1Q1Q1Q"
+  },
+  {
+    "displayName": "[IRON] Adoctond1820",
+    "tag": "IRON",
+    "name": "Adoctond1820"
   },
   {
     "displayName": "Akmenra",
@@ -58,11 +68,6 @@
     "displayName": "[Tea] Bcamp",
     "tag": "Tea",
     "name": "Bcamp"
-  },
-  {
-    "displayName": "[Tea] Beechpuddin",
-    "tag": "Tea",
-    "name": "Beechpuddin"
   },
   {
     "displayName": "[IRON] Bhagudada",
@@ -185,11 +190,6 @@
     "name": "Egiliviate"
   },
   {
-    "displayName": "[Tea] Egiliviate",
-    "tag": "Tea",
-    "name": "Egiliviate"
-  },
-  {
     "displayName": "[IRON] Egiliviate",
     "tag": "IRON",
     "name": "Egiliviate"
@@ -235,11 +235,6 @@
     "name": "Flip"
   },
   {
-    "displayName": "[Tea] fOOk mE iron",
-    "tag": "Tea",
-    "name": "fOOk mE iron"
-  },
-  {
     "displayName": "[IRON] fOOkmEIron",
     "tag": "IRON",
     "name": "fOOkmEIron"
@@ -258,6 +253,11 @@
     "displayName": "[Tea]FriedStoner",
     "tag": "Tea",
     "name": "FriedStoner"
+  },
+  {
+    "displayName": "[Ref] Frigg",
+    "tag": "Ref",
+    "name": "Frigg"
   },
   {
     "displayName": "Genurealm",
@@ -380,11 +380,6 @@
     "name": "KnightOwl"
   },
   {
-    "displayName": "[Tea] Korra Tea",
-    "tag": "Tea",
-    "name": "Korra Tea"
-  },
-  {
     "displayName": "[Tea] KorraTea",
     "tag": "Tea",
     "name": "KorraTea"
@@ -393,6 +388,11 @@
     "displayName": "[Tea] Kyle",
     "tag": "Tea",
     "name": "Kyle"
+  },
+  {
+    "displayName": "KyoshisWife",
+    "tag": null,
+    "name": "KyoshisWife"
   },
   {
     "displayName": "[Ref] leader_783305",
@@ -428,6 +428,11 @@
     "displayName": "LochNess17",
     "tag": null,
     "name": "LochNess17"
+  },
+  {
+    "displayName": "lukas4445464",
+    "tag": null,
+    "name": "lukas4445464"
   },
   {
     "displayName": "[TTB] lukas4445464",
@@ -645,11 +650,6 @@
     "name": "Sarani"
   },
   {
-    "displayName": "[Tea] SERAPH24",
-    "tag": "Tea",
-    "name": "SERAPH24"
-  },
-  {
     "displayName": "[IRON] SERAPH24",
     "tag": "IRON",
     "name": "SERAPH24"
@@ -723,6 +723,11 @@
     "displayName": "[Ref] Thackitsme23",
     "tag": "Ref",
     "name": "Thackitsme23"
+  },
+  {
+    "displayName": "Tphillips",
+    "tag": null,
+    "name": "Tphillips"
   },
   {
     "displayName": "[Tea] Trinier",
@@ -1000,11 +1005,6 @@
     "name": "XIVDestIron"
   },
   {
-    "displayName": "[Tea] xivDestroyer",
-    "tag": "Tea",
-    "name": "xivDestroyer"
-  },
-  {
     "displayName": "[ZúZú] xivDestzuzu",
     "tag": "ZúZú",
     "name": "xivDestzuzu"
@@ -1058,11 +1058,6 @@
     "displayName": "[IRON] ˣᴵⱽGGrffᴵʳᵒⁿ",
     "tag": "IRON",
     "name": "ˣᴵⱽGGrffᴵʳᵒⁿ"
-  },
-  {
-    "displayName": "[Tea] xivKali",
-    "tag": "Tea",
-    "name": "xivKali"
   },
   {
     "displayName": "[ZúZú] xivKali zuzu",
@@ -1120,11 +1115,6 @@
     "name": "ˣᴵⱽOriᴵʳᵒⁿ"
   },
   {
-    "displayName": "[Tea] xivPadreIron",
-    "tag": "Tea",
-    "name": "xivPadreIron"
-  },
-  {
     "displayName": "[IRON] xivPadreIron",
     "tag": "IRON",
     "name": "xivPadreIron"
@@ -1175,11 +1165,6 @@
     "name": "XIVSANTA Iron"
   },
   {
-    "displayName": "[Tea] xivSANTAiron",
-    "tag": "Tea",
-    "name": "xivSANTAiron"
-  },
-  {
     "displayName": "[IRON] xivSANTAIron",
     "tag": "IRON",
     "name": "xivSANTAIron"
@@ -1213,11 +1198,6 @@
     "displayName": "[Tea] xivSvGPaŤ",
     "tag": "Tea",
     "name": "xivSvGPaŤ"
-  },
-  {
-    "displayName": "[Tea] xivSvGPAŤ",
-    "tag": "Tea",
-    "name": "xivSvGPAŤ"
   },
   {
     "displayName": "[Tea] XIVSvGPąŤ",

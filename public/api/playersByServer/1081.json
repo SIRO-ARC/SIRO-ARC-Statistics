@@ -1,5 +1,10 @@
 [
   {
+    "displayName": "[CDXX] Alasdair",
+    "tag": "CDXX",
+    "name": "Alasdair"
+  },
+  {
     "displayName": "[CDXX] AntiPower",
     "tag": "CDXX",
     "name": "AntiPower"
@@ -85,6 +90,11 @@
     "name": "coro"
   },
   {
+    "displayName": "Curio",
+    "tag": null,
+    "name": "Curio"
+  },
+  {
     "displayName": "[CTRL] Curio",
     "tag": "CTRL",
     "name": "Curio"
@@ -123,6 +133,11 @@
     "displayName": "[HAWT] dendelyne",
     "tag": "HAWT",
     "name": "dendelyne"
+  },
+  {
+    "displayName": "[CTRL] DktrDynamite",
+    "tag": "CTRL",
+    "name": "DktrDynamite"
   },
   {
     "displayName": "[SKYC] DktrDynamite",
@@ -170,9 +185,19 @@
     "name": "ExMouse"
   },
   {
+    "displayName": "[SKYC] ExoticPanda",
+    "tag": "SKYC",
+    "name": "ExoticPanda"
+  },
+  {
     "displayName": "[CTRL] Failing",
     "tag": "CTRL",
     "name": "Failing"
+  },
+  {
+    "displayName": "[SKYC] Farm me",
+    "tag": "SKYC",
+    "name": "Farm me"
   },
   {
     "displayName": "[CTRL] FearNinja",
@@ -275,6 +300,11 @@
     "name": "ᴵᴬᴹѕтяєѕѕ"
   },
   {
+    "displayName": "[CDXX] Jin j Osh",
+    "tag": "CDXX",
+    "name": "Jin j Osh"
+  },
+  {
     "displayName": "[CTRL] jo123",
     "tag": "CTRL",
     "name": "jo123"
@@ -370,6 +400,11 @@
     "name": "Lucifer 00"
   },
   {
+    "displayName": "[SKYC] Luzbel",
+    "tag": "SKYC",
+    "name": "Luzbel"
+  },
+  {
     "displayName": "[CTRL] Mako",
     "tag": "CTRL",
     "name": "Mako"
@@ -400,6 +435,11 @@
     "name": "Mighty Duck"
   },
   {
+    "displayName": "[SKYC] Mimikyu",
+    "tag": "SKYC",
+    "name": "Mimikyu"
+  },
+  {
     "displayName": "[CTRL] Mini Vandaele",
     "tag": "CTRL",
     "name": "Mini Vandaele"
@@ -408,6 +448,11 @@
     "displayName": "[CTRL] MiniVandaele",
     "tag": "CTRL",
     "name": "MiniVandaele"
+  },
+  {
+    "displayName": "[CDXX] MJ The Rogue",
+    "tag": "CDXX",
+    "name": "MJ The Rogue"
   },
   {
     "displayName": "[SKYC] Mona",
@@ -540,6 +585,11 @@
     "name": "ProfesorSage"
   },
   {
+    "displayName": "[CTRL] ProfesorVato",
+    "tag": "CTRL",
+    "name": "ProfesorVato"
+  },
+  {
     "displayName": "[SKYC] QueenTyzula",
     "tag": "SKYC",
     "name": "QueenTyzula"
@@ -590,6 +640,16 @@
     "name": "Sage Bolo"
   },
   {
+    "displayName": "[CTRL] Sage Bölö",
+    "tag": "CTRL",
+    "name": "Sage Bölö"
+  },
+  {
+    "displayName": "Sage Chris",
+    "tag": null,
+    "name": "Sage Chris"
+  },
+  {
     "displayName": "[CTRL] Sage Chris",
     "tag": "CTRL",
     "name": "Sage Chris"
@@ -598,6 +658,11 @@
     "displayName": "[CTRL] Sage Demi",
     "tag": "CTRL",
     "name": "Sage Demi"
+  },
+  {
+    "displayName": "[CDXX] Sage Dom Mom",
+    "tag": "CDXX",
+    "name": "Sage Dom Mom"
   },
   {
     "displayName": "[CTRL] Sage Dom Mom",
@@ -650,6 +715,16 @@
     "name": "SagePrinSess"
   },
   {
+    "displayName": "[CTRL] SagePrïnSess",
+    "tag": "CTRL",
+    "name": "SagePrïnSess"
+  },
+  {
+    "displayName": "[CDXX] SmokeSageWax",
+    "tag": "CDXX",
+    "name": "SmokeSageWax"
+  },
+  {
     "displayName": "[CTRL] SmokeSageWax",
     "tag": "CTRL",
     "name": "SmokeSageWax"
@@ -673,6 +748,11 @@
     "displayName": "[DxL] Socha",
     "tag": "DxL",
     "name": "Socha"
+  },
+  {
+    "displayName": "[SKYC] songoku",
+    "tag": "SKYC",
+    "name": "songoku"
   },
   {
     "displayName": "[SKYC] Sophilo",
@@ -730,6 +810,11 @@
     "name": "TheFrog"
   },
   {
+    "displayName": "[SKYC] Tínø",
+    "tag": "SKYC",
+    "name": "Tínø"
+  },
+  {
     "displayName": "[SKYC] Tino876",
     "tag": "SKYC",
     "name": "Tino876"
@@ -765,6 +850,11 @@
     "name": "VegaZ"
   },
   {
+    "displayName": "[CTRL] Violet29qxie",
+    "tag": "CTRL",
+    "name": "Violet29qxie"
+  },
+  {
     "displayName": "[CTRL] wallverine",
     "tag": "CTRL",
     "name": "wallverine"
@@ -788,6 +878,16 @@
     "displayName": "[SKYC] xTaggin",
     "tag": "SKYC",
     "name": "xTaggin"
+  },
+  {
+    "displayName": "[HAWT] Zencefil",
+    "tag": "HAWT",
+    "name": "Zencefil"
+  },
+  {
+    "displayName": "[CTRL] ωαllνєяιηє",
+    "tag": "CTRL",
+    "name": "ωαllνєяιηє"
   },
   {
     "displayName": "[CDXX] 嘉Balance",

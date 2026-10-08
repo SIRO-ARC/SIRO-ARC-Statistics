@@ -90,6 +90,11 @@
     "name": "BrenoPSD"
   },
   {
+    "displayName": "Bueby",
+    "tag": null,
+    "name": "Bueby"
+  },
+  {
     "displayName": "[KND] Bueby",
     "tag": "KND",
     "name": "Bueby"
@@ -170,6 +175,16 @@
     "name": "DeezFrimps"
   },
   {
+    "displayName": "[CRep] DIY",
+    "tag": "CRep",
+    "name": "DIY"
+  },
+  {
+    "displayName": "[KND] ＤＭＯＮツ",
+    "tag": "KND",
+    "name": "ＤＭＯＮツ"
+  },
+  {
     "displayName": "[KND] \u0000\u0000\u0000\u0000\u0000\u0000\u0000ＤＭＯＮツ",
     "tag": "KND",
     "name": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000ＤＭＯＮツ"
@@ -213,6 +228,11 @@
     "displayName": "[KND] Fatu",
     "tag": "KND",
     "name": "Fatu"
+  },
+  {
+    "displayName": "Frank",
+    "tag": null,
+    "name": "Frank"
   },
   {
     "displayName": "[KND] Frank",
@@ -340,6 +360,11 @@
     "name": "JCross"
   },
   {
+    "displayName": "Jefz",
+    "tag": null,
+    "name": "Jefz"
+  },
+  {
     "displayName": "[KND] Jefz",
     "tag": "KND",
     "name": "Jefz"
@@ -398,6 +423,11 @@
     "displayName": "[NRL]jmoney0256",
     "tag": "NRL",
     "name": "jmoney0256"
+  },
+  {
+    "displayName": "[KND] Jonathanfire",
+    "tag": "KND",
+    "name": "Jonathanfire"
   },
   {
     "displayName": "[KND] JonathanFire",
@@ -470,6 +500,11 @@
     "name": "leader_1575111"
   },
   {
+    "displayName": "[Tzz] leader_1597654",
+    "tag": "Tzz",
+    "name": "leader_1597654"
+  },
+  {
     "displayName": "[TLB] leader_1616970",
     "tag": "TLB",
     "name": "leader_1616970"
@@ -478,6 +513,11 @@
     "displayName": "[KND] leader_1618343",
     "tag": "KND",
     "name": "leader_1618343"
+  },
+  {
+    "displayName": "[Tzz] leader_1620508",
+    "tag": "Tzz",
+    "name": "leader_1620508"
   },
   {
     "displayName": "[TLB] leader_1620508",
@@ -528,6 +568,11 @@
     "displayName": "[KND] Midnight",
     "tag": "KND",
     "name": "Midnight"
+  },
+  {
+    "displayName": "[CRep] MingHua",
+    "tag": "CRep",
+    "name": "MingHua"
   },
   {
     "displayName": "[TLB] Morbius",
@@ -633,6 +678,11 @@
     "displayName": "[TLB] RELLER",
     "tag": "TLB",
     "name": "RELLER"
+  },
+  {
+    "displayName": "ron zs",
+    "tag": null,
+    "name": "ron zs"
   },
   {
     "displayName": "[KND] ron zs",
@@ -793,6 +843,11 @@
     "displayName": "[KND] VELASNEGRAS",
     "tag": "KND",
     "name": "VELASNEGRAS"
+  },
+  {
+    "displayName": "[KND] Viperwolf4",
+    "tag": "KND",
+    "name": "Viperwolf4"
   },
   {
     "displayName": "[TIE] Viperwolf4",

@@ -125,6 +125,11 @@
     "name": "Charizard"
   },
   {
+    "displayName": "CmdMagicLady",
+    "tag": null,
+    "name": "CmdMagicLady"
+  },
+  {
     "displayName": "[SWMP] Cobbler",
     "tag": "SWMP",
     "name": "Cobbler"
@@ -370,6 +375,11 @@
     "name": "LaRoche"
   },
   {
+    "displayName": "[123] leader_3178080",
+    "tag": "123",
+    "name": "leader_3178080"
+  },
+  {
     "displayName": "Lickindsplit",
     "tag": null,
     "name": "Lickindsplit"
@@ -408,6 +418,11 @@
     "displayName": "[CD64] Mai",
     "tag": "CD64",
     "name": "Mai"
+  },
+  {
+    "displayName": "MaryContrary",
+    "tag": null,
+    "name": "MaryContrary"
   },
   {
     "displayName": "[SWMP] may",
@@ -463,11 +478,6 @@
     "displayName": "[SWMP] Nusantara",
     "tag": "SWMP",
     "name": "Nusantara"
-  },
-  {
-    "displayName": "[CD64] NYC Baddie",
-    "tag": "CD64",
-    "name": "NYC Baddie"
   },
   {
     "displayName": "[CD64] Omega",
@@ -575,11 +585,6 @@
     "name": "Tara"
   },
   {
-    "displayName": "[PHNX] ThatBitchFox",
-    "tag": "PHNX",
-    "name": "ThatBitchFox"
-  },
-  {
     "displayName": "[PHNX] ThatBtchFox",
     "tag": "PHNX",
     "name": "ThatBtchFox"
@@ -608,6 +613,11 @@
     "displayName": "[SWMP] Twitch18",
     "tag": "SWMP",
     "name": "Twitch18"
+  },
+  {
+    "displayName": "[SWMP] TyLee",
+    "tag": "SWMP",
+    "name": "TyLee"
   },
   {
     "displayName": "[SWMP] Usapple",
@@ -658,6 +668,11 @@
     "displayName": "[CD64] タッグ",
     "tag": "CD64",
     "name": "タッグ"
+  },
+  {
+    "displayName": "[SWMP] 陰陽",
+    "tag": "SWMP",
+    "name": "陰陽"
   },
   {
     "displayName": "[SWMP] \u0000\u0000\u0000\u0000陰陽",

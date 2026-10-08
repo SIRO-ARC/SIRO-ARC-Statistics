@@ -455,6 +455,11 @@
     "name": "Homeylaksh"
   },
   {
+    "displayName": "[ANTS] hreowan",
+    "tag": "ANTS",
+    "name": "hreowan"
+  },
+  {
     "displayName": "[MOON] hreowan",
     "tag": "MOON",
     "name": "hreowan"
@@ -472,11 +477,6 @@
   {
     "displayName": "[IRON] IMPERATOR S",
     "tag": "IRON",
-    "name": "IMPERATOR S"
-  },
-  {
-    "displayName": "IMPERATOR S",
-    "tag": null,
     "name": "IMPERATOR S"
   },
   {
@@ -750,6 +750,11 @@
     "name": "Nezuko"
   },
   {
+    "displayName": "[SOAR] Nic",
+    "tag": "SOAR",
+    "name": "Nic"
+  },
+  {
     "displayName": "Nox",
     "tag": null,
     "name": "Nox"
@@ -763,11 +768,6 @@
     "displayName": "[IRON] Ø D I N",
     "tag": "IRON",
     "name": "Ø D I N"
-  },
-  {
-    "displayName": "[IRON] Ø D I N 火",
-    "tag": "IRON",
-    "name": "Ø D I N 火"
   },
   {
     "displayName": "[IRON] Ø D I N火",
@@ -835,6 +835,11 @@
     "name": "Princess Pam"
   },
   {
+    "displayName": "[SOAR] Rap2piti",
+    "tag": "SOAR",
+    "name": "Rap2piti"
+  },
+  {
     "displayName": "[SOAR] Rappiti",
     "tag": "SOAR",
     "name": "Rappiti"
@@ -860,6 +865,11 @@
     "name": "Rin"
   },
   {
+    "displayName": "[ANTS] Rinaeve",
+    "tag": "ANTS",
+    "name": "Rinaeve"
+  },
+  {
     "displayName": "[4NS] Rinaeve",
     "tag": "4NS",
     "name": "Rinaeve"
@@ -883,6 +893,11 @@
     "displayName": "[IRON] S0yunmagito",
     "tag": "IRON",
     "name": "S0yunmagito"
+  },
+  {
+    "displayName": "[ANTS] Samarcande",
+    "tag": "ANTS",
+    "name": "Samarcande"
   },
   {
     "displayName": "[MOON] Samarcande",
@@ -968,6 +983,11 @@
     "displayName": "[IRON] SpkySpkyBoom",
     "tag": "IRON",
     "name": "SpkySpkyBoom"
+  },
+  {
+    "displayName": "[MOON] Stark",
+    "tag": "MOON",
+    "name": "Stark"
   },
   {
     "displayName": "[IRON] starrfire",

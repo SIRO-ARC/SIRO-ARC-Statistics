@@ -150,13 +150,13 @@
     "name": "Cidolfus"
   },
   {
-    "displayName": "[420x] Clive",
-    "tag": "420x",
+    "displayName": "[STB] Clive",
+    "tag": "STB",
     "name": "Clive"
   },
   {
-    "displayName": "[STB] Clive",
-    "tag": "STB",
+    "displayName": "[420x] Clive",
+    "tag": "420x",
     "name": "Clive"
   },
   {
@@ -235,6 +235,11 @@
     "name": "esage"
   },
   {
+    "displayName": "[420x] EXA",
+    "tag": "420x",
+    "name": "EXA"
+  },
+  {
     "displayName": "[420x] Exahlus",
     "tag": "420x",
     "name": "Exahlus"
@@ -250,13 +255,13 @@
     "name": "Exahlus"
   },
   {
-    "displayName": "[420x] Firnstayn",
-    "tag": "420x",
+    "displayName": "[STB] Firnstayn",
+    "tag": "STB",
     "name": "Firnstayn"
   },
   {
-    "displayName": "[STB] Firnstayn",
-    "tag": "STB",
+    "displayName": "[420x] Firnstayn",
+    "tag": "420x",
     "name": "Firnstayn"
   },
   {
@@ -268,6 +273,11 @@
     "displayName": "[420x] Flame Lord",
     "tag": "420x",
     "name": "Flame Lord"
+  },
+  {
+    "displayName": "[420x] Gavin",
+    "tag": "420x",
+    "name": "Gavin"
   },
   {
     "displayName": "[RLF] Gavin",
@@ -368,6 +378,11 @@
     "displayName": "LadyTui",
     "tag": null,
     "name": "LadyTui"
+  },
+  {
+    "displayName": "Lapis",
+    "tag": null,
+    "name": "Lapis"
   },
   {
     "displayName": "[420x] Lapis",
@@ -555,13 +570,13 @@
     "name": "Nikita"
   },
   {
-    "displayName": "[420x] nobita",
-    "tag": "420x",
+    "displayName": "[STB] nobita",
+    "tag": "STB",
     "name": "nobita"
   },
   {
-    "displayName": "[STB] nobita",
-    "tag": "STB",
+    "displayName": "[420x] nobita",
+    "tag": "420x",
     "name": "nobita"
   },
   {
@@ -620,6 +635,11 @@
     "name": "Psycho92"
   },
   {
+    "displayName": "[420x] QTippy",
+    "tag": "420x",
+    "name": "QTippy"
+  },
+  {
     "displayName": "Quackyz",
     "tag": null,
     "name": "Quackyz"
@@ -638,11 +658,6 @@
     "displayName": "[STB] Relax",
     "tag": "STB",
     "name": "Relax"
-  },
-  {
-    "displayName": "[420x] RoB jN",
-    "tag": "420x",
-    "name": "RoB jN"
   },
   {
     "displayName": "[420x] RoB]N",
@@ -708,6 +723,16 @@
     "displayName": "[STB] SolomonPain",
     "tag": "STB",
     "name": "SolomonPain"
+  },
+  {
+    "displayName": "[420x] Someone II",
+    "tag": "420x",
+    "name": "Someone II"
+  },
+  {
+    "displayName": "[420x] Sulhaxe",
+    "tag": "420x",
+    "name": "Sulhaxe"
   },
   {
     "displayName": "[420x] SuspiriaHaze",

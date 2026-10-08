@@ -14,7 +14,8 @@ export default function AvatarRealmsCollide() {
   />
 </section>
 
-        <section className="mx-auto mt-8 lg:mt-[21px] max-w-6xl rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
+        <div className="grid grid-cols-1 gap-6 lg:grid-cols-3 lg:gap-6">
+        <section className="mx-auto mt-8 w-full max-w-none rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8 lg:mt-0">
 
   <div className="mb-6 text-center">
 
@@ -31,7 +32,7 @@ export default function AvatarRealmsCollide() {
 
   <Link
     to="/rankings"
-    className="group mx-auto block max-w-3xl rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+    className="group mx-auto block w-full max-w-none rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
   >
 
     <div className="text-center">
@@ -60,7 +61,7 @@ export default function AvatarRealmsCollide() {
 </section>
 
 
-<section className="mx-auto mt-10 lg:mt-10 max-w-6xl rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
+<section className="mx-auto mt-6 w-full max-w-none rounded-3xl lg:mt-0 border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
 
   <div className="mb-6 text-center">
     
@@ -76,7 +77,7 @@ export default function AvatarRealmsCollide() {
 
   <Link
   to="/mgm"
-  className="group mx-auto block max-w-3xl rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+  className="group mx-auto block w-full max-w-none rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
 >
   <div className="text-center">
 
@@ -100,7 +101,7 @@ export default function AvatarRealmsCollide() {
 </Link>
 
 </section>
-<section className="mx-auto mt-10 max-w-6xl rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
+<section className="mx-auto mt-6 w-full max-w-none rounded-3xl lg:mt-0 border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
 
   <div className="mb-6 text-center">
 
@@ -116,7 +117,7 @@ export default function AvatarRealmsCollide() {
 
   <Link
     to="/tools"
-    className="group mx-auto block max-w-3xl rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+    className="group mx-auto block w-full max-w-none rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
   >
     <div className="text-center">
 
@@ -141,8 +142,9 @@ export default function AvatarRealmsCollide() {
   </Link>
 
 </section>
-</div>
+        </div>
       <PoweredBy />
+      </div>
     </>
   );
 }

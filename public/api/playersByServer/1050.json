@@ -95,14 +95,19 @@
     "name": "Banana"
   },
   {
-    "displayName": "[DMN] Bear Cheese",
-    "tag": "DMN",
-    "name": "Bear Cheese"
+    "displayName": "[CHAI] BatNat",
+    "tag": "CHAI",
+    "name": "BatNat"
   },
   {
     "displayName": "[CHAI] Benitez",
     "tag": "CHAI",
     "name": "Benitez"
+  },
+  {
+    "displayName": "[DMN] Bryaxis",
+    "tag": "DMN",
+    "name": "Bryaxis"
   },
   {
     "displayName": "[DMN] cactusjuice",
@@ -120,6 +125,11 @@
     "name": "Caldavi"
   },
   {
+    "displayName": "[CHAI] Calsper",
+    "tag": "CHAI",
+    "name": "Calsper"
+  },
+  {
     "displayName": "[DMN] Cantinflas",
     "tag": "DMN",
     "name": "Cantinflas"
@@ -135,11 +145,6 @@
     "name": "Celestial13"
   },
   {
-    "displayName": "[CHAI] cheanonfire",
-    "tag": "CHAI",
-    "name": "cheanonfire"
-  },
-  {
     "displayName": "[CHAI] cheenonfire",
     "tag": "CHAI",
     "name": "cheenonfire"
@@ -150,9 +155,19 @@
     "name": "cheenonflre"
   },
   {
+    "displayName": "[CHAI] ChrisPartlow",
+    "tag": "CHAI",
+    "name": "ChrisPartlow"
+  },
+  {
     "displayName": "[CHAI] Cimii",
     "tag": "CHAI",
     "name": "Cimii"
+  },
+  {
+    "displayName": "[CHAI] Cordyceps",
+    "tag": "CHAI",
+    "name": "Cordyceps"
   },
   {
     "displayName": "[CHAI] Cristiancl",
@@ -203,6 +218,11 @@
     "displayName": "[CHAI] DaGhost7",
     "tag": "CHAI",
     "name": "DaGhost7"
+  },
+  {
+    "displayName": "Daisy",
+    "tag": null,
+    "name": "Daisy"
   },
   {
     "displayName": "[XFC] Daisy",
@@ -275,6 +295,11 @@
     "name": "Deviant"
   },
   {
+    "displayName": "[CHAI] DevyFazzbear",
+    "tag": "CHAI",
+    "name": "DevyFazzbear"
+  },
+  {
     "displayName": "[SAGE] Diego98",
     "tag": "SAGE",
     "name": "Diego98"
@@ -325,14 +350,19 @@
     "name": "ferarris"
   },
   {
-    "displayName": "[CHAI] ferraris",
-    "tag": "CHAI",
-    "name": "ferraris"
-  },
-  {
     "displayName": "[CHAI] fire lily",
     "tag": "CHAI",
     "name": "fire lily"
+  },
+  {
+    "displayName": "[CHAI] fire spirit",
+    "tag": "CHAI",
+    "name": "fire spirit"
+  },
+  {
+    "displayName": "[CHAI] Flame Ghost",
+    "tag": "CHAI",
+    "name": "Flame Ghost"
   },
   {
     "displayName": "[CHAI] Fungus",
@@ -343,6 +373,21 @@
     "displayName": "[GAIA] Fungus",
     "tag": "GAIA",
     "name": "Fungus"
+  },
+  {
+    "displayName": "[CHAI] Garwood",
+    "tag": "CHAI",
+    "name": "Garwood"
+  },
+  {
+    "displayName": "[CHAI] Ghost Rider",
+    "tag": "CHAI",
+    "name": "Ghost Rider"
+  },
+  {
+    "displayName": "[CHAI] GhostofArty",
+    "tag": "CHAI",
+    "name": "GhostofArty"
   },
   {
     "displayName": "[CHAI] ginger",
@@ -505,14 +550,14 @@
     "name": "kat"
   },
   {
-    "displayName": "[DMN] Kyoshi",
-    "tag": "DMN",
-    "name": "Kyoshi"
-  },
-  {
     "displayName": "[DMN] KyoShi",
     "tag": "DMN",
     "name": "KyoShi"
+  },
+  {
+    "displayName": "[CHAI] La Llorona",
+    "tag": "CHAI",
+    "name": "La Llorona"
   },
   {
     "displayName": "[CHAI] LABUBU",
@@ -630,6 +675,11 @@
     "name": "Mira"
   },
   {
+    "displayName": "[SAGE] Miyukǐ",
+    "tag": "SAGE",
+    "name": "Miyukǐ"
+  },
+  {
     "displayName": "[CHAI] Miyukǐ",
     "tag": "CHAI",
     "name": "Miyukǐ"
@@ -638,6 +688,16 @@
     "displayName": "[SAGE] MonkeyDLuffy",
     "tag": "SAGE",
     "name": "MonkeyDLuffy"
+  },
+  {
+    "displayName": "[CHAI] Ms Hurricane",
+    "tag": "CHAI",
+    "name": "Ms Hurricane"
+  },
+  {
+    "displayName": "[DMN] Munster CZ",
+    "tag": "DMN",
+    "name": "Munster CZ"
   },
   {
     "displayName": "[CHAI] natty",
@@ -653,6 +713,11 @@
     "displayName": "[SAGE] Nil",
     "tag": "SAGE",
     "name": "Nil"
+  },
+  {
+    "displayName": "[SAGE] Nilty",
+    "tag": "SAGE",
+    "name": "Nilty"
   },
   {
     "displayName": "[XFC] Nolteo",
@@ -870,6 +935,11 @@
     "name": "Sophia"
   },
   {
+    "displayName": "[CHAI] SpookedGoose",
+    "tag": "CHAI",
+    "name": "SpookedGoose"
+  },
+  {
     "displayName": "[SAGE] Stonebright",
     "tag": "SAGE",
     "name": "Stonebright"
@@ -883,6 +953,11 @@
     "displayName": "[SAGE] SUPER woMAN",
     "tag": "SAGE",
     "name": "SUPER woMAN"
+  },
+  {
+    "displayName": "[SAGE] Superman",
+    "tag": "SAGE",
+    "name": "Superman"
   },
   {
     "displayName": "[SAGE] Sursr",
@@ -955,6 +1030,16 @@
     "name": "Toombs4TW"
   },
   {
+    "displayName": "[SAGE] Torolocox",
+    "tag": "SAGE",
+    "name": "Torolocox"
+  },
+  {
+    "displayName": "Toshiro",
+    "tag": null,
+    "name": "Toshiro"
+  },
+  {
     "displayName": "[SAGE] Toshiro",
     "tag": "SAGE",
     "name": "Toshiro"
@@ -1013,6 +1098,11 @@
     "displayName": "[DMN] Xico",
     "tag": "DMN",
     "name": "Xico"
+  },
+  {
+    "displayName": "[DMN] XicoLantern",
+    "tag": "DMN",
+    "name": "XicoLantern"
   },
   {
     "displayName": "[DMN] XxGHOSTxX",

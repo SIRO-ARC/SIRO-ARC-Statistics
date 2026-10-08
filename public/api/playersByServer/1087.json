@@ -290,6 +290,11 @@
     "name": "generic cy"
   },
   {
+    "displayName": "[EFi] Geo",
+    "tag": "EFi",
+    "name": "Geo"
+  },
+  {
     "displayName": "GhostPringel",
     "tag": null,
     "name": "GhostPringel"
@@ -433,6 +438,11 @@
     "displayName": "[asd] leader_4058041",
     "tag": "asd",
     "name": "leader_4058041"
+  },
+  {
+    "displayName": "[Food] leader_4063735",
+    "tag": "Food",
+    "name": "leader_4063735"
   },
   {
     "displayName": "[WSTF] leader_4068623",
@@ -685,6 +695,11 @@
     "name": "RottieBoss"
   },
   {
+    "displayName": "[FBN] SABIOCIENT",
+    "tag": "FBN",
+    "name": "SABIOCIENT"
+  },
+  {
     "displayName": "SABIOCIENT",
     "tag": null,
     "name": "SABIOCIENT"
@@ -738,6 +753,11 @@
     "displayName": "[쁘LP쁘] SharkJo",
     "tag": "쁘LP쁘",
     "name": "SharkJo"
+  },
+  {
+    "displayName": "[tag] ShiRaven",
+    "tag": "tag",
+    "name": "ShiRaven"
   },
   {
     "displayName": "[tag] shortestking",
@@ -925,6 +945,11 @@
     "name": "ym hawkeye"
   },
   {
+    "displayName": "Zaemon",
+    "tag": null,
+    "name": "Zaemon"
+  },
+  {
     "displayName": "[EFi] Zaemon",
     "tag": "EFi",
     "name": "Zaemon"
@@ -943,6 +968,11 @@
     "displayName": "[쁘LP쁘] Zolti",
     "tag": "쁘LP쁘",
     "name": "Zolti"
+  },
+  {
+    "displayName": "[tag] Zukka canon",
+    "tag": "tag",
+    "name": "Zukka canon"
   },
   {
     "displayName": "Zukka canon",

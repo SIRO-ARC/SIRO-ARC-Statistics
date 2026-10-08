@@ -30,6 +30,11 @@
     "name": "ASWANG"
   },
   {
+    "displayName": "[AGNI] ATHENA",
+    "tag": "AGNI",
+    "name": "ATHENA"
+  },
+  {
     "displayName": "[AGNI] ATLAS",
     "tag": "AGNI",
     "name": "ATLAS"
@@ -110,6 +115,11 @@
     "name": "BK228"
   },
   {
+    "displayName": "[JKM] BLACKPHANTOM",
+    "tag": "JKM",
+    "name": "BLACKPHANTOM"
+  },
+  {
     "displayName": "Borre Shadow",
     "tag": null,
     "name": "Borre Shadow"
@@ -163,6 +173,11 @@
     "displayName": "[NOVA] Cupcake",
     "tag": "NOVA",
     "name": "Cupcake"
+  },
+  {
+    "displayName": "[BsL] Dabi Afton",
+    "tag": "BsL",
+    "name": "Dabi Afton"
   },
   {
     "displayName": "Dabi Afton",
@@ -668,6 +683,11 @@
     "displayName": "[AGNI]Vira",
     "tag": "AGNI",
     "name": "Vira"
+  },
+  {
+    "displayName": "[2137] White Lotus",
+    "tag": "2137",
+    "name": "White Lotus"
   },
   {
     "displayName": "[AGNI] winds26",

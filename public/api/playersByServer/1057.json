@@ -60,6 +60,11 @@
     "name": "allpatch"
   },
   {
+    "displayName": "[GAY] AndyAllAlong",
+    "tag": "GAY",
+    "name": "AndyAllAlong"
+  },
+  {
     "displayName": "[pand] anngtop",
     "tag": "pand",
     "name": "anngtop"
@@ -135,11 +140,6 @@
     "name": "bmrangguy"
   },
   {
-    "displayName": "[1057] bmrrannguy",
-    "tag": "1057",
-    "name": "bmrrannguy"
-  },
-  {
     "displayName": "Bobo",
     "tag": null,
     "name": "Bobo"
@@ -168,6 +168,11 @@
     "displayName": "[1057] Brodic",
     "tag": "1057",
     "name": "Brodic"
+  },
+  {
+    "displayName": "[GAY] Carli",
+    "tag": "GAY",
+    "name": "Carli"
   },
   {
     "displayName": "[Deu] Chaine",
@@ -215,6 +220,11 @@
     "name": "Club Suki"
   },
   {
+    "displayName": "[GAY] Corwyning",
+    "tag": "GAY",
+    "name": "Corwyning"
+  },
+  {
     "displayName": "Cuqui",
     "tag": null,
     "name": "Cuqui"
@@ -223,6 +233,11 @@
     "displayName": "[SORA] Cynt",
     "tag": "SORA",
     "name": "Cynt"
+  },
+  {
+    "displayName": "[SORA] Dah bolder",
+    "tag": "SORA",
+    "name": "Dah bolder"
   },
   {
     "displayName": "Dah bolder",
@@ -250,11 +265,6 @@
     "name": "Dah Bolder"
   },
   {
-    "displayName": "[1057] Dalcom",
-    "tag": "1057",
-    "name": "Dalcom"
-  },
-  {
     "displayName": "[BTA] Dalcom",
     "tag": "BTA",
     "name": "Dalcom"
@@ -273,6 +283,11 @@
     "displayName": "Darkfireruns",
     "tag": null,
     "name": "Darkfireruns"
+  },
+  {
+    "displayName": "[GAY] den",
+    "tag": "GAY",
+    "name": "den"
   },
   {
     "displayName": "Derp Palace",
@@ -298,6 +313,11 @@
     "displayName": "[SORA] dj vape",
     "tag": "SORA",
     "name": "dj vape"
+  },
+  {
+    "displayName": "[SORA] Doctor Who",
+    "tag": "SORA",
+    "name": "Doctor Who"
   },
   {
     "displayName": "DodoJEMs",
@@ -350,6 +370,11 @@
     "name": "EwaLeszcz"
   },
   {
+    "displayName": "[GAY] FartingCat",
+    "tag": "GAY",
+    "name": "FartingCat"
+  },
+  {
     "displayName": "[SORA] FeedRunner",
     "tag": "SORA",
     "name": "FeedRunner"
@@ -365,14 +390,19 @@
     "name": "Feodora"
   },
   {
+    "displayName": "[GAY] Fil199",
+    "tag": "GAY",
+    "name": "Fil199"
+  },
+  {
+    "displayName": "[GAY] Flappy",
+    "tag": "GAY",
+    "name": "Flappy"
+  },
+  {
     "displayName": "Flavour",
     "tag": null,
     "name": "Flavour"
-  },
-  {
-    "displayName": "[1057] FriendlyMomo",
-    "tag": "1057",
-    "name": "FriendlyMomo"
   },
   {
     "displayName": "[BTA] FriendlyMomo",
@@ -395,19 +425,24 @@
     "name": "GramGram"
   },
   {
+    "displayName": "[GAY] Hair Loopies",
+    "tag": "GAY",
+    "name": "Hair Loopies"
+  },
+  {
     "displayName": "[STA] Hair Loopies",
     "tag": "STA",
     "name": "Hair Loopies"
   },
   {
+    "displayName": "[GAY] Herreros7",
+    "tag": "GAY",
+    "name": "Herreros7"
+  },
+  {
     "displayName": "[SORA] Hespan",
     "tag": "SORA",
     "name": "Hespan"
-  },
-  {
-    "displayName": "[1057] Holdin",
-    "tag": "1057",
-    "name": "Holdin"
   },
   {
     "displayName": "[BTA] Holdin",
@@ -485,11 +520,6 @@
     "name": "Kelp"
   },
   {
-    "displayName": "[1057] Kiddo",
-    "tag": "1057",
-    "name": "Kiddo"
-  },
-  {
     "displayName": "[BTA] Kiddo",
     "tag": "BTA",
     "name": "Kiddo"
@@ -540,6 +570,11 @@
     "name": "krostron"
   },
   {
+    "displayName": "[SORA] Kuma",
+    "tag": "SORA",
+    "name": "Kuma"
+  },
+  {
     "displayName": "Kuma",
     "tag": null,
     "name": "Kuma"
@@ -580,11 +615,6 @@
     "name": "Lady60 Momo"
   },
   {
-    "displayName": "[1057] LadyLei1551",
-    "tag": "1057",
-    "name": "LadyLei1551"
-  },
-  {
     "displayName": "[BTA] LadyLei1551",
     "tag": "BTA",
     "name": "LadyLei1551"
@@ -605,6 +635,16 @@
     "name": "Lagi"
   },
   {
+    "displayName": "[GAY] Lawrin",
+    "tag": "GAY",
+    "name": "Lawrin"
+  },
+  {
+    "displayName": "[2515] leader_1500434",
+    "tag": "2515",
+    "name": "leader_1500434"
+  },
+  {
     "displayName": "[astr] leader_2978334",
     "tag": "astr",
     "name": "leader_2978334"
@@ -620,9 +660,14 @@
     "name": "leader_2981573"
   },
   {
-    "displayName": "[1057] Lee",
-    "tag": "1057",
-    "name": "Lee"
+    "displayName": "[GAY] LeeXiaoLong",
+    "tag": "GAY",
+    "name": "LeeXiaoLong"
+  },
+  {
+    "displayName": "[GAY] Lena",
+    "tag": "GAY",
+    "name": "Lena"
   },
   {
     "displayName": "[STA] Lena",
@@ -675,11 +720,6 @@
     "name": "M4Ni4C"
   },
   {
-    "displayName": "[1057] mai",
-    "tag": "1057",
-    "name": "mai"
-  },
-  {
     "displayName": "[BTA] mai",
     "tag": "BTA",
     "name": "mai"
@@ -703,6 +743,11 @@
     "displayName": "[SORA] Mee",
     "tag": "SORA",
     "name": "Mee"
+  },
+  {
+    "displayName": "[SORA] meianrdteh",
+    "tag": "SORA",
+    "name": "meianrdteh"
   },
   {
     "displayName": "[SORA] Melissa",
@@ -738,6 +783,11 @@
     "displayName": "[Avtr] MukUup",
     "tag": "Avtr",
     "name": "MukUup"
+  },
+  {
+    "displayName": "[GAY] Mygoul930",
+    "tag": "GAY",
+    "name": "Mygoul930"
   },
   {
     "displayName": "Nahala",
@@ -845,14 +895,14 @@
     "name": "Poseidon"
   },
   {
+    "displayName": "[GAY] Prince den",
+    "tag": "GAY",
+    "name": "Prince den"
+  },
+  {
     "displayName": "[BTA] PrincessMomo",
     "tag": "BTA",
     "name": "PrincessMomo"
-  },
-  {
-    "displayName": "[1057] PrincessYue",
-    "tag": "1057",
-    "name": "PrincessYue"
   },
   {
     "displayName": "[BTA] PrincessYue",
@@ -955,9 +1005,19 @@
     "name": "Slurm"
   },
   {
+    "displayName": "[GAY] Snow Leopard",
+    "tag": "GAY",
+    "name": "Snow Leopard"
+  },
+  {
     "displayName": "[SORA] Snowminx",
     "tag": "SORA",
     "name": "Snowminx"
+  },
+  {
+    "displayName": "[GAY] Sorai",
+    "tag": "GAY",
+    "name": "Sorai"
   },
   {
     "displayName": "[Avtr] Spik3ball",
@@ -990,11 +1050,6 @@
     "name": "Swiftnuke"
   },
   {
-    "displayName": "[1057] szgym",
-    "tag": "1057",
-    "name": "szgym"
-  },
-  {
     "displayName": "[BTA] szgym",
     "tag": "BTA",
     "name": "szgym"
@@ -1010,9 +1065,19 @@
     "name": "ThBlueSpirit"
   },
   {
+    "displayName": "[GAY] Tigg",
+    "tag": "GAY",
+    "name": "Tigg"
+  },
+  {
     "displayName": "[SORA] Tina",
     "tag": "SORA",
     "name": "Tina"
+  },
+  {
+    "displayName": "[GAY] Tinu",
+    "tag": "GAY",
+    "name": "Tinu"
   },
   {
     "displayName": "[Avtr] TLanky",
@@ -1138,6 +1203,11 @@
     "displayName": "[SORA] zhuzhu",
     "tag": "SORA",
     "name": "zhuzhu"
+  },
+  {
+    "displayName": "[GAY] zLethargyz",
+    "tag": "GAY",
+    "name": "zLethargyz"
   },
   {
     "displayName": "zutara",

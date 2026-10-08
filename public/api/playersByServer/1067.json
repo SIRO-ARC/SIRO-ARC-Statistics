@@ -20,6 +20,11 @@
     "name": "Air engineer"
   },
   {
+    "displayName": "[US6] AlexBlue98",
+    "tag": "US6",
+    "name": "AlexBlue98"
+  },
+  {
     "displayName": "[WE1] Altezza93",
     "tag": "WE1",
     "name": "Altezza93"
@@ -128,11 +133,6 @@
     "displayName": "[SHH] Capibara",
     "tag": "SHH",
     "name": "Capibara"
-  },
-  {
-    "displayName": "[AVTR] carrot",
-    "tag": "AVTR",
-    "name": "carrot"
   },
   {
     "displayName": "CCMeow",
@@ -285,13 +285,13 @@
     "name": "Greggor"
   },
   {
-    "displayName": "[AVTR] Greysoul",
-    "tag": "AVTR",
+    "displayName": "[MSS] Greysoul",
+    "tag": "MSS",
     "name": "Greysoul"
   },
   {
-    "displayName": "[MSS] Greysoul",
-    "tag": "MSS",
+    "displayName": "[AVTR] Greysoul",
+    "tag": "AVTR",
     "name": "Greysoul"
   },
   {
@@ -313,6 +313,11 @@
     "displayName": "Hobby",
     "tag": null,
     "name": "Hobby"
+  },
+  {
+    "displayName": "[WTRS] Hopeless",
+    "tag": "WTRS",
+    "name": "Hopeless"
   },
   {
     "displayName": "Hopeless",
@@ -443,6 +448,11 @@
     "displayName": "KevinoDaWise",
     "tag": null,
     "name": "KevinoDaWise"
+  },
+  {
+    "displayName": "[WNM] KING JP",
+    "tag": "WNM",
+    "name": "KING JP"
   },
   {
     "displayName": "[ATI] King Saleh",
@@ -580,11 +590,6 @@
     "name": "Nameless"
   },
   {
-    "displayName": "[AVTR] NoDzilla",
-    "tag": "AVTR",
-    "name": "NoDzilla"
-  },
-  {
     "displayName": "[AVTR] NoDZilla",
     "tag": "AVTR",
     "name": "NoDZilla"
@@ -710,6 +715,11 @@
     "name": "Sandman"
   },
   {
+    "displayName": "[DAN] Schmebulok",
+    "tag": "DAN",
+    "name": "Schmebulok"
+  },
+  {
     "displayName": "[MSS] Serenity",
     "tag": "MSS",
     "name": "Serenity"
@@ -783,6 +793,11 @@
     "displayName": "[MSS] The FourWinds",
     "tag": "MSS",
     "name": "The FourWinds"
+  },
+  {
+    "displayName": "[TTT] TheFourWinds",
+    "tag": "TTT",
+    "name": "TheFourWinds"
   },
   {
     "displayName": "TheFourWinds",
@@ -943,11 +958,6 @@
     "displayName": "[TTT] Ф Napoleon Ф",
     "tag": "TTT",
     "name": "Ф Napoleon Ф"
-  },
-  {
-    "displayName": "[MSS] प्रदूOcean Eyes波",
-    "tag": "MSS",
-    "name": "प्रदूOcean Eyes波"
   },
   {
     "displayName": "[TTT] 声声Oolong",

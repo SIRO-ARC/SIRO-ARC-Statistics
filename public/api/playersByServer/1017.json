@@ -105,11 +105,6 @@
     "name": "Badgermole"
   },
   {
-    "displayName": "[Tea] Badgermole",
-    "tag": "Tea",
-    "name": "Badgermole"
-  },
-  {
     "displayName": "[τεα] Badgermole",
     "tag": "τεα",
     "name": "Badgermole"
@@ -170,11 +165,6 @@
     "name": "Buccsnort"
   },
   {
-    "displayName": "[Tεα] Buccsnorτ",
-    "tag": "Tεα",
-    "name": "Buccsnorτ"
-  },
-  {
     "displayName": "[RTH] Cactus juice",
     "tag": "RTH",
     "name": "Cactus juice"
@@ -232,11 +222,6 @@
   {
     "displayName": "[τεα] Cmdre Revan",
     "tag": "τεα",
-    "name": "Cmdre Revan"
-  },
-  {
-    "displayName": "[Tεα] Cmdre Revan",
-    "tag": "Tεα",
     "name": "Cmdre Revan"
   },
   {
@@ -478,6 +463,11 @@
     "displayName": "[RTH] MsPotato",
     "tag": "RTH",
     "name": "MsPotato"
+  },
+  {
+    "displayName": "[тєα] ɱıʂτ",
+    "tag": "тєα",
+    "name": "ɱıʂτ"
   },
   {
     "displayName": "[тєα] naj",

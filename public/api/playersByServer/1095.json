@@ -5,9 +5,19 @@
     "name": "Aangkor"
   },
   {
+    "displayName": "[GDNS] AiDôNaiA",
+    "tag": "GDNS",
+    "name": "AiDôNaiA"
+  },
+  {
     "displayName": "[Tian] Airturtle",
     "tag": "Tian",
     "name": "Airturtle"
+  },
+  {
+    "displayName": "[RUSH] Alejandro",
+    "tag": "RUSH",
+    "name": "Alejandro"
   },
   {
     "displayName": "[REDL] Alejandro",
@@ -50,6 +60,11 @@
     "name": "Arai93335"
   },
   {
+    "displayName": "[RUSH] asamimarryme",
+    "tag": "RUSH",
+    "name": "asamimarryme"
+  },
+  {
     "displayName": "[TDL] asamimarryme",
     "tag": "TDL",
     "name": "asamimarryme"
@@ -75,9 +90,19 @@
     "name": "Aurelius"
   },
   {
+    "displayName": "[RUSH] AveryBig",
+    "tag": "RUSH",
+    "name": "AveryBig"
+  },
+  {
     "displayName": "[TDL] AveryBig",
     "tag": "TDL",
     "name": "AveryBig"
+  },
+  {
+    "displayName": "[RUSH] Azula",
+    "tag": "RUSH",
+    "name": "Azula"
   },
   {
     "displayName": "[REDL] Azula",
@@ -93,6 +118,16 @@
     "displayName": "[Arrg] B00tyB8ter",
     "tag": "Arrg",
     "name": "B00tyB8ter"
+  },
+  {
+    "displayName": "[RUSH] BaangSat",
+    "tag": "RUSH",
+    "name": "BaangSat"
+  },
+  {
+    "displayName": "[Tian] Baby Po Po",
+    "tag": "Tian",
+    "name": "Baby Po Po"
   },
   {
     "displayName": "[REDL] BabyRyan",
@@ -130,6 +165,11 @@
     "name": "Blizzard"
   },
   {
+    "displayName": "[RUSH] Bloodaxe",
+    "tag": "RUSH",
+    "name": "Bloodaxe"
+  },
+  {
     "displayName": "[TDL] Bloodaxe",
     "tag": "TDL",
     "name": "Bloodaxe"
@@ -138,6 +178,11 @@
     "displayName": "[TRo] BloodRose",
     "tag": "TRo",
     "name": "BloodRose"
+  },
+  {
+    "displayName": "[RUSH] Bobbilly",
+    "tag": "RUSH",
+    "name": "Bobbilly"
   },
   {
     "displayName": "[TDL] Bobbilly",
@@ -153,6 +198,11 @@
     "displayName": "[Tian] Bryden",
     "tag": "Tian",
     "name": "Bryden"
+  },
+  {
+    "displayName": "[RUSH] BuckeyeRM",
+    "tag": "RUSH",
+    "name": "BuckeyeRM"
   },
   {
     "displayName": "[TDL] BuckeyeRM",
@@ -185,9 +235,24 @@
     "name": "calen"
   },
   {
+    "displayName": "[GDNS] Calistica",
+    "tag": "GDNS",
+    "name": "Calistica"
+  },
+  {
+    "displayName": "[GDNS] Camilo1401",
+    "tag": "GDNS",
+    "name": "Camilo1401"
+  },
+  {
     "displayName": "[AXE] Cervecita",
     "tag": "AXE",
     "name": "Cervecita"
+  },
+  {
+    "displayName": "[RUSH] Charlie",
+    "tag": "RUSH",
+    "name": "Charlie"
   },
   {
     "displayName": "[TDL] Charlie",
@@ -205,9 +270,34 @@
     "name": "CheekyRafiki"
   },
   {
+    "displayName": "[GDNS] Chicken88",
+    "tag": "GDNS",
+    "name": "Chicken88"
+  },
+  {
+    "displayName": "[GDNS] Chickenwing",
+    "tag": "GDNS",
+    "name": "Chickenwing"
+  },
+  {
     "displayName": "[Tian] ChocoBear",
     "tag": "Tian",
     "name": "ChocoBear"
+  },
+  {
+    "displayName": "[Tian] Coltherstone",
+    "tag": "Tian",
+    "name": "Coltherstone"
+  },
+  {
+    "displayName": "[GDNS] Cornhusker",
+    "tag": "GDNS",
+    "name": "Cornhusker"
+  },
+  {
+    "displayName": "[GDNS] D1rtyDan",
+    "tag": "GDNS",
+    "name": "D1rtyDan"
   },
   {
     "displayName": "[Tian] daddy",
@@ -230,6 +320,11 @@
     "name": "Deadshot"
   },
   {
+    "displayName": "[GDNS] doomdydoom",
+    "tag": "GDNS",
+    "name": "doomdydoom"
+  },
+  {
     "displayName": "[TDL] Doric",
     "tag": "TDL",
     "name": "Doric"
@@ -245,6 +340,11 @@
     "name": "Doubt"
   },
   {
+    "displayName": "[RUSH] Dumbonu",
+    "tag": "RUSH",
+    "name": "Dumbonu"
+  },
+  {
     "displayName": "[REDL] Dumbonu",
     "tag": "REDL",
     "name": "Dumbonu"
@@ -258,6 +358,11 @@
     "displayName": "[Tian] Ephemeral",
     "tag": "Tian",
     "name": "Ephemeral"
+  },
+  {
+    "displayName": "EpicFail",
+    "tag": null,
+    "name": "EpicFail"
   },
   {
     "displayName": "[Tian] EpicFail",
@@ -278,6 +383,11 @@
     "displayName": "[REDL] eXAM",
     "tag": "REDL",
     "name": "eXAM"
+  },
+  {
+    "displayName": "[RUSH] Felicia",
+    "tag": "RUSH",
+    "name": "Felicia"
   },
   {
     "displayName": "[REDL] Felicia",
@@ -305,9 +415,24 @@
     "name": "FinalFlash"
   },
   {
+    "displayName": "[GDNS] FoxQueen",
+    "tag": "GDNS",
+    "name": "FoxQueen"
+  },
+  {
+    "displayName": "Gatis",
+    "tag": null,
+    "name": "Gatis"
+  },
+  {
     "displayName": "[Tian] Gatis",
     "tag": "Tian",
     "name": "Gatis"
+  },
+  {
+    "displayName": "[RUSH] General Hao",
+    "tag": "RUSH",
+    "name": "General Hao"
   },
   {
     "displayName": "[REDL] germanos",
@@ -350,6 +475,11 @@
     "name": "GumyGladiatr"
   },
   {
+    "displayName": "[RUSH] GuzvidLand",
+    "tag": "RUSH",
+    "name": "GuzvidLand"
+  },
+  {
     "displayName": "[TDL] GuzvidLand",
     "tag": "TDL",
     "name": "GuzvidLand"
@@ -365,9 +495,24 @@
     "name": "HaoMilk"
   },
   {
+    "displayName": "[GDNS] hater",
+    "tag": "GDNS",
+    "name": "hater"
+  },
+  {
+    "displayName": "[RUSH] Hiwa",
+    "tag": "RUSH",
+    "name": "Hiwa"
+  },
+  {
     "displayName": "[REDL] Hiwa",
     "tag": "REDL",
     "name": "Hiwa"
+  },
+  {
+    "displayName": "[RUSH] Horse Bender",
+    "tag": "RUSH",
+    "name": "Horse Bender"
   },
   {
     "displayName": "[REDL] Horse Bender",
@@ -380,6 +525,11 @@
     "name": "Horse Bender"
   },
   {
+    "displayName": "[RUSH] ikadatom",
+    "tag": "RUSH",
+    "name": "ikadatom"
+  },
+  {
     "displayName": "[REDL] ikadatom",
     "tag": "REDL",
     "name": "ikadatom"
@@ -388,6 +538,11 @@
     "displayName": "[TRL] ikadatom",
     "tag": "TRL",
     "name": "ikadatom"
+  },
+  {
+    "displayName": "[RUSH] Illiris",
+    "tag": "RUSH",
+    "name": "Illiris"
   },
   {
     "displayName": "[REDL] Illiris",
@@ -420,9 +575,29 @@
     "name": "KANTARA"
   },
   {
+    "displayName": "[GDNS] KimiKat",
+    "tag": "GDNS",
+    "name": "KimiKat"
+  },
+  {
+    "displayName": "[GDNS] KingKupo",
+    "tag": "GDNS",
+    "name": "KingKupo"
+  },
+  {
+    "displayName": "[RUSH] KⁱⁿᵍRʸᵃⁿ",
+    "tag": "RUSH",
+    "name": "KⁱⁿᵍRʸᵃⁿ"
+  },
+  {
     "displayName": "[TBL] kiyoka",
     "tag": "TBL",
     "name": "kiyoka"
+  },
+  {
+    "displayName": "[GDNS] Komotari",
+    "tag": "GDNS",
+    "name": "Komotari"
   },
   {
     "displayName": "[NPO] KorrAsami23",
@@ -450,9 +625,19 @@
     "name": "kozuka"
   },
   {
+    "displayName": "[RUSH] Krissey",
+    "tag": "RUSH",
+    "name": "Krissey"
+  },
+  {
     "displayName": "[TDL] Krissey",
     "tag": "TDL",
     "name": "Krissey"
+  },
+  {
+    "displayName": "[RUSH] Kwistyyy",
+    "tag": "RUSH",
+    "name": "Kwistyyy"
   },
   {
     "displayName": "[REDL] Kwistyyy",
@@ -465,6 +650,11 @@
     "name": "Kwistyyy"
   },
   {
+    "displayName": "[RUSH] Kyros",
+    "tag": "RUSH",
+    "name": "Kyros"
+  },
+  {
     "displayName": "[REDL] Kyros",
     "tag": "REDL",
     "name": "Kyros"
@@ -473,6 +663,11 @@
     "displayName": "[TRL] Kyros",
     "tag": "TRL",
     "name": "Kyros"
+  },
+  {
+    "displayName": "[RUSH] Langustel",
+    "tag": "RUSH",
+    "name": "Langustel"
   },
   {
     "displayName": "[TDL] Langustel",
@@ -515,6 +710,11 @@
     "name": "Lina"
   },
   {
+    "displayName": "[GDNS] Lord Ari",
+    "tag": "GDNS",
+    "name": "Lord Ari"
+  },
+  {
     "displayName": "[TDL] mantashaha",
     "tag": "TDL",
     "name": "mantashaha"
@@ -523,6 +723,11 @@
     "displayName": "[TRL] Marla",
     "tag": "TRL",
     "name": "Marla"
+  },
+  {
+    "displayName": "MfSweg",
+    "tag": null,
+    "name": "MfSweg"
   },
   {
     "displayName": "[TBL] Mike D VX",
@@ -565,6 +770,16 @@
     "name": "Mulcha"
   },
   {
+    "displayName": "[GDNS] Mvth",
+    "tag": "GDNS",
+    "name": "Mvth"
+  },
+  {
+    "displayName": "[RUSH] MyCabbages",
+    "tag": "RUSH",
+    "name": "MyCabbages"
+  },
+  {
     "displayName": "[TDL] MyCabbages",
     "tag": "TDL",
     "name": "MyCabbages"
@@ -575,9 +790,29 @@
     "name": "MyCabbages"
   },
   {
+    "displayName": "[GDNS] MylesOfLag",
+    "tag": "GDNS",
+    "name": "MylesOfLag"
+  },
+  {
+    "displayName": "[RUSH] Natte Matt",
+    "tag": "RUSH",
+    "name": "Natte Matt"
+  },
+  {
     "displayName": "[TDL] Natte Matt",
     "tag": "TDL",
     "name": "Natte Matt"
+  },
+  {
+    "displayName": "[GDNS] NecroNyx",
+    "tag": "GDNS",
+    "name": "NecroNyx"
+  },
+  {
+    "displayName": "[GDNS] Niff",
+    "tag": "GDNS",
+    "name": "Niff"
   },
   {
     "displayName": "[Tian] NightFury",
@@ -590,6 +825,11 @@
     "name": "NightFury"
   },
   {
+    "displayName": "[GDNS] NightKorra",
+    "tag": "GDNS",
+    "name": "NightKorra"
+  },
+  {
     "displayName": "[AXE] Nina",
     "tag": "AXE",
     "name": "Nina"
@@ -598,6 +838,11 @@
     "displayName": "[BSS] Nina",
     "tag": "BSS",
     "name": "Nina"
+  },
+  {
+    "displayName": "[Tian] Ninjaatnight",
+    "tag": "Tian",
+    "name": "Ninjaatnight"
   },
   {
     "displayName": "[REDL] NOMIKO",
@@ -625,6 +870,11 @@
     "name": "oatz"
   },
   {
+    "displayName": "[RUSH] otterlybored",
+    "tag": "RUSH",
+    "name": "otterlybored"
+  },
+  {
     "displayName": "[TDL] otterlybored",
     "tag": "TDL",
     "name": "otterlybored"
@@ -633,6 +883,11 @@
     "displayName": "[NPO] otterlybored",
     "tag": "NPO",
     "name": "otterlybored"
+  },
+  {
+    "displayName": "[RUSH] Pentapox",
+    "tag": "RUSH",
+    "name": "Pentapox"
   },
   {
     "displayName": "[TDL] Pentapox",
@@ -645,6 +900,11 @@
     "name": "Peppa"
   },
   {
+    "displayName": "[RUSH] PierreJr",
+    "tag": "RUSH",
+    "name": "PierreJr"
+  },
+  {
     "displayName": "[REDL] PierreJr",
     "tag": "REDL",
     "name": "PierreJr"
@@ -653,6 +913,11 @@
     "displayName": "[TRL] PierreJr",
     "tag": "TRL",
     "name": "PierreJr"
+  },
+  {
+    "displayName": "[RUSH] pik",
+    "tag": "RUSH",
+    "name": "pik"
   },
   {
     "displayName": "[TDL] pik",
@@ -670,9 +935,24 @@
     "name": "PortAuGoose"
   },
   {
+    "displayName": "[GDNS] PotatoStick",
+    "tag": "GDNS",
+    "name": "PotatoStick"
+  },
+  {
     "displayName": "[SO Z] Prince Zuko",
     "tag": "SO Z",
     "name": "Prince Zuko"
+  },
+  {
+    "displayName": "[RUSH] PʳⁱⁿᶜᵉRʸᵃⁿ",
+    "tag": "RUSH",
+    "name": "PʳⁱⁿᶜᵉRʸᵃⁿ"
+  },
+  {
+    "displayName": "[RUSH] Professor",
+    "tag": "RUSH",
+    "name": "Professor"
   },
   {
     "displayName": "[REDL] Professor",
@@ -698,6 +978,11 @@
     "displayName": "[Tian] Ratlan",
     "tag": "Tian",
     "name": "Ratlan"
+  },
+  {
+    "displayName": "[RUSH] Rei Tut",
+    "tag": "RUSH",
+    "name": "Rei Tut"
   },
   {
     "displayName": "[TDL] Rei Tut",
@@ -735,9 +1020,19 @@
     "name": "Sabrina"
   },
   {
+    "displayName": "[GDNS] Saki",
+    "tag": "GDNS",
+    "name": "Saki"
+  },
+  {
     "displayName": "[TDL] Samme",
     "tag": "TDL",
     "name": "Samme"
+  },
+  {
+    "displayName": "[GDNS] Scorsese",
+    "tag": "GDNS",
+    "name": "Scorsese"
   },
   {
     "displayName": "[Tian] SDGeneral",
@@ -765,9 +1060,24 @@
     "name": "setoo"
   },
   {
+    "displayName": "[GDNS] Shroomz",
+    "tag": "GDNS",
+    "name": "Shroomz"
+  },
+  {
+    "displayName": "[RUSH] Sisebebo",
+    "tag": "RUSH",
+    "name": "Sisebebo"
+  },
+  {
     "displayName": "[TDL] Sisebebo",
     "tag": "TDL",
     "name": "Sisebebo"
+  },
+  {
+    "displayName": "[GDNS] Skippy",
+    "tag": "GDNS",
+    "name": "Skippy"
   },
   {
     "displayName": "[PHW] snow",
@@ -778,6 +1088,11 @@
     "displayName": "[TDL] Soullinks",
     "tag": "TDL",
     "name": "Soullinks"
+  },
+  {
+    "displayName": "[RUSH] Spitfire",
+    "tag": "RUSH",
+    "name": "Spitfire"
   },
   {
     "displayName": "[REDL] Spitfire",
@@ -793,6 +1108,11 @@
     "displayName": "[Tian] St1tch",
     "tag": "Tian",
     "name": "St1tch"
+  },
+  {
+    "displayName": "[RUSH] Tamoor",
+    "tag": "RUSH",
+    "name": "Tamoor"
   },
   {
     "displayName": "[AXE] Tamoor",
@@ -845,9 +1165,24 @@
     "name": "Tootsie"
   },
   {
+    "displayName": "[RUSH] TophBeifong",
+    "tag": "RUSH",
+    "name": "TophBeifong"
+  },
+  {
+    "displayName": "[GDNS] TrashPigeon",
+    "tag": "GDNS",
+    "name": "TrashPigeon"
+  },
+  {
     "displayName": "[Tian] tressie",
     "tag": "Tian",
     "name": "tressie"
+  },
+  {
+    "displayName": "[RUSH] UncleRETURNS",
+    "tag": "RUSH",
+    "name": "UncleRETURNS"
   },
   {
     "displayName": "[REDL] UncleRETURNS",
@@ -860,6 +1195,11 @@
     "name": "UncleRETURNS"
   },
   {
+    "displayName": "[RUSH] Vextune",
+    "tag": "RUSH",
+    "name": "Vextune"
+  },
+  {
     "displayName": "[TDL] Vextune",
     "tag": "TDL",
     "name": "Vextune"
@@ -870,6 +1210,11 @@
     "name": "WangFire"
   },
   {
+    "displayName": "[RUSH] WildBat",
+    "tag": "RUSH",
+    "name": "WildBat"
+  },
+  {
     "displayName": "[TDL] WildBat",
     "tag": "TDL",
     "name": "WildBat"
@@ -878,6 +1223,26 @@
     "displayName": "[benu] WolfSpirit",
     "tag": "benu",
     "name": "WolfSpirit"
+  },
+  {
+    "displayName": "[GDNS] xJerrycan",
+    "tag": "GDNS",
+    "name": "xJerrycan"
+  },
+  {
+    "displayName": "[GDNS] Xkrom",
+    "tag": "GDNS",
+    "name": "Xkrom"
+  },
+  {
+    "displayName": "[GDNS] Xodia",
+    "tag": "GDNS",
+    "name": "Xodia"
+  },
+  {
+    "displayName": "[RUSH] YalTik",
+    "tag": "RUSH",
+    "name": "YalTik"
   },
   {
     "displayName": "[REDL] YalTik",
@@ -895,14 +1260,29 @@
     "name": "Yamamoto"
   },
   {
+    "displayName": "[RUSH] YHWY",
+    "tag": "RUSH",
+    "name": "YHWY"
+  },
+  {
     "displayName": "[TDL2] YHWY",
     "tag": "TDL2",
     "name": "YHWY"
   },
   {
+    "displayName": "[Tian] Yojimbo",
+    "tag": "Tian",
+    "name": "Yojimbo"
+  },
+  {
     "displayName": "[TDL] Yojimbo",
     "tag": "TDL",
     "name": "Yojimbo"
+  },
+  {
+    "displayName": "[GDNS] Yoruichi",
+    "tag": "GDNS",
+    "name": "Yoruichi"
   },
   {
     "displayName": "[TRL] ZOKO",
@@ -918,5 +1298,15 @@
     "displayName": "[TBL] Στεργίoς",
     "tag": "TBL",
     "name": "Στεργίoς"
+  },
+  {
+    "displayName": "[GDNS] Аzulа",
+    "tag": "GDNS",
+    "name": "Аzulа"
+  },
+  {
+    "displayName": "[GDNS] мαмραт",
+    "tag": "GDNS",
+    "name": "мαмραт"
   }
 ]

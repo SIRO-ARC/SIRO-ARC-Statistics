@@ -145,11 +145,6 @@
     "name": "ChickyParm"
   },
   {
-    "displayName": "[Val] ChikoParmino",
-    "tag": "Val",
-    "name": "ChikoParmino"
-  },
-  {
     "displayName": "[Val] Chocobows",
     "tag": "Val",
     "name": "Chocobows"
@@ -188,6 +183,11 @@
     "displayName": "[Val] Dave",
     "tag": "Val",
     "name": "Dave"
+  },
+  {
+    "displayName": "[Val] Def not Ben",
+    "tag": "Val",
+    "name": "Def not Ben"
   },
   {
     "displayName": "[Kai]Dirty Wizard",
@@ -260,6 +260,16 @@
     "name": "Elendial"
   },
   {
+    "displayName": "ember",
+    "tag": null,
+    "name": "ember"
+  },
+  {
+    "displayName": "Esteban",
+    "tag": null,
+    "name": "Esteban"
+  },
+  {
     "displayName": "[Val] Esteban",
     "tag": "Val",
     "name": "Esteban"
@@ -283,6 +293,11 @@
     "displayName": "FireLordOzai",
     "tag": null,
     "name": "FireLordOzai"
+  },
+  {
+    "displayName": "Flo",
+    "tag": null,
+    "name": "Flo"
   },
   {
     "displayName": "FrostedGlaze",
@@ -685,6 +700,11 @@
     "name": "Radical30"
   },
   {
+    "displayName": "[Val] Ramal",
+    "tag": "Val",
+    "name": "Ramal"
+  },
+  {
     "displayName": "[TNT] Reverse Ogre",
     "tag": "TNT",
     "name": "Reverse Ogre"
@@ -753,6 +773,11 @@
     "displayName": "[Ir0h] Sleepywolf",
     "tag": "Ir0h",
     "name": "Sleepywolf"
+  },
+  {
+    "displayName": "Sloth",
+    "tag": null,
+    "name": "Sloth"
   },
   {
     "displayName": "Sm3rLoK",
@@ -855,11 +880,6 @@
     "name": "Trabo der II"
   },
   {
-    "displayName": "[Val] turkeyslam",
-    "tag": "Val",
-    "name": "turkeyslam"
-  },
-  {
     "displayName": "[Val] Turkeyslam",
     "tag": "Val",
     "name": "Turkeyslam"
@@ -875,6 +895,11 @@
     "name": "Turkeyslam"
   },
   {
+    "displayName": "[Val] TyLee",
+    "tag": "Val",
+    "name": "TyLee"
+  },
+  {
     "displayName": "TyLee",
     "tag": null,
     "name": "TyLee"
@@ -883,6 +908,11 @@
     "displayName": "ubayaye",
     "tag": null,
     "name": "ubayaye"
+  },
+  {
+    "displayName": "Unleashed",
+    "tag": null,
+    "name": "Unleashed"
   },
   {
     "displayName": "[Val] Unleashed",

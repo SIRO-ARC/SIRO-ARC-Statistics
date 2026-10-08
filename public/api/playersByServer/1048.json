@@ -70,6 +70,11 @@
     "name": "Asgård"
   },
   {
+    "displayName": "[MYTH] Axe the Man",
+    "tag": "MYTH",
+    "name": "Axe the Man"
+  },
+  {
     "displayName": "[MIR] BabyloniusUr",
     "tag": "MIR",
     "name": "BabyloniusUr"
@@ -80,9 +85,19 @@
     "name": "badz"
   },
   {
+    "displayName": "[MYTH] Bankz",
+    "tag": "MYTH",
+    "name": "Bankz"
+  },
+  {
     "displayName": "[MIR] biobelge",
     "tag": "MIR",
     "name": "biobelge"
+  },
+  {
+    "displayName": "[MYTH] Blind Bandit",
+    "tag": "MYTH",
+    "name": "Blind Bandit"
   },
   {
     "displayName": "[TACO] BOOTYBENDER",
@@ -138,6 +153,11 @@
     "displayName": "[MYTH] Chronos",
     "tag": "MYTH",
     "name": "Chronos"
+  },
+  {
+    "displayName": "[MYTH] Corybkenobi",
+    "tag": "MYTH",
+    "name": "Corybkenobi"
   },
   {
     "displayName": "[TACO] Crunchy Taco",
@@ -205,6 +225,16 @@
     "name": "Feuerlord"
   },
   {
+    "displayName": "[MYTH] FireLordYue",
+    "tag": "MYTH",
+    "name": "FireLordYue"
+  },
+  {
+    "displayName": "[MYTH] Flying Bison",
+    "tag": "MYTH",
+    "name": "Flying Bison"
+  },
+  {
     "displayName": "[MIR] fofi",
     "tag": "MIR",
     "name": "fofi"
@@ -223,6 +253,11 @@
     "displayName": "[MYTH] Freyja",
     "tag": "MYTH",
     "name": "Freyja"
+  },
+  {
+    "displayName": "[MYTH] Gabrielito",
+    "tag": "MYTH",
+    "name": "Gabrielito"
   },
   {
     "displayName": "[Xmen] Gambit",
@@ -260,6 +295,11 @@
     "name": "Gouldy"
   },
   {
+    "displayName": "[MYTH] Guapotaco",
+    "tag": "MYTH",
+    "name": "Guapotaco"
+  },
+  {
     "displayName": "[Xmen] Havok",
     "tag": "Xmen",
     "name": "Havok"
@@ -293,6 +333,11 @@
     "displayName": "[MYTH] Icare",
     "tag": "MYTH",
     "name": "Icare"
+  },
+  {
+    "displayName": "[MYTH] Iƙαɾσα",
+    "tag": "MYTH",
+    "name": "Iƙαɾσα"
   },
   {
     "displayName": "[MYTH] Jahngogh",
@@ -375,6 +420,11 @@
     "name": "Lex"
   },
   {
+    "displayName": "[MYTH] Li JaSi",
+    "tag": "MYTH",
+    "name": "Li JaSi"
+  },
+  {
     "displayName": "[TACO] LilyBear",
     "tag": "TACO",
     "name": "LilyBear"
@@ -403,6 +453,11 @@
     "displayName": "[MIR] Lumian",
     "tag": "MIR",
     "name": "Lumian"
+  },
+  {
+    "displayName": "[MYTH] MaLom",
+    "tag": "MYTH",
+    "name": "MaLom"
   },
   {
     "displayName": "[MYTH] Marduk",
@@ -450,9 +505,19 @@
     "name": "MiguelBZ117"
   },
   {
+    "displayName": "[MYTH] minicabages",
+    "tag": "MYTH",
+    "name": "minicabages"
+  },
+  {
     "displayName": "[MYTH] Minotaur",
     "tag": "MYTH",
     "name": "Minotaur"
+  },
+  {
+    "displayName": "[MYTH] Mira",
+    "tag": "MYTH",
+    "name": "Mira"
   },
   {
     "displayName": "[MIR] Mithrandir",
@@ -470,6 +535,11 @@
     "name": "MIYA"
   },
   {
+    "displayName": "[MYTH] my cabbages",
+    "tag": "MYTH",
+    "name": "my cabbages"
+  },
+  {
     "displayName": "[MIR] Myria",
     "tag": "MIR",
     "name": "Myria"
@@ -480,9 +550,19 @@
     "name": "Mythicaltaco"
   },
   {
+    "displayName": "[MYTH] Natedawg",
+    "tag": "MYTH",
+    "name": "Natedawg"
+  },
+  {
     "displayName": "[MYTH] New York",
     "tag": "MYTH",
     "name": "New York"
+  },
+  {
+    "displayName": "[MYTH] NinjaX",
+    "tag": "MYTH",
+    "name": "NinjaX"
   },
   {
     "displayName": "[TACO]Nitro Nash",
@@ -490,9 +570,19 @@
     "name": "Nitro Nash"
   },
   {
+    "displayName": "[MYTH] Nobara",
+    "tag": "MYTH",
+    "name": "Nobara"
+  },
+  {
     "displayName": "[MYTH] Nyx",
     "tag": "MYTH",
     "name": "Nyx"
+  },
+  {
+    "displayName": "[MYTH] NΞOTHΞRMΛL",
+    "tag": "MYTH",
+    "name": "NΞOTHΞRMΛL"
   },
   {
     "displayName": "[MYTH] Oceanos",
@@ -503,6 +593,11 @@
     "displayName": "[MIR] OmHa58",
     "tag": "MIR",
     "name": "OmHa58"
+  },
+  {
+    "displayName": "[MYTH] Pandora",
+    "tag": "MYTH",
+    "name": "Pandora"
   },
   {
     "displayName": "[MYTH] PATOLINO",
@@ -550,6 +645,11 @@
     "name": "puddle"
   },
   {
+    "displayName": "[MYTH] Queso",
+    "tag": "MYTH",
+    "name": "Queso"
+  },
+  {
     "displayName": "[MYTH] RANGI",
     "tag": "MYTH",
     "name": "RANGI"
@@ -575,6 +675,11 @@
     "name": "Ravenscraft"
   },
   {
+    "displayName": "[MYTH] Razyllian",
+    "tag": "MYTH",
+    "name": "Razyllian"
+  },
+  {
     "displayName": "[MYTH] Reycocodrilo",
     "tag": "MYTH",
     "name": "Reycocodrilo"
@@ -583,6 +688,11 @@
     "displayName": "[WAKE]Rigo",
     "tag": "WAKE",
     "name": "Rigo"
+  },
+  {
+    "displayName": "RizeF2P",
+    "tag": null,
+    "name": "RizeF2P"
   },
   {
     "displayName": "[MYTH] RizeF2P",
@@ -598,6 +708,11 @@
     "displayName": "[TACO]RizeF2P",
     "tag": "TACO",
     "name": "RizeF2P"
+  },
+  {
+    "displayName": "[MYTH] Rœji",
+    "tag": "MYTH",
+    "name": "Rœji"
   },
   {
     "displayName": "[MYTH] Ryder",
@@ -680,9 +795,19 @@
     "name": "spectral0ats"
   },
   {
+    "displayName": "[MYTH] ẞrœ",
+    "tag": "MYTH",
+    "name": "ẞrœ"
+  },
+  {
     "displayName": "[Xmen] St0rm",
     "tag": "Xmen",
     "name": "St0rm"
+  },
+  {
+    "displayName": "[MYTH] Sturm 1909",
+    "tag": "MYTH",
+    "name": "Sturm 1909"
   },
   {
     "displayName": "[MYTH] SukiStrong",
@@ -715,6 +840,16 @@
     "name": "TacoTree"
   },
   {
+    "displayName": "[MYTH] Tali",
+    "tag": "MYTH",
+    "name": "Tali"
+  },
+  {
+    "displayName": "[MYTH] Taylorrrrr",
+    "tag": "MYTH",
+    "name": "Taylorrrrr"
+  },
+  {
     "displayName": "[MIR] The Platypus",
     "tag": "MIR",
     "name": "The Platypus"
@@ -723,6 +858,26 @@
     "displayName": "[BBD] The Platypus",
     "tag": "BBD",
     "name": "The Platypus"
+  },
+  {
+    "displayName": "[MYTH] TheDarkness",
+    "tag": "MYTH",
+    "name": "TheDarkness"
+  },
+  {
+    "displayName": "[MYTH] TheFlash",
+    "tag": "MYTH",
+    "name": "TheFlash"
+  },
+  {
+    "displayName": "[MYTH] TheGhost",
+    "tag": "MYTH",
+    "name": "TheGhost"
+  },
+  {
+    "displayName": "[MYTH] theIronGuard",
+    "tag": "MYTH",
+    "name": "theIronGuard"
   },
   {
     "displayName": "[MIR] Thus",
@@ -758,6 +913,11 @@
     "displayName": "[MYTH] xavedawave",
     "tag": "MYTH",
     "name": "xavedawave"
+  },
+  {
+    "displayName": "[MYTH] XV1DE0S",
+    "tag": "MYTH",
+    "name": "XV1DE0S"
   },
   {
     "displayName": "[MYTH] Yago Taco",
@@ -838,5 +998,15 @@
     "displayName": "[MYTH] Ζευς",
     "tag": "MYTH",
     "name": "Ζευς"
+  },
+  {
+    "displayName": "[MYTH] Вlu",
+    "tag": "MYTH",
+    "name": "Вlu"
+  },
+  {
+    "displayName": "[MYTH] 鬼爆ちゃん",
+    "tag": "MYTH",
+    "name": "鬼爆ちゃん"
   }
 ]

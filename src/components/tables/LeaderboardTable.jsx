@@ -51,7 +51,19 @@ export default function LeaderboardTable({
   className="border-t border-slate-800 hover:bg-slate-900"
 >
   <td className="p-4 font-bold">
-    #{item.rank}
+    <div className="flex items-center gap-1">
+      <span>#{item.rank}</span>
+      {item.rankChange > 0 && (
+        <span className="text-xs font-medium text-emerald-400">
+          ▲ {item.rankChange}
+        </span>
+      )}
+      {item.rankChange < 0 && (
+        <span className="text-xs font-medium text-red-400">
+          ▼ {Math.abs(item.rankChange)}
+        </span>
+      )}
+    </div>
   </td>
 
   <td className="p-4 font-semibold text-sky-400">
@@ -71,11 +83,31 @@ export default function LeaderboardTable({
   </td>
 
   <td className="p-4 text-right">
-    {item.winRate.toFixed(1)}%
+    <div className="flex items-center justify-end gap-1">
+      <span>{item.winRate.toFixed(1)}%</span>
+      {item.winRateChange > 0 && (
+        <span className="text-xs font-medium text-emerald-400">▲</span>
+      )}
+      {item.winRateChange < 0 && (
+        <span className="text-xs font-medium text-red-400">▼</span>
+      )}
+    </div>
   </td>
 
   <td className="p-4 text-right font-semibold text-sky-400">
-    {item.points}
+    <div className="flex items-center justify-end gap-1">
+      <span>{item.points}</span>
+      {item.pointsChange > 0 && (
+        <span className="text-xs font-medium text-emerald-400">
+          +{item.pointsChange}
+        </span>
+      )}
+      {item.pointsChange < 0 && (
+        <span className="text-xs font-medium text-red-400">
+          {item.pointsChange}
+        </span>
+      )}
+    </div>
   </td>
 </tr>
 

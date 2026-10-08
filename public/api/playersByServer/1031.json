@@ -35,6 +35,11 @@
     "name": "AngryGrandpa"
   },
   {
+    "displayName": "[GWAG] AquaPam",
+    "tag": "GWAG",
+    "name": "AquaPam"
+  },
+  {
     "displayName": "[Kai] ATNTO",
     "tag": "Kai",
     "name": "ATNTO"
@@ -55,9 +60,19 @@
     "name": "Avatar Evie"
   },
   {
+    "displayName": "[AWOL] Avatar731",
+    "tag": "AWOL",
+    "name": "Avatar731"
+  },
+  {
     "displayName": "[AWOL] AvatarDR",
     "tag": "AWOL",
     "name": "AvatarDR"
+  },
+  {
+    "displayName": "[AWOL] Axolotim",
+    "tag": "AWOL",
+    "name": "Axolotim"
   },
   {
     "displayName": "[AWOL] Azn Persuazn",
@@ -85,13 +100,13 @@
     "name": "BeardedNewt"
   },
   {
-    "displayName": "[AWOL] Ben Dover",
-    "tag": "AWOL",
+    "displayName": "[Kai] Ben Dover",
+    "tag": "Kai",
     "name": "Ben Dover"
   },
   {
-    "displayName": "[Kai] Ben Dover",
-    "tag": "Kai",
+    "displayName": "[AWOL] Ben Dover",
+    "tag": "AWOL",
     "name": "Ben Dover"
   },
   {
@@ -110,14 +125,19 @@
     "name": "BigS145"
   },
   {
+    "displayName": "[GWAG] Blanka",
+    "tag": "GWAG",
+    "name": "Blanka"
+  },
+  {
     "displayName": "[Kai] Blanka",
     "tag": "Kai",
     "name": "Blanka"
   },
   {
-    "displayName": "[GWAG] Blanka",
-    "tag": "GWAG",
-    "name": "Blanka"
+    "displayName": "[AWOL] Blind Bandit",
+    "tag": "AWOL",
+    "name": "Blind Bandit"
   },
   {
     "displayName": "[Ele] Blind Bandit",
@@ -148,6 +168,11 @@
     "displayName": "[AWOL] Booomeee",
     "tag": "AWOL",
     "name": "Booomeee"
+  },
+  {
+    "displayName": "Breph",
+    "tag": null,
+    "name": "Breph"
   },
   {
     "displayName": "[GWAG] Breph",
@@ -250,18 +275,13 @@
     "name": "Equulias"
   },
   {
-    "displayName": "[AWOL] Eržil as",
+    "displayName": "[AWOL] Eržilas",
     "tag": "AWOL",
-    "name": "Eržil as"
+    "name": "Eržilas"
   },
   {
     "displayName": "[Kai] Eržilas",
     "tag": "Kai",
-    "name": "Eržilas"
-  },
-  {
-    "displayName": "[AWOL] Eržilas",
-    "tag": "AWOL",
     "name": "Eržilas"
   },
   {
@@ -335,6 +355,11 @@
     "name": "Fujin"
   },
   {
+    "displayName": "[AWOL] GenderBender",
+    "tag": "AWOL",
+    "name": "GenderBender"
+  },
+  {
     "displayName": "[Snow] Grumpy",
     "tag": "Snow",
     "name": "Grumpy"
@@ -350,6 +375,11 @@
     "name": "haku"
   },
   {
+    "displayName": "[GWAG] HellCat",
+    "tag": "GWAG",
+    "name": "HellCat"
+  },
+  {
     "displayName": "[Kai] HellCat",
     "tag": "Kai",
     "name": "HellCat"
@@ -358,6 +388,11 @@
     "displayName": "[AWOL] HolyGhost",
     "tag": "AWOL",
     "name": "HolyGhost"
+  },
+  {
+    "displayName": "HUFFA",
+    "tag": null,
+    "name": "HUFFA"
   },
   {
     "displayName": "[Kai] HUFFA",
@@ -373,6 +408,11 @@
     "displayName": "[GWAG] ᴵˢˢChamo",
     "tag": "GWAG",
     "name": "ᴵˢˢChamo"
+  },
+  {
+    "displayName": "[AWOL] jealousnewt",
+    "tag": "AWOL",
+    "name": "jealousnewt"
   },
   {
     "displayName": "[Kai] Jenna",
@@ -405,18 +445,23 @@
     "name": "KardiacKemba"
   },
   {
+    "displayName": "[AWOL] Karthik",
+    "tag": "AWOL",
+    "name": "Karthik"
+  },
+  {
     "displayName": "[GWAG] kelbobaggins",
     "tag": "GWAG",
     "name": "kelbobaggins"
   },
   {
-    "displayName": "[AWOL] King Raw",
-    "tag": "AWOL",
+    "displayName": "[Kai] King Raw",
+    "tag": "Kai",
     "name": "King Raw"
   },
   {
-    "displayName": "[Kai] King Raw",
-    "tag": "Kai",
+    "displayName": "[AWOL] King Raw",
+    "tag": "AWOL",
     "name": "King Raw"
   },
   {
@@ -438,6 +483,11 @@
     "displayName": "[VEIL]Kostebo",
     "tag": "VEIL",
     "name": "Kostebo"
+  },
+  {
+    "displayName": "[AWOL] Kukulcán",
+    "tag": "AWOL",
+    "name": "Kukulcán"
   },
   {
     "displayName": "[AWOL] Kuma",
@@ -538,6 +588,11 @@
     "displayName": "[Kai] Nextpet",
     "tag": "Kai",
     "name": "Nextpet"
+  },
+  {
+    "displayName": "[AWOL] NGSM54",
+    "tag": "AWOL",
+    "name": "NGSM54"
   },
   {
     "displayName": "[Kai] Øcho",
@@ -645,13 +700,13 @@
     "name": "seekndstroy"
   },
   {
-    "displayName": "[Kai] Sekhmet",
-    "tag": "Kai",
+    "displayName": "[GWAG] Sekhmet",
+    "tag": "GWAG",
     "name": "Sekhmet"
   },
   {
-    "displayName": "[GWAG] Sekhmet",
-    "tag": "GWAG",
+    "displayName": "[Kai] Sekhmet",
+    "tag": "Kai",
     "name": "Sekhmet"
   },
   {
@@ -690,13 +745,13 @@
     "name": "ShinyDemon"
   },
   {
-    "displayName": "[AWOL] sickwangs",
-    "tag": "AWOL",
+    "displayName": "[Kai] sickwangs",
+    "tag": "Kai",
     "name": "sickwangs"
   },
   {
-    "displayName": "[Kai] sickwangs",
-    "tag": "Kai",
+    "displayName": "[AWOL] sickwangs",
+    "tag": "AWOL",
     "name": "sickwangs"
   },
   {
@@ -710,19 +765,24 @@
     "name": "Sidetrack"
   },
   {
-    "displayName": "[AWOL] Sonja",
-    "tag": "AWOL",
+    "displayName": "[Kai] Sonja",
+    "tag": "Kai",
     "name": "Sonja"
   },
   {
-    "displayName": "[Kai] Sonja",
-    "tag": "Kai",
+    "displayName": "[AWOL] Sonja",
+    "tag": "AWOL",
     "name": "Sonja"
   },
   {
     "displayName": "[Kai] Sonje",
     "tag": "Kai",
     "name": "Sonje"
+  },
+  {
+    "displayName": "[AWOL] sparkymcddle",
+    "tag": "AWOL",
+    "name": "sparkymcddle"
   },
   {
     "displayName": "[AWOL] Spirit KOH",
@@ -793,6 +853,11 @@
     "displayName": "[TEO] Teeny",
     "tag": "TEO",
     "name": "Teeny"
+  },
+  {
+    "displayName": "ThatDannGuy",
+    "tag": null,
+    "name": "ThatDannGuy"
   },
   {
     "displayName": "[Kai] ThatDannGuy",
@@ -938,6 +1003,11 @@
     "displayName": "[Kai] Zell",
     "tag": "Kai",
     "name": "Zell"
+  },
+  {
+    "displayName": "[Kai] Zheni",
+    "tag": "Kai",
+    "name": "Zheni"
   },
   {
     "displayName": "[Kai] Zhenlin",

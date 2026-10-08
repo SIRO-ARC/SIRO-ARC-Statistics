@@ -65,13 +65,13 @@
     "name": "Beechzuzu"
   },
   {
-    "displayName": "[PHNX] Beechᶻᵘᶻᵘ",
-    "tag": "PHNX",
+    "displayName": "[ZúZú] Beechᶻᵘᶻᵘ",
+    "tag": "ZúZú",
     "name": "Beechᶻᵘᶻᵘ"
   },
   {
-    "displayName": "[ZúZú] Beechᶻᵘᶻᵘ",
-    "tag": "ZúZú",
+    "displayName": "[PHNX] Beechᶻᵘᶻᵘ",
+    "tag": "PHNX",
     "name": "Beechᶻᵘᶻᵘ"
   },
   {
@@ -88,6 +88,11 @@
     "displayName": "[ZúZǔ] BLOODBEND3R",
     "tag": "ZúZǔ",
     "name": "BLOODBEND3R"
+  },
+  {
+    "displayName": "Blue Fire",
+    "tag": null,
+    "name": "Blue Fire"
   },
   {
     "displayName": "[PHNX] Blue Fire",
@@ -185,6 +190,11 @@
     "name": "Dakoty12"
   },
   {
+    "displayName": "[PHNX] Dara",
+    "tag": "PHNX",
+    "name": "Dara"
+  },
+  {
     "displayName": "[Fire] Defense Susu",
     "tag": "Fire",
     "name": "Defense Susu"
@@ -210,9 +220,19 @@
     "name": "Der Onkel"
   },
   {
+    "displayName": "Dilo",
+    "tag": null,
+    "name": "Dilo"
+  },
+  {
     "displayName": "[PHNX] Dilo",
     "tag": "PHNX",
     "name": "Dilo"
+  },
+  {
+    "displayName": "[JET] Djinn",
+    "tag": "JET",
+    "name": "Djinn"
   },
   {
     "displayName": "Djinn",
@@ -355,6 +375,11 @@
     "name": "HR Brad"
   },
   {
+    "displayName": "[JET] Irra Farm",
+    "tag": "JET",
+    "name": "Irra Farm"
+  },
+  {
     "displayName": "[cove] Irra Farm",
     "tag": "cove",
     "name": "Irra Farm"
@@ -373,6 +398,11 @@
     "displayName": "[PHNX] IsaiasDLC",
     "tag": "PHNX",
     "name": "IsaiasDLC"
+  },
+  {
+    "displayName": "Jall3n",
+    "tag": null,
+    "name": "Jall3n"
   },
   {
     "displayName": "[PHNX] Jall3n",
@@ -408,6 +438,11 @@
     "displayName": "[PHNX] Kalvini",
     "tag": "PHNX",
     "name": "Kalvini"
+  },
+  {
+    "displayName": "KeyLexias",
+    "tag": null,
+    "name": "KeyLexias"
   },
   {
     "displayName": "[PHNX] KeyLexias",
@@ -510,6 +545,11 @@
     "name": "LMN8"
   },
   {
+    "displayName": "[PHNX] Lord Surazal",
+    "tag": "PHNX",
+    "name": "Lord Surazal"
+  },
+  {
     "displayName": "[Fire] Lord Surazal",
     "tag": "Fire",
     "name": "Lord Surazal"
@@ -545,9 +585,19 @@
     "name": "Mir3050"
   },
   {
+    "displayName": "Momo2001",
+    "tag": null,
+    "name": "Momo2001"
+  },
+  {
     "displayName": "[PHNX] Momo2001",
     "tag": "PHNX",
     "name": "Momo2001"
+  },
+  {
+    "displayName": "[PHNX] Mr Aincrad",
+    "tag": "PHNX",
+    "name": "Mr Aincrad"
   },
   {
     "displayName": "[SOUL] MrNobody",
@@ -560,9 +610,19 @@
     "name": "Mrs Aincrad"
   },
   {
+    "displayName": "[PHNX] Nammy",
+    "tag": "PHNX",
+    "name": "Nammy"
+  },
+  {
     "displayName": "[ZúZú] Nammy",
     "tag": "ZúZú",
     "name": "Nammy"
+  },
+  {
+    "displayName": "[ZúZú] Nartness",
+    "tag": "ZúZú",
+    "name": "Nartness"
   },
   {
     "displayName": "[PHNX] Nartness",
@@ -640,9 +700,19 @@
     "name": "OMS"
   },
   {
+    "displayName": "[PHNX] Ørfęūs",
+    "tag": "PHNX",
+    "name": "Ørfęūs"
+  },
+  {
     "displayName": "[ZúZǔ] paintedlady",
     "tag": "ZúZǔ",
     "name": "paintedlady"
+  },
+  {
+    "displayName": "[PHNX] Pavi",
+    "tag": "PHNX",
+    "name": "Pavi"
   },
   {
     "displayName": "[PHNX] Phoenixjester",
@@ -680,9 +750,9 @@
     "name": "PhœnixPrince"
   },
   {
-    "displayName": "[PHNX] Piika",
+    "displayName": "[PHNX] PhœnixSpazz",
     "tag": "PHNX",
-    "name": "Piika"
+    "name": "PhœnixSpazz"
   },
   {
     "displayName": "[PHNX] Pika",
@@ -755,6 +825,16 @@
     "name": "Raysone"
   },
   {
+    "displayName": "[PHNX] ʳᵉᴮᴿᴬⁿᴰ",
+    "tag": "PHNX",
+    "name": "ʳᵉᴮᴿᴬⁿᴰ"
+  },
+  {
+    "displayName": "[PHNX] Red October",
+    "tag": "PHNX",
+    "name": "Red October"
+  },
+  {
     "displayName": "[PHNX] ReneDanger",
     "tag": "PHNX",
     "name": "ReneDanger"
@@ -790,13 +870,13 @@
     "name": "ROKIL124"
   },
   {
-    "displayName": "[ZúZú] Rolf",
-    "tag": "ZúZú",
+    "displayName": "[PHNX] Rolf",
+    "tag": "PHNX",
     "name": "Rolf"
   },
   {
-    "displayName": "[PHNX] Rolf",
-    "tag": "PHNX",
+    "displayName": "[ZúZú] Rolf",
+    "tag": "ZúZú",
     "name": "Rolf"
   },
   {
@@ -960,6 +1040,11 @@
     "name": "TheMelonLord"
   },
   {
+    "displayName": "[PHNX] TheRealJet",
+    "tag": "PHNX",
+    "name": "TheRealJet"
+  },
+  {
     "displayName": "[PHNX] Tyrant Momo",
     "tag": "PHNX",
     "name": "Tyrant Momo"
@@ -1060,6 +1145,11 @@
     "name": "ˣⱽᴵSANTAᶻᵘᶻᵘ"
   },
   {
+    "displayName": "[PHNX] Yangchen",
+    "tag": "PHNX",
+    "name": "Yangchen"
+  },
+  {
     "displayName": "Yangchen",
     "tag": null,
     "name": "Yangchen"
@@ -1090,6 +1180,16 @@
     "name": "Zefle"
   },
   {
+    "displayName": "[PHNX] Ηegemon",
+    "tag": "PHNX",
+    "name": "Ηegemon"
+  },
+  {
+    "displayName": "尺卂乙 尺丨乙",
+    "tag": null,
+    "name": "尺卂乙 尺丨乙"
+  },
+  {
     "displayName": "[PHNX] 尺卂乙VͥIͣPͫ ​乙",
     "tag": "PHNX",
     "name": "尺卂乙VͥIͣPͫ ​乙"
@@ -1108,5 +1208,10 @@
     "displayName": "[Fire]尺孔乙G尺",
     "tag": "Fire",
     "name": "尺孔乙G尺"
+  },
+  {
+    "displayName": "[PHNX] 火LordRangshi",
+    "tag": "PHNX",
+    "name": "火LordRangshi"
   }
 ]

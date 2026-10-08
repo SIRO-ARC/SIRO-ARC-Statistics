@@ -120,11 +120,6 @@
     "name": "ᴱᵃˢᵗᴇᴏɴ"
   },
   {
-    "displayName": "[NLO] Echirion",
-    "tag": "NLO",
-    "name": "Echirion"
-  },
-  {
     "displayName": "[NLO] Echthirion",
     "tag": "NLO",
     "name": "Echthirion"
@@ -515,6 +510,11 @@
     "name": "ProxySnow"
   },
   {
+    "displayName": "[NLO] Pyronova",
+    "tag": "NLO",
+    "name": "Pyronova"
+  },
+  {
     "displayName": "[KNOW] Reina",
     "tag": "KNOW",
     "name": "Reina"
@@ -595,6 +595,11 @@
     "name": "Skafatar"
   },
   {
+    "displayName": "[PAIN] SlinkyAro",
+    "tag": "PAIN",
+    "name": "SlinkyAro"
+  },
+  {
     "displayName": "[WoE] SlinkyAro",
     "tag": "WoE",
     "name": "SlinkyAro"
@@ -673,6 +678,11 @@
     "displayName": "[PAIN] ULU",
     "tag": "PAIN",
     "name": "ULU"
+  },
+  {
+    "displayName": "[NLO] UnionEmpire",
+    "tag": "NLO",
+    "name": "UnionEmpire"
   },
   {
     "displayName": "[NLO] Vagician",
@@ -783,6 +793,11 @@
     "displayName": "丅 ε 乙",
     "tag": null,
     "name": "丅 ε 乙"
+  },
+  {
+    "displayName": "丅ε乙",
+    "tag": null,
+    "name": "丅ε乙"
   },
   {
     "displayName": "下 ε乙",
