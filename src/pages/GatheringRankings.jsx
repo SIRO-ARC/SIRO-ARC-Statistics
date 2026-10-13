@@ -1,3 +1,7 @@
+
+import RankingsUpdating from "../components/RankingsUpdating";
+
+/*
 import RankingPage from "../components/rankings/RankingPage";
 
 export default function GatheringRankings() {
@@ -14,4 +18,9 @@ export default function GatheringRankings() {
       ]}
     />
   );
+}
+*/
+
+export default function GatheringRankings() {
+  return <RankingsUpdating />;
 }

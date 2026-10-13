@@ -1,22 +1,31 @@
+
+import RankingsUpdating from "../components/RankingsUpdating";
+
+/*
 import RankingPage from "../components/rankings/RankingPage";
 
 export default function PowerRankings() {
   return (
     <RankingPage
-  title="PVP Rankings"
-  dataType="pvp"
-  views={[
-    {
-      value: "players",
-      label: "Players",
-      icon: "👤",
-    },
-    {
-      value: "alliances",
-      label: "Alliances",
-      icon: "🏰",
-    },
-  ]}
-/>
+      title="PVP Rankings"
+      dataType="pvp"
+      views={[
+        {
+          value: "players",
+          label: "Players",
+          icon: "👤",
+        },
+        {
+          value: "alliances",
+          label: "Alliances",
+          icon: "🏰",
+        },
+      ]}
+    />
   );
+}
+*/
+
+export default function PowerRankings() {
+  return <RankingsUpdating />;
 }
