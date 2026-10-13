@@ -11,6 +11,7 @@ export default function RankingPage({
   views,
   dataType = "power",
 }) {
+    return <div>Rankings Updating</div>;
   const [rankings, setRankings] = useState([]);
   const [search, setSearch] = useState("");
   const [view, setView] = useState("players");
