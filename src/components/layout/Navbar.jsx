@@ -8,6 +8,10 @@ import {
   ChevronRight,
   Swords,
   LineChart,
+  Wrench,
+  House,
+  ChartNoAxesCombined,
+  BookOpen,
 } from "lucide-react";
 
 export default function Navbar({
@@ -26,23 +30,28 @@ const isPlatformHome = location.pathname === "/";
       },
     ]
   : [
-      { label: "Home", to: "/" },
-      { label: "Rankings", to: "/rankings" },
-      { label: "MGM", to: "/mgm" },
-      { label: "Tools", to: "/tools" },
-      { label: "Guides", to: "/guides" },
+      
+{ label: "Home", to: "/" },
+{ label: "Rankings", to: "/rankings" },
+{ label: "MGM", to: "/mgm" },
+{ label: "SVS", to: "/svs" },
+{ label: "Tools", to: "/tools" },
+{ label: "Guides", to: "/guides" },
+
 
     ];
 
-  const navIcons = {
+  
+const navIcons = {
   "/avatar-realms-collide": Globe,
-
-  "/": Globe,
+  "/": House,
   "/rankings": Trophy,
-  "/mgm": LineChart,
-  "/tools": Swords,
-  "/guides": Archive,
+  "/mgm": ChartNoAxesCombined,
+  "/svs": Swords,
+  "/tools": Wrench,
+  "/guides": BookOpen,
 };
+
 
   return (
   <header

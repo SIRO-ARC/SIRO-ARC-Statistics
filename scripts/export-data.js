@@ -139,6 +139,11 @@ if (!fs.existsSync(ALLIANCES_DIR)) {
   fs.mkdirSync(ALLIANCES_DIR, { recursive: true });
 }
 const MGM_DIR = path.join(API_DIR, "mgm");
+const SVS_DIR = path.join(API_DIR, "svs");
+
+if (!fs.existsSync(SVS_DIR)) {
+  fs.mkdirSync(SVS_DIR, { recursive: true });
+}
 
 if (!fs.existsSync(MGM_DIR)) {
   fs.mkdirSync(MGM_DIR, { recursive: true });
@@ -370,6 +375,36 @@ for (const week of gatheringWeeks.weeks) {
 }
 console.log("");
 console.log("Exportiere MGM...");
+
+// ==========================================
+// SVS Prelude exportieren
+// ==========================================
+
+console.log("");
+console.log("Exportiere SVS Prelude...");
+
+try {
+  const svsPrelude = await fetchJsonWithRetry(
+    `${API_URL}?type=svsPrelude`
+  );
+
+  if (!Array.isArray(svsPrelude)) {
+    throw new Error(
+      svsPrelude?.error || "Ungültige SVS-Prelude-Antwort"
+    );
+  }
+
+  fs.writeFileSync(
+    path.join(SVS_DIR, "prelude.json"),
+    JSON.stringify(svsPrelude, null, 2),
+    "utf8"
+  );
+
+  console.log(`    ✓ ${svsPrelude.length} SVS-Prelude-Datensätze exportiert`);
+} catch (err) {
+  console.error(`    ✗ SVS Prelude: ${err.message}`);
+  process.exitCode = 1;
+}
 
 for (const dataset of ["pre", "post"]) {
 

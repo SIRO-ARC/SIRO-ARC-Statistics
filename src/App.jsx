@@ -19,6 +19,9 @@ import AllianceProfile from "./pages/AllianceProfile";
 import PoweredBy from "./components/home/PoweredBy";
 import AvatarRealmsCollide from "./pages/AvatarRealmsCollide";
 import MGM from "./pages/MGM";
+import SVSPrelude from "./pages/SVSPrelude";
+import SVS from "./pages/SVS";
+import SVSPreludeRanking from "./pages/SVSPreludeRanking";
 import MgmStatistics from "./pages/MgmStatistics";
 
 import Home from "./pages/Home";
@@ -100,6 +103,13 @@ useEffect(() => {
     path="/avatar-realms-collide"
     element={<AvatarRealmsCollide />}
   />
+
+<Route path="/svs" element={<SVS />} />
+<Route path="/svs-prelude" element={<SVSPrelude />} />
+<Route
+  path="/svs-prelude-ranking"
+  element={<SVSPreludeRanking />}
+/>
 
   <Route path="/top10" element={<Top10 />} />
   <Route path="/rankings" element={<RankingsHome />} />

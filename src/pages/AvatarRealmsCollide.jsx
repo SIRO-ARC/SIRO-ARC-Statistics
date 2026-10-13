@@ -46,7 +46,7 @@ export default function AvatarRealmsCollide() {
   </h3>
 
   <p className="mt-2 max-w-3xl text-sm leading-6 text-slate-400">
-    Explore Power, PvP, Gathering, MGM, Server and PvE rankings
+    Explore all kinds of rankings
     from across the Avatar: Realms Collide community.
   </p>
 
@@ -86,7 +86,7 @@ export default function AvatarRealmsCollide() {
     </div>
 
     <h3 className="mt-4 text-2xl font-bold text-white">
-      Murong's Grand Melee
+      MGM
     </h3>
 
     <p className="mt-2 max-w-3xl text-sm leading-6 text-slate-400">
@@ -101,7 +101,39 @@ export default function AvatarRealmsCollide() {
 </Link>
 
 </section>
-<section className="mx-auto mt-6 w-full max-w-none rounded-3xl lg:mt-0 border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8">
+
+<section className="mx-auto mt-6 w-full max-w-none rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8 lg:mt-0">
+  <div className="mb-6 text-center">
+    <h2 className="mt-2 text-3xl font-bold text-white">
+      Server vs Server
+    </h2>
+    <p className="mx-auto mt-2 max-w-2xl text-slate-400">
+      Explore SVS Prelude points and global server rankings.
+    </p>
+  </div>
+
+  <Link
+    to="/svs"
+    className="group mx-auto block w-full rounded-2xl border border-slate-700 bg-[#111A2E] p-8 transition hover:-translate-y-1 hover:border-sky-500 hover:shadow-lg"
+  >
+    <div className="text-center">
+      <div className="text-4xl">⚔️</div>
+      <h3 className="mt-4 text-2xl font-bold text-white">
+        SVS
+      </h3>
+      <p className="mt-2 text-sm leading-6 text-slate-400">
+        Explore SVS Prelude Warzones and global server rankings.
+      </p>
+      <div className="mt-5 font-semibold text-sky-400 transition-transform duration-300 group-hover:translate-x-2">
+        Explore SVS →
+      </div>
+    </div>
+  </Link>
+</section>
+
+
+<section className="mx-auto mt-6 w-full max-w-none rounded-3xl border border-sky-400/30 bg-slate-950/40 p-6 shadow-[0_0_30px_rgba(56,189,248,0.08)] sm:p-8 lg:col-span-3 lg:mt-0">
+
 
   <div className="mb-6 text-center">
 

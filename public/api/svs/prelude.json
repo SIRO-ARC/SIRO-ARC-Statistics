@@ -1,0 +1,962 @@
+[
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "1",
+    "ultimateGroup": true,
+    "server": 1018,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 6549384960
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "1",
+    "ultimateGroup": true,
+    "server": 1023,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 9782964440
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "1",
+    "ultimateGroup": true,
+    "server": 1025,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 5167429440
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "1",
+    "ultimateGroup": true,
+    "server": 1010,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 5453975540
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "2",
+    "ultimateGroup": true,
+    "server": 1031,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 7332948660
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "2",
+    "ultimateGroup": true,
+    "server": 1034,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 6975206480
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "2",
+    "ultimateGroup": true,
+    "server": 1016,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 5973034380
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "2",
+    "ultimateGroup": true,
+    "server": 1011,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 2800310720
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "3",
+    "ultimateGroup": true,
+    "server": 1006,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 1434077340
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "3",
+    "ultimateGroup": true,
+    "server": 1041,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 5317325760
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "3",
+    "ultimateGroup": true,
+    "server": 1003,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 4103430960
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "3",
+    "ultimateGroup": true,
+    "server": 1048,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 4603953460
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "4",
+    "ultimateGroup": false,
+    "server": 1040,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 5276392740
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "4",
+    "ultimateGroup": false,
+    "server": 1009,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 1384851780
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "4",
+    "ultimateGroup": false,
+    "server": 1001,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 1990540580
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "4",
+    "ultimateGroup": false,
+    "server": 1026,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 5071534720
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "5",
+    "ultimateGroup": false,
+    "server": 1005,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 684726460
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "5",
+    "ultimateGroup": false,
+    "server": 1029,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 1676038600
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "5",
+    "ultimateGroup": false,
+    "server": 1017,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 617057060
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "5",
+    "ultimateGroup": false,
+    "server": 1043,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 1188000560
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "6",
+    "ultimateGroup": false,
+    "server": 1015,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 1054169160
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "6",
+    "ultimateGroup": false,
+    "server": 1046,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 1220107760
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "6",
+    "ultimateGroup": false,
+    "server": 1013,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 391661760
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "6",
+    "ultimateGroup": false,
+    "server": 1024,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 443840020
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "7",
+    "ultimateGroup": false,
+    "server": 1021,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 220364180
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "7",
+    "ultimateGroup": false,
+    "server": 1035,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 941334120
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "7",
+    "ultimateGroup": false,
+    "server": 1042,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 612790000
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "7",
+    "ultimateGroup": false,
+    "server": 1036,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 651106900
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "8",
+    "ultimateGroup": false,
+    "server": 1012,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 573220080
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "8",
+    "ultimateGroup": false,
+    "server": 1028,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 150008720
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "8",
+    "ultimateGroup": false,
+    "server": 1014,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 625900340
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "8",
+    "ultimateGroup": false,
+    "server": 1033,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 331370740
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "9",
+    "ultimateGroup": false,
+    "server": 1030,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 177961220
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "9",
+    "ultimateGroup": false,
+    "server": 1037,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 72872940
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "9",
+    "ultimateGroup": false,
+    "server": 1020,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 406263460
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "9",
+    "ultimateGroup": false,
+    "server": 1045,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 190509820
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "10",
+    "ultimateGroup": false,
+    "server": 1002,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 235844060
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "10",
+    "ultimateGroup": false,
+    "server": 1027,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 80216820
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "10",
+    "ultimateGroup": false,
+    "server": 1004,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 49090440
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "10",
+    "ultimateGroup": false,
+    "server": 1007,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 109350800
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "11",
+    "ultimateGroup": false,
+    "server": 1008,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 81329240
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "11",
+    "ultimateGroup": false,
+    "server": 1047,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 160953540
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "11",
+    "ultimateGroup": false,
+    "server": 1022,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 41441880
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "11",
+    "ultimateGroup": false,
+    "server": 1032,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 70518980
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "12",
+    "ultimateGroup": false,
+    "server": 1044,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 21013860
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "12",
+    "ultimateGroup": false,
+    "server": 1038,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 19219840
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "12",
+    "ultimateGroup": false,
+    "server": 1019,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 161450660
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Mythic",
+    "warzone": "12",
+    "ultimateGroup": false,
+    "server": 1039,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 39815520
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "13",
+    "ultimateGroup": true,
+    "server": 1051,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 3807863700
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "13",
+    "ultimateGroup": true,
+    "server": 1054,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 5505581380
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "13",
+    "ultimateGroup": true,
+    "server": 1050,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 6339467640
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "13",
+    "ultimateGroup": true,
+    "server": 1057,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 2458590300
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "14",
+    "ultimateGroup": false,
+    "server": 1053,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 757606940
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "14",
+    "ultimateGroup": false,
+    "server": 1055,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 82226260
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "14",
+    "ultimateGroup": false,
+    "server": 1058,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 2026182080
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "14",
+    "ultimateGroup": false,
+    "server": 1060,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 309851220
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "15",
+    "ultimateGroup": false,
+    "server": 1056,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 176426940
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "15",
+    "ultimateGroup": false,
+    "server": 1052,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 54360280
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "15",
+    "ultimateGroup": false,
+    "server": 1049,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 84022580
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Dominance",
+    "warzone": "15",
+    "ultimateGroup": false,
+    "server": 1059,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 39667500
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "16",
+    "ultimateGroup": true,
+    "server": 1065,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 1363640800
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "16",
+    "ultimateGroup": true,
+    "server": 1072,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 3464309160
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "16",
+    "ultimateGroup": true,
+    "server": 1071,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 4703683440
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "16",
+    "ultimateGroup": true,
+    "server": 1069,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 1458612940
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "17",
+    "ultimateGroup": false,
+    "server": 1070,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 2744962420
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "17",
+    "ultimateGroup": false,
+    "server": 1064,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 180528320
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "17",
+    "ultimateGroup": false,
+    "server": 1066,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 2059320100
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "17",
+    "ultimateGroup": false,
+    "server": 1068,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 1358098480
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "18",
+    "ultimateGroup": false,
+    "server": 1062,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 139881480
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "18",
+    "ultimateGroup": false,
+    "server": 1061,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 35724740
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "18",
+    "ultimateGroup": false,
+    "server": 1067,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 59531100
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Conquest",
+    "warzone": "18",
+    "ultimateGroup": false,
+    "server": 1063,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 151992580
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "19",
+    "ultimateGroup": true,
+    "server": 1082,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 3432316100
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "19",
+    "ultimateGroup": true,
+    "server": 1073,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 5486958020
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "19",
+    "ultimateGroup": true,
+    "server": 1074,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 3198650660
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "19",
+    "ultimateGroup": true,
+    "server": 1080,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 2596882300
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "20",
+    "ultimateGroup": false,
+    "server": 1084,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 2129447180
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "20",
+    "ultimateGroup": false,
+    "server": 1081,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 3120102180
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "20",
+    "ultimateGroup": false,
+    "server": 1079,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 264116160
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "20",
+    "ultimateGroup": false,
+    "server": 1078,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 249987840
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "21",
+    "ultimateGroup": false,
+    "server": 1075,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 114208860
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "21",
+    "ultimateGroup": false,
+    "server": 1077,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 138185300
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "21",
+    "ultimateGroup": false,
+    "server": 1083,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 380275900
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Clash",
+    "warzone": "21",
+    "ultimateGroup": false,
+    "server": 1076,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 128017320
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "22",
+    "ultimateGroup": true,
+    "server": 1095,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 2657030840
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "22",
+    "ultimateGroup": true,
+    "server": 1086,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 4661088440
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "22",
+    "ultimateGroup": true,
+    "server": 1090,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 3717211080
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "22",
+    "ultimateGroup": true,
+    "server": 1089,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 2999959580
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "23",
+    "ultimateGroup": false,
+    "server": 1096,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 772580120
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "23",
+    "ultimateGroup": false,
+    "server": 1094,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 1050347600
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "23",
+    "ultimateGroup": false,
+    "server": 1093,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 660959780
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "23",
+    "ultimateGroup": false,
+    "server": 1088,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 1076105740
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "24",
+    "ultimateGroup": false,
+    "server": 1087,
+    "position": "Blue",
+    "positionIndex": 0,
+    "preludePoints": 91235340
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "24",
+    "ultimateGroup": false,
+    "server": 1091,
+    "position": "Green",
+    "positionIndex": 1,
+    "preludePoints": 647622980
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "24",
+    "ultimateGroup": false,
+    "server": 1092,
+    "position": "Red",
+    "positionIndex": 2,
+    "preludePoints": 166095960
+  },
+  {
+    "date": "2026-10-13",
+    "era": "Frontier",
+    "warzone": "24",
+    "ultimateGroup": false,
+    "server": 1085,
+    "position": "Gold",
+    "positionIndex": 3,
+    "preludePoints": 174797900
+  }
+]

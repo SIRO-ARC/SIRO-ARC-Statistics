@@ -36,9 +36,11 @@ export default function FeatureCard({
       {emoji}
     </div>
 
-    <p className="mt-3 break-words text-3xl font-bold text-white sm:mt-4 sm:text-5xl">
-      {value}
-    </p>
+    
+<p className="mt-3 whitespace-nowrap text-2xl font-bold text-white sm:mt-4 sm:text-5xl">
+  {value}
+</p>
+
 
     <p className="mt-1 text-xs uppercase tracking-[0.18em] text-slate-400 sm:mt-2 sm:text-sm">
       {title}
